@@ -1,5 +1,5 @@
 ---
-title: Close Closure for Staff Retreat on 15 Nov 2023
+title: School Closure for Staff Retreat on 15 Nov 2023
 date: 2023-11-13
 layout: file
 description: ""
