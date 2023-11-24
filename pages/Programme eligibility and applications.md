@@ -2,13 +2,11 @@
 title: Programme eligibility and applications
 permalink: /secondary-1-registration/secondary-one-e-registration-2022/programme-eligibility-and-applications/
 description: ""
-third_nav_title: Sec One e Registration (2023)
 ---
-
 ## Programme eligibility and applications
 
 
-Higher Mother Tongue / 3rd Language / Subject Based Banding (SBB) subjects
+Higher Mother Tongue / 3rd&nbsp;Language / Subject Based Banding (SBB) subjects
 
 <table>
 <thead>

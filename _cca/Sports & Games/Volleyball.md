@@ -3,23 +3,27 @@ title: Volleyball
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/volleyball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ## Volleyball
 
 ![](/images/The%20Kuo%20Chuan%20Experience/CCA/Volleyball/volleyballTIC.jpg)
 
+**Updates to Volleyball CCA in 2024**<br>
+* *Volleyball CCA will not be accepting Seconadary 1 students from 2024 onwards*
+
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Volleyball/Volleyball%20-%20Vision.jpeg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Volleyball/Volleyball%20-%20Vision.jpeg" style="width:45%;margin-right:15px;" align="left">
 
 
-<p style="text-align: justify;font-size:16px;">Our vision at KCPSS Volleyball is to develop student athletes who are both competent in volleyball skills and grounded in our school values G.R.A.C.E.</p>
+<p style="text-align: justify;font-size:16px;">Our vision at KCPSS Volleyball is to develop student athletes who are both competent in volleyball skills and grounded in our school values&nbsp;G.R.A.C.E.</p>
 
 
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Volleyball/Volleyball%20-%20Area%20of%20Focus.jpeg" style="width:45%;margin-right:25px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Volleyball/Volleyball%20-%20Area%20of%20Focus.jpeg" style="width:45%;margin-right:25px;" align="left">
 
 Our players will:  
 
@@ -30,7 +34,7 @@ Our players will:
 
 ###  Programmes
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Volleyball/Volleyball%20-%20Programme.jpeg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Volleyball/Volleyball%20-%20Programme.jpeg" style="width:45%;margin-right:15px;" align="left">
 
 **Training**
 

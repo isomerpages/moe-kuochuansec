@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/
 description: ""
+variant: markdown
 ---
 ## Co-Curricular Activities (CCA)
 
@@ -41,6 +42,8 @@ description: ""
 </thead>
 </table>
 
+**Updates to CCA in 2024**<br>
+* *Volleyball CCA will not be accepting Secondary 1 students from 2024 onwards.*
 
 ### CCA Information for Secondary 1
 
