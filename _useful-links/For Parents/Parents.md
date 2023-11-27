@@ -3,6 +3,7 @@ title: Parents
 permalink: /useful-links/for-parents/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 ### Parents
 **Digital Student Handbook**<br>
