@@ -5,4 +5,5 @@ variant: markdown
 ---
 ### **FAQ**
 
-[Frequently Asked Questions](/files/Admissions/Updated_FAQs_2023_27Nov23.pdf)
+
+[Frequently Asked Questions](/files/Admissions/Updated_FAQs_2023v1.pdf)
