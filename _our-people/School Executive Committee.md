@@ -2,6 +2,7 @@
 title: School Executive Committee
 permalink: /our-people/school-executive-committee/
 description: ""
+variant: markdown
 ---
 ## School Executive Committee
 
@@ -129,7 +130,9 @@ description: ""
 <p><a href="mailto:seah_bee_leng@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/AM_SeahBL.jpg"></a></p>
 
+<p><a href="mailto:goh_chee_chong@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/CheeChong_AM.jpg"></a></p>
+
 <p><a href="mailto:koh_ai_mui@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/OMrebecca.jpg">
 </a></p>
-
