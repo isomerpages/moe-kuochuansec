@@ -2,6 +2,7 @@
 title: Our Staff
 permalink: /our-people/our-staff/
 description: ""
+variant: markdown
 ---
 <table width="811" class="iveo_table ives_tab_simple2 ive_eobj_left" style="width: 944px;">
  <colgroup class=""><col width="286" class="">
@@ -1257,6 +1258,17 @@ description: ""
 </td>
  
 </tr>
+	
+	<tr height="19" class="">
+  <td class="">Admin Manager
+</td>
+ <td height="19" class="">Mr Goh Chee Chong
+  
+</td> 
+<td class="">goh_chee_chong@schools.gov.sg
+</td>
+ 
+</tr>
  
 <tr height="19" class="">
   <td class="">Operation Manager
@@ -1369,17 +1381,7 @@ description: ""
 </td>
  
 </tr>
- 
-<tr height="19" class="">
-  <td class="">TSO
-</td>
- <td height="19" class="">Miss
-  Syawqina Adlin Ahmad&nbsp;
-</td> 
-<td class="">Syawqina_adlin_Ahmad@schools.gov.sg
-</td>
- 
-</tr>
+
  
 <tr height="19" class="">
   <td class="">OSO
