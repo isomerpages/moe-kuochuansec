@@ -1046,132 +1046,28 @@ variant: markdown
 </td>
  
 </tr>
- 
-<tr height="19" class="">
-<td class=""><b>Designation</b>
+ <tr height="19" class="">
+ <td class=""><b>Designation</b>
 </td>
-<td height="19" class=""><b>Name</b>
-</td>  
+  <td height="19" class=""><b>Name</b>
+</td>
 <td class=""><b>Email</b>
 </td>
  
 </tr>
- 
-<tr height="19" class="">
-<td class="">Gear Up Programme
-</td>
-<td height="19" class="">Mdm Tan Pei
-  Yin Elaine
-</td>  
-<td class="">tan_pei_yin_elaine@schools.gov.sg
-</td>
- 
-</tr>
- <tr height="19" class="">
- <td class="">Humanities
-</td>
-<td height="19" class="">Mdm
-  Arunajeet Kaur
-</td>  
-<td class="">arunajeet_kaur@schools.gov.sg
-</td>
-</tr><tr height="19" class="">
-<td class="">English
-</td>
- <td height="19" class="">Ms Loh Tai
-  Lee
-</td> 
-<td class="">loh_tai_lee@schools.gov.sg
-</td>
- 
-</tr>
- 
-<tr height="19" class="">
-  <td class="">English
-</td>
-<td height="19" class="">Ms Juliana
-  Teo Kim Hoon
-</td>  
-<td class="">juliana_teo_kim_hoon@schools.gov.sg
-</td>
- 
-</tr>
- 
- 
-<tr height="19" class="">
-  <td class="">Chinese Language
-</td>
- <td height="19" class="">Ms Tai Tze
-  Ghee&nbsp;
-</td> 
-<td class="">Tai_Tze_Ghee@schools.gov.sg
-</td>
- 
-</tr>
- 
-<tr height="19" class="">
-  <td class="">Chinese Language
-</td>
- <td height="19" class="">Mr Teo Kian
-  Fong Kenneth
-</td> 
-<td class="">teo_kian_fong_kenneth@schools.gov.sg
-</td>
- 
-</tr>
- 
-<tr height="19" class="">
-<td class="">Maths
-</td>
- <td height="19" class="">Mdm Tan Siok
-  Kuan Angeline&nbsp;
-</td>
-<td class="">Tan_Siok_Kuan_Angeline@schools.gov.sg
-</td>
- 
-</tr>
-<tr height="19" class="">
-  <td class="">Maths
-</td>
-<td height="19" class="">Ms Loo Yen
-  Li
-</td>  
-<td class="">loo_yen_li@schools.gov.sg
-</td>
- 
-</tr>
-
-<tr height="19" class="">
-  <td class="">D&amp;T
-</td>
-<td height="19" class="">Mr Koh Tong
-  Seah
-</td>  
-	<td class="">koh_tong_seah@schools.gov.sg<br><br>
-</td>
- </tr>
-	<tr height="19" class="">
-  <td class="">PE
-</td>
-<td height="19" class="">Mr Mok Heng Quan
-</td>  
-	<td class="">mok_heng_quan@schools.gov.sg<br><br>
-</td>
- 
-</tr>
 
 	<tr height="19" class="">
-  <td class="">Science
+ <td class="">
 </td>
-<td height="19" class="">Mdm Teo Wil Ping
+<td height="19" class="">
 </td>  
-	<td class="">teo_wil_ping_a@schools.gov.sg<br><br>
+<td class="">
 </td>
  
-
-	</tr></tbody>
+</tr>
+	
  
-<tbody><tr height="19" class="">
+</tbody><tbody><tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Allied Educators</b>
 </td>
