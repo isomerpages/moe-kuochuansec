@@ -1061,7 +1061,7 @@ variant: markdown
 <td class="">Gear Up Programme
 </td>
 <td height="19" class="">Mdm Tan Pei
-  yin elaine
+  Yin Elaine
 </td>  
 <td class="">tan_pei_yin_elaine@schools.gov.sg
 </td>
@@ -1097,16 +1097,6 @@ variant: markdown
  
 </tr>
  
-<tr height="19" class="">
-  <td class="">Tamil Language
-</td>
- <td height="19" class="">Mr
-  Namasivayam Pillai Sellakrishnan
-</td> 
-<td class="">n_sellakrishnan@schools.gov.sg
-</td>
- 
-</tr>
  
 <tr height="19" class="">
   <td class="">Chinese Language
