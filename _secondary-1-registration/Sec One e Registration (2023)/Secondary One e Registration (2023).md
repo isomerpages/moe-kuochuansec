@@ -19,7 +19,7 @@ variant: markdown
 
 <p style="text-align: justify;font-size:16px;">We will be sending you a message via Parents Gateway/email tomorrow (Thursday, 22 December, 8am) for us to get to know you. Meanwhile, do feel free to visit our school’s social media platforms (Instagram: @kuo_chuan_presbyterian_sec, Facebook: http://facebook.com/kcpsshomepage) or “The Kuo Chuan Experience” if you would like to find out more about our school programme. </p>
  
-<p style="text-align: justify;font-size:16px;">If you have not been posted to our school and would like to request for a school transfer, please click on this [link](https://go.gov.sg/kcps1schtransfer2024[link](https://go.gov.sg/kcps1schtransfer2024)) to complete the form online. Kindly remember to register with the school that your child/ward has been posted to. </p>
+<p style="text-align: justify;font-size:16px;">If you have not been posted to our school and would like to request for a school transfer, please click on this [link](https://go.gov.sg/kcps1schtransfer2024) to complete the form online. Kindly remember to register with the school that your child/ward has been posted to. </p>
 
 **Orientation Programme**
 
