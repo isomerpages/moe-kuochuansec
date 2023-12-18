@@ -23,12 +23,11 @@ variant: markdown
 
 **Orientation Programme**
 
-<p style="text-align: justify;font-size:16px;">As a start to your child/ward’s journey as a KCPian, they will be going through the Orientation programme during the first week. For a prelude of the Orientation programme, you may want to watch this video.</p>
+<p style="text-align: justify;font-size:16px;">To mark the start of your child/ward’s journey as a KCPian, they will be going through the Orientation programme to facilitate a smooth transition into secondary school life during the first week of school. Do watch this video as a prelude to the Orientation programme: </p>
 
 <iframe width="877" height="493" src="https://www.youtube.com/embed/JJIPIleghGI" title="Orientation programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<p style="text-align: justify;font-size:16px;">To forge a strong KCPian identity, the Orientation Student Leaders have specially designed an Orientation tee-shirt for their juniors. More information will be provided to you on the first week of school.</p>
 
-<p style="text-align: justify;font-size:16px;">Parent Engagement Session: Supporting Your Child in Secondary School (6th January 2023 (Friday))</p>
+<p style="text-align: justify;font-size:16px;">Parent Engagement Session: Supporting Your Child in Secondary School (5th January 2024 (Friday))</p>
 
 <p style="text-align: justify;font-size:16px;">In KCPSS, we believe in the importance of journeying together with parents of KCPians over the next 4/5 years. As a start, our Principal, Mr. Justin Tan would like to connect with all of you through an in-person session. We cordially invite you for the Parent Engagement Session: Supporting Your Child in Secondary School that will be held on Friday, 6 January 2023, 7pm, in our school auditorium, where you will get to hear from our Principal. Please register with this [link](https://form.gov.sg/6399313d3edfe100123b8b53) if you are available to join us. </p>
