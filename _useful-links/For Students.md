@@ -2,6 +2,7 @@
 title: For Students
 permalink: /useful-links/for-students/
 description: ""
+variant: markdown
 ---
 ## For KCPians
 
@@ -13,7 +14,7 @@ description: ""
 [School Uniform](/admission/our-school-uniform/)<br>
 
 ### Reference 
-[Student Handbook](/files/kcpss%20student%20handbook%202023%20(28%20mar).pdf)
+[Student Handbook](/files/Useful%20Links/Student/KCPSS_Student_Handbook_2024.pdf)
 
 #### Application Forms
 [Leave of Absent (LOA)](https://go.gov.sg/kcpssloa)
