@@ -2,26 +2,6 @@
 title: For Students
 permalink: /useful-links/for-students/
 description: ""
+variant: tiptap
 ---
-## For KCPians
-
-[Student iCON](https://workspace.google.com/dashboard/)<br>
-[Student Learning Space (SLS)](https://learning.moe.edu.sg/)<br>
-[Pacific Bookstores](https://www.pacificbookstores.com/public/)<br>
-[Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance)<br>
-[School Rules &amp; Regulations](/admission/school-rules-n-regulations/)<br>
-[School Uniform](/admission/our-school-uniform/)<br>
-
-### Reference 
-[Student Handbook](/files/kcpss%20student%20handbook%202023%20(28%20mar).pdf)
-
-#### Application Forms
-[Leave of Absent (LOA)](https://go.gov.sg/kcpssloa)
-
-### Weighted Assessment Schedules
-
-[Secondary 1 - EOY](/files/Useful%20Links/WA%20Assessment/sec%201%20eoy%20timetable%202023_for_parents_final.pdf)<br>[Secondary 2 - EOY](/files/Useful%20Links/WA%20Assessment/sec%202%20eoy%20timetable%202023_forparents.pdf)<br>[Secondary 3 - EOY](/files/Useful%20Links/WA%20Assessment/sec%203%20eoy%20timetable%202023_forparents.pdf)<br><br>
-[Secondary 1 - WA3](/files/Useful%20Links/Termly%20Updates/sec1%20wa3%20schedule%202023.pdf)<br>[Secondary 2 - WA3](/files/Useful%20Links/Termly%20Updates/secondary%202%20-%20wa3_updated.pdf)
-<br>[Secondary 3 - WA3](/files/Useful%20Links/Termly%20Updates/sec%203%20wa3%20schedule%202023.pdf)<br><br>
-[Secondary 4N - Prelim](/files/Useful%20Links/Termly%20Updates/sec%204n%20prelim%202023_for%20parents.pdf)<br>
-[Secondary 4E5N - Prelim](/files/Useful%20Links/Termly%20Updates/sec%204e5n%20prelim%202023_for%20parents.pdf)
+<h2>For KCPians</h2><p><a href="https://workspace.google.com/dashboard/" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a><br><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a><br><a href="https://www.pacificbookstores.com/public/" rel="noopener noreferrer nofollow" target="_blank">Pacific Bookstores</a><br><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance Scheme</a><br><a href="/admission/school-rules-n-regulations/" rel="noopener noreferrer nofollow" target="_blank">School Rules &amp; Regulations</a><br><a href="/admission/our-school-uniform/" rel="noopener noreferrer nofollow" target="_blank">School Uniform</a><br></p><h3>Reference</h3><p><a href="/files/Useful%20Links/Student/KCPSS_Student_Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Handbook</a></p><h4>Application Forms</h4><p><a href="https://go.gov.sg/kcpssloa" rel="noopener noreferrer nofollow" target="_blank">Leave of Absent (LOA)</a></p><h3>Weighted Assessment Schedules</h3><p><a href="/files/Useful%20Links/WA%20Assessment/sec%201%20eoy%20timetable%202023_for_parents_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 - EOY</a><br><a href="/files/Useful%20Links/WA%20Assessment/sec%202%20eoy%20timetable%202023_forparents.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 - EOY</a><br><a href="/files/Useful%20Links/WA%20Assessment/sec%203%20eoy%20timetable%202023_forparents.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 - EOY</a><br><br><a href="/files/Useful%20Links/Termly%20Updates/sec1%20wa3%20schedule%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 - WA3</a><br><a href="/files/Useful%20Links/Termly%20Updates/secondary%202%20-%20wa3_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 - WA3</a> <br><a href="/files/Useful%20Links/Termly%20Updates/sec%203%20wa3%20schedule%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 - WA3</a><br><br><a href="/files/Useful%20Links/Termly%20Updates/sec%204n%20prelim%202023_for%20parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4N - Prelim</a><br><a href="/files/Useful%20Links/Termly%20Updates/sec%204e5n%20prelim%202023_for%20parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4E5N - Prelim</a></p>
