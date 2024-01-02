@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /our-people/school-management-committee/
 description: ""
+variant: markdown
 ---
 <table class="iveo_table ives_tab_1 ive_eobj_center" style="width: 621px; height: 410px;">
 <tbody>
@@ -26,6 +27,12 @@ description: ""
 <td style="width: 60px;">Hon Treasurer
 </td>
 <td style="width: 60px;">Deacon Gregory Tan
+</td>
+</tr>
+	<tr>
+<td>&nbsp;Asst. Hon Treasurer
+</td>
+<td>Ms Lena Teoh Chyin<br>
 </td>
 </tr>
 <tr>
@@ -76,12 +83,7 @@ description: ""
 <td>Mr Richard Koh
 </td>
 </tr>
-<tr>
-<td>&nbsp;&nbsp;Member
-</td>
-<td>Ms Lena Teoh Chyin<br>
-</td>
-</tr>
+
 </tbody>
 </table><br><br>
     
