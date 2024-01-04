@@ -45,19 +45,19 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
 <thead>
   <tr>
     <th>Training Days</th>
-    <td>Every Thursday</td>
+    <td>Every Tuesday</td>
     <td>Every Friday</td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <th>Training Timing</th>
-    <td>3.00PM - 5.30PM</td>
-    <td>2.00PM - 5.30PM</td>
+    <td>3.00PM - 6.00PM</td>
+    <td>2.00PM - 5.00PM</td>
   </tr>
   <tr>
     <th>Venue</th>
-    <td>Guzheng Zoom</td>
+    <td>Guzheng Room</td>
     <td>Guzheng Room</td>
   </tr>
 </tbody>
@@ -104,6 +104,6 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
 
 
 
-| Lim Zi Min  |Lee Chong Min | Foo ji Ying Eunice |
-| -------- | -------- |  -------- |
-| <a href="mailto:lim_zi_min@schools.gov.sg">lim_zi_min@schools.gov.sg</a>     | <a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a>     | <a href="mailto:foo_ji_ying_eunice@schools.gov.sg">foo_ji_ying_eunice@schools.gov.sg</a>
+| Foo Ji Ying, Eunice  |Lee Chong Min | 
+| -------- | -------- | 
+| <a href="mailto:foo_ji_ying_eunice@schools.gov.sg">foo_ji_ying_eunice@schools.gov.sg</a>     | <a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a>     | 
