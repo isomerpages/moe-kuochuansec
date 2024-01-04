@@ -41,7 +41,7 @@ Despite the focus on sporting excellence, we also place strong emphasis on ensur
   <tr>
     <th>Training Days</th>
     <td>Every Tuesday</td>
-    <td>Every Thursday</td>
+    <td>Every Friday</td>
   </tr>
 </thead>
 <tbody>
