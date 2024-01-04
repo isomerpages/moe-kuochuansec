@@ -40,13 +40,13 @@ At our Robotics Club, we are passionate about inspiring the next generation of i
 <thead>
   <tr>
     <th>Training Days</th>
-    <td>Every Friday</td>
+    <td>Every Tuesday</td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <th>Training Timing</th>
-    <td>3.00 PM - 6.00 PM</td>
+    <td>3.30 PM - 6.00 PM</td>
   </tr>
   <tr>
     <th>Venue</th>
