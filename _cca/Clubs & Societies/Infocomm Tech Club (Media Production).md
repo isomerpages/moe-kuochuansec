@@ -45,15 +45,15 @@ Students will be able to:
 <thead>
   <tr>
     <th>Training Days</th>
-    <td>Every Wednesady</td>
+    <td>Every Tuesday</td>
     <td>Every Friday</td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <th>Training Timing</th>
-    <td>3.00pm - 5.30pm </td>
-    <td>2.15pm - 4.45pm</td>
+    <td>3.30pm - 6.00pm </td>
+    <td>2.30pm - 5.00pm</td>
   </tr>
   <tr>
     <th>Venue</th>
@@ -98,6 +98,6 @@ Students will be able to:
 
 
 
-| Yew Yishen Sam| Dr. Kavitha Ramachandran | 
-| -------- | -------- | 
-| <a href="mailto:yew_yishen@schools.gov.sg">yew_yishen@schools.gov.sg</a>    | <a href="mailto:kavitha_ramachandran@schools.gov.sg">kavitha_ramachandran@schools.gov.sg</a>    |
+| Yew Yishen Sam| Norhajjarrillah Abdul Baki | Dr. Kavitha Ramachandran | 
+| -------- | -------- | -------- | 
+| <a href="mailto:yew_yishen@schools.gov.sg">yew_yishen@schools.gov.sg</a>    | <a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg</a>    |<a href="mailto:kavitha_ramachandran@schools.gov.sg">kavitha_ramachandran@schools.gov.sg</a>    |

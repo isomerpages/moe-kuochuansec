@@ -76,7 +76,6 @@ These experiences will help to develop the leadership skills of our cadets and a
 
 
 
-| Ong Wee Xiang | Teo Han Yang Edwin | Tang Lai Chan |
-| -------- | -------- | -------- |
-| <a href="mailto:ong_wee_xiang@schools.gov.sg">ong_wee_xiang@schools.gov.sg</a>     | <a href="mailto:teo_han_yang_edwin@schools.gov.sg">teo_han_yang_edwin@schools.gov.sg</a> | <a href="mailto:tham_lai_chan@schools.gov.sg">tham_lai_chan@schools.gov.sg
-</a>|
+| Nam Tin Yuen  | Tan Thuan Hock  | 
+| -------- | -------- | 
+| <a href="mailto:nam_tin_yuen@schools.gov.sg">nam_tin_yuen@schools.gov.sg</a>     | <a href="tan_thuan_hock@schools.gov.sg">tan_thuan_hock@schools.gov.sg</a> | 

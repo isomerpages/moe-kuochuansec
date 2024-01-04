@@ -63,8 +63,6 @@ variant: markdown
 
 ### Teachers-in-Charge
 
-
-
-| Joel Lee Jian Liang | Chua Suet Ting Joyce |
+|Chua Suet Ting Joyce  | Joel Lee Jian Liang |
 | -------- | -------- |
-|<a href="mailto:lee_jian_liang_joel@schools.gov.sg">lee_jian_liang_joel@schools.gov.sg</a>|<a href="mailto:chua_suet_ting_joyce@schools.gov.sg">chua_suet_ting_joyce@schools.gov.sg </a>|
+|<a href="mailto:chua_suet_ting_joyce@schools.gov.sg">chua_suet_ting_joyce@schools.gov.sg </a>|<a href="mailto:lee_jian_liang_joel@schools.gov.sg">lee_jian_liang_joel@schools.gov.sg</a>|

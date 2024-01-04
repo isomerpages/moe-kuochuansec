@@ -132,6 +132,6 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 
 
 
-| Paul Lau Chee Keen| Ng Yin Yee | Selena Wee|
-| -------- | -------- | -------- |
-| <a href="mailto:lau_chee_keen_paul@schools.gov.sg">lau_chee_keen_paul@schools.gov.sg</a>     | <a href="mailto:ng_yin_yee@schools.gov.sg">ng_yin_yee@schools.gov.sg</a>     | <a href="mailto:selena_wee@schools.gov.sg">selena_wee@schools.gov.sg</a>    |
+| Ng Yin Yee | Tan Hui Si|
+| -------- |  -------- |
+|  <a href="mailto:ng_yin_yee@schools.gov.sg">ng_yin_yee@schools.gov.sg</a>     | <a href="mailto:tan_hui_si@schools.gov.sg">tan_hui_si@schools.gov.sg</a>    |

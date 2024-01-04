@@ -3,6 +3,7 @@ title: Girls' Brigade
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## Girls' Brigade
 
@@ -12,12 +13,12 @@ third_nav_title: Uniformed Groups
 
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb1.jpg" style="width:30%;margin-right:15px;" align="left">
 
 **<u>Mission</u>**  
-<p style="text-align: justify;font-size:16px;">The Mission of the Girls' Brigade is Every girl a leader, every officer a servant leader. The aim of the Girls' Brigade is to help girls in Kuo Chuan Presbyterian Secondary School develop into ladies who embrace our school values of G.R.A.C.E. Through self-control, reverence and a sense of responsibility, we endeavour the girls to find true enrichment in life. The 28th Coy aspires to lead each and every Brigadier to achieve her fullest potential, building them up in the 21st Century skills as active community contributors, fulfilling the Girls' Brigade mission of raising every girl to be a leader and every officer to be a servant leader. </p>  
+<p style="text-align: justify;font-size:16px;">The Mission of the Girls' Brigade is Every girl a leader, every officer a servant leader. The aim of the Girls' Brigade is to help girls in Kuo Chuan Presbyterian Secondary School develop into ladies who embrace our school values of G.R.A.C.E. Through self-control, reverence and a sense of responsibility, we endeavour the girls to find true enrichment in life. The 28th Coy aspires to lead each and every Brigadier to achieve her fullest potential, building them up in the 21st Century skills as active community contributors, fulfilling the Girls' Brigade mission of raising every girl to be a leader and every officer to be a servant leader.&nbsp;</p>  
   
-<p style="text-align: justify;font-size:16px;">The 28th Girls' Brigade Singapore Company started in 1989 and has since been growing steadily, gaining much recognition within the Girls' Brigade, Singapore.</p>   
+<p style="text-align: justify;font-size:16px;">The 28th Girls' Brigade Singapore Company started in 1989 and has since been growing steadily, gaining much recognition within the Girls' Brigade, Singapore.</p>&nbsp;  
   
 **<u>Partners</u>**  
 **Girls' Brigade Headquarters**<br>
@@ -29,19 +30,19 @@ We are under the umbrella of The Girls' Brigade Singapore;
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb2.jpg" style="width:30%;margin-right:15px;" align="left">
 
 <p style="text-align: justify;font-size:16px;">The programmes in Girls’ Brigade are designed to cater towards the holistic development of the child.  
   
-Through the engaging and interesting activities planned out for them, our girls discover their interests and talents. They also develop much values and competencies through these activities, which are needed in this rapidly changing society.   
+Through the engaging and interesting activities planned out for them, our girls discover their interests and talents. They also develop much values and competencies through these activities, which are needed in this rapidly changing society.&nbsp;  
   
-In their years with us, girls also find support through friends as they work together and grow as lifelong learners.   
+In their years with us, girls also find support through friends as they work together and grow as lifelong learners.&nbsp;  
   
 Some highlights of our activities include archery, indoor rock climbing, kayaking and dancing! These learning experiences serve as platforms for our girls to grow as servant leaders and scholars.</p>
 
 ### Programmes
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb1.jpg" style="width:30%;margin-right:15px;" align="left">
 
 **<u>Training</u>**
 
@@ -87,42 +88,42 @@ Some highlights of our activities include archery, indoor rock climbing, kayakin
 
 **<u>Special Programmes</u>**
 
-**Nationals Competition (March)**   
-<p style="text-align: justify;font-size:16px;">We participate actively every year in the different types of competition held by HQ, ranging from outdoor cooking to drill competition to cheer leading. </p>  
+**Nationals Competition (March)**&nbsp;  
+<p style="text-align: justify;font-size:16px;">We participate actively every year in the different types of competition held by HQ, ranging from outdoor cooking to drill competition to cheer leading.&nbsp;</p>  
 
 *   2019 Low Guat Tin Challenge (LGT) (GOLD award, 2nd place)
 *   2018 National Drill Competition (SILVER award)
 *   2017 Low Guat Tin Challenge (LGT) (4 SILVER Awards )
-*   2016 Pioneer Category National Drill Competition GOLD Award 
-*   2015 Low Guat Tin Challenge (LGT) (4 GOLDs and 1 SILVER AWARD) 
-*   2014 National Drill Competition GOLD Award 
+*   2016 Pioneer Category National Drill Competition GOLD Award&nbsp;
+*   2015 Low Guat Tin Challenge (LGT) (4 GOLDs and 1 SILVER AWARD)&nbsp;
+*   2014 National Drill Competition GOLD Award&nbsp;
 
-**Annual Training Camp (June)** 
+**Annual Training Camp (June)**&nbsp;
 
-*   Enrichment training camp during 1st week of June 
+*   Enrichment training camp during 1st week of June&nbsp;
 
-**National Cadet Officer Training Camp (NCOTC) (June)**   
+**National Cadet Officer Training Camp (NCOTC) (June)**&nbsp;  
 
 *   Camp where girls from all GB companies come together to train and learn and be promoted to the next rank
 
-**GB Friendship Day (July)**   
+**GB Friendship Day (July)**&nbsp;  
 
-*   Outreach to the Lonely, Elderly, Needy and Special Needs (LENS) through a carnival and lunch at Nee Soon Central CC where our girls will perform and serve. 
+*   Outreach to the Lonely, Elderly, Needy and Special Needs (LENS) through a carnival and lunch at Nee Soon Central CC where our girls will perform and serve.&nbsp;
 
-**GB Fortnight (July to August)**   
+**GB Fortnight (July to August)**&nbsp;  
 
-*   Every year near the month of July to August, we have a GB collection drive that runs for a fortnight where girls will actively gather donations. These donations are used to sponsor GB related activities and benefit the girls throughout the year. 
+*   Every year near the month of July to August, we have a GB collection drive that runs for a fortnight where girls will actively gather donations. These donations are used to sponsor GB related activities and benefit the girls throughout the year.&nbsp;
 
-**Trips for International Experience (TIE) (Oct)**   
+**Trips for International Experience (TIE) (Oct)**&nbsp;  
 
 *   Takeo, Phnom Penh, Cambodia (2018)
-*   Baan Nam Khem, Phuket, Thailand (2015, 2016) 
-*   Jakarta, Indonesia (2010 - 2011) 
-*   Batam, Indonesia (2012 - 2013) 
+*   Baan Nam Khem, Phuket, Thailand (2015, 2016)&nbsp;
+*   Jakarta, Indonesia (2010 - 2011)&nbsp;
+*   Batam, Indonesia (2012 - 2013)&nbsp;
 
-**End of year Drill or Fun Camp (Nov)**   
+**End of year Drill or Fun Camp (Nov)**&nbsp;  
 
-*   Intensive training camp to prepare school team for upcoming Zonals & Nationals or fun camp for time of bonding and winding down
+*   Intensive training camp to prepare school team for upcoming Zonals &amp; Nationals or fun camp for time of bonding and winding down
 
 
 
@@ -130,6 +131,6 @@ Some highlights of our activities include archery, indoor rock climbing, kayakin
 
 
 
-| Goh Xin Fang | Tan Hui Si| Wang Ting |
-| -------- | -------- | -------- |
-|<a href="mailto:goh_xin_fang@schools.gov.sg">goh_xin_fang@schools.gov.sg</a>| <a href="mailto:tan_hui_si@schools.gov.sg">tan_hui_si@schools.gov.sg</a>     | <a href="mailto:wang_ting@schools.gov.sg">wang_ting@schools.gov.sg</a> |
+| Ang Siok Min Mitchelle  |  Wang Ting |
+| -------- |  -------- |
+|<a href="mailto:ang_siok_min_mitchelle@schools.gov.sg">ang_siok_min_mitchelle@schools.gov.sg</a> | <a href="mailto:wang_ting@schools.gov.sg">wang_ting@schools.gov.sg</a> |

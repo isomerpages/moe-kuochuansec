@@ -23,7 +23,6 @@ variant: markdown
 
 
 
-
 <br><br><br><br>
 
 **Head of Department**
@@ -32,8 +31,8 @@ variant: markdown
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%204.png">
 </a></p>
 
-<p><a href="mailto:yeo_chong_keat_rene@schools.gov.sg">
-<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%205.png">
+<p><a href="mailto:cheong_mun_mun_michelle@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/Michelle_Cheong_Hod_ICT.jpg">
 </a></p>
 
 <p><a href="mailto:chua_chee_yong@schools.gov.sg">
@@ -80,16 +79,22 @@ variant: markdown
 
 <p><a href="mailto:tan_say_pin@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/hodccetansaypin.jpg">
+	
+</a></p><p><a href="mailto:Jazlyn_Chua@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2019.png">
+</a></p>	
+	
+<p></p>
+
+<br><br><br>
+<p><a href="mailto:janell_lim@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/JanellvSH.jpg">
 </a></p>
 
 <br><br><br>
 
-**Subject Head**
 
-
-<p><a href="">
-<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2015.png">
-</a></p>
+**Subject Head  / Lead Teacher**
 
 <p><a href="mailto:ng_soon_chye@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2016.png">
@@ -102,25 +107,24 @@ variant: markdown
 
 <p><a href="mailto:png_siew_hoon@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2018.png">
-</a></p>
-
-<br><br><br>
-
-<p><a href="mailto:Jazlyn_Chua@schools.gov.sg">
-<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2019.png">
+	
 </a></p>
 
 <p><a href="mailto:koh_li_eng@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/KLEngSH.jpg">
 </a></p>
 
+<br><br><br>
+
 <p><a href="mailto:Ho_Shiao_Hwee@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/ShiaoHwee.jpg">
 </a></p>
 
-<p><a href="mailto:janell_lim@schools.gov.sg">
-<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/JanellvSH.jpg">
+<p><a href="mailto:Ho_Shiao_Hwee@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/ravathi_lt.jpg">
 </a></p>
+
+
 <br><br><br><br>
 
 **Admin &amp; Operation**

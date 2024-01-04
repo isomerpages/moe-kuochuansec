@@ -3,6 +3,7 @@ title: Badminton
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/badminton/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ## Badminton
 
@@ -11,7 +12,7 @@ third_nav_title: Sports & Games
 ### Vision
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badminton1.jpg" style="width:35%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badminton1.jpg" style="width:35%;margin-right:15px;" align="left">
 
 
 <p style="text-align: justify;font-size:16px;">KCPSS Badminton CCA aims to :  
@@ -22,7 +23,7 @@ Groom a true sportsman who shows respect and fairness towards opposing player.</
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badminton2.jpg" style="width:35%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badminton2.jpg" style="width:35%;margin-right:15px;" align="left">
 
 <p style="text-align: justify;font-size:16px;">KCPSS Badminton CCA believes in providing each player equal opportunity to learn and grow at their own pace. It is important for the players to strive to develop themselves both in the physical and cognitive domains, constantly challenging themselves to level up their skills competency, learning the rules and strategies of the game.  
   
@@ -32,7 +33,7 @@ The CCA also provides Leadership development where the players are given leaders
 
 ### Programmes
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badminton3.jpg" style="width:35%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badminton3.jpg" style="width:35%;margin-right:15px;" align="left">
 
 
 **<u>Training</u>**
@@ -65,7 +66,7 @@ The CCA also provides Leadership development where the players are given leaders
 <table>
 <thead>
   <tr>
-    <th colspan="2"><br><br><br><iframe width="737" height="553" src="https://www.youtube.com/embed/1z-aDpsqOOM" title="Drill_Badminton" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br><br><br></th>
+    <th colspan="2"><br><br><br><iframe width="737" height="553" src="https://www.youtube.com/embed/1z-aDpsqOOM" title="Drill_Badminton" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe> <br><br><br></th>
   </tr>
 </thead>
 <tbody>
@@ -84,10 +85,10 @@ The CCA also provides Leadership development where the players are given leaders
 
 **<u>Special Programmes</u>**
 
-**Holiday Trainings (March/June/Sep/Oct&Nov)**   
+**Holiday Trainings (March/June/Sep/Oct&amp;Nov)**&nbsp;  
 To enable the players to continue to keep in touch with the game and to prepare for South Zone NSG competitions for the ‘B’ and ‘C’ Division Teams.  
   
-**Friendly Games**          
+**Friendly Games**&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
 Playing against other schools to gauge players’ level of competency and build up readiness for the actual competition.  
   
 **VIA (Values in Action)**  
@@ -99,6 +100,6 @@ Linesmen duties for South Zone Competitions and National School Games Finals.
 
 
 
-| Danny Ng Geok Koon | Mathivanan Kadarkarai |
+| Mdm Noraliah Abdul Samad | Mathivanan Kadarkarai |
 | -------- | -------- | 
-| <a href="mailto:ng_geok_koon_danny@schools.gov.sg">ng_geok_koon_danny@schools.gov.sg</a>     | <a href="mailto:mathivanan_kadarkara@schools.gov.sg">mathivanan_kadarkara@schools.gov.sg</a>     |
+| <a href="mailto:noraliah_abdul_samad@schools.gov.sg">Mdm Noraliah Abdul Samad</a>     | <a href="mailto:mathivanan_kadarkara@schools.gov.sg">mathivanan_kadarkara@schools.gov.sg</a>     |

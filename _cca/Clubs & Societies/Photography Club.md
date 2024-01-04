@@ -53,7 +53,7 @@ variant: markdown
 <tbody>
   <tr>
     <th>Training Timing</th>
-    <td>3.00 PM - 5.30 PM</td>
+    <td>3.00 PM - 6.00 PM</td>
   </tr>
   <tr>
     <th>Venue</th>
@@ -74,6 +74,6 @@ variant: markdown
 
 
 
-| Norhajjarrillah Abdul Baki | Nor'aliah Binte Abdul | 
+| Lau Chee Keen Paul | Chiz Poh Seng | 
 | -------- | -------- | 
-|<a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg</a>|<a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a>
+|<a href="mailto:lau_chee_keen_paul@schools.gov.sg">lau_chee_keen_paul@schools.gov.sg</a>|<a href="mailto:chiz_poh_seng@schools.gov.sg">chiz_poh_seng@schools.gov.sg</a>
