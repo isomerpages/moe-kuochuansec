@@ -3,33 +3,6 @@ title: Physical Education
 permalink: /our-people/Department/pe/
 description: ""
 third_nav_title: Department
-variant: markdown
+variant: tiptap
 ---
-**<center>PE DEPARTMENT</center>**
-
-![PE2023](/images/Our%20People/Departments/PE/pe2023.jpg)
-
-<table>
-	
-<tbody><tr>
-<td>Mr Khoo Kian Seong Kenneth (HOD-PE/CCA)</td>
-<td>
-<a href="mailto:khoo_kian_seong_kenneth@schools.gov.sg">khoo_kian_seong_kenneth@schools.gov.sg</a></td></tr>
-	
-<tr>
-<td>Mr Chung Wei Peng Joseph</td>
- <td><a href="mailto:chung_wei_peng_joseph@schools.gov.sg">chung_wei_peng_joseph@schools.gov.sg</a></td></tr>
-
-<tr>
-<td>Mr Danny Ng</td>
- <td><a href="mailto:ng_geok_koon_danny@schools.gov.sg">ng_geok_koon_danny@schools.gov.sg</a></td></tr>
-
-<tr>
-<td>Ms Eunice Yeo</td>
-<td><a href="mailto:yeo_xiao_si_eunice@schools.gov.sg">yeo_xiao_si_eunice@schools.gov.sg</a></td></tr>
-	
-<tr>
-<td>Ms Joyce Chua</td>
-<td><a href="mailto:chua_suet_ting_joyce@schools.gov.sg">chua_suet_ting_joyce@schools.gov.sg</a></td></tr>
- 
-</tbody></table>
+<p></p><p><strong>PE DEPARTMENT</strong></p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PE2023" src="/images/Our%20People/Departments/PE/pe2023.jpg"></div><table><tbody><tr><td rowspan="1" colspan="1"><p>Mr Khoo Kian Seong Kenneth (HOD-PE/CCA)</p></td><td rowspan="1" colspan="1"><p><a href="mailto:khoo_kian_seong_kenneth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_kian_seong_kenneth@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Chung Wei Peng Joseph (SH/CCA (covering))</p></td><td rowspan="1" colspan="1"><p><a href="mailto:chung_wei_peng_joseph@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_wei_peng_joseph@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Eunice Yeo</p></td><td rowspan="1" colspan="1"><p><a href="mailto:yeo_xiao_si_eunice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_xiao_si_eunice@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Joyce Chua</p></td><td rowspan="1" colspan="1"><p><a href="mailto:chua_suet_ting_joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_suet_ting_joyce@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Gan Chin Kai</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
