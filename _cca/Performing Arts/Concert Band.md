@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Concert Band
 
@@ -89,6 +90,6 @@ third_nav_title: Performing Arts
 
 
 
-| Cheong Hwee Leng | Chang Meng Hsia | Bryan Ho |
+| Cheong Hwee Leng | Brian Ho |Lau Pui Lye Kathy  |
 | -------- | -------- | -------- |
-| <a href="mailto:sek_hwee_leng@schools.gov.sg">sek_hwee_leng@schools.gov.sg</a>    | <a href="mailto:chang_meng_hsia@schools.gov.sg">chang_meng_hsia@schools.gov.sg</a>     | <a href="mailto:ho_yew_kiat@schools.gov.sg">ho_yew_kiat@schools.gov.sg</a>     |
+| <a href="mailto:sek_hwee_leng@schools.gov.sg">sek_hwee_leng@schools.gov.sg</a>    | <a href="mailto:ho_yew_kiat@schools.gov.sg">ho_yew_kiat@schools.gov.sg</a>     |  <a href="mailto:pui_lye_kathy@schools.gov.sg">pui_lye_kathy@schools.gov.sg</a>    |
