@@ -32,7 +32,7 @@ variant: markdown
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%204.png">
 </a></p>
 
-<p><a href="mailto:yeo_chong_keat_rene@schools.gov.sg">
+<p><a href="mailto:cheong_mun_mun_michelle@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%205.png">
 </a></p>
 
