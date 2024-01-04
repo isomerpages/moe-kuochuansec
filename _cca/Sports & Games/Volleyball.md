@@ -72,7 +72,7 @@ Our players will:
 
 
 
-| Yeo Xiao Si Eunice | Christopher Cassandra | 
+| Yeo Xiao Si Eunice | Cassandra Christopher | 
 | -------- | -------- | 
-<a href="mailto:yeo_xiao_si_eunice@schools.gov.sg">yeo_xiao_si_eunice@schools.gov.sg</a>     | <a href="mailto:tan_siaw_chong@schools.gov.sg">cassandra\_christopher@schools.gov.sg
+<a href="mailto:yeo_xiao_si_eunice@schools.gov.sg">yeo_xiao_si_eunice@schools.gov.sg</a>     | <a href="mailto:tan_siaw_chong@schools.gov.sg">cassandra_christopher@schools.gov.sg
 </a> |
