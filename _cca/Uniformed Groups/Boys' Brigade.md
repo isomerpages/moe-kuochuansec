@@ -3,6 +3,7 @@ title: Boys' Brigade
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## Boys' Brigade
 
@@ -13,11 +14,11 @@ third_nav_title: Uniformed Groups
 
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/content_boys_brigade.jpg" style="width:25%;margin-right:12px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/content_boys_brigade.jpg" style="width:25%;margin-right:12px;" align="left">
 
-**Mission:** To nurture Youths, based on Christian values to lead and serve.  
+**Mission:**&nbsp;To nurture Youths, based on Christian values to lead and serve.  
   
-<p style="text-align: justify;font-size:16px;">The Boys' Brigade 5th Singapore Company was founded in 1934 by Mr. John McNeish. It was then located at Choon Guan Presbyterian Boys School and sponsored by Katong Presbyterian Church in Joo Chiat. 
+<p style="text-align: justify;font-size:16px;">The Boys' Brigade 5th Singapore Company was founded in 1934 by Mr. John McNeish. It was then located at Choon Guan Presbyterian Boys School and sponsored by Katong Presbyterian Church in Joo Chiat.&nbsp;
 	
 In the 1990s when Kuo Chuan Presbyterian Schools were built in Bishan St. 13, 5th Company was subsequently relocated to operate in the secondary school. The 5th Company is now sponsored by Adam Road Presbyterian Church.</p>
 
@@ -25,7 +26,7 @@ In the 1990s when Kuo Chuan Presbyterian Schools were built in Bishan St. 13, 5t
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/boys_brigrade_area_of_focus.jpg" style="width:25%;margin-right:12px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/boys_brigrade_area_of_focus.jpg" style="width:25%;margin-right:12px;" align="left">
 
 <p style="text-align: justify;font-size:16px;">The aim of the Boys' Brigade is the holistic development of Boys' covering the following aspects: Spiritual, Physical, Enrichment and Social. Over the years, there has been strong emphasis on outdoor adventure activities, leadership development, team building, and community involvement. Through our myriad of activities and training, we aim to mould our members to become useful adult citizens with sound moral character. The added dimension of spiritual and moral development has helped to instill in members a sense of discipline, citizenship and service to the community.</p>
 
@@ -35,8 +36,7 @@ In the 1990s when Kuo Chuan Presbyterian Schools were built in Bishan St. 13, 5t
 ### Programmes
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/programmes.jpg"  
-     style="width:25%;margin-right:12px;" align = "left"> 
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/programmes.jpg" style="width:25%;margin-right:12px;" align="left"> 
 
 
 
@@ -60,6 +60,6 @@ In the 1990s when Kuo Chuan Presbyterian Schools were built in Bishan St. 13, 5t
 
 
 
-| Ng Keng Yang | Michelle Ang Siok Min | Ng Chee Kian |
-| -------- | -------- | -------- |
-| <a href="mailto:ng_keng_yang@schools.gov.sg">ng_keng_yang@schools.gov.sg</a>     | <a href="mailto:ang_siok_min_michelle@schools.gov.sg">ang_siok_min_michelle@schools.gov.sg</a>    | <a href="mailto:ng_chee_kian@schools.gov.sg">ng_chee_kian@schools.gov.sg</a>     |
+| Ng Chee Kian | Tan Siaw Chong  | 
+| -------- | -------- | 
+| <a href="mailto:ng_chee_kian@schools.gov.sg">ng_chee_kian@schools.gov.sg</a>     | <a href="mailto:tan_siaw_chong@schools.gov.sg">tan_siaw_chong@schools.gov.sg</a>    | 
