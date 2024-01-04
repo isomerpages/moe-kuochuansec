@@ -2,48 +2,6 @@
 title: For Teachers
 permalink: /useful-links/for-teachers/
 description: ""
+variant: tiptap
 ---
-## For Teachers
-
-<table>
-<thead>
-  <tr>
-    <th>Quick Links</th>
-    <th>MOE</th>
-    <th>SSOE 2</th>
-    <th>Admin Tools</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><a href="https://icon.moe.edu.sg/">iCON 2</a></td>
-    <td><a href="https://www.moe.gov.sg/">MOE Website</a></td>
-    <td><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">MIMS portal</a></td>
-    <td>RBS <a href="https://rbs.avero-tech.com/login.html">(for Facility Booking)</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a><br><b><font size="4"></font></b></td>
-    <td><a href="https://intranet.moe.gov.sg/Pages/Home.aspx">MOE Intranet</a></td>
-    <td><a href="https://ssoe2.moe.edu.sg/">SSOE 2 Service Portal</a></td>
-    <td><a href="https://kcpss.adminbreeze.com/">Admin Breeze</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://vle.learning.moe.edu.sg/login">Singapore Learning Space (SLS)</a></td>
-    <td><a href="https://www.hrp.gov.sg/">HRP Online</a></td>
-    <td> </td>
-    <td><a href="https://pg.moe.edu.sg/">Parent Gateway</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DSMziDIwYBw4DzfgTl5snLZH9hUXubj9htxPk2zPLVc0PS%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DJPowcvYbbJp4vZTsabT7c98ch-4JqnLUjWr1Ddq9my4%26code_challenge_method%3DS256%26nonce%3DSMziDIwYBw4DzfgTl5snLZH9hUXubj9htxPk2zPLVc0PS">Opel 2.0</a>
-    </td><td></td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td><a href="https://scmobile.moe.edu.sg/">SC Mobile</a>
-    </td><td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-</tbody>
-</table>
+<h2>For Teachers</h2><table><tbody><tr><th rowspan="1" colspan="1"><p>Quick Links</p></th><th rowspan="1" colspan="1"><p>MOE</p></th><th rowspan="1" colspan="1"><p>SSOE 2</p></th><th rowspan="1" colspan="1"><p>Admin Tools</p></th></tr><tr><td rowspan="1" colspan="1"><p><a href="https://icon.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">iCON 2</a></p></td><td rowspan="1" colspan="1"><p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a></p></td><td rowspan="1" colspan="1"><p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">MIMS portal</a></p></td><td rowspan="1" colspan="1"><p>RBS <a href="https://rbs.avero-tech.com/login.html" rel="noopener noreferrer nofollow" target="_blank">(for Facility Booking)</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a><br></p></td><td rowspan="1" colspan="1"><p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a></p></td><td rowspan="1" colspan="1"><p><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Service Portal</a></p></td><td rowspan="1" colspan="1"><p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parent Gateway</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore Learning Space (SLS)</a></p></td><td rowspan="1" colspan="1"><p><a href="https://www.hrp.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">HRP Online</a></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="https://www.bing.com/ck/a?!&amp;&amp;p=b9bfcccd8bb133e6JmltdHM9MTcwNDMyNjQwMCZpZ3VpZD0yYjg5N2RlOC0zYWU0LTY5OWItMjBiMi02ZTJjM2JkYzY4MDkmaW5zaWQ9NTE5NQ&amp;ptn=3&amp;ver=2&amp;hsh=3&amp;fclid=2b897de8-3ae4-699b-20b2-6e2c3bdc6809&amp;psq=opal+2.0&amp;u=a1aHR0cHM6Ly93d3cub3BhbDIubW9lLmVkdS5zZy9jc2wvdXNlci9hdXRoL2xvZ2lu&amp;ntb=1" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="https://scmobile.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
