@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## Girl Guides
 
@@ -70,6 +71,6 @@ Our motto,&nbsp;**"Be Prepared"**&nbsp;, shares the Founder's initials and is a 
 
 
 
-| Siti Nurhizah | Cheri Nam tin Yuen   | Siti Shahirah |
-| -------- | -------- | -------- |
-| <a href="mailto:siti_nurhizah_mohamed_hassan@schools.gov.sg">siti_nurhizah_mohamed_hassan@schools.gov.sg</a>     | <a href="mailto:nam_tin_yuen@schools.gov.sg">nam_tin_yuen@schools.gov.sg</a>     | <a href="mailto:siti_shahirah_haider_bagesher@schools.gov.sg">siti_shahirah_haider_bagesher@schools.gov.sg</a>     |
+| Tang Lai Chan | Chang Meng Hsia    | 
+| -------- | -------- | 
+| <a href="mailto:tham_lai_chan@schools.gov.sg">tham_lai_chan@schools.gov.sg</a>     | <a href="mailto:chang_meng_hsia@schools.gov.sg">chang_meng_hsia@schools.gov.sg</a>     | 
