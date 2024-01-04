@@ -38,14 +38,14 @@ Our basketball sessions involve the training of both the physical and mental sta
 <thead>
   <tr>
     <th>Training Days</th>
-    <td>Every Wednesday<br></td>
+    <td>Every Tuesday<br></td>
     <td> Every Friday</td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <th>Training Timing</th>
-    <td>3.00 PM - 6.00 PM</td>
+    <td>3.30 PM - 6.00 PM</td>
     <td> 2.00 PM - 5.00 PM</td>
   </tr>
   <tr>
