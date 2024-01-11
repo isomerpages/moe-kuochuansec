@@ -2,9 +2,8 @@
 title: 2023 Principal's Message
 permalink: /others/principals-message-page/2021-principals-message/
 description: ""
+variant: markdown
 ---
-## 2023 Principal's Message
-
 Greetings!
 <p style="text-align: justify;font-size:16px;">
 It gives me great pleasure to welcome you to Kuo Chuan Presbyterian Secondary School. We are a Presbyterian mission school with a long heritage, anchored in values and faith, and are proud to be a part of the Bishan-Toa Payoh community. We aspire to be a School on a Hill, with our KCPians going forth to shine their light, wherever they may go.</p>
