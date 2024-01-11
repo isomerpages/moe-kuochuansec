@@ -2,19 +2,6 @@
 title: Our Mission and Vision
 permalink: /about-kcpss/our-mission-and-vision/
 description: ""
+variant: tiptap
 ---
-## Our Mission and Vision
-
-
-  
-  
-
-### School Mission
-
-<p align="justify">
-We provide a conducive and nurturing Christian environment for the holistic development of every child through high engagement in, achievement through and enjoyment of learning.
-</p>
-
-### School Vision
-<p align="justify">
-Every KCPian A Servant Leader and Scholar</p>
+<h2>Our Mission and Vision</h2><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/mission.jpg"></div><h3></h3><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/vision.jpg"></div><p></p>
