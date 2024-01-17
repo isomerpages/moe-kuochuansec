@@ -5,16 +5,14 @@ description: ""
 third_nav_title: Character and Citizenship
 variant: markdown
 ---
-## Character and Citizenship Programme
+## CCE@KCPSS ##
 
-### Area of Focus
-
-<p style="text-align: justify;font-size:16px;">
-The CCE Department focuses on the Character and Citizenship Education in Kuo Chuan Presbyterian Secondary School.&nbsp; Every KCPian will be developed to be Servant Leaders and Scholars through structured programmes and lessons guided by the KCPSS CCE Framework (revised in 2017).</p>
+<p style="text-align: justify;">
+At KCPSS, the design of CCE is guided by CCE 2021 curriculum frame which provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being, and citizenship dispositions in a coherent and holistic way. </p>
 
 **CCE Framework**
 
-![](/images/Our%20People/Departments/CCE/CCE%20Area%20of%20Focus%201.png)
+![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_1.jpg)
 
 ### Programmes
 
