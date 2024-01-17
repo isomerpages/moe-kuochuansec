@@ -48,11 +48,4 @@ The CCE 2021 curriculum frame is aligned to the Singapore Curriculum Philosophy.
 
 ![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_7.png)  <p style="text-align: justify;">Lastly, the sunny smiley faces represent the extent to which the impact we hope to make on the beneficiaries each time they recall their experience with KCPians.</p>
 
-
-
-
-
-	 	
-	
-
-
+**3. Sexuality Education (SEd)**
