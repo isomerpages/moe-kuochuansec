@@ -44,11 +44,11 @@ The CCE 2021 curriculum frame is aligned to the Singapore Curriculum Philosophy.
 |![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_6.png)|  
 
 </p><p style="text-align: justify;">
-<b>“Let your light shine”</b> is aligned to our school’s vision “We are to be a School on a Hill, shining a light for all”. Aside from benefitting recipients of the VIA activities, student volunteers who let their light shine through such activities, can also inspire the rest to serve and do good for the community.<br><br>The switch located within the phrase <b>“Let your light shine”</b> symbolically represents the students’ choice to make a difference to other peoples’ lives. The spotlight in the background represents the collective light from the students’ effort in shining their light and brightening up the lives of the beneficiaries, one community at a time.The types of effort include playing games with the beneficiaries and creating awareness posters advocating the improvement of the quality of living of the beneficiaries. This is highlighted through photos taken with the beneficiaries below.<br>
+<b>“Let your light shine”</b> is aligned to our school’s vision “We are to be a School on a Hill, shining a light for all”. Aside from benefitting recipients of the VIA activities, student volunteers who let their light shine through such activities, can also inspire the rest to serve and do good for the community.<br><br>The switch located within the phrase <b>“Let your light shine”</b> symbolically represents the students’ choice to make a difference to other peoples’ lives. The spotlight in the background represents the collective light from the students’ effort in shining their light and brightening up the lives of the beneficiaries, one community at a time.The types of effort include playing games with the beneficiaries and creating awareness posters advocating the improvement of the quality of living of the beneficiaries. This is highlighted through photos taken with the beneficiaries below.<br></p>
+
 	
 	 
 	 	
 	
 
 
-</p>
