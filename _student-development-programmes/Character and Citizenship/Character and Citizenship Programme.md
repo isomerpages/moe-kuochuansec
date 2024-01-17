@@ -40,7 +40,7 @@ The CCE 2021 curriculum frame is aligned to the Singapore Curriculum Philosophy.
 	
 |  | 
 | -------- | 
-|![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_8.png)|  
+|![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_5.png)|  
 |![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_6.png)|  
 
 </p><p style="text-align: justify;">
