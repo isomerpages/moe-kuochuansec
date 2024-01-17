@@ -52,5 +52,7 @@ The CCE 2021 curriculum frame is aligned to the Singapore Curriculum Philosophy.
 ![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_8.png)
 
 **4. Education and Career Guidance (ECG)**
-
 ![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_9.png)
+
+**5. Food Entrepreneur Programme (FEP)**
+![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_10.png)
