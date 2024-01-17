@@ -30,14 +30,10 @@ The CCE 2021 curriculum frame is aligned to the Singapore Curriculum Philosophy.
 
 ### C. Introduction of key CCE Content Areas: ###
 
-
-
+**National Education**
 | National Education | NE Commemorative Days | 
 | -------- | -------- | 
 | ![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_3.png)     | ![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_4.png)    | 
 
-
-
-
-
 </p>
+
