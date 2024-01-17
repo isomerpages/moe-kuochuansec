@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Character and Citizenship
 variant: markdown
 ---
-
-
 ### A. CCE@KCPSS ###
 <p style="text-align: justify;">
 At KCPSS, the design of CCE is guided by CCE 2021 curriculum frame which provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being, and citizenship dispositions in a coherent and holistic way. </p>
@@ -36,7 +34,7 @@ The CCE 2021 curriculum frame is aligned to the Singapore Curriculum Philosophy.
 
 | National Education | NE Commemorative Days | 
 | -------- | -------- | 
-| ![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_3.png)     |     | 
+| ![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_3.png)     | ![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_4.png)    | 
 
 
 
