@@ -20,9 +20,9 @@ The CCE 2021 curriculum frame is aligned to the Singapore Curriculum Philosophy.
 
 |  |   |
 | -------- | -------- |
-| The Individual    |   <p style="text-align: justify;">Every KCPian has the potential to flourish and live fulfilling lives – as individuals, family members, friends, community members, and citizens of Singapore and the world.<br><br>Building of character and citizenship competencies and dispositions is the cornerstone of CCE programmes. |
-| The School   |  </p><p style="text-align: justify;">Through the conduct of learning activities and programmes within and beyond the classroom,teachers with the support of school leaders and key personnel build character, nurture social-emotional well-being, and develop citizenship dispositions in our students.|
-| School-Family_community Partnership   | </p><p style="text-align: justify;">It takes a village to raise a child. Our school partners with stakeholders, families and the broader community in the upbringing and education of KCPians to grow in character, and be ready to contribute actively to our community, Singapore and beyond.|
+| The Individual    |   <p style="text-align: justify;">Every KCPian has the potential to flourish and live fulfilling lives – as individuals, family members, friends, community members, and citizens of Singapore and the world.<br><br>Building of character and citizenship competencies and dispositions is the cornerstone of CCE programmes.  </p>|
+| The School   | <p style="text-align: justify;">Through the conduct of learning activities and programmes within and beyond the classroom,teachers with the support of school leaders and key personnel build character, nurture social-emotional well-being, and develop citizenship dispositions in our students.</p>|
+| School-Family_community Partnership   | <p style="text-align: justify;">It takes a village to raise a child. Our school partners with stakeholders, families and the broader community in the upbringing and education of KCPians to grow in character, and be ready to contribute actively to our community, Singapore and beyond.</p>|
 |   | | 
 
 ### B. CCE Content Areas ### 
@@ -43,7 +43,7 @@ The CCE 2021 curriculum frame is aligned to the Singapore Curriculum Philosophy.
 |![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_5.png)|  
 |![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_6.png)|  
 
-</p><p style="text-align: justify;">
+<p style="text-align: justify;">
 <b>“Let your light shine”</b> is aligned to our school’s vision “We are to be a School on a Hill, shining a light for all”. Aside from benefitting recipients of the VIA activities, student volunteers who let their light shine through such activities, can also inspire the rest to serve and do good for the community.<br><br>The switch located within the phrase <b>“Let your light shine”</b> symbolically represents the students’ choice to make a difference to other peoples’ lives. The spotlight in the background represents the collective light from the students’ effort in shining their light and brightening up the lives of the beneficiaries, one community at a time.The types of effort include playing games with the beneficiaries and creating awareness posters advocating the improvement of the quality of living of the beneficiaries. This is highlighted through photos taken with the beneficiaries below.<br></p>
 
 ![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_7.png)  <p style="text-align: justify;">Lastly, the sunny smiley faces represent the extent to which the impact we hope to make on the beneficiaries each time they recall their experience with KCPians.</p>
