@@ -20,9 +20,9 @@ The CCE 2021 curriculum frame is aligned to the Singapore Curriculum Philosophy.
 
 |  |   |
 | -------- | -------- |
-| The Individual    |   <p style="text-align: justify;">Every KCPian has the potential to flourish and live fulfilling lives – as individuals, family members, friends, community members, and citizens of Singapore and the world.<br><br>Building of character and citizenship competencies and dispositions is the cornerstone of CCE programmes.  </p>|
-| The School   | <p style="text-align: justify;">Through the conduct of learning activities and programmes within and beyond the classroom,teachers with the support of school leaders and key personnel build character, nurture social-emotional well-being, and develop citizenship dispositions in our students.</p>|
-| School-Family_community Partnership   | <p style="text-align: justify;">It takes a village to raise a child. Our school partners with stakeholders, families and the broader community in the upbringing and education of KCPians to grow in character, and be ready to contribute actively to our community, Singapore and beyond.</p>|
+| The Individual    |   Every KCPian has the potential to flourish and live fulfilling lives – as individuals, family members, friends, community members, and citizens of Singapore and the world.<br><br>Building of character and citizenship competencies and dispositions is the cornerstone of CCE programmes.  |
+| The School   | Through the conduct of learning activities and programmes within and beyond the classroom,teachers with the support of school leaders and key personnel build character, nurture social-emotional well-being, and develop citizenship dispositions in our students.|
+| School-Family_community Partnership   | It takes a village to raise a child. Our school partners with stakeholders, families and the broader community in the upbringing and education of KCPians to grow in character, and be ready to contribute actively to our community, Singapore and beyond.|
 |   | | 
 
 ### B. CCE Content Areas ### 
