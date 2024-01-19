@@ -11,7 +11,8 @@ At KCPSS, the design of CCE is guided by CCE 2021 curriculum frame which provide
 
 **CCE Framework**
 
-![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_1.jpg)
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCE/Image_1.jpg" style="width:75%">
+
 The CCE 2021 curriculum frame is aligned to the Singapore Curriculum Philosophy. 
 
 **Foundationally, CCE 2021 @ KCPSS recognises:**
