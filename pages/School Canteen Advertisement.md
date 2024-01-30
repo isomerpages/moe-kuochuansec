@@ -51,9 +51,9 @@ As such, we are open to different ideas and concepts of halal dishes (E.g.
 Traditional Malay, Indian Muslim, Thai, Vietnamese, etc) &amp; Chinese
 dishes . Interested vendors are invited to participate in this bid for
 the stall.</p>
-<p><strong>Location:</strong>
+<p><strong>Location:</strong> 
 <br>10 Bishan Street 13, Singapore 579795</p>
-<p><strong>School Canteen Operating Hours:</strong>
+<p><strong>School Canteen Operating Hours:</strong> 
 <br>We are a single session school with an estimated enrolment of 1150 pupils
 and about 100 staff. Our canteen operates from Mondays to Fridays, 7.30am
 to 4.00pm during the school term. The stall may be required to operate
@@ -64,7 +64,7 @@ are lessons and CCAs as required by school.
 </p>
 <p>For enquiries, interested vendors may call the school at 6259 3811 to
 speak with the Admin Manager.</p>
-<p><strong>General Requirements:</strong>
+<p><strong>General Requirements:</strong> 
 <br>1 . Singapore Citizens or Singapore Permanent Residents, applicable to
 both stall holder and assistant(s). Must be age 21 years old or above.
 <br>2 . Able to provide good service and quality food at reasonable prices
@@ -77,7 +77,7 @@ canteen.
 <br>5 . Must be in personal attendance at the stall during operating hours.
 <br>6 . Provide good service and quality food at reasonable prices determined
 in consultation with the school.</p>
-<p><strong>Health &amp; Hygiene Requirements:</strong>
+<p><strong>Health &amp; Hygiene Requirements:</strong> 
 <br>1 . Successful candidates will have to register and pass the Basic Food
 Hygiene Course (WSQ BFHC).
 <br>2 . Successful applicant will have to apply for a food stall licence from
@@ -89,7 +89,7 @@ assistant(s), whoever is the chef, must attend the Healthy Meals in School
 Programme workshop if they have not done so.
 <br>4 . The attendance of the above courses and attainment of certification
 shall be at the vendors’ own time and expense.</p>
-<p><strong>Application Process:</strong>
+<p><strong>Application Process:</strong> 
 <br>The <a href="/files/canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> can
 be downloaded from MOE Canteen website at: <a href="https://schadmsvc.moe.gov.sg/moescas/" rel="noopener noreferrer nofollow" target="_blank">https://schadmsvc.moe.gov.sg/moescas/</a> A
 hardcopy can also be obtained from the school's General Office.
@@ -112,7 +112,7 @@ e.g. NEA Basic Food Hygiene Course), and;</p>
 <p>List of proposed food items for sale and prices</p>
 </li>
 </ul>
-<p><strong>Interview and Food Tasting</strong>
+<p><strong>Interview and Food Tasting</strong> 
 <br>Shortlisted applicants will be notified for the selection interview and
 they will be required to prepare food tasting for the School Canteen Selection
 Committee at the applicant's own expense.</p>
