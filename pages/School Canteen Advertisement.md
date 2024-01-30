@@ -65,18 +65,32 @@ are lessons and CCAs as required by school.
 <p>For enquiries, interested vendors may call the school at 6259 3811 to
 speak with the Admin Manager.</p>
 <p><strong>General Requirements:</strong> 
-<br>1 . Singapore Citizens or Singapore Permanent Residents, applicable to
-both stall holder and assistant(s). Must be age 21 years old or above.
-<br>2 . Able to provide good service and quality food at reasonable prices
-(in consultation with the school), that meet the health/nutritional standards
-set by the Health Promotion Board.
-<br>3 . Able to observe high standard of food and personal hygiene that meet
-NEA requirements
-<br>4 . Has catering experience, preferably with running a stall in a school
-canteen.
-<br>5 . Must be in personal attendance at the stall during operating hours.
-<br>6 . Provide good service and quality food at reasonable prices determined
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Singapore Citizens or Singapore Permanent Residents, applicable to both
+stall holder and assistant(s). Must be age 21 years old or above.</p>
+</li>
+<li>
+<p>Able to provide good service and quality food at reasonable prices (in
+consultation with the school), that meet the health/nutritional standards
+set by the Health Promotion Board.</p>
+</li>
+<li>
+<p>Able to observe high standard of food and personal hygiene that meet NEA
+requirements</p>
+</li>
+<li>
+<p>Has catering experience, preferably with running a stall in a school canteen.</p>
+</li>
+<li>
+<p>Must be in personal attendance at the stall during operating hours.</p>
+</li>
+<li>
+<p>Provide good service and quality food at reasonable prices determined
 in consultation with the school.</p>
+</li>
+</ol>
 <p><strong>Health &amp; Hygiene Requirements:</strong> 
 <br>1 . Successful candidates will have to register and pass the Basic Food
 Hygiene Course (WSQ BFHC).
