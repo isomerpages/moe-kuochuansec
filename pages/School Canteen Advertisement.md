@@ -2,13 +2,14 @@
 title: School Canteen Advertisement
 permalink: /school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
 | Halal Stall     | 31 December 2023     | (E.g. Traditional Malay, Indian Muslim, Thai, Vietnamese, etc).    |
 | Chinese Stall     | 31 December 2023     | (E.g. different ideas and concepts of Chinese dishes)  |
 
-Kuo Chuan Presbyterian Secondary School (KCPSS) is looking for a stall holder to operate a Halal certified Food Stall &amp; Chinese Rise Stall in our school canteen, with effect from an agreed upon date after award. Besides providing sumptuous, healthy meals and snacks to the students and staff, our school is looking at our canteen to be a place where hungry students and staff can look forward to wide choices of exciting meals.  As such, we are open to different ideas and concepts of halal dishes (E.g. Traditional Malay, Indian Muslim, Thai, Vietnamese, etc) &amp; Chinese dishes .  Interested vendors are invited to participate in this bid for the stall.
+Kuo Chuan Presbyterian Secondary School (KCPSS) is looking for a stall holder to operate a Halal certified Food Stall &amp; Chinese Rice Stall in our school canteen, with effect from an agreed upon date after award. Besides providing sumptuous, healthy meals and snacks to the students and staff, our school is looking at our canteen to be a place where hungry students and staff can look forward to wide choices of exciting meals.  As such, we are open to different ideas and concepts of halal dishes (E.g. Traditional Malay, Indian Muslim, Thai, Vietnamese, etc) &amp; Chinese dishes .  Interested vendors are invited to participate in this bid for the stall.
 	
 **Location:**<br>
 10 Bishan Street 13, Singapore 579795
