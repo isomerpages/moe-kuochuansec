@@ -91,7 +91,7 @@ requirements</p>
 in consultation with the school.</p>
 </li>
 </ol>
-<p><strong>Health &amp; Hygiene Requirements:</strong> 
+<p><strong>Health &amp; Hygiene Requirements:</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
