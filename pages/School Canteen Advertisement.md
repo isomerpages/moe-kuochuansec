@@ -49,8 +49,8 @@ staff, our school is looking at our canteen to be a place where hungry
 students and staff can look forward to wide choices of exciting meals.
 As such, we are open to different ideas and concepts of halal dishes (E.g.
 Traditional Malay, Indian Muslim, Thai, Vietnamese, etc) &amp; Chinese
-dishes . Interested vendors are invited to participate in this bid for
-the stall.</p>
+dishes. Interested vendors are invited to participate in this bid for the
+stall.</p>
 <p><strong>Location:</strong> 
 <br>10 Bishan Street 13, Singapore 579795</p>
 <p><strong>School Canteen Operating Hours:</strong> 
@@ -64,31 +64,56 @@ are lessons and CCAs as required by school.
 </p>
 <p>For enquiries, interested vendors may call the school at 6259 3811 to
 speak with the Admin Manager.</p>
-<p><strong>General Requirements:</strong> 
-<br>1 . Singapore Citizens or Singapore Permanent Residents, applicable to
-both stall holder and assistant(s). Must be age 21 years old or above.
-<br>2 . Able to provide good service and quality food at reasonable prices
-(in consultation with the school), that meet the health/nutritional standards
-set by the Health Promotion Board.
-<br>3 . Able to observe high standard of food and personal hygiene that meet
-NEA requirements
-<br>4 . Has catering experience, preferably with running a stall in a school
-canteen.
-<br>5 . Must be in personal attendance at the stall during operating hours.
-<br>6 . Provide good service and quality food at reasonable prices determined
+<p><strong>General Requirements:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Singapore Citizens or Singapore Permanent Residents, applicable to both
+stall holder and assistant(s). Must be age 21 years old or above.</p>
+</li>
+<li>
+<p>Able to provide good service and quality food at reasonable prices (in
+consultation with the school), that meet the health/nutritional standards
+set by the Health Promotion Board.</p>
+</li>
+<li>
+<p>Able to observe high standard of food and personal hygiene that meet NEA
+requirements</p>
+</li>
+<li>
+<p>Has catering experience, preferably with running a stall in a school canteen.</p>
+</li>
+<li>
+<p>Must be in personal attendance at the stall during operating hours.</p>
+</li>
+<li>
+<p>Provide good service and quality food at reasonable prices determined
 in consultation with the school.</p>
-<p><strong>Health &amp; Hygiene Requirements:</strong> 
-<br>1 . Successful candidates will have to register and pass the Basic Food
-Hygiene Course (WSQ BFHC).
-<br>2 . Successful applicant will have to apply for a food stall licence from
-Singapore Food Agency (SFA)
-<br>3 . Able to comply with the latest Healthy Meals in Schools Programme
-Guidelines Healthy Meals in Schools Programme (hpb.gov.sg) and Health Promoting
-School Canteen (HPSC) guidelines. Either the successful applicant or the
-assistant(s), whoever is the chef, must attend the Healthy Meals in School
-Programme workshop if they have not done so.
-<br>4 . The attendance of the above courses and attainment of certification
-shall be at the vendors’ own time and expense.</p>
+</li>
+</ol>
+<p><strong>Health &amp; Hygiene Requirements:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Successful candidates will have to register and pass the Basic Food Hygiene
+Course (WSQ BFHC).</p>
+</li>
+<li>
+<p>Successful applicant will have to apply for a food stall license from
+Singapore Food Agency (SFA)</p>
+</li>
+<li>
+<p>Able to comply with the latest Healthy Meals in Schools Programme Guidelines
+Healthy Meals in Schools Programme (hpb.gov.sg) and Health Promoting School
+Canteen (HPSC) guidelines. Either the successful applicant or the assistant(s),
+whoever is the chef, must attend the Healthy Meals in School Programme
+workshop if they have not done so.</p>
+</li>
+<li>
+<p>The attendance of the above courses and attainment of certification shall
+be at the vendors’ own time and expense.</p>
+</li>
+</ol>
 <p><strong>Application Process:</strong> 
 <br>The <a href="/files/canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> can
 be downloaded from MOE Canteen website at: <a href="https://schadmsvc.moe.gov.sg/moescas/" rel="noopener noreferrer nofollow" target="_blank">https://schadmsvc.moe.gov.sg/moescas/</a> A
