@@ -38,7 +38,7 @@ Dear Parents of KCPian,
 
 Warm blessings,
 
-Patricia Tan
+Patricia Tan<br>
 Chair, KCPSS Parent Support Group
 
 
