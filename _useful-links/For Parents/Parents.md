@@ -6,7 +6,7 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h3>Parents</h3>
-<p><strong>Digital Student Handbook</strong>
+<p><strong>Digital Student Handbook</strong> 
 <br>
 </p>
 <p>The Digital Student Handbook is a key reference for students as they navigate
