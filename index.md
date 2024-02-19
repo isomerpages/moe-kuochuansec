@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner_5_5_23.gif
+      background: /images/KCP100_banner.gif
       key_highlights:
         - title: Happenings
           description: ""
@@ -18,7 +18,15 @@ sections:
         - title: ESPOIR
           description: ""
           url: https://go.gov.sg/kcpss-espoir-2023-issue2
+      variant: image
   - resources:
       title: Announcements
       button: Click Here
+  - infopic:
+      title: KCP 100
+      subtitle: centennial
+      id: infopic
+      description: Rooted in Faith, Enduring for Good
+      image: /images/KCP100_eDM_1.jpg
+      alt: Image alt text
 ---
