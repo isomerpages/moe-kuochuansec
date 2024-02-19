@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/KCP100_banner.gif
+      background: /images/KCP100banner_v1.gif
       key_highlights:
         - title: Happenings
           description: ""
