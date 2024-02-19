@@ -22,4 +22,11 @@ sections:
   - resources:
       title: Announcements
       button: Click Here
+  - infopic:
+      title: KCP 100
+      subtitle: centennial
+      id: infopic
+      description: Rooted in Faith, Enduring for Good
+      image: /images/KCP100_eDM_1.jpg
+      alt: Image alt text
 ---
