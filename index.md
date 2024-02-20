@@ -18,7 +18,7 @@ sections:
         - title: ESPOIR
           description: ""
           url: https://go.gov.sg/kcpss-espoir-2023-issue2
-      variant: image
+      variant: center
   - resources:
       title: Announcements
       button: Click Here
