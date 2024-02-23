@@ -36,7 +36,10 @@ Term 1 Parent Letter</p>
 </p>
 <p></p>
 <h3>Parent Engagement Session</h3>
+<p></p>
 <p><a href="/files/Useful Links/Parents/2024_School_MTPS_Sec_2_Engagement_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 - Parent Engagement Slides</a>
 </p>
-<p><a href="https://go.gov.sg/secondary2briefingsession" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 - Parent Engagement Session webinar video</a>
+<p><a href="https://go.gov.sg/secondary2briefingsession" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 - Parent Engagement Session - video</a>
+</p>
+<p><a href="https://go.gov.sg/secondary4and5briefing" rel="noopener noreferrer nofollow" target="_blank">Secondary 4/5 - Parent Engagement Session - Video</a>
 </p>
