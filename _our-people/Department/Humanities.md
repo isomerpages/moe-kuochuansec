@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Diyanah Bte Mohammad Suhai(Geography)</p>
+<p>Mdm Nur Diyanah Bte Mohammad Suhaini(Geography)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_diyanah_mohammad_suhai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_diyanah_mohammad_suhai@schools.gov.sg</a>
