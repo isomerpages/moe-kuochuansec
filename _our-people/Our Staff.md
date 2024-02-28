@@ -421,7 +421,7 @@ variant: tiptap
 <p>Teacher - 1 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Diyanah Mohammad Suhai</p>
+<p>Mdm Nur Diyanah Mohammad Suhaini</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_diyanah_mohammad_suhai@schools.gov.sg</p>
