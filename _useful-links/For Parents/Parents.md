@@ -19,8 +19,7 @@ Student Handbook can always be accessed at <a href="https://go.gov.sg/kcpsssdh" 
 <h3>Termly Letters</h3>
 <p>Click <a href="/files/2024_KCPSS_Term_1_parent_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
 Term 1 Parent Letter</p>
-<p><a href="https://go.gov.sg/2024-secondary1-engagement-slide" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 1 Parent Engagement slide</a>
-</p>
+<p></p>
 <h3>Weighted Assessment Schedules</h3>
 <p>Click <a href="https://go.gov.sg/weighted-assessment" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
 weighted assessment schedule.</p>
@@ -29,7 +28,8 @@ weighted assessment schedule.</p>
 </p>
 <p></p>
 <h3>Parent Engagement Session</h3>
-<p></p>
+<p><a href="https://go.gov.sg/2024-secondary1-engagement-slide" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Parent Engagement slide</a>
+</p>
 <p><a href="/files/Useful Links/Parents/2024_School_MTPS_Sec_2_Engagement_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 - Parent Engagement Slides</a>
 </p>
 <p><a href="https://go.gov.sg/secondary2briefingsession" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 - Parent Engagement Session - video</a>
