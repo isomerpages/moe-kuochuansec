@@ -22,15 +22,8 @@ Term 1 Parent Letter</p>
 <p><a href="https://go.gov.sg/2024-secondary1-engagement-slide" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 1 Parent Engagement slide</a>
 </p>
 <h3>Weighted Assessment Schedules</h3>
-<p><a href="/files/Useful Links/Parents/Sec_1_Weighted_Assessment_1_Dates_and_Coverage_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 - Weighted Assessment 1</a>
-</p>
-<p><a href="/files/Useful Links/Parents/Sec_2_Weighted_Assessment_1_Dates_and_Coverage_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 - Weighted Assessment 1</a>
-</p>
-<p><a href="/files/Useful Links/Parents/Sec_3_WA1_Dates_and_Coverage_2024_23Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 - Weighted Assessment 1</a>
-</p>
-<p><a href="/files/Useful Links/Parents/Sec_4_5_WA1_Dates_and_Coverage_2024_23_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4/5 - Weighted Assessment 1</a>
-</p>
-<p></p>
+<p>Click <a href="https://go.gov.sg/weighted-assessment" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
+weighted assessment schedule.</p>
 <h3>Excuse from School for Private Matters</h3>
 <p><a href="https://go.gov.sg/kcpss-form-absence-privatereasons" rel="noopener noreferrer nofollow" target="_blank">Request for student to be excused from school for private matters</a>
 </p>
