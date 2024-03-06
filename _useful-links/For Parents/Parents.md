@@ -19,27 +19,22 @@ Student Handbook can always be accessed at <a href="https://go.gov.sg/kcpsssdh" 
 <h3>Termly Letters</h3>
 <p>Click <a href="/files/2024_KCPSS_Term_1_parent_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
 Term 1 Parent Letter</p>
-<p><a href="https://go.gov.sg/2024-secondary1-engagement-slide" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 1 Parent Engagement slide</a>
-</p>
-<h3>Weighted Assessment Schedules</h3>
-<p><a href="/files/Useful Links/Parents/Sec_1_Weighted_Assessment_1_Dates_and_Coverage_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 - Weighted Assessment 1</a>
-</p>
-<p><a href="/files/Useful Links/Parents/Sec_2_Weighted_Assessment_1_Dates_and_Coverage_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 - Weighted Assessment 1</a>
-</p>
-<p><a href="/files/Useful Links/Parents/Sec_3_WA1_Dates_and_Coverage_2024_23Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 - Weighted Assessment 1</a>
-</p>
-<p><a href="/files/Useful Links/Parents/Sec_4_5_WA1_Dates_and_Coverage_2024_23_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4/5 - Weighted Assessment 1</a>
-</p>
 <p></p>
+<h3>Weighted Assessment Schedules</h3>
+<p>Click <a href="https://go.gov.sg/weighted-assessment" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
+weighted assessment schedule.</p>
 <h3>Excuse from School for Private Matters</h3>
 <p><a href="https://go.gov.sg/kcpss-form-absence-privatereasons" rel="noopener noreferrer nofollow" target="_blank">Request for student to be excused from school for private matters</a>
 </p>
 <p></p>
 <h3>Parent Engagement Session</h3>
-<p></p>
+<p><a href="https://go.gov.sg/2024-secondary1-engagement-slide" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Parent Engagement slide</a>
+</p>
 <p><a href="/files/Useful Links/Parents/2024_School_MTPS_Sec_2_Engagement_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 - Parent Engagement Slides</a>
 </p>
 <p><a href="https://go.gov.sg/secondary2briefingsession" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 - Parent Engagement Session - video</a>
+</p>
+<p><a href="https://go.gov.sg/secondary3-parent-engagement" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 - Parent Engagement Session - video</a>
 </p>
 <p><a href="https://go.gov.sg/secondary4and5briefing" rel="noopener noreferrer nofollow" target="_blank">Secondary 4/5 - Parent Engagement Session - Video</a>
 </p>
