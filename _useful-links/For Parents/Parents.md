@@ -34,5 +34,7 @@ weighted assessment schedule.</p>
 </p>
 <p><a href="https://go.gov.sg/secondary2briefingsession" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 - Parent Engagement Session - video</a>
 </p>
+<p><a href="https://go.gov.sg/secondary3-parent-engagement" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 - Parent Engagement Session - video</a>
+</p>
 <p><a href="https://go.gov.sg/secondary4and5briefing" rel="noopener noreferrer nofollow" target="_blank">Secondary 4/5 - Parent Engagement Session - Video</a>
 </p>
