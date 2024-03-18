@@ -1131,6 +1131,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ingham Jane Christine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ingham_Jane_Christine@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Design &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
