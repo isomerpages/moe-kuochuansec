@@ -660,17 +660,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher - 2 PEACE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Sean Ong Zhi Han</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sean_ong_zhi_han@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teacher - 2 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -755,6 +744,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_thuan_hock@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher - 3 PEACE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sean Ong Zhi Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sean_ong_zhi_han@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
