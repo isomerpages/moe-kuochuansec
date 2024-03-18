@@ -1112,10 +1112,10 @@ variant: tiptap
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng Lian Wan</p>
+<p>Mr Chong Yaw Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng_Lian_Wan_A@schools.gov.sg</p>
+<p>chong_yaw_sheng_A@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
