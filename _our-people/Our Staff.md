@@ -605,6 +605,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teacher - 2 GRACE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Jade Tan Jie Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jade_tan_jie_heng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teacher - 2 HOPE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -645,6 +656,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_siaw_chong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher - 2 PEACE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sean Ong Zhi Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sean_ong_zhi_han@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -924,7 +946,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher -5 PERSEVERANCE</p>
+<p>Teacher -5 RESILIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ho Yew Kiat Brian</p>
@@ -991,10 +1013,10 @@ variant: tiptap
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Brigit Sebastian</p>
+<p>Mdm Chai Siew Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brigit_Sebastian@schools.gov.sg</p>
+<p>Chai_Siew_Chin_A@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1046,10 +1068,10 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheok Lai Ling</p>
+<p>Mr Tan kok Meng Paul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cheok_lai_ling_A@schools.gov.sg</p>
+<p>Tan_Kok_Meng_Paul_A@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
