@@ -76,6 +76,6 @@ These experiences will help to develop the leadership skills of our cadets and a
 
 
 
-| Nam Tin Yuen  | Tan Thuan Hock  | 
-| -------- | -------- | 
-| <a href="mailto:nam_tin_yuen@schools.gov.sg">nam_tin_yuen@schools.gov.sg</a>     | <a href="tan_thuan_hock@schools.gov.sg">tan_thuan_hock@schools.gov.sg</a> | 
+| Nam Tin Yuen  | Tan Thuan Hock  | Jade Tan Jie Heng  |
+| -------- | -------- | -------- | 
+| <a href="mailto:nam_tin_yuen@schools.gov.sg">nam_tin_yuen@schools.gov.sg</a>     | <a href="tan_thuan_hock@schools.gov.sg">tan_thuan_hock@schools.gov.sg</a> |<a href="jade_tan_jie_heng@schools.gov.sg">jade_tan_jie_heng@schools.gov.sg</a> |
