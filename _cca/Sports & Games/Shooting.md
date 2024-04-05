@@ -45,8 +45,8 @@ Teachable moments during CCA sessions are tapped on for character building and, 
 <tbody>
   <tr>
     <th>Training Timing</th>
-    <td>3.00 PM - 6.00 PM</td>
-    <td>3.00 PM - 6.00 PM</td>
+    <td>3.00 PM - 6.30 PM</td>
+    <td>2.00 PM - 5.30 PM</td>
   </tr>
   <tr>
     <th>Venue</th>
