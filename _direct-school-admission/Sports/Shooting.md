@@ -56,7 +56,7 @@ commitment to excellence.</p>
 <p>Are physically and mentally fit (preferably with no medical conditions)</p>
 </li>
 <li>
-<p>Are willing to train twice a week, and participate in additional training
+<p>Are willing to train twice a week and participate in additional training
 sessions nearing competitions.</p>
 </li>
 </ul>
