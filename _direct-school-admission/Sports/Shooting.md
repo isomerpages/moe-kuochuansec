@@ -35,4 +35,7 @@ stability for optimal performance.</p>
 preparing students for success beyond the CCA.</p>
 <p><strong>Positive and Caring Culture</strong>
 </p>
-<p></p>
+<p>A supportive environment where students feel valued and empowered, fostering
+lifelong friendships and mutual respect.</p>
+<p><strong>Exposure and Competitions</strong>
+</p>
