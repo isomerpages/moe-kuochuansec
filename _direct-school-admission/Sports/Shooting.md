@@ -39,3 +39,9 @@ preparing students for success beyond the CCA.</p>
 lifelong friendships and mutual respect.</p>
 <p><strong>Exposure and Competitions</strong>
 </p>
+<p>We provide opportunities for students to showcase their skills in various
+competitions, inspiring excellence and sportsmanship.</p>
+<p>In essence, Shooting CCA is a journey of self-discovery and personal growth,
+shaping leaders characterized by precision, resilience, and unwavering
+commitment to excellence.</p>
+<p></p>
