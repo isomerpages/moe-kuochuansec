@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /admission/direct-school-admission/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Concert Band
 
@@ -17,7 +18,7 @@ We welcome passionate, talented and committed individuals who want to join the K
 
 For more information on the programme, please visit
 
-[Concert Band](https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/concert-band/)
+[Concert Band](https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/symphonic-band/)
 
 ### What are we looking for?
 
