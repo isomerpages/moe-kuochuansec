@@ -86,7 +86,6 @@ sessions nearing competitions.</p>
 <p>Records of participation in competitions</p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -104,7 +103,6 @@ sessions nearing competitions.</p>
 <p>SG Cup</p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -124,9 +122,10 @@ for this talent area?</p>
 <p>What do you hope to gain from coming to KCPSS?</p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>Meeting all the criteria does not guarantee the student will be shortlisted
+or given an offer.</p>
 <p></p>
