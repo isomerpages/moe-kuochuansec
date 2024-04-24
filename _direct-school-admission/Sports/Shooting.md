@@ -46,4 +46,19 @@ shaping leaders characterized by precision, resilience, and unwavering
 commitment to excellence.</p>
 <p>For more information on the programme, please visit <a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/shooting/</a>
 </p>
+<h4>What are we looking for?</h4>
+<p>We are looking for applicants who:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Possess keen interest in Shooting</p>
+</li>
+<li>
+<p>Are physically and mentally fit (preferably with no medical conditions)</p>
+</li>
+<li>
+<p>Are willing to train twice a week, and participate in additional training
+sessions nearing competitions.</p>
+</li>
+</ul>
+<p></p>
 <p></p>
