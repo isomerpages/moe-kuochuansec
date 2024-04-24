@@ -31,3 +31,8 @@ stability for optimal performance.</p>
 </ul>
 <p><strong>Building Character</strong>
 </p>
+<p>Our CCA instills resilience, discipline, and focus through challenges,
+preparing students for success beyond the CCA.</p>
+<p><strong>Positive and Caring Culture</strong>
+</p>
+<p></p>
