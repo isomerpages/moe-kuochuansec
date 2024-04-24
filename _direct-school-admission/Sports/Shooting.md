@@ -60,5 +60,73 @@ commitment to excellence.</p>
 sessions nearing competitions.</p>
 </li>
 </ul>
+<p><strong>KCPSS Selection Criteria</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Selection Domain</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Evidence and Records</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aptitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants should preferably have:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Trained in Shooting under the Junior Sports Programme (Primary school)</p>
+</li>
+<li>
+<p>Records of participation in competitions</p>
+</li>
+</ul>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Attainment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement in competitions at National level</p>
+<p>For example,</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SAFRA Quarterly Shoot</p>
+</li>
+<li>
+<p>SG Cup</p>
+</li>
+</ul>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Motivation and Interest</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brief personal statement (not exceeding 100 words) addressing the following
+areas:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What are some personal qualities you have that will make you suitable
+for this talent area?</p>
+</li>
+<li>
+<p>What do you hope to gain from coming to KCPSS?</p>
+</li>
+</ul>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
