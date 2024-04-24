@@ -44,4 +44,6 @@ competitions, inspiring excellence and sportsmanship.</p>
 <p>In essence, Shooting CCA is a journey of self-discovery and personal growth,
 shaping leaders characterized by precision, resilience, and unwavering
 commitment to excellence.</p>
+<p>For more information on the programme, please visit <a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/shooting/</a>
+</p>
 <p></p>
