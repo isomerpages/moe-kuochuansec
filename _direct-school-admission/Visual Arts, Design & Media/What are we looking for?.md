@@ -55,7 +55,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Candidates should preferably have one or more of the following:
-<br>
 <br>● Proficiency in Adobe Photoshop or Lightroom
 <br>● Experience with Photography CCA or any other photographic societies.
 <br>● Participated in photography-based competitions.</p>
@@ -68,7 +67,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Brief personal statement (not exceeding 100 words) addressing the following
 areas:
-<br>
 <br>● What are some personal qualities you have that will make you suitable
 for this talent area?
 <br>● What do you hope to gain from coming to KCPSS?</p>
@@ -96,7 +94,6 @@ for this talent area?
 </td>
 <td rowspan="1" colspan="1">
 <p>Any portfolios to highlight aptitude in talent area
-<br>
 <br>For example:
 <br>● Created or edited media/video works</p>
 </td>
@@ -107,7 +104,6 @@ for this talent area?
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants should preferably have one or more of the following:
-<br>
 <br>● Proficiency in Adobe Premiere Pro, Photoshop or Apple Final Cut Pro
 <br>● An understanding of storyboarding process and workflow
 <br>● Exposure to audio editing (subtitling, voice-over, maintaining volumes
@@ -121,7 +117,6 @@ or dubbing)</p>
 <td rowspan="1" colspan="1">
 <p>Brief personal statement (not exceeding 100 words) addressing the following
 areas:
-<br>
 <br>● What are some personal qualities you have that will make you suitable
 for this talent area?
 <br>● What do you hope to learn from coming to KCPSS?</p>
