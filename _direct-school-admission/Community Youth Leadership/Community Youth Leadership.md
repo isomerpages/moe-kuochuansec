@@ -1,8 +1,9 @@
 ---
-title: Leadership
+title: Community Youth Leadership
 permalink: /admission/direct-school-admission/leadership/
 description: ""
-third_nav_title: Leadership
+third_nav_title: Community Youth Leadership
+variant: tiptap
 ---
 ## Leadership
 

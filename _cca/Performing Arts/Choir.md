@@ -3,6 +3,7 @@ title: Choir
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Choir
 
@@ -47,13 +48,13 @@ The choir training programme focuses on voice projection, breathing techniques, 
 <tbody>
   <tr>
     <th>Training Timing</th>
-    <td>3.00Pm - 6.00PM</td>
+    <td>3.00PM - 6.00PM</td>
     <td> 3.00PM - 6.00PM</td>
   </tr>
   <tr>
     <th>Venue</th>
     <td> Choir Room</td>
-    <td> Choir Romm</td>
+    <td> Choir Room</td>
   </tr>
 </tbody>
 </table>
@@ -83,4 +84,4 @@ The choir training programme focuses on voice projection, breathing techniques, 
 
 | Lee Hwee Ling Grace| Esther Yong Yin Yin |
 | -------- | -------- | 
-|<a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg</a>| <a href="mailto:yong_yin_yin_esther@schools.gov.sg">yong_yin_yin_esther@schools.gov.sg</a>| 
+|<a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg</a>| <a href="mailto:yong_yin_yin_esther@schools.gov.sg">yong_yin_yin_esther@schools.gov.sg</a>|

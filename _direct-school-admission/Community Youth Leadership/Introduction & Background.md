@@ -2,7 +2,7 @@
 title: Introduction & Background
 permalink: /admission/direct-school-admission/leadership/introduction-n-background/
 description: ""
-third_nav_title: Leadership
+third_nav_title: Community Youth Leadership
 ---
 ## Introduction & Background
 
@@ -17,4 +17,3 @@ The school believes in the co-creation of a culture of care, collaboration and e
 Here, we are always on the lookout for passionate, talented and committed individuals who exhibit leadership potential on top of good and consistent character. If you fit the bill, come join us through the Direct Schools Admission (DSA) exercise to allow us to know you better!
 
 For more information on the programme, please visit [https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/learning-for-life-programme/](https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/learning-for-life-programme/)
-
