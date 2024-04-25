@@ -3,85 +3,141 @@ title: Choir
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-## Choir
-
-![](/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/Choir.jpg)
-
-
-### Vision
-
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir1.jpg" style="width:40%;margin-right:15px;" align="left">
-
-<p style="text-align: justify;font-size:16px;">
-"Music expresses that which cannot be said and on which it is impossible to be silent." - Victor Hugo0  </p>
-  
-<p style="text-align: justify;font-size:16px;">
-Music making through Singing is an Art. In choir, our values are: Aspire, Perseverance and Team Work.We aim to provide a holistic education in this Performing Art(s) CCA to develop music literacy,&nbsp;interest and skills in Singing as well to develop performance excellence, to build character, team spirit,leadership skills and confidence.</p>
-
-
-### Area of Focus
-
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir2.jpg" style="width:40%;margin-right:15px;" align="left">
-
-
-<p style="text-align: justify;font-size:16px;">
-The choir training programme focuses on voice projection, breathing techniques, aural training,&nbsp;sight singing, music theory and simple choreography.</p>
-
-
-
-
-### Programmes
-
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir3.jpg" style="width:40%;margin-right:15px;" align="left">
-
-**<u>Training</u>**
+<h2>Choir</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/Choir.jpg">
+</div>
+<h3>Vision</h3>
 <table>
-<thead>
-  <tr>
-    <th>Training Days</th>
-    <td>Every Tuesday</td>
-    <td>Every Thursday</td>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <th>Training Timing</th>
-    <td>3.00PM - 6.00PM</td>
-    <td> 3.00PM - 6.00PM</td>
-  </tr>
-  <tr>
-    <th>Venue</th>
-    <td> Choir Room</td>
-    <td> Choir Room</td>
-  </tr>
+<tr>
+<td rowspan="2" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Choir/choir1.jpg">
+</div>
+</td>
+<td rowspan="2" colspan="1">
+<p>"Music expresses that which cannot be said and on which it is impossible
+to be silent." - Victor Hugo0</p>
+</td>
+</tr>
+<tr></tr>
 </tbody>
 </table>
-
-<br>
-
-**Special Programmes**
-
-* Sec 1 orientation programme
-
-* Overseas competition e.g. Guangzhou International Open Competition 2012
-
-* Lunch Time Concert
-
-* SYF Arts Presentation
-
-* School Learning Festival and Open House
-
-* Performance "Art Of Healing" at Tan Tock Seng Hospital
-
-* Choir Exchange with other schools
-
-
-### Teachers-in-Charge
-
-
-
-| Lee Hwee Ling Grace| Esther Yong Yin Yin |
-| -------- | -------- | 
-|<a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg</a>| <a href="mailto:yong_yin_yin_esther@schools.gov.sg">yong_yin_yin_esther@schools.gov.sg</a>|
+<p>Music making through Singing is an Art. In choir, our values are: Aspire,
+Perseverance and Team Work.We aim to provide a holistic education in this
+Performing Art(s) CCA to develop music literacy,&nbsp;interest and skills
+in Singing as well to develop performance excellence, to build character,
+team spirit,leadership skills and confidence.</p>
+<h3>Area of Focus</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The choir training programme focuses on voice projection, breathing techniques,
+aural training,&nbsp;sight singing, music theory and simple choreography.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>Programmes</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir3.jpg">
+</div>
+<p><strong><u>Training</u></strong>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Every Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Every Thursday</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Timing</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>3.00PM - 6.00PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00PM - 6.00PM</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Choir Room</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir Room</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Special Programmes</strong>
+</p>
+<ul>
+<li>
+<p>Sec 1 orientation programme</p>
+</li>
+<li>
+<p>Overseas competition e.g. Guangzhou International Open Competition 2012</p>
+</li>
+<li>
+<p>Lunch Time Concert</p>
+</li>
+<li>
+<p>SYF Arts Presentation</p>
+</li>
+<li>
+<p>School Learning Festival and Open House</p>
+</li>
+<li>
+<p>Performance "Art Of Healing" at Tan Tock Seng Hospital</p>
+</li>
+<li>
+<p>Choir Exchange with other schools</p>
+</li>
+</ul>
+<h3>Teachers-in-Charge</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Lee Hwee Ling Grace</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Esther Yong Yin Yin</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_hwee_ling_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_hwee_ling_grace@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yong_yin_yin_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_yin_yin_esther@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
