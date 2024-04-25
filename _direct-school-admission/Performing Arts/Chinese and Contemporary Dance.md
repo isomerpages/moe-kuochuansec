@@ -3,10 +3,11 @@ title: Chinese and Contemporary Dance
 permalink: /admission/direct-school-admission/performing-arts/chinese-and-contemporary-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Chinese and Contemporary Dance
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkuQPJ1N1Jx4ArxOLgo8gQe0f3VtpkeGP0AlgS0s_bjwB4FB6MhYSDaY6WHl5EoPOtLoc6-te56B5P/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ6yYuTm6RlM3W9fgW7u3_goEDumuktOaXnPB5Wi0NHidelfGEJvLZE3g9XSkIh2fR7A702EwoEyXW/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Introduction &amp; Background
 
