@@ -9,7 +9,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcOKnx6PXGjwGEnxWBwVR92d7PEPMSJNuGLL2_d8Dtbn2-IH6jMOd_wluyzAxTdtkkG6x3vVjqXdlN/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h3>Introduction &amp; Background</h3>
+<h4>Introduction &amp; Background</h4>
 <p>As members of KCPSS Table Tennis CCA, aspiring students can look forward
 to a holistic training programme that not only hones their skills and techniques
 to be highly competent players of the sport, but also develops their leadership
@@ -28,8 +28,7 @@ expertise. They will also receive ample exposure to competitive experiences
 through friendly matches with other schools, on top of our annual NSG competitions.
 Students who are keen to pursue Table Tennis professionally will also be
 given further opportunities to develop their talent.</p>
-<p>For more information on the programme, please visit&nbsp; <a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/table-tennis/" rel="noopener noreferrer nofollow" target="_blank">https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/table-tennis/</a>
-</p>
+<p>For more information on the programme, please visit <a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/table-tennis/" rel="noopener noreferrer nofollow" target="_blank">Table Tennis</a>&nbsp;</p>
 <h3>What are we looking for?</h3>
 <p>We are looking for applicants with:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Possess keen interest in Table
