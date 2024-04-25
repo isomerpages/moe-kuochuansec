@@ -39,7 +39,7 @@ school and the community</p>
 <p>In addition, students will be able to pick up other soft skills such as
 teamwork and time management, and be given platforms like major school
 events and school social media to showcase their work.</p>
-<p><strong><u>Photography (Under Photography CCA)</u></strong>
+<p><strong>Photography (Under Photography CCA)</strong>
 </p>
 <p>Under professional guidance, students in our programme will be able to
 develop themselves in a variety of photography styles ranging from event
@@ -59,5 +59,5 @@ which places emphasis on self and peer leadership, and which nurtures independen
 creativity and collaborative learning.</p>
 <p>Do apply now to develop your skills in Visual Art and be part of our exciting
 KCPSS experience!</p>
-<p>For more information on the programme, please visit <a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/photography-club/" rel="noopener noreferrer nofollow" target="_blank">https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/photography-club/</a>
+<p>For more information on the programme, please visit <a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/photography-club/" rel="noopener noreferrer nofollow" target="_blank">Photography Club</a>
 </p>
