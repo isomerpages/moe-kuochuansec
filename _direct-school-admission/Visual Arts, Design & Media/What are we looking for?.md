@@ -46,7 +46,7 @@ variant: tiptap
 <p>Any portfolios to highlight aptitude in talent area
 <br>
 <br>For example:
-<br>● Photo art showcasing talent in specific or various photography genres</p>
+<br>Photo art showcasing talent in specific or various photography genres</p>
 </td>
 </tr>
 <tr>
