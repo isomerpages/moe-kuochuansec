@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual Arts, Design & Media
 variant: tiptap
 ---
-<h2>What are we looking for?</h2>
+<h4>What are we looking for?</h4>
 <p>We are looking for applicants with:</p>
 <ul data-tight="true" class="tight">
 <li>
