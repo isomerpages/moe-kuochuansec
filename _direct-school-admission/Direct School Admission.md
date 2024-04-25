@@ -84,12 +84,23 @@ All talent areas are open to both male and female applicants.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Sports</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shooting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Table Tennis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
