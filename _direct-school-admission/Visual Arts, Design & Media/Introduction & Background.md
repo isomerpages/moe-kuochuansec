@@ -13,8 +13,8 @@ access to professional trainers who will help them develop their skills
 in media and film production, as well as a wide array of photography areas.</p>
 <p><strong><u>Media Art and Film (Under Infocomm Technology CCA)</u></strong>
 </p>
-<p>At the end of the 4-5 years in our M.E.D.I.A Programme, your students
-will be able to</p>
+<p>At the end of the 4-5 years in our <strong>M.E.D.I.A</strong> Programme,
+your students will be able to</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>M</strong>aster core skills through an engaging and structured
