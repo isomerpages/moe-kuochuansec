@@ -6,6 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h2>Concert Band</h2>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDXzf8t8fjzc9GiKkmC-XzYRGM7I1xy4JKeg4EzKL1Pf3RXDfsWmW58m0bD3xjYPiYXMD7JRI3pbVp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>Introduction &amp; Background</h4>
 <p>At KCPSS Band, we aim to develop every Band member into musicians who
 play music to inspire, and who continue to appreciate music after graduation.
