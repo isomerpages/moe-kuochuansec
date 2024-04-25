@@ -6,10 +6,7 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h2>Concert Band</h2>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ6yYuTm6RlM3W9fgW7u3_goEDumuktOaXnPB5Wi0NHidelfGEJvLZE3g9XSkIh2fR7A702EwoEyXW/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h3>Introduction &amp; Background</h3>
+<h4>Introduction &amp; Background</h4>
 <p>At KCPSS Band, we aim to develop every Band member into musicians who
 play music to inspire, and who continue to appreciate music after graduation.
 Through a variety of experiences (e.g. camps, public and school performances),
@@ -19,10 +16,9 @@ would have developed other valuable skills such as sight reading, playing
 music by ear, and coordinating with others in making music together.</p>
 <p>We welcome passionate, talented and committed individuals who want to
 join the KCPSS Band to make music that moves and inspires!</p>
-<p>For more information on the programme, please visit</p>
-<p><a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/symphonic-band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
+<p>For more information on the programme, please visit <a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/symphonic-band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
 </p>
-<h3>What are we looking for?</h3>
+<h4>What are we looking for?</h4>
 <p>We are looking for applicants with:</p>
 <ul data-tight="true" class="tight">
 <li>
