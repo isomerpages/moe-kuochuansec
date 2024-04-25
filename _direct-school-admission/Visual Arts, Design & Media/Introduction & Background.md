@@ -41,12 +41,12 @@ teamwork and time management, and be given platforms like major school
 events and school social media to showcase their work.</p>
 <p><strong>Photography (Under Photography CCA)</strong>
 </p>
-<p>Under professional guidance, students in our programme will be able to
-develop themselves in a variety of photography styles ranging from event
-to abstract photography. Students will also develop and understand their
-own creative process and potential as well as a keen eye for visual hierarchy.
-Through building their own personal portfolio, students will also understand
-how to create focus and emphasis through storytelling and expression.</p>
+<p>Under guidance, students in our programme will be able to develop themselves
+in a variety of photography styles ranging from event to abstract photography.
+Students will also develop and understand their own creative process and
+potential as well as a keen eye for visual hierarchy. Through building
+their own personal portfolio, students will also understand how to create
+focus and emphasis through storytelling and expression.</p>
 <p>Apart from a progressive programme, students are constantly challenged
 to apply their learnt techniques in real life applications like in the
 support of school events. Their works may be featured in school publications
