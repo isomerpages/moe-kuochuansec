@@ -3,6 +3,7 @@ title: Introduction & Background
 permalink: /admission/direct-school-admission/visual-arts-design-n-media/introduction-n-background/
 description: ""
 third_nav_title: Visual Arts, Design & Media
+variant: markdown
 ---
 ## Introduction &amp; Background
 
@@ -36,7 +37,5 @@ Through this programme, students will be part of a vibrant CCA culture which pla
 
 Do apply now to develop your skills in Visual Art and be part of our exciting KCPSS experience!
 
-For more information on the programme, please visit&nbsp;
-[https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/infocomm-tech-club/]
-
+For more information on the programme, please visit
 [https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/photography-club/](https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/photography-club/)
