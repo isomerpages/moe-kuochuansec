@@ -10,13 +10,22 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/Choir.jpg">
 </div>
 <h3>Vision</h3>
-<p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Choir/choir1.jpg">
+</div>
+</td>
+<td rowspan="2" colspan="1">
 <p>"Music expresses that which cannot be said and on which it is impossible
 to be silent." - Victor Hugo0</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Choir/choir1.jpg">
-</div>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 <p>Music making through Singing is an Art. In choir, our values are: Aspire,
 Perseverance and Team Work.We aim to provide a holistic education in this
 Performing Art(s) CCA to develop music literacy,&nbsp;interest and skills
@@ -26,31 +35,14 @@ team spirit,leadership skills and confidence.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir2.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The choir training programme focuses on voice projection, breathing techniques,
 aural training,&nbsp;sight singing, music theory and simple choreography.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
