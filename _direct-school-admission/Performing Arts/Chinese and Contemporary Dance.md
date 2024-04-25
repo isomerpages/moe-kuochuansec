@@ -30,9 +30,7 @@ their time in KCPSS, they will minimally be included in one biannual Singapore
 Youth Festival Arts Presentation. Dancers will learn the value of teamwork
 and Servant Leadership with many graduates pursuing their interest in dance
 in higher education.</p>
-<p>For more information on the programme, please visit<a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/dance-ensemble/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
-</p>
-<p><a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/dance-ensemble/" rel="noopener noreferrer nofollow" target="_blank">https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/dance-ensemble/</a>
+<p>For more information on the programme, please visit <a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/dance-ensemble/" rel="noopener noreferrer nofollow" target="_blank">Dance Ensemble</a>
 </p>
 <h4>What are we looking for?</h4>
 <p>We are looking for applicants who are:</p>
