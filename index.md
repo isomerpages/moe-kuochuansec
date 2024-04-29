@@ -23,13 +23,6 @@ sections:
       title: Announcements
       button: Click Here
   - infopic:
-      title: KCP 100
-      subtitle: centennial
-      id: infopic
-      description: Rooted in Faith, Enduring for Good
-      image: /images/KCP100_eDM_1.jpg
-      alt: Image alt text
-  - infopic:
       title: Direct School Admission
       id: infopic
       description: 11am on Tuesday, 7 May 2024 to 3pm on Monday, 3 June 2024. For more
@@ -38,4 +31,11 @@ sections:
       url: www.moe.gov.sg/dsa-sec
       alt: Image alt text
       image: /images/MOTD_03_Final_v2_resized.jpg
+  - infopic:
+      title: KCP 100
+      subtitle: centennial
+      id: infopic
+      description: Rooted in Faith, Enduring for Good
+      image: /images/KCP100_eDM_1.jpg
+      alt: Image alt text
 ---
