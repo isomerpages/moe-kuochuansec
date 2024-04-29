@@ -27,8 +27,8 @@ sections:
       id: infopic
       description: 11am on Tuesday, 7 May 2024 to 3pm on Monday, 3 June 2024. For more
         details, please refer to MOE website
-      button: For more details, please refer to MOE website
-      url: www.moe.gov.sg/dsa-sec
+      button: For more details, click here
+      url: https://www.kuochuanpresbyteriansec.moe.edu.sg/admission/direct-school-admission/
       alt: Image alt text
       image: /images/MOTD_03_Final_v2_resized.jpg
   - infopic:
