@@ -29,4 +29,12 @@ sections:
       description: Rooted in Faith, Enduring for Good
       image: /images/KCP100_eDM_1.jpg
       alt: Image alt text
+  - infopic:
+      title: Direct School Admission
+      id: infopic
+      description: "11am on Tuesday, 7 May 2024 to 3pm on Monday, 3 June 2024. For
+        more details, please refer to MOE website – "
+      button: For more details, please refer to MOE website
+      url: www.moe.gov.sg/dsa-sec
+      alt: Image alt text
 ---
