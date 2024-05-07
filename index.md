@@ -30,7 +30,7 @@ sections:
       button: For more details, click here
       url: https://www.kuochuanpresbyteriansec.moe.edu.sg/admission/direct-school-admission/
       alt: Image alt text
-      image: /images/MOTD_03_Final_v2_resized.jpg
+      image: /images/MOTD_03_Final_v3_resized.jpg
   - infopic:
       title: KCP 100
       subtitle: centennial
