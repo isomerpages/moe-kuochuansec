@@ -97,10 +97,40 @@ identity forged among students and staff.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Evolution of a Legacy: Towards a Unified Identity (1972 - 1987)</strong>
+</p>
 <p></p>
-<p></p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gLeZWJ9y9Rs"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About KCPSS/Picture3.png">
 </div>
+<p>Kuo Chuan Girls' School and Presbyterian Boys' School emerged as twin
+branches of a sturdy tree, each rooted in a rich legacy of education and
+a steadfast commitment to mission. In 1985, the two schools merged into
+a singular entity known as Kuo Chuan Presbyterian School. The school’s
+identity remained steadfast and unified, a beacon of Christian values and
+holistic education.</p>
+<p><strong>God’s Faithfulness through All Generations</strong>
+</p>
+<p>In 1987, KCPS was reorganised into Kuo Chuan Presbyterian Primary and
+Secondary Schools, and continued to flourish under the guidance of dedicated
+school leaders and educators. With Living Praise Presbyterian Church and
+Adam Road Presbyterian Church serving as resident anchor churches, both
+schools continued to grow and evolve against a backdrop of significant
+educational initiatives. Strong connections were forged with the community,
+and efforts to improve school infrastructure and curriculum have resulted
+in sustainable and distinctive experiences for all students.</p>
 <p></p>
+<p>As KCPS celebrates her Centennial year in 2024, she remains Rooted in
+Faith, Enduring for Good (cf. Galatians 6:9). The revival of the House
+system across both schools as part of the celebrations will strengthen
+the bond between the schools, and provide momentum for efforts for KCPS
+to be a beacon of light in the community, and a testament to the abundance
+of God’s grace and enduring power to sustain and uplift.</p>
+<p></p>
+<p>To God be the glory!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/About KCPSS/Picture4.png">
+</div>
+<p><em>Published in the KCPS Centennial Bible</em>
+</p>
