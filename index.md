@@ -17,7 +17,7 @@ sections:
           url: /school-canteen-advertisement
         - title: ESPOIR
           description: ""
-          url: https://go.gov.sg/kcpss-espoir-2023-issue2
+          url: https://go.gov.sg/espoir-2024isue1
       variant: center
   - resources:
       title: Announcements
