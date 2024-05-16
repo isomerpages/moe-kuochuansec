@@ -19,23 +19,26 @@ from every background.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About KCPSS/Picture1.png">
 </div>
-<p>Progress was also being made in the girls' school. It became a full government-aided
-school in 1951 and two years later, the first group of students sat for
-the Cambridge Examination .In line with government policy, Dryburgh English
-School was merged with Presbyterian Boys' School under Mr Sia Kah Hui who
-served as principal from 1961 to 1963. Succeeding principals were Mr Wee
-Choon Siang. Mr Poon Meng Seng, Mr Tan Choong Yan and two Acting Principals.</p>
-<p>In 1970, the schools' sense of identity was given a boost with the adoption
-of a school anthem. The words were derived from a competition among the
-staff and students of Presbyterian Boys' School while Mr Samuel Ting Chu
-San specially wrote the music.</p>
-<p>In 1972, Miss Sirkett retired after twenty-five years of tireless, fruitful
-and dedicated service. Succeeding Principals were Mrs Lee Choon Neo from
-1972 to 1977, Mrs Mabel Lew from 1978 to 1983 and Madam Kang Swee Chin
-from 1984 to 1990.</p>
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/About%20KCPSS/Our%20History%202.gif">
-</div>
+<p><strong>Relocation to Koon Seng Road </strong>
+</p>
+<p>Because of divine providence, the Presbytery approved the construction
+of a new school building at 47 Koon Seng Road. In 1925, the school relocated
+and was renamed Choon Guan School in recognition of a generous donation
+given to the school building fund by Dr Lee Choon Guan’s son.</p>
+<p>Miss Margaret Dryburgh arrived in Singapore as an educational missionary
+of the Presbyterian Church. She was first appointed as principal of Choon
+Guan School in 1934, and saw through its transformation into Choon Guan
+English School in 1936. When a separate girls’ school, Kuo Chuan Girls’
+School was created in 1938, Miss Dryburgh became its first principal.</p>
+<p>Mr John Rhys Richardson was first appointed the principal of Choon Guan
+English</p>
+<p>School when the school became a government-aided school for boys in 1938.
+Mr Richardson was highly pivotal and influential during the early developing
+years of Choon Guan English School, which was eventually renamed Presbyterian
+Boys’ School.</p>
+<p></p>
+<p><strong>Hopefulness in the Dark Days (War)</strong>
+</p>
 <p>The two schools reached another important milestone when in 1985 they
 were amalgamated into one co-educational full school called Kuo Chuan Presbyterian
 Secondary School. As the school buildings and facilities had become increasingly
