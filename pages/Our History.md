@@ -134,7 +134,4 @@ of God’s grace and enduring power to sustain and uplift.</p>
 </div>
 <p><em>Published in the KCPS Centennial Bible</em>
 </p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gLeZWJ9y9Rs"></iframe>
-</div>
 <p></p>
