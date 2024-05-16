@@ -56,11 +56,8 @@ Presbyterian Boys’ School, a testament to the enduring work of God.</p>
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/About KCPSS/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About KCPSS/Picture2.png">
 </div>
 </td>
 <td rowspan="2" colspan="1">
@@ -72,15 +69,32 @@ forward as the schools rose from the ashes of war. In February 1947, Kuo
 Chuan Girls’ School reopened its doors with Miss Monica Sirkett at the
 helm.</p>
 <p></p>
+<p></p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>In the divine narrative of Kuo Chuan Girls’ School, the passing of the
 torch from Miss Monica Sirkett to Mrs Lee Choon Neo in 1972 symbolised
 the continuation of God’s appointed stewardship. As the school expanded
 its reach from Primary One to Standard Nine, it echoed the parable of the
 mustard seed, growing from humble beginnings into a mighty tree, sheltering
 all who sought its shade.</p>
+<p></p>
+<p>Mr J.R. Richardson also emerged as a faithful steward entrusted with the
+task of restoration of Choon Guan English School after World War II. In
+1949, when the first senior batch of students faced the Cambridge School
+Cambridge Certificate Examination, it was akin to seeds planted in fertile
+soil, nurtured by the divine hand of providence.</p>
+<p></p>
+<p>The renaming of the school as Presbyterian Boys’ School in 1950 symbolised
+a rebirth, a demonstration of God’s abundant grace and guidance in times
+of transition. In 1970, the introduction of a school anthem served as a
+hymn of gratitude, a celebration of God’s blessings and the collective
+identity forged among students and staff.</p>
 </td>
 </tr>
-<tr></tr>
 </tbody>
 </table>
 <p></p>
