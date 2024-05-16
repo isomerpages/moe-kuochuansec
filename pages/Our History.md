@@ -130,7 +130,11 @@ of God’s grace and enduring power to sustain and uplift.</p>
 <p>To God be the glory!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/About KCPSS/Picture4.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/About KCPSS/Picture4.png">
 </div>
 <p><em>Published in the KCPS Centennial Bible</em>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gLeZWJ9y9Rs"></iframe>
+</div>
+<p></p>
