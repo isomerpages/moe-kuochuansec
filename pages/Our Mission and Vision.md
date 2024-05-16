@@ -17,3 +17,8 @@ communities.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/vision.jpg">
 </div>
 <p>We strive to be a school that is a beacon of hope and light in the community</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gLeZWJ9y9Rs"></iframe>
+</div>
+<p></p>
