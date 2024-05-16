@@ -38,7 +38,7 @@ concern for others.</p>
 these is love." 1 Corinthians 13:13
 <br>NB: Agape is a Greek word for unconditional love of God.</p>
 <p></p>
-<p><strong>Conscientiousness</strong>
+<p><strong>Conscientiousness</strong> 
 <br>We want to raise diligent and persevering individuals in order to achieve
 success.</p>
 <p>"I have fought the good fight, I have finished the race, I have kept the
