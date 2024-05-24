@@ -2,7 +2,10 @@
 title: DSA Briefing Materials
 permalink: /admission/direct-school-admission/dsa-briefing-materials/
 description: ""
+variant: tiptap
 ---
-## DSA Briefing Materials
-
-<iframe width="877" height="539" src="https://www.youtube.com/embed/dWkyc9NuwXw" title="DSA Briefing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h2>DSA Briefing Materials</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GAjn5yPffaU?si=HdGQF8OXVMXwtXen"></iframe>
+</div>
+<p></p>
