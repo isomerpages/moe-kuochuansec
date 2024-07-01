@@ -4,7 +4,12 @@ permalink: /our-people/our-staff/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -645,6 +650,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>kang_joo_geok@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher - 2 LOVE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Maria Immaculate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maria_immaculate_A@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
