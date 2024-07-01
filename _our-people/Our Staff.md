@@ -687,6 +687,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teacher - 2 PEACE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Chua Yi Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua_Yi_Jun@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teacher - 2 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
