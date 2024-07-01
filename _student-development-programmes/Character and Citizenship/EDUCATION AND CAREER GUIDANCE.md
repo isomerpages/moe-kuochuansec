@@ -90,12 +90,16 @@ Counsellor.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ECG Counsellor: Ms. Lisa,Lim Yin Leng - <a href="mailto:Lim_Yin_Leng_Lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Yin_Leng_Lisa@schools.gov.sg </a>
+<p>ECG Counsellor: Ms. Lisa,Lim Yin Leng - <a href="mailto:Lim_Yin_Leng_Lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Yin_Leng_Lisa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCE/ecg_helpline.png">
+</div>
 <h3>Resources</h3>
 <p><strong>School Admission Exercise for Sec4E / 5NA</strong>
 </p>
