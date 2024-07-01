@@ -951,17 +951,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher - 4 PEACE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Kavitha Ramachandran&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kavitha_ramachandran@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teacher - 4 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
