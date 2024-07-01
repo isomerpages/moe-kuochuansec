@@ -1062,10 +1062,10 @@ variant: tiptap
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Eu Gin, David</p>
+<p>Mr Tan Sung Paul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan_Eu_Gin_David@schools.gov.sg</p>
+<p>Tan_Sung_Paul@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
