@@ -1103,17 +1103,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan kok Meng Paul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan_Kok_Meng_Paul_A@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1121,17 +1110,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Tai_Tze_Ghee_A@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Han Guan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ong_Han_Guan_A@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1150,10 +1128,21 @@ variant: tiptap
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Yaw Sheng</p>
+<p>Mr Chu Yu Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chong_yaw_sheng_A@moe.edu.sg</p>
+<p>Chu_Yu_Sheng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Chii Tee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim_Chii_Tee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
