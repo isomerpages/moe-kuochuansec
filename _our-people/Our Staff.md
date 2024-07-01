@@ -632,6 +632,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teacher - 2 HOPE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Brian Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>brian_pang_khang_chen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teacher - 2 JOY</p>
 </td>
 <td rowspan="1" colspan="1">
