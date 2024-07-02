@@ -95,7 +95,8 @@ variant: tiptap
 <p>Ms Jane Ingram</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Ingham_Jane_Christine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ingham_Jane_Christine@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
