@@ -4,7 +4,12 @@ permalink: /our-people/our-staff/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -627,6 +632,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teacher - 2 HOPE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Brian Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>brian_pang_khang_chen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teacher - 2 JOY</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -634,6 +650,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_rachel@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher - 2 JOY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Low Qiao Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Low_Qiao_Xuan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -649,6 +676,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teacher - 2 LOVE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Maria Immaculate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maria_immaculate_A@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teacher - 2 PEACE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -656,6 +694,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_siaw_chong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher - 2 PEACE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Chua Yi Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua_Yi_Jun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -902,17 +951,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher - 4 PEACE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Kavitha Ramachandran&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kavitha_ramachandran@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teacher - 4 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1024,10 +1062,10 @@ variant: tiptap
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Eu Gin, David</p>
+<p>Mr Tan Sung Paul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan_Eu_Gin_David@schools.gov.sg</p>
+<p>Tan_Sung_Paul@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1065,17 +1103,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan kok Meng Paul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan_Kok_Meng_Paul_A@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1083,17 +1110,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Tai_Tze_Ghee_A@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Han Guan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ong_Han_Guan_A@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1112,10 +1128,21 @@ variant: tiptap
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Yaw Sheng</p>
+<p>Mr Chu Yu Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chong_yaw_sheng_A@moe.edu.sg</p>
+<p>Chu_Yu_Sheng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Chii Tee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim_Chii_Tee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
