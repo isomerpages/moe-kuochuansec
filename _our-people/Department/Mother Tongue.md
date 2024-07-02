@@ -122,7 +122,8 @@ variant: tiptap
 <p>Mdm Chu yu Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Chu_Yu_Sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chu_Yu_Sheng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
