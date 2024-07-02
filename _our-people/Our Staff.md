@@ -929,17 +929,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher - 4 LOVE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Jian Liang Joel&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_jian_liang_joel@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teacher - 4 PEACE</p>
 </td>
 <td rowspan="1" colspan="1">
