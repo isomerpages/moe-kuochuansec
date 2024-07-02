@@ -12,7 +12,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Humanities" src="/images/Our%20People/Departments/Departments%20Main%20Page/humanities2023.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -38,15 +42,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:janell_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">janell_lim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Jian Liang Joel (Social Studies/History)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jian_liang_joel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jian_liang_joel@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -88,10 +83,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Arunajeet Kaur</p>
+<p>Mrs Amelia Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Arunajeet_Kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Arunajeet_Kaur_A@schools.gov.sg</a>
+<p><a href="mailto:Amelia_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Amelia_chong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jane Ingram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ingham_Jane_Christine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ingham_Jane_Christine@schools.gov.sg</a>
 </p>
 </td>
 </tr>

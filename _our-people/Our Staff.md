@@ -929,17 +929,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher - 4 LOVE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Jian Liang Joel&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_jian_liang_joel@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teacher - 4 PEACE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1103,6 +1092,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nicky Phua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nicky_Phua_Cheng_Liang_A@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1147,6 +1147,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Chan Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1175,7 +1186,7 @@ variant: tiptap
 <p>Mrs Amelia Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Amelia_chong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
