@@ -129,10 +129,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Eu Gin, David</p>
+<p>Mr Tan Sung Paul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Eu_Gin_David@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Eu_Gin_David@schools.gov.sg</a>
+<p><a href="mailto:Tan_Eu_Gin_David@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Sung_Paul@schools.gov.sg</a>
 </p>
 </td>
 </tr>
