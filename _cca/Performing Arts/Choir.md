@@ -10,7 +10,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/Choir.jpg">
 </div>
 <h3>Vision</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
@@ -32,7 +36,11 @@ Performing Art(s) CCA to develop music literacy,&nbsp;interest and skills
 in Singing as well to develop performance excellence, to build character,
 team spirit,leadership skills and confidence.</p>
 <h3>Area of Focus</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -54,7 +62,12 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 </div>
 <p><strong><u>Training</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -64,7 +77,7 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 <p>Every Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Thursday</p>
+<p>Every Friday</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +131,12 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 </li>
 </ul>
 <h3>Teachers-in-Charge</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -126,6 +144,9 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Esther Yong Yin Yin</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Goh Yu En</p>
 </th>
 </tr>
 <tr>
@@ -135,6 +156,10 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yong_yin_yin_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_yin_yin_esther@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Goh_yu_en_D@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_yu_en_D@schools.gov.sg</a>
 </p>
 </td>
 </tr>

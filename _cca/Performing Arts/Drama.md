@@ -37,7 +37,7 @@ Each training session focuses on the fundamentals of drama training, ensemble wo
   <tr>
     <th>Training Days</th>
     <td>Every Tuesday</td>
-    <td>Every Thursday</td>
+    <td>Every Friday</td>
   </tr>
 </thead>
 <tbody>
