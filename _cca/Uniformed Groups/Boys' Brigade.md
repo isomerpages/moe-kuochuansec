@@ -60,6 +60,6 @@ In the 1990s when Kuo Chuan Presbyterian Schools were built in Bishan St. 13, 5t
 
 
 
-| Ng Chee Kian | Tan Siaw Chong  | 
-| -------- | -------- | 
-| <a href="mailto:ng_chee_kian@schools.gov.sg">ng_chee_kian@schools.gov.sg</a>     | <a href="mailto:tan_siaw_chong@schools.gov.sg">tan_siaw_chong@schools.gov.sg</a>    | 
+| Ng Chee Kian | Tan Siaw Chong  | John Pravin |
+| -------- | -------- | -------- | 
+| <a href="mailto:ng_chee_kian@schools.gov.sg">ng_chee_kian@schools.gov.sg</a>     | <a href="mailto:tan_siaw_chong@schools.gov.sg">tan_siaw_chong@schools.gov.sg</a>    |<a href="mailto:John_Pravin_Kanesan@schools.gov.sg">John_Pravin_Kanesan@schools.gov.sg</a>    |
