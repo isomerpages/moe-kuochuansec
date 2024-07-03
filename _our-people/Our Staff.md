@@ -1153,18 +1153,7 @@ variant: tiptap
 <p>Mr Ho Chan Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Arunajeet Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Arunajeet_Kaur_A@schools.gov.sg</p>
+<p>Ho_Chan_Hui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
