@@ -1330,6 +1330,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operation Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rahmat Nazri Shokor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rahmat_nazri_shokor@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
