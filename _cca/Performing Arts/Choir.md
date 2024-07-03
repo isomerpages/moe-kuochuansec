@@ -77,7 +77,7 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 <p>Every Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Thursday</p>
+<p>Every Friday</p>
 </td>
 </tr>
 <tr>
