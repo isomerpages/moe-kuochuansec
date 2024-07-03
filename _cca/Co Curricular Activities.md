@@ -5,7 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h2>Co-Curricular Activities (CCA)</h2>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -26,11 +32,16 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/CCA_Schedule_2024__1_Apr_.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Training Schedule</a>
+<p><a href="/files/CCA_Schedule_2024__1_Apr_.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Training S</a>
+<a href="/files/KCPSS_CCA_Deployment_2024__26_Jun_.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/CCA_Schedule_2024__1_Apr_.pdf" rel="noopener noreferrer nofollow" target="_blank">chedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,7 +61,11 @@ variant: tiptap
 </li>
 </ul>
 <h3>CCA Information for Secondary 1</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
