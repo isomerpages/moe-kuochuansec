@@ -131,6 +131,6 @@ Some highlights of our activities include archery, indoor rock climbing, kayakin
 
 
 
-| Ang Siok Min Mitchelle  |  Wang Ting |
-| -------- |  -------- |
-|<a href="mailto:ang_siok_min_mitchelle@schools.gov.sg">ang_siok_min_mitchelle@schools.gov.sg</a> | <a href="mailto:wang_ting@schools.gov.sg">wang_ting@schools.gov.sg</a> |
+| Ang Siok Min Mitchelle  |  Wang Ting |Low Qiao Xuan |
+| -------- |  -------- |-------- |
+|<a href="mailto:ang_siok_min_mitchelle@schools.gov.sg">ang_siok_min_mitchelle@schools.gov.sg</a> | <a href="mailto:wang_ting@schools.gov.sg">wang_ting@schools.gov.sg</a> |<a href="mailto:Low_Qiao_Xuan@schools.gov.sg">Low_Qiao_Xuan@schools.gov.sg</a> |
