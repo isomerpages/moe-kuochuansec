@@ -140,3 +140,6 @@ variant: markdown
 <p><a href="mailto:koh_ai_mui@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/OMrebecca.jpg">
 </a></p>
+<p><a href="mailto:Rahmat_Nazri_Shokor@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/OM Nazri.jpg">
+</a></p>
