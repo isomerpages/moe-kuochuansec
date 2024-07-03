@@ -136,7 +136,7 @@ variant: markdown
 
 <p><a href="mailto:goh_chee_chong@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/CheeChong_AM.jpg"></a></p>
-
+<br><br><br>
 <p><a href="mailto:koh_ai_mui@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/OMrebecca.jpg">
 </a></p>
