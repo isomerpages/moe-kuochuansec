@@ -983,6 +983,39 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Goh Yu En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh_Yu_En_D@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr John Pravin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>John_Pravin_Kanesan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Chan Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho_Chan_Hui@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Flexi-Teachers / Relief Teachers</strong>
 </p>
