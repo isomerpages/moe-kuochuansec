@@ -4,7 +4,12 @@ permalink: /school-canteen-advertisement/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -19,38 +24,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal Stall</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 December 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(E.g. Traditional Malay, Indian Muslim, Thai, Vietnamese, etc).</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Stall</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 December 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(E.g. different ideas and concepts of Chinese dishes)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Kuo Chuan Presbyterian Secondary School (KCPSS) is looking for a stall
-holder to operate a Halal certified Food Stall &amp; Chinese Rice Stall
-in our school canteen, with effect from an agreed upon date after award.
-Besides providing sumptuous, healthy meals and snacks to the students and
-staff, our school is looking at our canteen to be a place where hungry
-students and staff can look forward to wide choices of exciting meals.
-As such, we are open to different ideas and concepts of halal dishes (E.g.
-Traditional Malay, Indian Muslim, Thai, Vietnamese, etc) &amp; Chinese
-dishes. Interested vendors are invited to participate in this bid for the
-stall.</p>
+<p></p>
 <p><strong>Location:</strong> 
 <br>10 Bishan Street 13, Singapore 579795</p>
 <p><strong>School Canteen Operating Hours:</strong> 
