@@ -2,9 +2,8 @@
 title: English
 permalink: /the-kuo-chuan-experience/academics/English/
 description: ""
+variant: markdown
 ---
-
-
 **<center>ENGLISH DEPARTMENT</center>**<br>
 **<center>A creative and critical thinker, who is a voice for change</center>**
 
@@ -13,10 +12,9 @@ description: ""
 
 <p style="text-align: justify;font-size:16px;">KCPSS English Department uses the MOE EL Syllabus 2020 as its main teaching and learning instruction. This is to align the teaching and learning of English Language to national objectives and desired outcomes for EL proficiency in Singapore.</p>
 
-**Key features of the EL Syllabus 2020** (insert taken from MOE English Syllabus document)
+**Key features of the EL Syllabus 2020**&nbsp;(insert taken from MOE English Syllabus document)
 
-<img src="/images/Our%20People/Departments/English/EL%20syllabus.jpg"  
-     style="width:75%">
+<img src="/images/Our%20People/Departments/English/EL%20syllabus.jpg" style="width:75%">
 		 
 
 ### Programmes
@@ -45,7 +43,7 @@ description: ""
 
 **Sec 3 Journalistic (Writing Espoir Newsletter)**
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLvIh20PJs8Apf2ag5KhReoTdnFtapXodGdNjIxy1GeSZe2t0jM7QK7hnDy0aX3ekVfe6vM1ibCzDU/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkzOuKyUBEbEH1CDBKun3abX9r6oKzSjs7w4ZKjlus4es77j-lxRk-dfZ9UzWpTtY0f49yphivlD50/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 
 <p style="text-align: justify;font-size:16px;">Espoir is a biannual school publication that offers news of school events, innovative practices, features personalities that define the Kuo Chuan community and student perspectives on issues that have an impact on the individual and the larger school community. It is the product of an innovative EL curriculum which develops relevant skills to face the global landscape. Espoir is a Secondary 3 EL Level project and also serves as a platform to hone writing skills of high progress learners.</p>
 
@@ -134,7 +132,7 @@ description: ""
 **Sec 2EN Literature Set Text**
 
 
-_Flowers for Algernon_&nbsp;is a science fiction short story written by Daniel Keyes and published in 1966. The story is told by a series of progress reports written by Charlie Gordon, the first human subject for the surgery, and it touches on ethical and moral themes such as the treatment of the mentally disabled.</p>
+_Flowers for Algernon_&nbsp;is a science fiction short story written by Daniel Keyes and published in 1966. The story is told by a series of progress reports written by Charlie Gordon, the first human subject for the surgery, and it touches on ethical and moral themes such as the treatment of the mentally disabled.<p></p>
 
 <p style="text-align: justify;font-size:16px;">The study of the text challenges Secondary Two students to question societal discrimination and treatment of people with differing intelligence quotients. They also engage with the discourse about the ethics of experimentation.</p>
 
@@ -193,6 +191,6 @@ _Flowers for Algernon_&nbsp;is a science fiction short story written by Daniel K
 <p style="text-align: justify;font-size:16px;">The Literature team shared with fellow Literature educators at the Teacher-led workshop hosted by the Academy of Singapore Teachers in 2021 on the department’s first ever game-based learning strategies enacted in the English Literature classroom to elicit literary discourse and encourage active learning. An innovative approach to teaching literary discourse via an innovative card game was mooted by the Literature team which aims to encourage self-directed learning as well as cooperative learning. This enabled the team to explore the use of game-play to engage learners in an exploratory and collaborative study of poetry to enhance students’ engagement, appreciation and understanding in the Literature classroom.</p>
 
 
-<iframe width="480" height="299" src="https://www.youtube.com/embed/rvH5SOl2oHs" title="It s Lit Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
+<iframe width="480" height="299" src="https://www.youtube.com/embed/rvH5SOl2oHs" title="It s Lit Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe> <br>
 
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTR4L2Q5UfguNzKqMPvxkqyt9ztw6JXTggrfkwELRMNu3tompkhQqGwNBSB50jpTr0CVhjP4geCcEI9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
