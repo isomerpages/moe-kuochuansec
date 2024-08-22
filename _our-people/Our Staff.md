@@ -789,17 +789,6 @@ variant: tiptap
 <p>Teacher - 3 PEACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Thuan Hock&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_thuan_hock@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher - 3 PEACE</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Sean Ong Zhi Han</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1403,17 +1392,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>saadiah_asdan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Luke Teo Lead</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>luke_teo_lead@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
