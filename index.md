@@ -23,10 +23,12 @@ sections:
       title: Announcements
       button: Click Here
   - infopic:
-      title: KCP 100 MUSICAL
+      title: KCP 100
       id: infopic
       alt: Image alt text
       image: /images/grace_arise.jpg
+      subtitle: Musical
+      description: Grace Arise
   - infopic:
       title: KCP 100
       subtitle: centennial
