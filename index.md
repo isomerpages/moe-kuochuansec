@@ -23,14 +23,10 @@ sections:
       title: Announcements
       button: Click Here
   - infopic:
-      title: Direct School Admission
+      title: KCP 100 MUSICAL
       id: infopic
-      description: 11am on Tuesday, 7 May 2024 to 3pm on Monday, 3 June 2024. For more
-        details, please refer to MOE website
-      button: For more details, click here
-      url: https://www.kuochuanpresbyteriansec.moe.edu.sg/admission/direct-school-admission/
       alt: Image alt text
-      image: /images/MOTD_03_Final_v3_resized.jpg
+      image: /images/grace_arise.jpg
   - infopic:
       title: KCP 100
       subtitle: centennial
