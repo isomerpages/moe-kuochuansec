@@ -25,7 +25,7 @@ one Association catering to the old students of both schools.</p>
 <h3>About Us</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Commuity/kcpsaalumni2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Commuity/KCPSA_2024.jpg">
 </div>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
