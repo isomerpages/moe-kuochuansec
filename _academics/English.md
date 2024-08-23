@@ -144,8 +144,30 @@ Ann Polytechnic lecturers or current deejays/celebrities.</p>
 part of an authentic learning experience in learning about the role that
 media plays in society. Our students even had a chance to hone their Speaking
 and Representing skills as a result.</p>
-<p><strong>Upper Sec Pure Literature Texts (wef 2020 onwards)</strong>
+<p><strong>Upper Sec Pure Literature Texts </strong>
 </p>
+<p><strong>All The Light We Cannot See, Anthony Doerr</strong>
+</p>
+<p>(Set Text for Upper Sec, 2024/2025)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our People/Departments/English/ELLITpic1.jpg">
+</div>
+<p>Set in World War II, this novel takes readers on an extraordinary journey
+through time and space in the minds of our protagonists - Marie-Laure,
+a blind girl with a steely determination to hope, and Werner, an orphan
+with a unique talent that wins him a place at a brutal academy for Hitler
+Youth.</p>
+<p>Doerr interweaves the lives of Marie-Laure and Werner in great intricacy,
+nuance and skill, and illuminates how people try to choose good, in spite
+of darkness.</p>
+<p>Join us to discover our humanity as we explore a world where the brutality
+of war and the power of hope meet.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our People/Departments/English/ELLITpic2_jpg.png">
+</div>
 <p></p>
 <p><strong>“It’s Lit” Literature Card Game</strong>
 </p>
