@@ -149,7 +149,6 @@ and Representing skills as a result.</p>
 <p><strong>All The Light We Cannot See, Anthony Doerr</strong>
 </p>
 <p>(Set Text for Upper Sec, 2024/2025)</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our People/Departments/English/ELLITpic1.jpg">
 </div>
