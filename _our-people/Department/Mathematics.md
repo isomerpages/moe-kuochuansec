@@ -29,6 +29,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Loh Jia Perng (HOD/Mathematics - Designate)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_jia_perng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_jia_perng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Patrick Goh (YH Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
