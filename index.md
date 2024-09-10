@@ -23,12 +23,12 @@ sections:
       title: Announcements
       button: Click Here
   - infopic:
-      title: KCP 100
+      title: ARISE & SHINE!
       id: infopic
       alt: Image alt text
-      image: /images/grace_arise.jpg
-      subtitle: Musical
-      description: Grace Arise
+      image: /images/Arise_Thanksgiving.jpg
+      subtitle: Thanksgiving Ceremony
+      description: Friday 20 SEPTEMBER 2024
   - infopic:
       title: KCP 100
       subtitle: centennial
