@@ -207,6 +207,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD - Maths (Designate)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Jia Perng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loh_jia_perng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head Upp Sec</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1153,7 +1164,7 @@ variant: tiptap
 <p>Mr Chu Yu Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chu_Yu_Sheng@schools.gov.sg</p>
+<p>Chu_Yusheng_B@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
