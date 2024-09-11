@@ -95,7 +95,7 @@ variant: tiptap
 <p>Miss Maria Immaculate (Tamil Lang)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maria_ammaculate_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maria_ammaculate_A@schools.gov.sg</a>
+<p><a href="mailto:maria_ammaculate_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maria_immaculate_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
