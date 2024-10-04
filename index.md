@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/KCPS100banner20Feb.gif
+      background: /images/banner_open_house24.gif
       key_highlights:
         - title: Happenings
           description: ""
@@ -22,13 +22,6 @@ sections:
   - resources:
       title: Announcements
       button: Click Here
-  - infopic:
-      title: ARISE & SHINE!
-      id: infopic
-      alt: Image alt text
-      image: /images/Arise_Thanksgiving.jpg
-      subtitle: Thanksgiving Ceremony
-      description: Friday 20 SEPTEMBER 2024
   - infopic:
       title: KCP 100
       subtitle: centennial
