@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/openhouse24.gif
+      background: /images/openhousebannerv1.gif
       key_highlights:
         - title: Happenings
           description: ""
