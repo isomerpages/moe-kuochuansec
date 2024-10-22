@@ -55,6 +55,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice - Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Eka Tanu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eka_Tanu@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice - Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -808,7 +819,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher - 3 PRASIE</p>
+<p>Teacher - 3 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chee Kian Ng</p>
@@ -1288,13 +1299,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School ECG Counsellor</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Yin Leng Lisa</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_yin_leng_lisa@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1414,6 +1425,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>v_nirumala@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Selvi Ganesan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selvi_Ganesan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
