@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /the-kuo-chuan-experience/academics/humanities/
 description: ""
+variant: markdown
 ---
 **<center>HUMANITIES DEPARTMENT</center>**
 
@@ -13,13 +14,6 @@ description: ""
 | Every KCPian an **A.C.E. (Analytical, Collaborative &amp; Ethical)** thinker, serving the community with an excellence mindset. | To develop KCPians holistically through collaborative, cooperative and inquiry based learning strategies to instill a sense of self directed for life-long learning    | 
 |
 
-**Values**<br>
-**T:** Teamwork **(T-GRACE)**<br>
-**G :** God-fearing <br>
-**R:** Resilience <br>
-**A:** Agape <br>
-**C:** Conscientiousness<br>
-**E:** Empathy<br>      
 
 **Strategies employed in the Humanities Department@KCPSS:**
 * Learning Journeys for an experiential learning experience
@@ -35,7 +29,7 @@ description: ""
 ## Programmes
 
 
-**Learning Journeys for Secondary One students (History)**
+**Hstory**
 
 **Amazing Race@Singapore River**
 
@@ -48,16 +42,13 @@ description: ""
 </thead>
 </table>
 
-**Learning Journeys for Secondary Two students (History)**
-
-**Investigations@Old Ford Factory Museum**
-
+**Learning Journey @ Former Ford Factory Museum
 
 <table>
 <thead>
   <tr>
     <td><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAjTqJAdG2V4IGQwJHmMyF-Vsob0n8NoZCo7MIX0j4vgS5ZF8kLd4IevQ-u_LrIZ7DDuyL8VXgfbir/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe><br><br><br><br><br><br><br><br><br></td>
-    <td style="text-align: justify;font-size:16px;">History came alive for the Secondary Two students when they returned to the Japanese Occupation at the Memories at Old Ford Factory! A World War II historical site, the History and English department leveraged on the Secondary Two Learning Journey to walk through the pathway of ‘Syonan’ and relived the moments of the past. Many of our students walked away with a better understanding of the experiences of the locals and survivors of the Japanese Occupation, helping our young to appreciate that Singapore’s sovereignty came with a price. </td>
+    <td style="text-align: justify;font-size:16px;">History came alive for the Secondary Two students when they returned to the Japanese Occupation at the Former Ford Factory Museum! A World War II historical site, the History and English department leveraged on the Secondary Two Learning Journey to walk through the pathway of ‘Syonan’ and relived the moments of the past. Many of our students walked away with a better understanding of the experiences of the locals and survivors of the Japanese Occupation, helping our young to appreciate that Singapore’s sovereignty came with a price. </td>
   </tr>
 </thead>
 </table>
