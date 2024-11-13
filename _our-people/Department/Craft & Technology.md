@@ -98,7 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yong Yin Yin Esther (SH/Aesthetics (covering))</p>
+<p>Mrs Esther Tay (SH/Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yong_yin_yin_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_yin_yin_esther@schools.gov.sg</a>
