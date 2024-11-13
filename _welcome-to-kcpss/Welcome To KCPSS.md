@@ -8,3 +8,8 @@ variant: markdown
 
 ![](/images/Virtual%20Open%20House/welcomkcpss2024.png)
 
+![](/images/Virtual%20Open%20House/5.png)
+
+![](/images/Virtual%20Open%20House/6.png)
+
+![](/images/Virtual%20Open%20House/7.png)
