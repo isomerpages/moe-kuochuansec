@@ -392,10 +392,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Aesthetics (covering)</p>
+<p>SH/Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yong Yin Yin Esther</p>
+<p>Mrs Esther Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yong_yin_yin_esther@schools.gov.sg</p>
