@@ -140,14 +140,20 @@ sovereignty came with a price.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/x0NEB9L6-bs?si=9RCUmE3oZt6EZBJy"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/x0NEB9L6-bs?si=HzJq-bPtVe0x78KH"></iframe>
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Secondary Two students were tasked with conducting a Historical Investigation
+into the topic of Merger and Separation. Students analysed historical sources,
+then created an end product based on their understanding of the reasons
+why Singapore merged with or separated from Malaya. Through this experience,
+our students saw how history can come alive as they are able to evaluate
+the significance of the past and its impact on the present and even the
+future.</p>
+</td>
 </tr>
 </tbody>
 </table>
