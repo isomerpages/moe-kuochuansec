@@ -76,8 +76,7 @@ learners</p>
 </li>
 </ul>
 <h2>Programmes</h2>
-<p><strong>History</strong>
-</p>
+<h4><strong>History</strong></h4>
 <p><strong>Amazing Race@Singapore River</strong>
 </p>
 <table style="minWidth: 50px">
@@ -157,6 +156,7 @@ future.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Geography</strong></h4>
 <p><strong>Geographical Investigations @ Labrador Park/Singapore Botanic Gardens</strong>
 </p>
 <table style="minWidth: 50px">
@@ -170,11 +170,6 @@ future.</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRVEPsYFJH1Bao2REZA7sk7Cfv6BHYPyd_itvRLvoMML3sCjCCh4LgVX6KiUKDghN5cRgYVHU5OPgcT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p>
-<br>
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Secondary One students embarked on learning journeys to either Labrador
