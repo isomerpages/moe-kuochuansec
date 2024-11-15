@@ -248,8 +248,7 @@ in conducting interviews, land use surveys and data collection.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Self-directed Field Studies for the Secondary Four/Five students (Geography)</strong>
-</p>
+<h4><strong>Social Studies</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -257,59 +256,21 @@ in conducting interviews, land use surveys and data collection.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Field studies@Chinatown (Tourism)</p>
-</th>
 <td rowspan="1" colspan="1">
-<p>The Secondary Four and Five students embarked on a self-directed Learning
-Journey to Chinatown to enhance their Geographical Investigation skills
-in conducting interviews, land use surveys and data collection.</p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTO79ygVc6DP6tnr2-SX8m0xBzBbN-hJHqIA_2ovdcc1IKVjjLYsFBvb_o3PzpFnaUNluxtQWvQDV_g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 </td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>NUS Geography Challenge for Upper Secondary Geography Students</p>
-</th>
 <td rowspan="1" colspan="1">
-<p>Students who have excelled in their Geography at Upper Secondary are selected
-to participate in the NUS Geography Challenge. These students are given
-additional training to prepare them for the various Geography related challenges
-at the competition itself.</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Learning Journeys for Secondary Three students (Social Studies)</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>The Secondary Three students embarked on their ‘Issues Investigation’
-project with a view to solving the concerns facing an ageing population.</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Lower Sec Historical Investigation (HI) and Sec 4 Media Literacy Task</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>The Secondary 2 and 4 History students were tasked to create a video using
-research findings gathered from their History lessons.
-<br>
-<br>The Secondary 2s focussed on the Historical Investigation (HI) and created
-a video based on their understanding about the legacy of the Founding Fathers
-they have chosen to study while the Secondary 4s worked on the reasons
-for the Cold War.
-<br>
-<br>Using iMovie, Windows Movie Maker and other video-making web applications,
-this project encourages an engaging pedagogy to make learning fun and exciting.
-Through their decision-making processes, in terms of the creation of their
-own messages and the mode of portrayal in their clips, this project promotes
-a deeper awareness of how history can come alive how they are able to evaluate
-significance in the past and how they impact the present and even the future.</p>
+<p>The Social Studies Issues Investigation offers an exciting opportunity
+for students to dive deep into real-world issues. Students become researchers,
+exploring multiple perspectives from various stakeholders, sharpening their
+inference and data management skills. By reflecting on their findings,
+they’ll create a meaningful solution to the issue—becoming agents of change.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXqsKwmQkbOEDowrzsFSofGgYBARNskr0kjHiwascLyAcqtjDp4I8KvCIIGcNPajySdjGEW_Vh_XMd/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
