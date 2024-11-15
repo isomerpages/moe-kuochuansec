@@ -272,5 +272,46 @@ they’ll create a meaningful solution to the issue—becoming agents of change.
 </tbody>
 </table>
 <h4><strong>Competitions and Enrichment Programmes</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students can look forward to exciting opportunities to extend their learning
+beyond the classroom by taking part in external Humanities competitions
+and programmes, such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NUS Geography Challenge</p>
+</li>
+<li>
+<p>EOS Earth Alive Inter-School Challenge</p>
+</li>
+<li>
+<p>Singapore Energy Grand Challenge</p>
+</li>
+<li>
+<p>Historical Scene Investigation (H.S.I.) Challenge</p>
+</li>
+<li>
+<p>Humanities in Action Challenge</p>
+</li>
+<li>
+<p>MOE History Challenge</p>
+</li>
+<li>
+<p>NLB Prove It! Challenge</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
