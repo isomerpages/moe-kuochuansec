@@ -271,7 +271,6 @@ they’ll create a meaningful solution to the issue—becoming agents of change.
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXqsKwmQkbOEDowrzsFSofGgYBARNskr0kjHiwascLyAcqtjDp4I8KvCIIGcNPajySdjGEW_Vh_XMd/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
+<h4><strong>Competitions and Enrichment Programmes</strong></h4>
+<p></p>
 <p></p>
