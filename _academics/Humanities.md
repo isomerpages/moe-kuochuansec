@@ -168,7 +168,7 @@ future.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRVEPsYFJH1Bao2REZA7sk7Cfv6BHYPyd_itvRLvoMML3sCjCCh4LgVX6KiUKDghN5cRgYVHU5OPgcT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwAIs-6cFZKfJgwGEMo-qASIlrcTflKEeYlxT8WneMNhVarmN_N4Vf_ziRW8SNiGky6iVX2eoG8RYk/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -290,9 +290,7 @@ significance in the past and how they impact the present and even the future.</p
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXqsKwmQkbOEDowrzsFSofGgYBARNskr0kjHiwascLyAcqtjDp4I8KvCIIGcNPajySdjGEW_Vh_XMd/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
