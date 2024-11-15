@@ -133,6 +133,24 @@ sovereignty came with a price.</p>
 <p><strong>Historical Investigation: Merger &amp; Separation</strong>
 </p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/x0NEB9L6-bs?si=9RCUmE3oZt6EZBJy"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Geographical Investigations @ Labrador Park/Singapore Botanic Gardens</strong>
 </p>
 <table style="minWidth: 50px">
