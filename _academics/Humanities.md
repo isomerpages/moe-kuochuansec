@@ -228,7 +228,26 @@ see the relevance of the concepts, highlighting Geography in Everyday life.</p>
 </table>
 <p><strong>Bite-sized Fieldwork: Tourism @ Chinatown</strong>
 </p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXqsKwmQkbOEDowrzsFSofGgYBARNskr0kjHiwascLyAcqtjDp4I8KvCIIGcNPajySdjGEW_Vh_XMd/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Secondary Four and Five students embarked on a self-directed Learning
+Journey to Chinatown to enhance their Geographical Investigation skills
+in conducting interviews, land use surveys and data collection.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Self-directed Field Studies for the Secondary Four/Five students (Geography)</strong>
 </p>
 <table style="minWidth: 50px">
@@ -294,41 +313,4 @@ significance in the past and how they impact the present and even the future.</p
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXqsKwmQkbOEDowrzsFSofGgYBARNskr0kjHiwascLyAcqtjDp4I8KvCIIGcNPajySdjGEW_Vh_XMd/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Secondary 1 Media Literacy</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Secondary 2 Media Literacy</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Secondary 4 Media Literacy</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="240" width="352" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zoB2EwG27vM"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="240" width="352" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JYz6zTCHIKQ"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="240" width="352" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nCKonT43Xo0"></iframe>
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
