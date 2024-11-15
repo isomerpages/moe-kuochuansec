@@ -203,6 +203,32 @@ housing on their journey and a sense of place and space.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Bite-sized Fieldwork: Geography in Everyday Life</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jMOHi2HbYRo?si=fCDTVGRdrWG3IQUV"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary Three students applied Geographical concepts through the fieldwork
+project. Students researched the history of their selected town, and created
+a video to share about its sustainability features. The students could
+see the relevance of the concepts, highlighting Geography in Everyday life.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Bite-sized Fieldwork: Tourism @ Chinatown</strong>
+</p>
+<p></p>
 <p><strong>Self-directed Field Studies for the Secondary Four/Five students (Geography)</strong>
 </p>
 <table style="minWidth: 50px">
