@@ -76,8 +76,7 @@ learners</p>
 </li>
 </ul>
 <h2>Programmes</h2>
-<p><strong>History</strong>
-</p>
+<h4><strong>History</strong></h4>
 <p><strong>Amazing Race@Singapore River</strong>
 </p>
 <table style="minWidth: 50px">
@@ -133,6 +132,31 @@ sovereignty came with a price.</p>
 <p><strong>Historical Investigation: Merger &amp; Separation</strong>
 </p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/x0NEB9L6-bs?si=HzJq-bPtVe0x78KH"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Secondary Two students were tasked with conducting a Historical Investigation
+into the topic of Merger and Separation. Students analysed historical sources,
+then created an end product based on their understanding of the reasons
+why Singapore merged with or separated from Malaya. Through this experience,
+our students saw how history can come alive as they are able to evaluate
+the significance of the past and its impact on the present and even the
+future.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Geography</strong></h4>
 <p><strong>Geographical Investigations @ Labrador Park/Singapore Botanic Gardens</strong>
 </p>
 <table style="minWidth: 50px">
@@ -144,13 +168,8 @@ sovereignty came with a price.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRVEPsYFJH1Bao2REZA7sk7Cfv6BHYPyd_itvRLvoMML3sCjCCh4LgVX6KiUKDghN5cRgYVHU5OPgcT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwAIs-6cFZKfJgwGEMo-qASIlrcTflKEeYlxT8WneMNhVarmN_N4Vf_ziRW8SNiGky6iVX2eoG8RYk/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p>
-<br>
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Secondary One students embarked on learning journeys to either Labrador
@@ -184,7 +203,7 @@ housing on their journey and a sense of place and space.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Self-directed Field Studies for the Secondary Four/Five students (Geography)</strong>
+<p><strong>Bite-sized Fieldwork: Geography in Everyday Life</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -193,97 +212,106 @@ housing on their journey and a sense of place and space.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Field studies@Chinatown (Tourism)</p>
-</th>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jMOHi2HbYRo?si=fCDTVGRdrWG3IQUV"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary Three students applied Geographical concepts through the fieldwork
+project. Students researched the history of their selected town, and created
+a video to share about its sustainability features. The students could
+see the relevance of the concepts, highlighting Geography in Everyday life.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Bite-sized Fieldwork: Tourism @ Chinatown</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXqsKwmQkbOEDowrzsFSofGgYBARNskr0kjHiwascLyAcqtjDp4I8KvCIIGcNPajySdjGEW_Vh_XMd/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p>The Secondary Four and Five students embarked on a self-directed Learning
 Journey to Chinatown to enhance their Geographical Investigation skills
 in conducting interviews, land use surveys and data collection.</p>
 </td>
 </tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>NUS Geography Challenge for Upper Secondary Geography Students</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Students who have excelled in their Geography at Upper Secondary are selected
-to participate in the NUS Geography Challenge. These students are given
-additional training to prepare them for the various Geography related challenges
-at the competition itself.</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Learning Journeys for Secondary Three students (Social Studies)</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>The Secondary Three students embarked on their ‘Issues Investigation’
-project with a view to solving the concerns facing an ageing population.</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Lower Sec Historical Investigation (HI) and Sec 4 Media Literacy Task</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>The Secondary 2 and 4 History students were tasked to create a video using
-research findings gathered from their History lessons.
-<br>
-<br>The Secondary 2s focussed on the Historical Investigation (HI) and created
-a video based on their understanding about the legacy of the Founding Fathers
-they have chosen to study while the Secondary 4s worked on the reasons
-for the Cold War.
-<br>
-<br>Using iMovie, Windows Movie Maker and other video-making web applications,
-this project encourages an engaging pedagogy to make learning fun and exciting.
-Through their decision-making processes, in terms of the creation of their
-own messages and the mode of portrayal in their clips, this project promotes
-a deeper awareness of how history can come alive how they are able to evaluate
-significance in the past and how they impact the present and even the future.</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXqsKwmQkbOEDowrzsFSofGgYBARNskr0kjHiwascLyAcqtjDp4I8KvCIIGcNPajySdjGEW_Vh_XMd/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<table style="minWidth: 75px">
+<h4><strong>Social Studies</strong></h4>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Secondary 1 Media Literacy</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Secondary 2 Media Literacy</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Secondary 4 Media Literacy</p>
-</th>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTO79ygVc6DP6tnr2-SX8m0xBzBbN-hJHqIA_2ovdcc1IKVjjLYsFBvb_o3PzpFnaUNluxtQWvQDV_g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Social Studies Issues Investigation offers an exciting opportunity
+for students to dive deep into real-world issues. Students become researchers,
+exploring multiple perspectives from various stakeholders, sharpening their
+inference and data management skills. By reflecting on their findings,
+they’ll create a meaningful solution to the issue—becoming agents of change.</p>
+</td>
 </tr>
+</tbody>
+</table>
+<h4><strong>Competitions and Enrichment Programmes</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="240" width="352" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zoB2EwG27vM"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRxXBYSZ472D7SmJBg7fPKMOi8OQ3y2vrA7papQhaPa26AY5VhRp7I0E2ZkpV9nmjs9an4H3qFJYOAY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="240" width="352" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JYz6zTCHIKQ"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="240" width="352" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nCKonT43Xo0"></iframe>
-</div>
+<p>Students can look forward to exciting opportunities to extend their learning
+beyond the classroom by taking part in external Humanities competitions
+and programmes, such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NUS Geography Challenge</p>
+</li>
+<li>
+<p>EOS Earth Alive Inter-School Challenge</p>
+</li>
+<li>
+<p>Singapore Energy Grand Challenge</p>
+</li>
+<li>
+<p>Historical Scene Investigation (H.S.I.) Challenge</p>
+</li>
+<li>
+<p>Humanities in Action Challenge</p>
+</li>
+<li>
+<p>MOE History Challenge</p>
+</li>
+<li>
+<p>NLB Prove It! Challenge</p>
+</li>
+</ul>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
