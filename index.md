@@ -29,6 +29,8 @@ sections:
       description: Feel the Spirit - Live the Journey
       image: /images/KCPSS_Open_House24.png
       alt: Image alt text
+      url: /virtual-open-house/welcome-to-kcpss/
+      button: More Information
   - infopic:
       title: KCP 100
       subtitle: centennial
