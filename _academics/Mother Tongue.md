@@ -42,8 +42,7 @@ This 10 weeks programmes carried out in Semester One aims to help Sec 1 students
 ![](/images/Our%20People/Departments/MT/CCM.png)
 
 
-**3\. &nbsp;MT Fortnight Cum Cultural Day Camp**
-
+**3\. &nbsp;MTL Fortnight Cum Cultural Day Camp**
 Understanding of Han Fu and its customs
 ![](/images/Our%20People/Departments/MT/2023/img_9888.jpg)<br>
 ![](/images/Our%20People/Departments/MT/2023/hanfu_understand.jpeg)<br>
