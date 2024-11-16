@@ -51,4 +51,7 @@ Calligraphy
 ![](/images/Our%20People/Departments/MT/Tea_Ceremony.png)
 
 **5\. &nbsp;Sharing on Media by 8 World Newscaster**
-![YES 933 Radio DJ Talk-Park](/images/Our%20People/Departments/MT/2023/djs_lj.jpg)
+![](/images/Our%20People/Departments/MT/Sharing_on_Media.jpg)
+
+**6\. &nbsp;National Competitions**
+![](/images/Our%20People/Departments/MT/National_Competition_2.png)
