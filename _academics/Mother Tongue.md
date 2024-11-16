@@ -33,11 +33,9 @@ Through the learning of MTL, the department also seeks to cultivate in students 
 We celebrate Chinese New Year together as Kuo Chuan Family.
 ![](/images/Our%20People/Departments/MT/2024_CNY.png)
 
-**<u>Hamper Wrapping and Classroom Decoration</u>**
-
+**<u>Hamper Wrapping</u>**<br>
 Our students make Chinese New Year hampers to bless the community
-![](/images/Our%20People/Departments/MT/2023/cny%20hamper%20classrm.jpeg)
-![](/images/Our%20People/Departments/MT/MT%20Prog%203.png)
+![](/images/Our%20People/Departments/MT/Hamper_Wrapping.png)
 
 **2.&nbsp;Conversational Chinese and Malay Programme (CCM)**  
 
