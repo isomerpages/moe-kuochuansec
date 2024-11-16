@@ -38,10 +38,8 @@ Our students make Chinese New Year hampers to bless the community
 ![](/images/Our%20People/Departments/MT/Hamper_Wrapping.png)
 
 **2.&nbsp;Conversational Chinese and Malay Programme (CCM)**  
-
 This 10 weeks programmes carried out in Semester One aims to help Sec 1 students to master basic conversation of the other Mother Tongue.
-
-![](/images/Our%20People/Departments/MT/MT%20Prog%204.png)
+![](/images/Our%20People/Departments/MT/CCM.png)
 
 
 **3\. &nbsp;MT Fortnight Cum Cultural Day Camp**
