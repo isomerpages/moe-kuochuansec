@@ -44,8 +44,7 @@ This 10 weeks programmes carried out in Semester One aims to help Sec 1 students
 
 **3\. &nbsp;MTL Fortnight Activities**<br>
 Learning Journeys to Chinatown and Little India
-![](/images/Our%20People/Departments/MT/2023/img_9888.jpg)<br>
-![](/images/Our%20People/Departments/MT/2023/hanfu_understand.jpeg)<br>
+![](/images/Our%20People/Departments/MT/Learning_Journey.png)
 CNY Calligraphy
 ![](/images/Our%20People/Departments/MT/2023/mtlf_calligraphy.jpeg)
 
