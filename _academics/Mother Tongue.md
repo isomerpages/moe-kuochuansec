@@ -44,19 +44,12 @@ This 10 weeks programmes carried out in Semester One aims to help Sec 1 students
 
 **3\. &nbsp;MTL Fortnight Activities**<br>
 Learning Journeys to Chinatown and Little India
-![](/images/Our%20People/Departments/MT/Learning_Journey.png)
-CNY Calligraphy
-![](/images/Our%20People/Departments/MT/2023/mtlf_calligraphy.jpeg)
+![](/images/Our%20People/Departments/MT/Learning_Journey.png)<br>
+Calligraphy
+![](/images/Our%20People/Departments/MT/Calligraphy.jpg)<br>
+Tea Ceremony
+![](/images/Our%20People/Departments/MT/Tea_Ceremony.png)
 
-
-**4\. &nbsp;Secondary 1 Learning Journey to Chinatown**
-
-![Learning Journey to Chinatown](/images/Our%20People/Departments/MT/2023/chinatownlj.jpg)
-
-**5\. &nbsp;Secondary 1 -3 Lerning Journey to Kampong Glam**
-
-![Learning Journey to Kampong Glam](/images/Our%20People/Departments/MT/2023/kgglum23.jpg)
-
-**6\. &nbsp;YES 933 Radio DJ Talk-Park**
+**4\. &nbsp;YES 933 Radio DJ Talk-Park**
 
 ![YES 933 Radio DJ Talk-Park](/images/Our%20People/Departments/MT/2023/djs_lj.jpg)
