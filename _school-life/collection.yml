@@ -2,6 +2,6 @@ collections:
   school-life:
     output: true
     order:
-      - House Leadership.md
-      - House Events.md
       - Introduction.md
+      - House Events.md
+      - House Leadership.md
