@@ -2,6 +2,7 @@
 title: Mother Tongue
 permalink: /the-kuo-chuan-experience/academics/mt/
 description: ""
+variant: markdown
 ---
 **<center>MOTHER TONGUE DEPARTMENT</center>**
 
@@ -19,9 +20,7 @@ Through the learning of MTL, the department also seeks to cultivate in students 
 **<center>Mother Tongue Department Pedagogical Approach</center>**
 
 ![](/images/Our%20People/Departments/MT/MT%20Area%20of%20Focus%201.jpg)
-
-![](/images/Our%20People/Departments/MT/MT%20Area%20of%20Focus%202.jpg)
-
+![](/images/Our%20People/Departments/MT/Area_of_Focus.jpg)
 ![](/images/Our%20People/Departments/MT/MT%20Area%20of%20Focus%203.jpg)
 
 
@@ -32,8 +31,8 @@ Through the learning of MTL, the department also seeks to cultivate in students 
 **<u>Chinese New Year Concert</u>**
 
 We celebrate Chinese New Year together as Kuo Chuan Family.
+![](/images/Our%20People/Departments/MT/2024_CNY.png)
 
-![](/images/Our%20People/Departments/MT/2023/dsc_0259.jpg)<br>![](/images/Our%20People/Departments/MT/2023/dsc_0213.jpg)
 
 **<u>Hamper Wrapping and Classroom Decoration</u>**
 
