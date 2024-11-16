@@ -47,9 +47,9 @@ Learning Journeys to Chinatown and Little India
 ![](/images/Our%20People/Departments/MT/Learning_Journey.png)<br>
 Calligraphy
 ![](/images/Our%20People/Departments/MT/Calligraphy.jpg)<br>
-Tea Ceremony
+**4\. &nbsp;Tea Ceremony**<br>
 ![](/images/Our%20People/Departments/MT/Tea_Ceremony.png)
 
-**4\. &nbsp;YES 933 Radio DJ Talk-Park**
+**5\. &nbsp;YES 933 Radio DJ Talk-Park**
 
 ![YES 933 Radio DJ Talk-Park](/images/Our%20People/Departments/MT/2023/djs_lj.jpg)
