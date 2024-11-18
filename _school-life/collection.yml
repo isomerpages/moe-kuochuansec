@@ -3,3 +3,5 @@ collections:
     output: true
     order:
       - Introduction.md
+      - House Events.md
+      - House Leadership.md
