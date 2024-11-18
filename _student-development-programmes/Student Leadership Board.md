@@ -18,26 +18,27 @@ to school life, such as:</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Event Planning: Organising major school events that promote school pride,
-including Sec 1 Orientation, Teachers’ Day Celebrations, and Sec 4 Graduation
-Night.</p>
+<p><strong>Event Planning</strong>: Organising major school events that promote
+school pride, including Sec 1 Orientation, Teachers’ Day Celebrations,
+and Sec 4 Graduation Night.</p>
 </li>
 <li>
-<p>Cheer Support: Encouraging a healthy school spirit by rallying students
-to support their peers during National School Games competitions.</p>
+<p><strong>Cheer Support</strong>: Encouraging a healthy school spirit by
+rallying students to support their peers during National School Games competitions.</p>
 </li>
 <li>
-<p>Student Advocacy: Gathering student feedback and advocating for improvements
-through initiatives like the annual townhall session, known as Building
-Positive School Culture (BPSC) .</p>
+<p><strong>Student Advocacy</strong>: Gathering student feedback and advocating
+for improvements through initiatives like the annual townhall session,
+known as Building Positive School Culture (BPSC) .</p>
 </li>
 <li>
-<p>Discipline Support: Assisting the Student Management Committee in maintaining
-school discipline</p>
+<p><strong>Discipline Support</strong>: Assisting the Student Management
+Committee in maintaining school discipline</p>
 </li>
 <li>
-<p>Event Support: Providing logistical and organisational support for large-scale
-school events, such as National Day and Founder's Day celebrations.</p>
+<p><strong>Event Support</strong>: Providing logistical and organisational
+support for large-scale school events, such as National Day and Founder's
+Day celebrations.</p>
 </li>
 </ol>
 <p></p>
