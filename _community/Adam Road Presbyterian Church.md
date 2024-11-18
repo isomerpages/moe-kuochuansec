@@ -30,14 +30,17 @@ You are the light of the world. A town built on a hill cannot be hidden. Neither
 <p align="justify">In addition, the Chaplaincy Team hosts a space where students can drop by for a chat and participate in various activities during recess breaks. Breakfast and Prayer on Tuesday mornings and afternoon activities, e.g. terrarium-making workshops are some of these outreach efforts to bless the school. Our staff are also blessed with the love and generosity from the Chaplaincy Team who serve freshly brewed coffee and tea every week, as well as timely snack energisers throughout the year. 
  </p>
  
- ![](/images/Our%20People/ARPC/Chaplaincy_Team_Snacks.png)
+![](/images/Our%20People/ARPC/chaplaicy_snack.png)
  Blessed with the support of the ARPC Chaplaincy team
 <p align="justify">The partnership efforts with the Chaplaincy Team extends beyond the physical to the spiritual as well. Pastor Adrin’s exhortations during staff events often serve to uplift and anchor staff on Christ in our work as a school. </p>
 
-# Holy Week 2023
-<p align="justify">A key highlight in Semester 1 took place during Holy Week between 3 to 6 April 2023, when we commemorated Christ’s death and resurrection, encouraging Christian staff and students to draw closer to Christ in our walk with Him. </p>
-<p align="justify">This year’s Holy Week activities included two movie screenings ‘I Can Only Imagine’ and ‘Grace Card’ with popcorn snacks for students who wished to drop by in the afternoons. A games booth and an exhibit was set up, with a special busking programme by the ARPC band during recess. 
-</p><p align="justify">Together with the Christian Education Team, our internal prayer and thanksgiving session, Strong Knees, was held at Praise Hall – where Christian staff and students gathered to worship, fellowship, share testimonies and pray. </p>
-<p align="justify">We praise God for a powerful and enriching time of fellowship leading up to Good Friday and Resurrection Sunday! </p>
-
+# Holy Week 2024
+<p align="justify">Holy Week 2024 took place in the first week of April, where we commemorated Christ’s death and resurrection, encouraging Christian staff and students to draw closer to God in our walk with Him. Our theme for Holy Week this year is ‘From Darkness to Light’, focusing our attention on the Hope that Christ brings.  </p>
+<p align="justify">During that week, we welcomed students to join us for a series of activities during recess breaks and after school. We hosted our usual movie screening ‘I Can Only Imagine’ after school, and also set up a games booth and books exhibit from Our Daily Bread, where students could interact with one another and learn about the gospel. The highlight had to be a special busking programme by the ARPC band during recess. 
+ </p>
+<p align="justify">Together with the Christian Education Team, our internal Remembrance and Celebration session, Strong Knees, was held at Praise Hall – where Christian staff and students gathered to worship, fellowship, share testimonies and pray. This year we enjoyed some simple foods - curries, naans and dates, and were uplifted by the sharing of Joel Ang (3 Peace) and Mr Yap Shinn (Assistant Year Head, Upper Sec) share about their experience living in Christ. 
+ </p>
+<p align="justify">We praise God for a powerful and enriching time of fellowship leading up to Good Friday and Resurrection Sunday!
+	</p>
+	
 ![](/images/Our%20People/Commuity/arpc%20write-up.png)
