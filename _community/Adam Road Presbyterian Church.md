@@ -29,6 +29,8 @@ You are the light of the world. A town built on a hill cannot be hidden. Neither
 <p align="justify">The Chaplaincy Team reaches out to the broader school community through the daily morning messages in which our school’s GRACE values are anchored on, delivered according to weekly themes. These morning messages eventually culminate in the Thank God It’s Friday (TGIF) services where the school gathers and gives thanks for the week. </p>
 <p align="justify">In addition, the Chaplaincy Team hosts a space where students can drop by for a chat and participate in various activities during recess breaks. Breakfast and Prayer on Tuesday mornings and afternoon activities, e.g. terrarium-making workshops are some of these outreach efforts to bless the school. Our staff are also blessed with the love and generosity from the Chaplaincy Team who serve freshly brewed coffee and tea every week, as well as timely snack energisers throughout the year. 
  </p>
+ 
+ 
 <p align="justify">The partnership efforts with the Chaplaincy Team extends beyond the physical to the spiritual as well. Pastor Adrin’s exhortations during staff events often serve to uplift and anchor staff on Christ in our work as a school. </p>
 
 # Holy Week 2023
