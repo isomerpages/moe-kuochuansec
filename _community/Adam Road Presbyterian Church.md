@@ -30,7 +30,8 @@ You are the light of the world. A town built on a hill cannot be hidden. Neither
 <p align="justify">In addition, the Chaplaincy Team hosts a space where students can drop by for a chat and participate in various activities during recess breaks. Breakfast and Prayer on Tuesday mornings and afternoon activities, e.g. terrarium-making workshops are some of these outreach efforts to bless the school. Our staff are also blessed with the love and generosity from the Chaplaincy Team who serve freshly brewed coffee and tea every week, as well as timely snack energisers throughout the year. 
  </p>
  
- 
+ ![](/images/Our%20People/ARPC/Chaplaincy_Team_Snacks.png)
+ Blessed with the support of the ARPC Chaplaincy team
 <p align="justify">The partnership efforts with the Chaplaincy Team extends beyond the physical to the spiritual as well. Pastor Adrin’s exhortations during staff events often serve to uplift and anchor staff on Christ in our work as a school. </p>
 
 # Holy Week 2023
