@@ -43,4 +43,9 @@ You are the light of the world. A town built on a hill cannot be hidden. Neither
 <p align="justify">We praise God for a powerful and enriching time of fellowship leading up to Good Friday and Resurrection Sunday!
 	</p>
 	
-![](/images/Our%20People/Commuity/arpc%20write-up.png)
+![](/images/Our%20People/ARPC/holyweek1.png)
+Holy Week, Remembrance and Celebration Session, 2024
+![](/images/Our%20People/ARPC/holyweek2.png)
+Holy Week Activities, 2024
+![](/images/Our%20People/ARPC/Holy_Week_2023.png)
+Holy Week 2023
