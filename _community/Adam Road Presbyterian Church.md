@@ -49,3 +49,6 @@ Holy Week, Remembrance and Celebration Session, 2024
 Holy Week Activities, 2024
 ![](/images/Our%20People/ARPC/Holy_Week_2023.png)
 Holy Week 2023
+
+# Prayer Support
+<p align="justify">The Chaplaincy Team and teachers gather for a weekly prayer meet online on Sunday evenings. In Term 4, we hosted a Prayer and Encouragement Session, where students gathered for a time of fellowship and prayer, in the midst of the intensifying examination preparation. The Chaplaincy Team led us to cast our cares on Jesus (1 Peter 5:7) and find comfort and strength in God. </p>
