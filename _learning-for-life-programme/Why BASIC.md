@@ -2,6 +2,7 @@
 title: Why BASIC
 permalink: /the-kuo-chuan-experience/learning-for-life-programme/why-b-a-s-i-c/
 description: ""
+variant: markdown
 ---
 ## Why B.A.S.I.C
 
@@ -17,18 +18,18 @@ The LLP-CYL programme is guided by the B.A.S.I.C (Being a Servant Leader in the 
 <p style="text-align: justify;font-size:16px;">
 The CYL programme at KCPSS is premised on the following key principles:</p>  
   
-**1.** **The leader is seen as a servant first.** 
+**1.**&nbsp;**The leader is seen as a servant first.**&nbsp;
 
 <p style="text-align: justify;font-size:16px;">
 Leadership journey of a KCPian begins with an answer to the call to serve and the giving of oneself to make the world he or she lives in a better place for all. It is this conscious decision to serve that creates the aspiration to lead. </p>
   
-**2.** **Every student can be a leader.** 
+**2.**&nbsp;**Every student can be a leader.**&nbsp;
 <p style="text-align: justify;font-size:16px;">
-Since the disposition to serve is a deliberate and conscious choice and not a talent or gift bestowed from birth, every KCPian can be a servant leader, if he or she chooses to be one.</p>
+Since the disposition to serve is a deliberate and conscious choice and not a talent or gift bestowed from birth, every&nbsp;KCPian can be a servant leader, if he or she chooses to be one.</p>
 
   
-**3.** **Leadership is a journey of personal development.**   
-<p style="text-align: justify;font-size:16px;">The leadership journey of every KCPian will differ. Each KCPian will come to Kuo Chuan with unique strengths, struggles and social circumstances. Likewise, they will leave at varying phases of development to continue their journey beyond Kuo Chuan.
+**3.**&nbsp;**Leadership is a journey of personal development.**&nbsp;  
+<p style="text-align: justify;font-size:16px;">The leadership journey of every KCPian will differ. Each KCPian will come to Kuo Chuan with unique strengths,&nbsp;struggles and social circumstances. Likewise, they will leave at varying phases of development to continue their&nbsp;journey beyond Kuo Chuan.
 </p>
 
-<iframe width="722" height="553" src="https://www.youtube.com/embed/kKxv-tQf7cQ" title="2017 Cambodia Combined UG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Omhlvjxiwp5MTjJTEKqoCG82H3Oz0YNVHoHcTNjkAe6RR2_-CTVtxH-NDGdKQWJNtBVrivL2tj2v/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
