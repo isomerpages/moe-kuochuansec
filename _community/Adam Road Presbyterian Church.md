@@ -2,6 +2,7 @@
 title: Adam Road Presbyterian Church
 permalink: /community/arpc/
 description: ""
+variant: markdown
 ---
 Click on this [link](https://arpc.sg/) to visit Adam Road Presbyterian Church
 
@@ -16,7 +17,7 @@ Click on this [link](https://arpc.sg/) to visit Adam Road Presbyterian Church
 |Pastor Daniel Lim| Ms Chang Meng Hsia|
 |Mrs Annabel Lee| Miss Foo Ji Ying, Eunice    | 
 |Mrs Melody Kwek| Ms Yin Yin Esther Yong|
-|Ms Patricia Seow| Ms Ho Jia Yan   |
+|| Ms Ho Jia Yan   |
 
 
 <p align="center">Matthew 5:14-16<br> 
