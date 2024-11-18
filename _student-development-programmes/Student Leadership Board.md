@@ -41,4 +41,7 @@ support for large-scale school events, such as National Day and Founder's
 Day celebrations.</p>
 </li>
 </ol>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIBTiUTZLjwrwx8FPT4mtoRhBGttRgUnMKqs2rSLAivNcjTs8xbe7JZiwLlth2tO-KlfoGZfrxPd8g/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
