@@ -34,7 +34,6 @@ child/ ward to take specific subjects at a more demanding level from Secondary
 Language, Mathematics, Science and Mother Tongue Languages at a more demanding
 level from the start of Secondary 1, if they have performed well in these
 subjects at the Primary School Leaving Examination (PSLE).</p>
-<p></p>
 <p>Students from posting groups 2 and 1 are eligible to take (English Language,
 Mathematics, Science and Mother Tongue Language) at a more demanding level
 from the start of Secondary 1, if they have performed well in these subjects
@@ -98,6 +97,14 @@ at the PSLE.</p>
 </tr>
 </tbody>
 </table>
+<p>There are two other junctures, namely end of Semester 1 and end of Semester
+2 for Secondary 1 students to be offered these subjects at a more demanding
+level, if found suitable.</p>
+<p>The following video provides a snapshot of the FSBB secondary school experience</p>
+<p>{insert link/ video]</p>
+<p>You may also refer to the e-Student Handbook 2025 for more details when
+it is published.</p>
+<p></p>
 <p><strong>Offering subjects at a less demanding level</strong>&nbsp;</p>
 <p>For students who offered English, Mathematics, and/or Science at Foundation
 level at PSLE, but are otherwise eligible to take most of their subjects
