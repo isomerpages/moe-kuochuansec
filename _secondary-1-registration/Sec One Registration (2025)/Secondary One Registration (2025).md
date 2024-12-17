@@ -103,6 +103,9 @@ that will be held on <strong>Saturday, 11 January 2025, 9am,</strong> in
 our <strong>school auditorium</strong>, where you will get to hear from
 our Principal. Please register with this <a href="https://go.gov.sg/2025s1parentengagement" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025s1parentengagement</a> if
 you are able to join us.</p>
+<p>The following section provides essential information to help your child/
+ward transit to secondary school.</p>
+<p></p>
 <p><strong>Secondary 1 Outdoor Adventure and Leadership Camp (15-17 January 2024)&nbsp;</strong>
 </p>
 <p>There will be a cohort camp organised for our Secondary 1 students to
