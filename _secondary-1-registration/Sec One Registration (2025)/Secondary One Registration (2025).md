@@ -96,7 +96,13 @@ Child in Secondary School that will be held on Friday, 5 January 2024,
 7pm, in our school auditorium, where you will get to hear from our Principal.
 Please register with this <strong><a href="https://go.gov.sg/s1-parentengagement-5jan24" rel="noopener noreferrer nofollow" target="_blank">link</a> </strong>if
 you are available to join us.</p>
-<p></p>
+<p>In KCPSS, we will journey with parents of KCPians over the next 4/5 years.
+As a start, our Principal, Mr. Justin Tan would like to connect with you
+at the Parent Engagement Session: Supporting Your Child in Secondary School
+that will be held on <strong>Saturday, 11 January 2025, 9am,</strong> in
+our <strong>school auditorium</strong>, where you will get to hear from
+our Principal. Please register with this <a href="https://go.gov.sg/2025s1parentengagement" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025s1parentengagement</a> if
+you are able to join us.</p>
 <p><strong>Secondary 1 Outdoor Adventure and Leadership Camp (15-17 January 2024)&nbsp;</strong>
 </p>
 <p>There will be a cohort camp organised for our Secondary 1 students to
