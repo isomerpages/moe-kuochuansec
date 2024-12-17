@@ -104,86 +104,7 @@ level, if found suitable.</p>
 <p>{insert link/ video]</p>
 <p>You may also refer to the e-Student Handbook 2025 for more details when
 it is published.</p>
-<p></p>
-<p><strong>Offering subjects at a less demanding level</strong>&nbsp;</p>
-<p>For students who offered English, Mathematics, and/or Science at Foundation
-level at PSLE, but are otherwise eligible to take most of their subjects
-at G3 when entering secondary school, they may choose to take these subjects
-at a less demanding level (I.e, G2) in consultation with their secondary
-schools.</p>
-<p>Students who face exceptional difficulties coping with their Mother Tongue
-Languages (MTL) will have the option to offer G1 or G2 MTL. At the start
-of Secondary One, students can offer MTL at a less demanding level based
-on the following criteria</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Indicative Level of most Subjects at Start of S1</strong>&nbsp;</p>
-</td>
-<th rowspan="1" colspan="1">
-<p><strong>PSLE Standard Grade</strong>&nbsp;</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>PSLE Foundation Grade</strong>&nbsp;</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Option to offer subject at</strong>&nbsp;</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>G3</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AL 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AL A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>G2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>G3</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AL 7 - 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AL B - C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>G1 or G2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>G2</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AL 7 - 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AL B - C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>G1</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Parents/guardians may refer to the e-Student Handbook 2024 for more details
-when it is published.</p>
-<h2>B. Higher Mother Tongue / 3rd Language / Subject Based Banding (SBB) subjects</h2>
+<h4>B. Higher Mother Tongue / 3rd Language / Subject Based Banding (SBB) subjects At More Demanding Level.</h4>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -219,14 +140,14 @@ when it is published.</p>
 <p>Eligibility for Higher Mother Tongue (HMT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School will send Form A to <strong>students who have been offered</strong> to
-parents via PG/email.</p>
+<p>School will send Form A to <strong>students who has been offered</strong> via
+PG/email.</p>
 <p></p>
-<p>Parents can accept the offer by giving consent via PG or return a signed
-form via email.</p>
+<p>Accept the offer by giving consent via PG or return a signed form via
+email.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By Tuesday, 26 Dec 2023</p>
+<p>By Friday, 27 Dec 2024</p>
 </td>
 </tr>
 <tr>
@@ -237,8 +158,8 @@ form via email.</p>
 <p>Application for 3rd Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School will send a notification to <strong>students who have been offered </strong>to<strong> </strong>parents
-via PG/email.</p>
+<p>School will send a notification to <strong>student who has been offered</strong> via
+PG/email.</p>
 <p></p>
 <p>Successful students for MOE Language Centre (Bishan and Newton) will be
 required to confirm the acceptance of the offer and complete the online
@@ -251,7 +172,7 @@ school websites for the instructions on registration.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>MOELC</u></strong>
 </p>
-<p>From Thursday, 21 Dec 2023 to Thursday, 4 Jan 2024</p>
+<p>From Thursday, 26 Dec 2024 to Friday, 5 Jan 2025</p>
 <p>&nbsp;</p>
 <p><u>MSP/CSP Zonal Centres</u>
 </p>
