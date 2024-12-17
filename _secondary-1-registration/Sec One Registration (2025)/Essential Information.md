@@ -28,7 +28,7 @@ to nurture their aptitudes and develop their strengths. SBB allows your
 child/ ward to take specific subjects at a more demanding level from Secondary
 1, if found suitable to do so.</p>
 <p></p>
-<p><strong>Eligibility to offer subjects at a more demanding level under SBB </strong>
+<p><strong>Eligibility to offer subjects at a more demanding level under SBB</strong>
 </p>
 <p>Students posted under Posting Group 2 and Posting Group1 can offer English
 Language, Mathematics, Science and Mother Tongue Languages at a more demanding
@@ -39,18 +39,20 @@ subjects at the Primary School Leaving Examination (PSLE).</p>
 Mathematics, Science and Mother Tongue Language) at a more demanding level
 from the start of Secondary 1, if they have performed well in these subjects
 at the PSLE.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Indicative Level of most Subjects Start of S1</p>
-</th>
+<td rowspan="1" colspan="3">
+<p><strong>Posting Group at the Start of Sec 1</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p><strong>PSLE Standard Grade</strong>&nbsp;</p>
 </th>
@@ -63,10 +65,6 @@ at the PSLE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>G2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>AL 5 or better</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,10 +76,6 @@ at the PSLE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>G1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>AL 5 or better</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,10 +86,6 @@ at the PSLE.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>G1</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>AL 6</p>
 </td>
