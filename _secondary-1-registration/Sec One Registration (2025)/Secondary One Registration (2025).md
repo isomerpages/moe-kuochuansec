@@ -68,8 +68,9 @@ See you soon!</p>
 Parents Gateway/ email latest by <strong>Friday, 20 December 2024.</strong>
 </p>
 <p>In the meantime, feel free to visit our school’s social media platforms
-(Instagram:@kuo_chuan_presbyterian_sec, <a href="http://facebook.com/kcpsshomepage" rel="noopener nofollow" target="_blank">Facebook</a> or “The Kuo Chuan
-Experience” information about our school programmes.</p>
+(<a href="https://www.instagram.com/kuo_chuan_presbyterian_sec/" rel="noopener nofollow" target="_blank">Instagram</a>,
+<a href="http://facebook.com/kcpsshomepage" rel="noopener nofollow" target="_blank">Facebook</a>or “<a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/" rel="noopener nofollow" target="_blank">The Kuo Chuan Experience</a>”
+) information about our school programmes.</p>
 <p>Dear parents/guardian,</p>
 <p>Welcome to Kuo Chuan Presbyterian Secondary School (KCPSS) and season
 greetings to you!</p>
