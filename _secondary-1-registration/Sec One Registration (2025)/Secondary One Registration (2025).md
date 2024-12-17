@@ -32,6 +32,11 @@ See you soon!</p>
 <p><strong>Principal, Kuo Chuan Presbyterian Secondary School</strong>
 </p>
 <p></p>
+<p><strong>Administrative Details</strong>
+</p>
+<p>We will be contacting parents/ guardians of students posted to KCPSS via
+Parents Gateway/ email latest by <strong>Friday, 20 December 2024</strong>
+</p>
 <p></p>
 <p>Dear parents/guardian,</p>
 <p>Welcome to Kuo Chuan Presbyterian Secondary School (KCPSS) and season
