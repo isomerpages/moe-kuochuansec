@@ -94,33 +94,4 @@ our Principal. Please register with this <a href="https://go.gov.sg/2025s1parent
 you are able to join us.</p>
 <p>The following section provides essential information to help your child/
 ward transit to secondary school.</p>
-<p><strong>Parent Engagement Session: Supporting Your Child in Secondary School (5th January 2024 (Friday))</strong>
-</p>
-<p>In KCPSS, we believe in the importance of journeying together with parents
-of KCPians over the next 4/5 years. As a start, our Principal, Mr. Justin
-Tan would like to connect with all of you through an in-person session.
-We cordially invite you for the Parent Engagement Session: Supporting Your
-Child in Secondary School that will be held on Friday, 5 January 2024,
-7pm, in our school auditorium, where you will get to hear from our Principal.
-Please register with this <strong><a href="https://go.gov.sg/s1-parentengagement-5jan24" rel="noopener noreferrer nofollow" target="_blank">link</a> </strong>if
-you are available to join us.</p>
 <p></p>
-<p></p>
-<p><strong>Secondary 1 Outdoor Adventure and Leadership Camp (15-17 January 2024)&nbsp;</strong>
-</p>
-<p>There will be a cohort camp organised for our Secondary 1 students to
-help them discover more about themselves, develop personal leadership and
-grow in GRACE, and strengthen bonds within the cohort as they interact
-with their peers through various outdoor activities.&nbsp;&nbsp;</p>
-<p></p>
-<p>More details of the Sec 1 camp will be sent out via PG. Kindly give your
-consent for your child/ward’s participation through PG by <strong>Mon 8 January 2024</strong>.&nbsp;&nbsp;</p>
-<p></p>
-<p>In addition, to allow you to have a better understanding of the Secondary
-1 OAL Camp, we have organised a Parents Engagement Session that will be
-taking place via Zoom. The webinar will be held on <strong>Mon 8 January 2024, from 6pm-7pm.</strong> Please
-register your attendance by <strong>Fri 5 January 2024</strong> using the
-following link: <strong><a href="https://moe-singapore.zoom.us/webinar/register/WN_Iuzq7xhHQa-LE4gFYd2YMQ" rel="noopener noreferrer nofollow" target="_blank">Register Here</a></strong>
-</p>
-<p>For more essential information click <strong><a href="https://kuochuanpresbyteriansec.moe.edu.sg/secondary-1-registration/sec-one-registration-2024/essential-information/" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>
-</p>
