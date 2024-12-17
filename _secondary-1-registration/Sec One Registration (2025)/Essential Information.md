@@ -176,7 +176,8 @@ school websites for the instructions on registration.</p>
 <p>&nbsp;</p>
 <p><u>MSP/CSP Zonal Centres</u>
 </p>
-<p>Please refer to the respective school websites for details.</p>
+<p></p>
+<p>Please refer to the respective schools' websites for details.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -185,22 +186,22 @@ school websites for the instructions on registration.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eligibility to take a subject at a higher level</p>
+<p>Eligibility to take a subject at a more demanding level</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School will send the letter of offer to parents via PG/email.</p>
 <p></p>
-<p>Parents can accept the offer by giving consent via PG or return a signed
-form via email.</p>
+<p>Accept the offer by giving consent via PG or return a signed form via
+email.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By Wednesday, 27 Dec 2023</p>
+<p>By Friday, 27 Dec 2024</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h2>C. Admin Matters</h2>
+<h4>C. Admin Matters</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
