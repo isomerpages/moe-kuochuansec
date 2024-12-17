@@ -85,7 +85,15 @@ for a video that will share more information about the Orientation Programme.</p
 <div class="iframe-wrapper">
 <iframe height="493" width="877" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_HLuC6-QMuU?si=Koy2mZUOE6zYltsx"></iframe>
 </div>
-<p></p>
+<p>In KCPSS, we will journey with parents of KCPians over the next 4/5 years.
+As a start, our Principal, Mr. Justin Tan would like to connect with you
+at the Parent Engagement Session: Supporting Your Child in Secondary School
+that will be held on <strong>Saturday, 11 January 2025, 9am,</strong> in
+our <strong>school auditorium</strong>, where you will get to hear from
+our Principal. Please register with this <a href="https://go.gov.sg/2025s1parentengagement" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025s1parentengagement</a> if
+you are able to join us.</p>
+<p>The following section provides essential information to help your child/
+ward transit to secondary school.</p>
 <p><strong>Parent Engagement Session: Supporting Your Child in Secondary School (5th January 2024 (Friday))</strong>
 </p>
 <p>In KCPSS, we believe in the importance of journeying together with parents
@@ -96,15 +104,7 @@ Child in Secondary School that will be held on Friday, 5 January 2024,
 7pm, in our school auditorium, where you will get to hear from our Principal.
 Please register with this <strong><a href="https://go.gov.sg/s1-parentengagement-5jan24" rel="noopener noreferrer nofollow" target="_blank">link</a> </strong>if
 you are available to join us.</p>
-<p>In KCPSS, we will journey with parents of KCPians over the next 4/5 years.
-As a start, our Principal, Mr. Justin Tan would like to connect with you
-at the Parent Engagement Session: Supporting Your Child in Secondary School
-that will be held on <strong>Saturday, 11 January 2025, 9am,</strong> in
-our <strong>school auditorium</strong>, where you will get to hear from
-our Principal. Please register with this <a href="https://go.gov.sg/2025s1parentengagement" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025s1parentengagement</a> if
-you are able to join us.</p>
-<p>The following section provides essential information to help your child/
-ward transit to secondary school.</p>
+<p></p>
 <p></p>
 <p><strong>Secondary 1 Outdoor Adventure and Leadership Camp (15-17 January 2024)&nbsp;</strong>
 </p>
