@@ -75,34 +75,17 @@ Parents Gateway/ email latest by <strong>Friday, 20 December 2024.</strong>
 for a school transfer, please click on <a href="https://form.gov.sg/admin/form/674e711e00228143be81c275" rel="noopener nofollow" target="_blank">FormSG</a> and
 complete the form online. Do also register with the school your child/
 ward has been posted to.</p>
-<p>Dear parents/guardian,</p>
-<p>Welcome to Kuo Chuan Presbyterian Secondary School (KCPSS) and season
-greetings to you!</p>
-<div class="iframe-wrapper">
-<iframe height="493" width="877" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jQ-siYsmlBA?si=-Vbd5kBo814gd4Rq"></iframe>
-</div>
-<p>We are excited to meet your child/ward on Tuesday, 2nd January 2024 and
-we would like to share with you some information on what is happening during
-the first week of school.</p>
-<p>We will be sending you a message via Parents Gateway/email on Thursday,
-21 December 2023 due to some technical issues) for us to get to know you.
-Meanwhile, do feel free to visit our school’s social media platforms (Instagram:
-@kuo_chuan_presbyterian_sec, Facebook: http://facebook.com/kcpsshomepage)
-or “The Kuo Chuan Experience” if you would like to find out more about
-our school programme.</p>
-<p>If you have not been posted to our school and would like to request for
-a school transfer, please click on this <strong><a href="https://go.gov.sg/kcps1schtransfer2024" rel="noopener noreferrer nofollow" target="_blank">link</a></strong> to
-complete the form online. Kindly remember to register with the school that
-your child/ward has been posted to.</p>
-<p><strong>Orientation Programme</strong>
+<p></p>
+<p><strong>Orientation Programme ( 2 to 7 Jan 2025)</strong>
 </p>
-<p>To mark the start of your child/ward’s journey as a KCPian, they will
-be going through the Orientation programme to facilitate a smooth transition
-into secondary school life during the first week of school. Do watch this
-video as a prelude to the Orientation programme:</p>
+<p>Your child/ ward will begin his/ her journey as a KCPian an Orientation
+Programme during the first week of school. Watch the video that the EXCO
+of the Student Leadership Board has prepared to welcome you! Stay tuned
+for a video that will share more information about the Orientation Programme.</p>
 <div class="iframe-wrapper">
 <iframe height="493" width="877" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_HLuC6-QMuU?si=Koy2mZUOE6zYltsx"></iframe>
 </div>
+<p></p>
 <p><strong>Parent Engagement Session: Supporting Your Child in Secondary School (5th January 2024 (Friday))</strong>
 </p>
 <p>In KCPSS, we believe in the importance of journeying together with parents
