@@ -237,10 +237,15 @@ email.</p>
 <p>Website for online purchase: <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a> &nbsp;</p>
 </li>
 <li>
-<p>For enquiries on the online purchase, you can email to <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank"><u>sales@pacificbookstores.com</u></a>&nbsp;</p>
+<p>For enquiries on online purchase, email <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank"><u>sales@pacificbookstores.com</u></a>&nbsp;</p>
 </li>
 <li>
-<p>Sec 1 Online purchase: Saturday, 16 Dec to Wednesday, 27 December&nbsp;</p>
+<p>The Collection Schedule will be available for online booking upon purchase.
+For walk-in purchase, note that there may be a long queue with a longer
+waiting time to be expected.</p>
+</li>
+<li>
+<p>Operating Hours: 9.00am to 3.00pm (Monday - Friday)</p>
 </li>
 <li>
 <p>Online payment mode: PayNow, Debit Card and VISA/Mastercard &nbsp;</p>
@@ -253,61 +258,26 @@ email.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>School Polo Tee-shirt and PE Shorts</strong>&nbsp;</p>
-<ul>
-<li>
-<p>Vendor Name: Finest Fashion Centre (Tel: 8284 8586) &nbsp;</p>
-</li>
-<li>
-<p>Website for online purchase: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://finestuniform.com/collections/kuochuan-presbyterian-secondary-school</a> &nbsp;</p>
-</li>
-<li>
-<p>For enquiries on the online purchase, you can whatsapp your enquiry at
-9029 5135 (Ethan)&nbsp;</p>
-</li>
-<li>
-<p>Sec 1 Online purchase: Saturday, 16 Dec to Wednesday, 27 December &nbsp;</p>
-</li>
-<li>
-<p>Online payment mode: VISA/Mastercard, UnionPay, PayNOW, atome &nbsp;</p>
-</li>
-<li>
-<p>Choose between ‘Home Delivery’ (recommended) or ‘Self-Collection’ &nbsp;&nbsp;</p>
-</li>
-<li>
-<p>Home Delivery fee: $6 per location&nbsp;</p>
-</li>
-</ul>
-<p>&nbsp;</p>
 <p><strong>Recommended set of uniform</strong>&nbsp;</p>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>School white shirt – 1 pieces&nbsp;</p>
 </li>
-</ol>
-<ol start="2">
 <li>
-<p>Blue Polo Tee-shirt – 2 to 3 pieces&nbsp;</p>
+<p>Blue Polo Tee-shirt – 2 to 3 pieces</p>
 </li>
-</ol>
-<ol start="3">
 <li>
-<p>School shorts / skirts – 2 to 3 pieces&nbsp;</p>
+<p>&nbsp;School shorts / skirts – 2 to 3 pieces&nbsp;</p>
 </li>
-</ol>
-<ol start="4">
 <li>
 <p>Physical Education shorts – 1 to 2 pieces&nbsp;</p>
 </li>
-</ol>
-<ol start="5">
 <li>
 <p>House Tee-shirt – 1 piece</p>
 </li>
-</ol>
-<p>*kindly note that the House tee-shirt should only be purchased at a later
-date, after the release of your child’s allocated House. Details will be
-made known via a separate PG letter in late-December 2023.&nbsp;</p>
+</ul>
+<p>(after the release of your child’s allocated House). Details will be made
+known via a separate PG letter in late-December 2024.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -320,14 +290,39 @@ made known via a separate PG letter in late-December 2023.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>The Health Promotion Board (HPB) will conduct health screenings, immunisations
 and dental checks for your child.&nbsp;Your consent is needed for your
-child to receive these important vaccination and dental services. Please
-kindly go to this <strong><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">link</a></strong> to
+child to receive these important vaccination and dental services. Go to
+this <strong><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">link</a></strong> to
 complete the process.&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3&nbsp;</p>
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Personal Learning Device (PLD) Initiative</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The NDLP was launched in March 2020 to help students strengthen their
+digital literacy and acquire digital skills needed to navigate an increasingly
+digitalised world.</p>
+<p>Under the NDLP, every secondary school student will own a school-prescribed
+Personal Learning Device (PLD). Students may use funds from their Edusave
+Account to pay for the PLD.</p>
+<p>The school will be using the Apple iPad 10.9 inch 10th Gen WiFi 64GB for
+teaching and learning.</p>
+<p>A separate PG will be sent to seek parental consent for the purchase of
+Personal Learning Device (“PLD”) and the installation of Device Management
+Application (“DMA”) and the accompanying applications that the school may
+be rolling out as part of the National Digital Literacy Programme (“NDLP”).</p>
+<p>For more details, please go to <a href="https://go.gov.sg/pdlpkcp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pdlpkcp</a> to watch
+the briefing video.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Locker Service&nbsp;</p>
@@ -335,17 +330,17 @@ complete the process.&nbsp;</p>
 <p> &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>You may apply for locker by simply click the <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSe25tpacRJVD_ELuY9k6p_nkC85lwdoQ3Tne2r224cIPi7Mcw/viewform" class="Hyperlink SCXW169938196 BCX0" rel="noreferrer noopener" target="_blank"><u>link</u></a></strong>.&nbsp;</p>
+<p>Apply for locker for your child/ward by clicking the <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSe25tpacRJVD_ELuY9k6p_nkC85lwdoQ3Tne2r224cIPi7Mcw/viewform" class="Hyperlink SCXW169938196 BCX0" rel="noreferrer noopener" target="_blank"><u>link</u></a></strong>.&nbsp;Lockers
+are assigned on a first-come, first-served basis. The Online application
+will be closed once all lockers are fully occupied.</p>
 <p></p>
-<p>Please be reminded to read the <u>terms and conditions</u> before applying&nbsp;</p>
+<p>Please read the <u>terms and conditions</u> before applying.&nbsp;</p>
 <p></p>
-<p>IMPORTANT NOTE: Should the lockers be fully occupied, online application
-will be closed before the closing date.&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4&nbsp;</p>
+<p>5&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MOE Financial Assistance Scheme (FAS) / School-based Financial Assistance&nbsp;</p>
