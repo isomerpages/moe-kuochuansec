@@ -71,6 +71,9 @@ Parents Gateway/ email latest by <strong>Friday, 20 December 2024.</strong>
 (<a href="https://www.instagram.com/kuo_chuan_presbyterian_sec/" rel="noopener nofollow" target="_blank">Instagram</a>,
 <a href="http://facebook.com/kcpsshomepage" rel="noopener nofollow" target="_blank">Facebook</a>or “<a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/" rel="noopener nofollow" target="_blank">The Kuo Chuan Experience</a>”
 ) information about our school programmes.</p>
+<p>If your child/ ward has not been posted to KCPSS and would like to request
+for a school transfer, please click on FormSG and complete the form online.
+Do also register with the school your child/ ward has been posted to.</p>
 <p>Dear parents/guardian,</p>
 <p>Welcome to Kuo Chuan Presbyterian Secondary School (KCPSS) and season
 greetings to you!</p>
