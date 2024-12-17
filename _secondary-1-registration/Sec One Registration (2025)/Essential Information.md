@@ -340,20 +340,13 @@ will be closed once all lockers are fully occupied.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Financial Assistance Scheme (FAS) / School-based Financial Assistance&nbsp;</p>
-<p> &nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form is available at MOE’s website: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" class="Hyperlink SCXW169938196 BCX0" rel="noreferrer noopener" target="_blank"><u>Financial Assistance Information</u></a> &nbsp;</p>
 <p></p>
-<p>You are strongly advised to complete the form beforehand and submit all
-relevant supporting document to us in person at General Office.&nbsp;</p>
-<p></p>
-<p>Please do note that our school office hours are Monday to Friday, between
-8am to 5pm.&nbsp;</p>
 </td>
 </tr>
 <tr>
