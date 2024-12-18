@@ -89,7 +89,7 @@ As a start, our Principal, Mr. Justin Tan would like to connect with you
 at the Parent Engagement Session: Supporting Your Child in Secondary School
 that will be held on <strong>Saturday, 11 January 2025, 9am,</strong> in
 our <strong>school auditorium</strong>, where you will get to hear from
-our Principal. Please register with this <a href="https://go.gov.sg/kcpss-s1engage" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025s1parentengagement</a> if
+our Principal. Please register with this <a href="https://go.gov.sg/kcpss-s1engage" rel="noopener nofollow" target="_blank">https://go.gov.sg/kcpss-s1engage </a>if
 you are able to join us.</p>
 <p>The following section provides essential information to help your child/
 ward transit to secondary school.</p>
