@@ -4,4 +4,120 @@ permalink: /secondary-1-registration/faqs/
 description: ""
 variant: tiptap
 ---
-<h2>FAQS</h2><h4>A: First Week of School</h4><p><strong><em>1. What is the assembly time and dismissal time for the Secondary 1 students?</em></strong></p><ul data-tight="true" class="tight"><li><p><strong>Students</strong> should report at the&nbsp;<strong>school concourse</strong>&nbsp;by <strong>7.30am</strong> and they will be dismissed at <strong>1pm</strong> on <strong>Tuesday, 2 January</strong>. </p></li><li><p>For Wednesday 3 January to Friday 5 January, please refer to the introduction letter sent in Parent Gateway (PG).</p></li></ul><p><strong><em>2. What do the Secondary 1 students need to bring for the first week of school?</em></strong></p><p>The students are only required to bring their water bottle, stationery, notebook and a story book.</p><p><strong><em>3. What is the attire for the first day of school?</em></strong></p><p>Students should come in their blue polo tee and school shorts/skirt on Tuesday, 2 January 2024. For those who have not managed to purchase the school uniform, they can report to school on the first day in their Primary School Uniform.</p><p><strong><em>4.</em></strong>&nbsp;<strong><em>Is there parking in the school should I come and collect my purchases from the book shop?</em></strong></p><p>There is no parking available in the school. Please park at the nearest HDB carpark opposite the school if you are coming to collect your book/uniform purchases.</p><h4><strong>B: Secondary One Registration</strong></h4><p><strong><em>5. How does my child/ward register for Secondary One registration if I am not on board Parents Gateway (PG)?</em></strong></p><p>We will be disseminating messages to parents via PG from time to time hence we strongly encourage you to come on-board PG so that you may receive timely information from us. You can download the free Parents Gateway mobile app on your mobile phone (available on IOS and Android platforms only) and perform a simple one-time onboarding process.</p><p><strong><em>6. Does my child/ward need to register via e-registration or report in person if he/she intends to appeal for a transfer to another school?</em></strong></p><p>If you intend to appeal for a transfer, please submit your e-registration via this <strong><a href="https://go.gov.sg/kcpss1registration2024" rel="noopener noreferrer nofollow" target="_blank">link</a></strong> and subsequently approach the school of your choice to request for a transfer.</p><p><strong><em>7. My child/ward has been posted to KCPSS, but would like to request for school transfer due to&nbsp;medical reasons, what should I do?</em></strong></p><p>If you would like to put in a request under this category, we will require you to come to the school on&nbsp;<strong>22 December&nbsp;between 8.30am to 12 noon</strong>&nbsp;to submit your appeal. Please bring along with you the relevant medical documents to support your appeal. If you are unable to do so, you can still submit your appeal and documents via email at&nbsp;<strong><em>kcpss@moe.edu.sg</em></strong>.</p><h4><strong>C: Higher</strong>&nbsp;<strong>Mother Tongue / 3rd Language / Subject Based Banding (SBB) subjects</strong></h4><p><strong><em>8. How do</em></strong>&nbsp;<strong><em>I appeal for Higher Mother Tongue/CSP/MSP/BI/3rd Language?</em></strong></p><p>Please kindly email the Head of Department/ Mother Tongue at&nbsp;<strong>genevieve_tan_hui_hong@schools.gov.sg</strong>&nbsp;by&nbsp;<strong>Friday, 29 December 2023.</strong>&nbsp;Please indicate your child's full name in your request.</p><h4><strong>D: Full Subject Based Banding</strong></h4><p><strong><em>9.</em></strong> <strong><em>How can the school ensure that students from different courses and backgrounds will be able to socialise well and accept one another?</em></strong>&nbsp;</p><p>The school will strengthen our caring and supportive culture from the start of the school year to build bonds between the students and the teachers.&nbsp;</p><p>Opportunities for authentic interaction among students, such as weekly form teacher interaction with students and cohort activities e.g. cohort camp, inter-class games, will be created to widen their social circle and forge new friendships, and peer student leaders will also be appointed to look out for their classmates. &nbsp;</p><p><strong><em>10.</em></strong> <strong><em>What if my child/ward did not obtain AL5 for the subject, can I appeal to take subjects at more demanding level?</em></strong>&nbsp;</p><p>For students who did not meet the eligibility criteria to take subjects at a more demanding level&nbsp;at the start of Secondary One, please note that they can still be considered for this move if they do well in their learning in Secondary One. &nbsp;</p><p><strong><em>11.</em></strong> <strong><em>If my child/ward cannot cope, can he/she drop the subject to a less demanding level?</em></strong>&nbsp;</p><p>Students (with their parents/guardians’ consent) can make the final decision to continue or drop any&nbsp;subject(s) to a less demanding level. However, students are strongly encouraged to give themselves ample time to adjust to the demands of the higher-level subject(s) before making any decision to drop. Parents/guardian should speak to their child/ward’s Subject Teachers, Form Teacher, Year Head, and/or School Leaders to find out more about their child/ward’s academic progress and potential before finalising their decision.&nbsp;</p><p><strong>12. What is the benefit of students taking subjects at a more demanding level?</strong> &nbsp;</p><p>Taking on subjects at a more demanding level can provide students with a greater academic challenge. This allows students to build a stronger foundation in subjects that they are good at, nurture their strengths and give them more opportunities throughout their educational journey, so that they are more engaged in learning.&nbsp;</p><h4><strong>E: School Support Structure</strong></h4><p><strong><em>13. Who can I contact regarding support for students with Special Educational Needs (SEN) or counselling?</em></strong>&nbsp;</p><p>For support related to SEN, you may contact our SEN Officer, Ms Angelia Ng at <a href="mailto:joey_hong@schools.gov.sg%E2%80%AF%E2%80%AF" rel="noopener noreferrer nofollow" target="_blank">ng_sian_erh_angelia@schools.gov.sg</a> &nbsp;</p><p>For support related to counselling, you may contact our Senior School Counsellor, Mr Joey Hong at <a href="mailto:joey_hong@schools.gov.sg%E2%80%AF%E2%80%AF" rel="noopener noreferrer nofollow" target="_blank"><u>joey_hong@schools.gov.sg</u></a><a href="mailto:joey_hong@schools.gov.sg%E2%80%AF%E2%80%AF" class="Hyperlink SCXW260504061 BCX0" rel="noreferrer noopener" target="_blank"><u>  </u></a>&nbsp;</p><p><strong><em>14. How can I apply for MOE Financial Assistance / School Based Financial Assistance?</em></strong>&nbsp;</p><p>All students who qualify for financial assistance will need to reapply for 2024. Please do so at our General Office during office hours (Mon to Fri, 8am to 5pm). You can download the form <strong><a href="https://www.moe.gov.sg/financial-matters/-/media/932c5159d07c4a128d30374925806a6a.ashx" class="Hyperlink SCXW260504061 BCX0" rel="noreferrer noopener" target="_blank"><u>here</u></a></strong>.&nbsp;</p><p><strong><em>15. Will my child/ward be issued with a new School Smart Card when term starts?</em></strong>&nbsp;</p><p>Please be informed that all students entering Secondary One in Jan 2024 will be issued with a new Secondary level School Smart Card (SSC).  While Secondary One Students are waiting for their Secondary level SSCs to be ready,  they can continue to use their Primary level SSCs for concessionary travel till end Apr 2024. Students can still purchase the Bus Concession Pass (BCP) using their Primary level SSCs, but they would need to purchase the BCP for Secondary School students.&nbsp;</p><p></p><h4><strong>F: School Attire</strong></h4><p><strong><em>16. What kind of school shoe Students can wear?</em></strong></p><p>The school shoe should be&nbsp;<strong>white colour</strong>&nbsp;with white shoe laces. Sports shoes are allowed if they fit this criteria.</p>
+<h2>FAQS</h2>
+<h4>First Week of School</h4>
+<p>1. What is the assembly and dismissal time for Secondary 1 students?</p>
+<p>• Students should report at the <strong>school concourse</strong> by <strong>7.30am</strong> and
+they will be dismissed at <strong>1.20pm</strong> on <strong>Thursday, 2 January 2025.</strong> </p>
+<p>• For Friday 3 January to Tuesday 7 January, refer to the introduction
+letter sent in Parent Gateway (PG).</p>
+<p>2. What do the Secondary 1 students need to bring for the first week of
+school?</p>
+<p>The students are only required to bring their water bottle, stationery,
+notebook and a story book.</p>
+<p>3. What is the attire for the first day of school?</p>
+<p>Students should come in their blue polo tee and school shorts/ skirt on
+Thursday, 2 January 2025. For those who have not managed to purchase the
+school uniform, they can report to school on the first day in their Primary
+School Uniform.</p>
+<p>4. Is there parking in the school should I come and collect my purchases
+from the book shop?</p>
+<p>Parking is subjected to availability of carpark lots in the school and
+priority will be given to school staff. Please park at the nearest HDB
+carpark opposite the school if you are unable to find a carpark lot when
+you collect your textbook/uniform purchases.</p>
+<h4>Secondary One Registration</h4>
+<p>5. How does my child/ ward register for Secondary One registration if
+I am not onboard Parents Gateway (PG)?</p>
+<p>We disseminate messages to parents via PG hence we strongly encourage
+you to come onboard PG so that you may receive timely information from
+us. You can download the free Parents Gateway mobile app on your mobile
+phone (available on IOS and Android platforms only) and perform a simple
+one-time onboarding process.</p>
+<p>6. Does my child/ ward need to register via e-registration or report in
+person if he/ she intends to appeal for a transfer to another school?</p>
+<p>If you intend to appeal for a transfer, please still submit your e-registration
+via the PG sent and subsequently approach the school of your choice to
+request for a transfer. You may indicate your intention under item 20 in
+the e-registration form. Thank you.</p>
+<p>7. My child/ ward has been posted to KCPSS, but would like to request
+for school transfer due to medical reasons, what should I do?</p>
+<p>If you would like to put in a request under this category, we will require
+you to come to the school to submit your appeal by 12 noon on the next
+working day after the release of the posting results. Please bring along
+with you the relevant medical documents to support your appeal. If you
+are unable to do so, you can still submit your appeal and documents via
+email at <a href="mailto:kcpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a>.</p>
+<h4>Higher Mother Tongue/ 3rd Language</h4>
+<p>8. How do I appeal for Higher Mother Tongue/ CSP/ MSP/ BI/ 3rd Language?</p>
+<p>Email the Subject Head/ Mother Tongue, Mdm Nam Cheri at <a href="mailto:nam_tin_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a> by <strong>Monday, 23 December 2024.</strong> Indicate
+your child’s full name in your request and attach a copy of the PSLE result
+slip.</p>
+<h4>Full Subject-Based Banding</h4>
+<p>9. How will Full SBB affect my child’s post-sec pathways?</p>
+<p>Students will progress over 4/5 years of secondary education to take the
+new Secondary Education Certificate (SEC) Examination.</p>
+<p>More details on the admissions to various post-secondary pathways can
+be obtained through this link - FAQs | PSLE Scoring System.</p>
+<p>10. Are students allowed to opt-out of various aspects of Full SBB (e.g.
+from the mixed form classes)?</p>
+<p>No. To allow all students to benefit from learning and interacting with
+one another in a mixed form class, students will not have the option to
+opt out of mixed form classes.</p>
+<p>11. How does the school ensure that students with diverse backgrounds
+socialise well and accept one another?</p>
+<p>There are opportunities for authentic interaction among students to help
+them socialize and accept one another with guidance and support from their
+teachers such as weekly form teacher interaction with students and cohort
+activities e.g. orientation programmes, cohort camp, inter-class games.
+These programmes and activities are designed to widen their social circle
+and forge new friendships, and peer student leaders will also be appointed
+to support their classmates.</p>
+<h4>Subject-Based Banding</h4>
+<p>12. My child/ ward did not obtain AL5 for the subject. Can I appeal for
+him/ her to take the subject(s) at a more demanding level (MDL)?</p>
+<p>Students who do not meet the eligibility criteria for subject(s) at MDL
+at the start of Secondary One can still be considered at (i) the end of
+Term 2 and (ii) Term 4 of Secondary One.</p>
+<p>13. If my child/ ward cannot cope with a subject at a more demanding level,
+can s/he take the subject at a less demanding level?</p>
+<p>Students are strongly encouraged to give themselves time to adjust to
+the demands of the higher-level subject(s). Parents/ guardian should speak
+to their child/ ward’s Subject Teachers, Form Teacher and Year Head to
+find out more about their child/ ward’s progress and potential before deciding
+on requesting for a change in level.</p>
+<p>14. What is the benefit of students taking subjects at a more demanding
+level?</p>
+<p>It allows students to build a stronger foundation in subjects at a pace
+that is more suited for them. It nurtures their strengths, grows their
+interests and they are more engaged in the learning process.</p>
+<p>If the student continues to thrive in the subject and takes a subject
+at a MDL at the end of 4/5 years, the grades can be used (where relevant)
+in the computation of the aggregate for Direct-Entry Scheme to Polytechnic
+Programme (DPP) and Polytechnic Foundation Programme (PFP).</p>
+<h4>School Support Structure</h4>
+<p>15. Who can I contact regarding support for students with Special Educational
+Needs (SEN) or counselling?</p>
+<p>For SEN support, contact our Special Education Need Officer, Ms Angelia
+Ng at <a href="mailto:ng_sian_erh_angelia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sian_erh_angelia@schools.gov.sg</a>
+</p>
+<p>For counselling support, contact our School Counsellor, Mr Joey Hong at
+<a href="mailto:joey_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joey_hong@schools.gov.sg</a>
+</p>
+<p>16. How can I apply for MOE Financial Assistance/ School-Based Financial
+Assistance?</p>
+<p>Submit the eFAS application form or collect a hardcopy from our General
+Office during office hours (Mon to Fri, 8am to 5pm).</p>
+<p>17. Will my child/ ward be issued with a new School Smart Card when term
+starts?</p>
+<p>All students entering Secondary One in Jan 2025 will be issued a new Secondary
+level School Smart Card (SSC). While Secondary One Students are waiting
+for their Secondary level SSCs to be ready, they can continue to use their
+Primary level SSCs for concessionary travel till end Apr 2025. Students
+can still purchase the Bus Concession Pass (BCP) using their Primary level
+SSCs, but they will need to purchase the BCP for Secondary School students.</p>
+<h4>School Attire</h4>
+<p>18. What kind of school shoes should students wear?</p>
+<p>School shoes should be <strong>white</strong> with white shoelaces. Sports
+shoes are allowed if they are white based.</p>
+<p>Sports shoes are allowed if they fit this criteria.</p>
