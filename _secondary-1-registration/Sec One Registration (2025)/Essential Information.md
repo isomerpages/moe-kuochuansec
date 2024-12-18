@@ -340,24 +340,32 @@ will be closed once all lockers are fully occupied.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MOE Financial Assistance Scheme (FAS) / School-based Financial Assistance</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>You can choose to submit the FAS application via these modes:</p>
 <p></p>
+<p>a) Online application: <a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">eFAS Application Form</a>
+</p>
+<p>b) b) Hardcopy application: collect a hardcopy application form or download
+the MOE FAS Application Form. Complete the form and submit all supporting
+documents to in person at the General Office.</p>
+<p></p>
+<p>Our school office hours are Monday to Friday, between 8am - 5pm.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5&nbsp;</p>
+<p>6&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for Parents Support Group&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please sign up for PSG via this<strong><a href="https://go.gov.sg/kcpss-psgmember-registration-form" class="Hyperlink SCXW169938196 BCX0" rel="noreferrer noopener" target="_blank"><u> link.</u></a></strong>&nbsp;</p>
+<p>Sign up for PSG via this<strong><a href="https://go.gov.sg/kcpss-psgmember-registration-form" class="Hyperlink SCXW169938196 BCX0" rel="noreferrer noopener" target="_blank"><u> link.</u></a></strong>&nbsp;</p>
 </td>
 </tr>
 </tbody>
