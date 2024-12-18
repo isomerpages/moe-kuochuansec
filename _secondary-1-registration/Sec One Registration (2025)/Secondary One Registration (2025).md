@@ -65,8 +65,7 @@ See you soon!</p>
 <p><strong>Administrative Details</strong>
 </p>
 <p>We will be contacting parents/ guardians of students posted to KCPSS via
-Parents Gateway/ email latest by <strong>Friday, 20 December 2024.</strong>
-</p>
+Parents Gateway/ email following the release of S1 posting result.</p>
 <p>In the meantime, feel free to visit our school’s social media platforms
 (<a href="https://www.instagram.com/kuo_chuan_presbyterian_sec/" rel="noopener nofollow" target="_blank">Instagram</a>,
 <a href="http://facebook.com/kcpsshomepage" rel="noopener nofollow" target="_blank">Facebook</a>or “<a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/" rel="noopener nofollow" target="_blank">The Kuo Chuan Experience</a>”
