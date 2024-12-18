@@ -7,8 +7,8 @@ variant: tiptap
 <h2>FAQS</h2>
 <h4>First Week of School</h4>
 <p>1. What is the assembly and dismissal time for Secondary 1 students?</p>
-<p>• Students should report at the school concourse by 7.30am and they will
-be dismissed at 1.20pm on Thursday, 2 January 2025. </p>
+<p>• Students should report at the <strong>school concourse</strong> by <strong>7.30am</strong> and
+they will be dismissed at <strong>1.20pm</strong> on <strong>Thursday, 2 January 2025.</strong> </p>
 <p>• For Friday 3 January to Tuesday 7 January, refer to the introduction
 letter sent in Parent Gateway (PG).</p>
 <p>2. What do the Secondary 1 students need to bring for the first week of
@@ -50,10 +50,10 @@ are unable to do so, you can still submit your appeal and documents via
 email at <a href="mailto:kcpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a>.</p>
 <h4>Higher Mother Tongue/ 3rd Language</h4>
 <p>8. How do I appeal for Higher Mother Tongue/ CSP/ MSP/ BI/ 3rd Language?</p>
-<p>Email the Subject Head/ Mother Tongue, Mdm Nam Cheri at <a href="mailto:nam_tin_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a> by
-Monday, 23 December 2024. Indicate your child’s full name in your request
-and attach a copy of the PSLE result slip.</p>
-<p>Full Subject-Based Banding</p>
+<p>Email the Subject Head/ Mother Tongue, Mdm Nam Cheri at <a href="mailto:nam_tin_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a> by <strong>Monday, 23 December 2024.</strong> Indicate
+your child’s full name in your request and attach a copy of the PSLE result
+slip.</p>
+<h4>Full Subject-Based Banding</h4>
 <p>9. How will Full SBB affect my child’s post-sec pathways?</p>
 <p>Students will progress over 4/5 years of secondary education to take the
 new Secondary Education Certificate (SEC) Examination.</p>
@@ -118,6 +118,6 @@ can still purchase the Bus Concession Pass (BCP) using their Primary level
 SSCs, but they will need to purchase the BCP for Secondary School students.</p>
 <h4>School Attire</h4>
 <p>18. What kind of school shoes should students wear?</p>
-<p>School shoes should be white with white shoelaces. Sports shoes are allowed
-if they are white based.</p>
+<p>School shoes should be <strong>white</strong> with white shoelaces. Sports
+shoes are allowed if they are white based.</p>
 <p>Sports shoes are allowed if they fit this criteria.</p>
