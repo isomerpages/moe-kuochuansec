@@ -71,9 +71,9 @@ Parents Gateway/ email following the release of S1 posting result.</p>
 <a href="http://facebook.com/kcpsshomepage" rel="noopener nofollow" target="_blank">Facebook</a>or “<a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/" rel="noopener nofollow" target="_blank">The Kuo Chuan Experience</a>”
 ) information about our school programmes.</p>
 <p>If your child/ ward has not been posted to KCPSS and would like to request
-for a school transfer, please click on <a href="https://form.gov.sg/admin/form/674e711e00228143be81c275" rel="noopener nofollow" target="_blank">FormSG</a> and
-complete the form online. Do also register with the school your child/
-ward has been posted to.</p>
+for a school transfer, please click on <a href="https://go.gov.sg/kcpss-s1-appeal" rel="noopener nofollow" target="_blank">FormSG</a> and complete the form
+online. Do also register with the school your child/ ward has been posted
+to.</p>
 <p></p>
 <p><strong>Orientation Programme ( 2 to 7 Jan 2025)</strong>
 </p>
@@ -89,7 +89,7 @@ As a start, our Principal, Mr. Justin Tan would like to connect with you
 at the Parent Engagement Session: Supporting Your Child in Secondary School
 that will be held on <strong>Saturday, 11 January 2025, 9am,</strong> in
 our <strong>school auditorium</strong>, where you will get to hear from
-our Principal. Please register with this <a href="https://go.gov.sg/2025s1parentengagement" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025s1parentengagement</a> if
+our Principal. Please register with this <a href="https://go.gov.sg/kcpss-s1engage" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025s1parentengagement</a> if
 you are able to join us.</p>
 <p>The following section provides essential information to help your child/
 ward transit to secondary school.</p>
