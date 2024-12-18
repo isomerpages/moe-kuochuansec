@@ -101,7 +101,9 @@ at the PSLE.</p>
 2 for Secondary 1 students to be offered these subjects at a more demanding
 level, if found suitable.</p>
 <p>The following video provides a snapshot of the FSBB secondary school experience</p>
-<p>{insert link/ video]</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FGjXlsTBRN0?si=0HGrLoN8sHokgFh4"></iframe>
+</div>
 <p>You may also refer to the e-Student Handbook 2025 for more details when
 it is published.</p>
 <h4>B. Higher Mother Tongue / 3rd Language / Subject Based Banding (SBB) subjects At More Demanding Level.</h4>
