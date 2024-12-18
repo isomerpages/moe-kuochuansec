@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>FAQS</h2>
-<p>First Week of School</p>
+<h4>First Week of School</h4>
 <p>1. What is the assembly and dismissal time for Secondary 1 students?</p>
 <p>• Students should report at the school concourse by 7.30am and they will
 be dismissed at 1.20pm on Thursday, 2 January 2025. </p>
@@ -26,7 +26,7 @@ from the book shop?</p>
 priority will be given to school staff. Please park at the nearest HDB
 carpark opposite the school if you are unable to find a carpark lot when
 you collect your textbook/uniform purchases.</p>
-<p>Secondary One Registration</p>
+<h4>Secondary One Registration</h4>
 <p>5. How does my child/ ward register for Secondary One registration if
 I am not onboard Parents Gateway (PG)?</p>
 <p>We disseminate messages to parents via PG hence we strongly encourage
@@ -48,7 +48,7 @@ working day after the release of the posting results. Please bring along
 with you the relevant medical documents to support your appeal. If you
 are unable to do so, you can still submit your appeal and documents via
 email at <a href="mailto:kcpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a>.</p>
-<p>Higher Mother Tongue/ 3rd Language</p>
+<h4>Higher Mother Tongue/ 3rd Language</h4>
 <p>8. How do I appeal for Higher Mother Tongue/ CSP/ MSP/ BI/ 3rd Language?</p>
 <p>Email the Subject Head/ Mother Tongue, Mdm Nam Cheri at <a href="mailto:nam_tin_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a> by
 Monday, 23 December 2024. Indicate your child’s full name in your request
@@ -73,7 +73,7 @@ activities e.g. orientation programmes, cohort camp, inter-class games.
 These programmes and activities are designed to widen their social circle
 and forge new friendships, and peer student leaders will also be appointed
 to support their classmates.</p>
-<p>Subject-Based Banding</p>
+<h4>Subject-Based Banding</h4>
 <p>12. My child/ ward did not obtain AL5 for the subject. Can I appeal for
 him/ her to take the subject(s) at a more demanding level (MDL)?</p>
 <p>Students who do not meet the eligibility criteria for subject(s) at MDL
@@ -95,11 +95,11 @@ interests and they are more engaged in the learning process.</p>
 at a MDL at the end of 4/5 years, the grades can be used (where relevant)
 in the computation of the aggregate for Direct-Entry Scheme to Polytechnic
 Programme (DPP) and Polytechnic Foundation Programme (PFP).</p>
-<p>School Support Structure</p>
+<h4>School Support Structure</h4>
 <p>15. Who can I contact regarding support for students with Special Educational
 Needs (SEN) or counselling?</p>
 <p>For SEN support, contact our Special Education Need Officer, Ms Angelia
-Ng at <a href="mailto:ng_sian_erh_angelia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sian_erh_angelia@schools.gov.sg</a> 
+Ng at <a href="mailto:ng_sian_erh_angelia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sian_erh_angelia@schools.gov.sg</a>
 </p>
 <p>For counselling support, contact our School Counsellor, Mr Joey Hong at
 <a href="mailto:joey_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joey_hong@schools.gov.sg</a>
@@ -116,7 +116,7 @@ for their Secondary level SSCs to be ready, they can continue to use their
 Primary level SSCs for concessionary travel till end Apr 2025. Students
 can still purchase the Bus Concession Pass (BCP) using their Primary level
 SSCs, but they will need to purchase the BCP for Secondary School students.</p>
-<p>School Attire</p>
+<h4>School Attire</h4>
 <p>18. What kind of school shoes should students wear?</p>
 <p>School shoes should be white with white shoelaces. Sports shoes are allowed
 if they are white based.</p>
