@@ -9,60 +9,60 @@ variant: tiptap
 require your attention. Do take a look at the FAQ Section for our responses
 to some frequently asked questions as well.</p>
 <h4>A. Full Subject-Based Banding (FSBB)</h4>
-<p>KCPSS has provided a SBB curriculum structure with the Secondary 1 cohort
-since 2023.</p>
-<p>Each form class will comprise students of diverse academic. They will
-interact with peers with diverse perspectives, different strengths and
-interests, build communication, collaboration and cross-cultural skills.</p>
+<p>KCPSS has provided a FSBB curriculum structure with the Secondary 1 cohort
+since 2023. Each form class will comprise students of diverse academic
+background. They will interact with peers with diverse perspectives, different
+strengths and interests, and build communication, collaboration and cross-cultural
+skills.</p>
 <p>Art, Design and Technology, Food and Consumer Education, Music and Physical
-Education, will be taught as common curriculum subjects in the form class,
+Education will be taught as common curriculum subjects in the form class,
 where students will be assessed through a common standard. Teachers will
 differentiate their teaching using a range of teaching approaches to ensure
 a high level of teaching and learning in the classroom.</p>
 <p>For English, Mathematics, Science, Mother Tongue and the Humanities, students
 will learn these subjects in their respective assigned academic course.</p>
-<p><strong>Subject-Based Banding (SBB)</strong>
-</p>
+<h4>Subject-Based Banding (SBB)</h4>
 <p>Subject-based banding (SBB) is one of many opportunities for students
 to nurture their aptitudes and develop their strengths. SBB allows your
 child/ ward to take specific subjects at a more demanding level from Secondary
 1, if found suitable to do so.</p>
-<p></p>
-<p><strong>Eligibility to offer subjects at a more demanding level under SBB</strong>
+<p><strong>Eligibility to offer subjects at a more demanding level under SBB:</strong>
 </p>
-<p>Students posted under Posting Group 2 and Posting Group1 can offer English
-Language, Mathematics, Science and Mother Tongue Languages at a more demanding
-level from the start of Secondary 1, if they have performed well in these
-subjects at the Primary School Leaving Examination (PSLE).</p>
-<p>Students from posting groups 2 and 1 are eligible to take (English Language,
-Mathematics, Science and Mother Tongue Language) at a more demanding level
+<p>Students from posting groups 2 and 1 are eligible to take English Language,
+Mathematics, Science and Mother Tongue Language at a more demanding level
 from the start of Secondary 1, if they have performed well in these subjects
 at the PSLE.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Posting Group at the Start of Sec 1</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Posting Group at the start of Sec 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>PSLE Standard Grade</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>PSLE Foundation Grade</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Option to offer subject at</strong>
 </p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>PSLE Standard Grade</strong>&nbsp;</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>PSLE Foundation Grade</strong>&nbsp;</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Option to offer subject at</strong>&nbsp;&nbsp;</p>
-</th>
-</tr>
-<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>AL 5 or better</p>
 </td>
@@ -74,6 +74,10 @@ at the PSLE.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>AL 5 or better</p>
 </td>
@@ -81,7 +85,7 @@ at the PSLE.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>G2 / G3</p>
+<p>G2/G3</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +104,7 @@ at the PSLE.</p>
 <p>There are two other junctures, namely end of Semester 1 and end of Semester
 2 for Secondary 1 students to be offered these subjects at a more demanding
 level, if found suitable.</p>
-<p>The following video provides a snapshot of the FSBB secondary school experience</p>
+<p>The following video provides a snapshot of the FSBB secondary school experiences</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FGjXlsTBRN0?si=0HGrLoN8sHokgFh4"></iframe>
 </div>
