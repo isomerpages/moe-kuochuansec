@@ -153,7 +153,7 @@ PG/email.</p>
 email.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By Friday, 27 Dec 2024</p>
+<p>By Thursday, 26 Dec 2024</p>
 </td>
 </tr>
 <tr>
