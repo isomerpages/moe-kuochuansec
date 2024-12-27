@@ -47,15 +47,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Foo Seng Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:foo_seng_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_seng_hong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Foo Ji Ying Eunice</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,55 +56,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sam Yew Yishen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yew_yishen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yew_yishen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nor Aliah Bte Abdul Samad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:noraliah_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noraliah_abdul_samad@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yap Shinn (Asst YH Upp Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yap_shinn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_shinn@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Cheong Hwee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Sek_HWEE_LENG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sek_HWEE_LENG@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Lim Zi Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Zi_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Zi_min@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Tan Hui Si</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Hui_Si@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Hui_Si@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -132,6 +78,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Nicky_Phua_Cheng_Liang_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nicky_Phua_Cheng_Liang_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Elaine Ho Kim Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Ho_Kim_Yan_C@schools.gov.sg" rel="noopener nofollow" target="_blank">Ho_Kim_Yan_C@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jocelyn Kong Phui Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Jocelyn_Kong@schools.gov.sg" rel="noopener nofollow" target="_blank">Jocelyn_Kong@schools.gov.sg</a>
 </p>
 </td>
 </tr>

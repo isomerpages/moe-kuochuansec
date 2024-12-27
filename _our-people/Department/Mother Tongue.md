@@ -20,15 +20,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Genevieve Tan (HOD/Mother Tongue)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:genevieve_tan_hui_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">genevieve_tan_hui_hong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Yu Xiaoqin (Senior Teacher)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,15 +42,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_ting@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Yin Yee (Chinese Lang)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yin_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yin_yee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -115,40 +97,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Tai_Tze_Ghee_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tai_Tze_Ghee_A@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chu yu Sheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Chu_Yu_Sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chu_Yu_Sheng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Leow Bee Chu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Leow_Bee_Chu@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ken Lim Chii Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ho Chan Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
