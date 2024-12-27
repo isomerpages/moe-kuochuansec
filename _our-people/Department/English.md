@@ -138,10 +138,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Jia Yan</p>
+<p>Mr Quek Suan Shiau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_jia_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_jia_yan@schools.gov.sg</a>
+<p><a href="Quek_Suan_Shiao_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Quek_Suan_Shiao_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Amos Wu Pom Hin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="amos_wu_pom_hin@schools.gov.sg" rel="noopener nofollow" target="_blank">amos_wu_pom_hin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
