@@ -56,46 +56,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Diyanah Bte Mohammad Suhaini(Geography)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_diyanah_mohammad_suhai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_diyanah_mohammad_suhai@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Chee Kian (Geography)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_chee_kian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chee_kian@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Amelia Yeo Jiaxin (Social Studies/History)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:amelia_yeo_jiaxin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amelia_yeo_jiaxin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Amelia Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Amelia_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Amelia_chong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jane Ingram</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Ingham_Jane_Christine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ingham_Jane_Christine@schools.gov.sg</a>
 </p>
 </td>
 </tr>
