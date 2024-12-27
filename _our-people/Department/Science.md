@@ -65,15 +65,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Zi Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Zi_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Zi_min@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Teo Wil Ping</p>
 </td>
 <td rowspan="1" colspan="1">
