@@ -369,18 +369,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH - Design &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Png Siew Hoon&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">png_siew_hoon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH - Student Management&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1260,6 +1248,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ravathi_velayuthan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Png Siew Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="png_siew_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">png_siew_hoon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
