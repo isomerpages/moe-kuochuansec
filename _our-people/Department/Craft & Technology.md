@@ -33,7 +33,7 @@ variant: tiptap
 <br>Mr Tan Siaw Chong Edwin
 <br>Mr James Lau (Workshop Instructor)
 <br>Ms Low Kar Yee (Workshop Instructor)</p>
-<p>Mr Koh Tong Seah</p>
+<p></p>
 <p>Mr Wong Chung Meng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,8 +42,6 @@ variant: tiptap
 <br><a href="mailto:tan_siaw_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siaw_chong@schools.gov.sg</a>
 <br><a href="mailto:james_lau_kam_fatt@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_lau_kam_fatt@schools.gov.sg</a>
 <br><a href="mailto:low_kar_yee_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_kar_yee_a@schools.gov.sg</a>
-</p>
-<p><a href="mailto:Koh_Tong_Seah_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_Tong_Seah_A@schools.gov.sg</a>
 </p>
 <p><a href="mailto:Wong_Chung_Meng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Chung_Meng_A@schools.gov.sg</a>
 </p>
