@@ -20,16 +20,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Clara Yeo (HOD/ Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_li_li_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_li_li_clara@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Loh Jia Perng (HOD/Mathematics - Designate)</p>
+<p>Mr Loh Jia Perng (HOD/Mathematics )</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loh_jia_perng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_jia_perng@schools.gov.sg</a>
@@ -119,10 +110,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Brian Pang Khang Chen</p>
+<p>Ms Mabel Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Brian_Pang_Khang_Chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Brian_Pang_Khang_Chen@schools.gov.sg</a>
+<p><a href="Mabel_Neo@schools.gov.sg" rel="noopener nofollow" target="_blank">Mabel_Neo@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Yi Pin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ong_yi_pin@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_yi_pin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
