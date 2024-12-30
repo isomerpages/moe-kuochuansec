@@ -297,78 +297,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher - EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ravathi Velayuthan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ravathi_velayuthan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher - CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yu Xiaoqin&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yu_xiaoqin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher - MATH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Shu Yen&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_shu_yen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher - POA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Tang Lai Chan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tham_lai_chan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher - FCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lau Pui Lye Kathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lau_pui_lye_kathy@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher - PHY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr David Yee Chee Wai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yee_chee_wei_david@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH - Student Management&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -460,6 +388,78 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wei_tian_charlene_teo@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher - EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ravathi Velayuthan&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ravathi_velayuthan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher - CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yu Xiaoqin&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yu_xiaoqin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher - MATH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Shu Yen&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_shu_yen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher - POA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tang Lai Chan&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tham_lai_chan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher - FCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lau Pui Lye Kathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lau_pui_lye_kathy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher - PHY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr David Yee Chee Wai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yee_chee_wei_david@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -629,7 +629,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>eacher - S1 PRAISE</p>
+<p>Teacher - S1 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Chee Yoon Hui</p>
