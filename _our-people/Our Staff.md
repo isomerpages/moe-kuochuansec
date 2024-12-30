@@ -245,7 +245,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Subject Head /  Lead Teacher / Senior Teacher </strong>
+<p><strong>Subject Head / Lead Teacher / Senior Teacher</strong>
 </p>
 </td>
 </tr>
