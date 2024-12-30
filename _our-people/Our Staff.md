@@ -146,17 +146,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD - MT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NIL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD - Std Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -388,6 +377,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wei_tian_charlene_teo@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / CL (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nam Tin Yuen&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
