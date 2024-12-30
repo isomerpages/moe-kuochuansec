@@ -486,8 +486,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher /</p>
-<p>S1 FAITH</p>
+<p>Form Teacher / S1 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Jade Tan Jie Heng</p>
@@ -499,8 +498,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher /</p>
-<p>S1 FAITH</p>
+<p>Form Teacher / S1 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Benjamin Huang Bojun</p>
