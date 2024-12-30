@@ -286,7 +286,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH - Student Management&nbsp;</p>
+<p>SH / Student Management&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Soon Chye&nbsp;</p>
@@ -298,7 +298,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH - Science</p>
+<p>SH / Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Li Eng</p>
@@ -310,7 +310,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Aesthetics</p>
+<p>SH / Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Esther Tay</p>
@@ -322,7 +322,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Applied Learning</p>
+<p>SH / Applied Learning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Ang Siok Min Mitchelle&nbsp;</p>
@@ -334,7 +334,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/D&amp;T</p>
+<p>SH / D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kelvin Chia Cheng Meng</p>
@@ -346,7 +346,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/CCE</p>
+<p>SH / CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Benjamin Huang Bojun</p>
@@ -358,7 +358,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/EL</p>
+<p>SH / EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Isaac Sim Wee Siong</p>
@@ -370,7 +370,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/HUM</p>
+<p>SH / HUM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Teo Wei Tian Charlene</p>
@@ -394,7 +394,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher - EL</p>
+<p>Lead Teacher / EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ravathi Velayuthan&nbsp;</p>
@@ -406,7 +406,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher - CL</p>
+<p>Senior Teacher / CL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yu Xiaoqin&nbsp;</p>
@@ -418,7 +418,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher - MATH</p>
+<p>Senior Teacher / MATH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Shu Yen&nbsp;</p>
@@ -430,7 +430,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher - POA</p>
+<p>Senior Teacher / POA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tang Lai Chan&nbsp;</p>
@@ -442,7 +442,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher - FCE</p>
+<p>Senior Teacher / FCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lau Pui Lye Kathy</p>
@@ -454,7 +454,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher - PHY</p>
+<p>Senior Teacher / PHY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr David Yee Chee Wai</p>
