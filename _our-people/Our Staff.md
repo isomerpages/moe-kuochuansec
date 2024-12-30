@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD - Humanities</p>
+<p>HOD / Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chelliah Trevor Devendran&nbsp;</p>
@@ -122,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD - Science</p>
+<p>HOD / Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Dorothy Goh</p>
@@ -134,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD - ICT</p>
+<p>HOD / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Michelle Cheong</p>
@@ -146,7 +146,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD - Std Leadership</p>
+<p>HOD / Std Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Chua Jazlyn</p>
@@ -158,7 +158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD - PE &amp; CCA</p>
+<p>HOD / PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khoo Kian Seong Kenneth&nbsp;</p>
@@ -170,7 +170,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD - CCE</p>
+<p>HOD / CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Say Pin</p>
@@ -182,7 +182,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD - EL</p>
+<p>HOD / EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Samboo Elaine Natalie&nbsp;</p>
@@ -194,7 +194,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD - Student Management</p>
+<p>HOD / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cheung Ho Wai</p>
@@ -206,7 +206,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD - Maths</p>
+<p>HOD / Maths</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Loh Jia Perng</p>
