@@ -253,7 +253,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst YH Lower Sec</p>
+<p>Asst YH Upper Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Ho Shiao Hwee</p>
@@ -265,7 +265,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst YH</p>
+<p>Asst YH Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Wong Yin Mei</p>
@@ -277,7 +277,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Subject Head / Senior Teacher / Lead Teacher</strong>
+<p><strong>Subject Head /  Lead Teacher / Senior Teacher</strong>
 </p>
 </td>
 </tr>
