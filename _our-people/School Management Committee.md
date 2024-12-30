@@ -4,7 +4,11 @@ permalink: /our-people/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -32,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hon Treasurer</p>
+<p>Vice Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gregory Tan</p>
@@ -40,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Asst. Hon Treasurer</p>
+<p>Hon Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lena Teoh Chyin</p>
@@ -48,15 +52,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Hon Secretary</p>
+<p>Hon Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Elder John Ng</p>
+<p>Mr Richard Koh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Member</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rev Dr Adrin Munoz</p>
@@ -64,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;Member</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rev Foo Yuk Yee</p>
@@ -72,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;Member</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rev Dr Christopher Chia</p>
@@ -80,15 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Elder Dr Chung Lai Hong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;Member</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Elder Wang Kim Meng</p>
@@ -96,18 +92,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;Member</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Elder Lee Shee Koeng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Richard Koh</p>
 </td>
 </tr>
 </tbody>
