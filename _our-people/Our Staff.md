@@ -277,7 +277,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Subject Head /  Lead Teacher / Senior Teacher</strong>
+<p><strong>Subject Head / Lead Teacher / Senior Teacher</strong>
 </p>
 </td>
 </tr>
@@ -464,42 +464,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Experience Teacher/MT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Chee Yoon Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chee_yoon_hui@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Experience Teacher/Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yeo Suan Neo Doreen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yeo_suan_neo_doreen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Experience Teacher/Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jeremy See Poo Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">see_poo_leng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Teaching Staff</strong>
 </p>
@@ -620,10 +584,10 @@ variant: tiptap
 <p>Teacher - S1 GRACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chee Yoon Hui</p>
+<p>Miss Maria Immaculate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chee_yoon_hui@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Maria_immaculate_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -665,13 +629,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher - S1 PRAISE</p>
+<p>eacher - S1 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Maria Immaculate</p>
+<p>Miss Chee Yoon Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Maria_immaculate_A@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chee_yoon_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
