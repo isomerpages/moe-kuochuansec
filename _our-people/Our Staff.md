@@ -328,7 +328,7 @@ variant: tiptap
 <p>SH Mother Tongue (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nam Tin Yuen, Chei&nbsp;</p>
+<p>Mdm Nam Tin Yuen, Cheri&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a>
@@ -352,10 +352,10 @@ variant: tiptap
 <p>Asst YH / Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Wong Yin Mei</p>
+<p>Miss Ho Shiao Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_yin_mei@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Ho_Shiao_Hwee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -364,10 +364,10 @@ variant: tiptap
 <p>Asst YH / Lower Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ho Shiao Hwee</p>
+<p>Miss Wong Yin Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Ho_Shiao_Hwee@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">wong_yin_mei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -528,7 +528,7 @@ variant: tiptap
 <p>S1 JOY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yong Yin Yin Esther</p>
+<p>Mrs Esther Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">yong_yin_yin_esther@schools.gov.sg</a>
