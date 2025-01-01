@@ -38,10 +38,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Ting (Higher Chinese Lang Coordinator)</p>
+<p>Ms Nam Tin Yuen (SH Mother Tongue (Covering))</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wang_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_ting@schools.gov.sg</a>
+<p><a href="mailto:nam_tin_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
