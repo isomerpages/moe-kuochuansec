@@ -49,6 +49,7 @@ variant: markdown
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%209.png">
 </a></p>
 
+<br><br><br>
 
 <p><a href="mailto:chelliah_trevor_devendran@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2010.png">
@@ -70,6 +71,7 @@ variant: markdown
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2013.png">
 </a></p>
 
+<br><br><br>
 
 <p><a href="mailto:tan_say_pin@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/hodccetansaypin.jpg">
