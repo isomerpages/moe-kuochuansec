@@ -1400,7 +1400,7 @@ variant: tiptap
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Maggie Chu</p>
+<p>Ms Maggie Zhu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">zhun_jun@schools.gov.sg</a>
