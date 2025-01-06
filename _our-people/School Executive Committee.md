@@ -99,6 +99,11 @@ variant: markdown
 <p><a href="mailto:yong_yin_yin_esther@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/ESTHER_TAY_SH_AESTHETIC.jpg">
 </a></p>
+
+<p><a href="mailto:kelvin_chia_cheng_meng@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/KELVIN_CHIA_SH_DT.jpg">
+</a></p>
+
 <p><a href="mailto:ng_soon_chye@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2016.png">
 </a></p>
