@@ -110,7 +110,7 @@ variant: markdown
 
 <br><br><br>
 
-<p><a href="mailto:ng_soon_chye@schools.gov.sg">
+<p><a href="mailto:wei_tian_charlene_teo@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/Charlene_Teo_SH_Hum.jpg">
 </a></p>
 
