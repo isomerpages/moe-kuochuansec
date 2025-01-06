@@ -40,49 +40,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KCPSS_CCA_Deployment_2024__26_Jun_.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Training Schedule</a>
+<p><a href="/files/For_Website__CCA_Schedule_2025__2_Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Training Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/LEAPS2%20Grading%20System.pdf" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0</a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Updates to CCA in 2024</strong> 
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Volleyball CCA will not be accepting Secondary 1 students from 2024 onwards.</em>
-</p>
-</li>
-</ul>
-<h3>CCA Information for Secondary 1</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Secondary 1 CCA Selection Letter to Parent</p>
-</th>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter_to_Parents_Sec_1_CCA_Registration___Selection_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">CLICK HERE</a>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>CCA Highlights</p>
-</th>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="240" width="352" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ulk6sb1K6_A"></iframe>
-</div>
 </td>
 </tr>
 </tbody>
