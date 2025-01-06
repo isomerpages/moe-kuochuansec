@@ -91,7 +91,7 @@ variant: markdown
 
 
 	
-
+ISAAC_SIM_SHEL
 
 
 **Subject Head  / Lead Teacher**
@@ -104,6 +104,9 @@ variant: markdown
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/KELVIN_CHIA_SH_DT.jpg">
 </a></p>
 
+<p><a href="mailto:sim_wee_siong_isaac@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/ISAAC_SIM_SHEL.jpg">
+</a></p>
 <p><a href="mailto:ng_soon_chye@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2016.png">
 </a></p>
