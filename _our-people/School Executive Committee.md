@@ -69,13 +69,14 @@ variant: markdown
 <p><a href="mailto:janell_lim@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/JANELL_LL_YH_US.jpg">
 </a></p>
+
 <br><br><br>
 
 <p><a href="mailto:cheung_ho_wai@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/DM_CheungHowai.jpg">
 </a></p>
 
-<br><br><br>
+
 
 
 
