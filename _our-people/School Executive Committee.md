@@ -24,51 +24,35 @@ variant: markdown
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/VPAJaime.jpg">
 </a></p>
 
-
-
-<br><br><br><br>
+<br><br><br>
 
 **Head of Department**
 
-<p><a href="mailto:cheong_mun_mun_michelle@schools.gov.sg">
-<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/Michelle_Cheong_Hod_ICT.jpg">
-</a></p>
 
 <p><a href="mailto:chua_chee_yong@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%206.png">
 </a></p>
 
-<br><br><br>
-
 <p><a href="mailto:samboo_elaine_natalie@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%208.png">
 </a></p>
-
-
-<p><a href="mailto:khoo_kian_seong_kenneth@schools.gov.sg">
-<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%209.png">
-</a></p>
-
-<br><br><br>
 
 <p><a href="mailto:chelliah_trevor_devendran@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2010.png">
 </a></p>
 
-
-<p><a href="mailto:cheung_ho_wai@schools.gov.sg">
-<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/DM_CheungHowai.jpg">
-</a></p>
-
 <br><br><br>
+
+<p><a href="mailto:Loh_Jia_Perng@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/Loh_Jia_Perng_HodMath.jpg">
+</a></p>	
 
 <p><a href="mailto:dorothy_tay_wyn_hui@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2012.png">
 </a></p>
 
-
-<p><a href="mailto:goh_boon_loon@schools.gov.sg">
-<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2013.png">
+<p><a href="mailto:khoo_kian_seong_kenneth@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%209.png">
 </a></p>
 
 <br><br><br>
@@ -78,9 +62,33 @@ variant: markdown
 	
 </a></p>
 
-<p><a href="mailto:Loh_Jia_Perng@schools.gov.sg">
-<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/Loh_Jia_Perng_HodMath.jpg">
-</a></p>	
+<p><a href="mailto:cheong_mun_mun_michelle@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/Michelle_Cheong_Hod_ICT.jpg">
+</a></p>
+
+<p><a href="mailto:janell_lim@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/JANELL_LL_YH_US.jpg">
+</a></p>
+<br><br><br>
+
+<p><a href="mailto:cheung_ho_wai@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/DM_CheungHowai.jpg">
+</a></p>
+
+<br><br><br>
+
+
+
+
+<p><a href="mailto:goh_boon_loon@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2013.png">
+</a></p>
+
+<br><br><br>
+
+
+
+
 	
 <p></p>
 
