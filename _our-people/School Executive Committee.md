@@ -76,15 +76,13 @@ variant: markdown
 <img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/DM_CheungHowai.jpg">
 </a></p>
 
-
-
-
-
-
 <p><a href="mailto:goh_boon_loon@schools.gov.sg">
-<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2013.png">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/PATRIC_YH_LS.jpg">
 </a></p>
 
+<p><a href="mailto:Jazlyn_Chua@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align="left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2019.png">
+</a></p>	
 <br><br><br>
 
 
