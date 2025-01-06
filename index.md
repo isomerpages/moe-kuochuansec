@@ -22,20 +22,4 @@ sections:
   - resources:
       title: Announcements
       button: Click Here
-  - infopic:
-      title: OPEN HOUSE 2024
-      subtitle: 16 NOV 2024 | 9AM-12PM
-      id: infopic
-      description: Feel the Spirit - Live the Journey
-      image: /images/KCPSS_Open_House24.png
-      alt: Image alt text
-      url: /virtual-open-house/welcome-to-kcpss/
-      button: More Information
-  - infopic:
-      title: KCP 100
-      subtitle: centennial
-      id: infopic
-      description: Rooted in Faith, Enduring for Good
-      image: /images/KCP100_eDM_1.jpg
-      alt: Image alt text
 ---
