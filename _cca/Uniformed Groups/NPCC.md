@@ -88,8 +88,8 @@ organised by the Home Team Academy (NPCC HQ).</p>
 as Road Safety Marshall Duty. Camps such as the annual Adventure Training
 Camp at Pulau Ubin will help cadets build resilience.</p>
 <p></p>
-<p>Programmes such as the Leadership and Mentoring Skill Course (LMSC)</p>
-<p>will help cadets to develop leadership skills too.</p>
+<p>Programmes such as the Leadership and Mentoring Skill Course (LMSC) will
+help cadets to develop leadership skills too.</p>
 <p></p>
 </td>
 </tr>
