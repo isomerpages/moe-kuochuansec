@@ -111,19 +111,15 @@ variant: markdown
   </tr>
   <tr>
     <td>Precision Drill Challenge</td>
-    <td>Champion (2014, 2016, 2017, 2018,2022,2023)</td>
+    <td>Champion (2014, 2016, 2017, 2018,2022 - 2024)</td>
   </tr>
   <tr>
     <td> UACDC</td>
-    <td> 1st Placing (2019)</td>
+    <td> 1st Placing (2019)<br>8th Placing (2023)</td>
   </tr>
-  <tr>
-    <td> NFEC-NCDCC Inter-Unit Quiz</td>
-    <td> Unit Quiz - 1st Placing (2017, 2019)</td>
-  </tr>
+ 
 </tbody>
 </table>
-
 
 ## Teachers-in-Charge
 
