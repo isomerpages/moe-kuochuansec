@@ -91,7 +91,7 @@ variant: markdown
   </tr>
   <tr>
     <th>Training Timing</th>
-    <td>2.30 PM - 6.00 PM</td>
+    <td>2.30 PM - 5.00 PM</td>
   </tr>
   <tr>
     <th>Venue</th>
@@ -107,7 +107,7 @@ variant: markdown
 <tbody>
   <tr>
     <td>Unit Overall Proficiency Award</td>
-    <td>Gold (2016, 2017, 2018, 2019)<br>Dinstinction (2022)</td>
+    <td>Gold (2016, 2017, 2018, 2019)<br>Dinstinction (2022 - 2024)</td>
   </tr>
   <tr>
     <td>Precision Drill Challenge</td>
@@ -131,4 +131,4 @@ variant: markdown
 
 | Su Weizhi | Kang Joo Geok Rebecca |Chan Ann Gee | 
 | -------- | -------- | -------- |
-| <a href="mailto:su_weizhi@schools.gov.sg">su_weizhi@schools.gov.sg</a>    |<a href="mailto:kang_joo_geok@schools.gov.sg">kang_joo_geok@schools.gov.sg</a>|<a href="mailto:chan_ann_gee@schools.gov.sg">chan_ann_gee@schools.gov.sg</a>| 
+| <a href="mailto:su_weizhi@schools.gov.sg">su_weizhi@schools.gov.sg</a>    |<a href="mailto:kang_joo_geok@schools.gov.sg">kang_joo_geok@schools.gov.sg</a>|<a href="mailto:chan_ann_gee@schools.gov.sg">chan_ann_gee@schools.gov.sg</a>|
