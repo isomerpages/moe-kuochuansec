@@ -57,8 +57,9 @@ helps to make Singapore the safest place in the world.</p>
 </tbody>
 </table>
 <h3>Area of Focus</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/area%20of%20focus.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/03_PYA_Photo.jpg">
 </div>
 <p>The National Police Cadet Corp trains its cadets to be strong both physically
 and mentally. KCPSS NPCC’s core mission is to<strong> “develop our cadets into caring and responsible citizens” </strong>and
@@ -67,8 +68,9 @@ It is a co-curricular activity that emphasizes discipline, unity and taking
 initiative. It also provides cadets with opportunities for leadership training
 and character building.</p>
 <h3>Programmes</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/programmes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/04_NPCC_Prog.png">
 </div>
 <p>Programmes The NPCC cadets are encouraged to take part in Inter-Unit and
 National competitions organised by the Home Team Academy (NPCC HQ).
