@@ -58,11 +58,11 @@ Our motto,&nbsp;**"Be Prepared"**&nbsp;, shares the Founder's initials and is a 
   </tr>
   <tr>
     <th>Training Timing</th>
-    <td>3.00 PM - 6.00 PM</td>
+    <td>2.00 PM - 5.00 PM</td>
   </tr>
   <tr>
     <th>Venue</th>
-    <td>Concourse / Field / Classrooms / Special rooms for Badge work</td>
+    <td>Parade Square / Concourse / Classrooms</td>
   </tr>
 </tbody>
 </table>
@@ -71,6 +71,6 @@ Our motto,&nbsp;**"Be Prepared"**&nbsp;, shares the Founder's initials and is a 
 
 
 
-| Tang Lai Chan | Chang Meng Hsia    | 
-| -------- | -------- | 
-| <a href="mailto:tham_lai_chan@schools.gov.sg">tham_lai_chan@schools.gov.sg</a>     | <a href="mailto:chang_meng_hsia@schools.gov.sg">chang_meng_hsia@schools.gov.sg</a>     | 
+| Tang Lai Chan | Chang Meng Hsia    | Maria Immaculate |
+| -------- | -------- |-------- |  
+| <a href="mailto:tham_lai_chan@schools.gov.sg">tham_lai_chan@schools.gov.sg</a>| <a href="mailto:chang_meng_hsia@schools.gov.sg">chang_meng_hsia@schools.gov.sg</a>    |<a href="mailto:Maria_immaculate_A@schools.gov.sg">Maria_immaculate_A@schools.gov.sg</a>|
