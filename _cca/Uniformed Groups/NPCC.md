@@ -141,7 +141,7 @@ help cadets to develop leadership skills too.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2022 : Distinction</p>
+<p>2022 - 2023 : Distinction</p>
 </li>
 <li>
 <p>2016-2019, 2021 : Gold</p>
@@ -151,9 +151,6 @@ help cadets to develop leadership skills too.</p>
 <li>
 <p><strong>1st Runner UP for 2nd Edition of Community Safety and Security Project (CSSP)</strong>,
 title - Anti Scam Student Champions (ASSC) 2021</p>
-</li>
-<li>
-<p>Selected as the <strong>Most Impactful Police Youth Ambassador (PYA) Project 2018</strong>.</p>
 </li>
 </ul>
 <h3>Teachers-in-Charge</h3>
