@@ -100,6 +100,6 @@ Linesmen duties for South Zone Competitions and National School Games Finals.
 
 
 
-| Mdm Noraliah Abdul Samad | Mathivanan Kadarkarai |
+| David Yee Chee Wai | Mathivanan Kadarkarai |
 | -------- | -------- | 
-| <a href="mailto:noraliah_abdul_samad@schools.gov.sg">Mdm Noraliah Abdul Samad</a>     | <a href="mailto:mathivanan_kadarkara@schools.gov.sg">mathivanan_kadarkara@schools.gov.sg</a>     |
+| <a href="mailto:yee_chee_wei_david@schools.gov.sg">David Yee Chee Wai</a>     | <a href="mailto:mathivanan_kadarkara@schools.gov.sg">mathivanan_kadarkara@schools.gov.sg</a>     |
