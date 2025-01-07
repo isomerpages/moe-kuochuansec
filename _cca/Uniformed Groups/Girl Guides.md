@@ -62,7 +62,7 @@ Our motto,&nbsp;**"Be Prepared"**&nbsp;, shares the Founder's initials and is a 
   </tr>
   <tr>
     <th>Venue</th>
-    <td>Concourse / Field / Classrooms / Special rooms for Badge work</td>
+    <td>Parade Square / Concourse / Classrooms</td>
   </tr>
 </tbody>
 </table>
