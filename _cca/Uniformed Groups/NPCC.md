@@ -72,18 +72,29 @@ and character building.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/04_NPCC_Prog.png">
 </div>
-<p>Programmes The NPCC cadets are encouraged to take part in Inter-Unit and
-National competitions organised by the Home Team Academy (NPCC HQ).
-<br>
-</p>
-<p>Cadets also get the opportunity to participate in various camps such as
-the annual Adventure Training Camp at Pulau Ubin. Selected cadets will
-also join cadets from other schools for Overseas Enrichment Visits to Hong
-Kong and Brunei.
-<br>
-</p>
-<p>These experiences will help to develop the leadership skills of our cadets
-and also build resilience in them.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p>NPCC cadets are encouraged to take part in Inter-Unit and National competitions
+organised by the Home Team Academy (NPCC HQ).</p>
+<p></p>
+<p>Cadets will get the opportunity to participate in various programmes such
+as Road Safety Marshall Duty. Camps such as the annual Adventure Training
+Camp at Pulau Ubin will help cadets build resilience.</p>
+<p></p>
+<p>Programmes such as the Leadership and Mentoring Skill Course (LMSC)</p>
+<p>will help cadets to develop leadership skills too.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong><u>Training</u></strong>
 </p>
