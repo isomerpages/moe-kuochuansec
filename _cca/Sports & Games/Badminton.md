@@ -11,7 +11,7 @@ variant: markdown
 ### Vision
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badminton.jpg" style="width:35%;margin-right:15px;" align="left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badminton1.jpg" style="width:35%;margin-right:15px;" align="left">
 
 
 <p style="text-align: justify;font-size:16px;">KCPSS Badminton CCA aims to :  
