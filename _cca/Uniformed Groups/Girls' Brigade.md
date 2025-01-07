@@ -60,12 +60,9 @@ Some highlights of our activities include archery, indoor rock climbing, kayakin
   </tr>
   <tr>
     <td>Venue</td>
-    <td>Choir Room / Classrooms (2-08 /2-09/2-10) / Parade Square</td>
+    <td>Parade Square / Concourse / Classrooms</td>
   </tr>
-  <tr>
-    <td> e-CCA</td>
-    <td> Saturday (9.00 AM - 10.30 AM)</td>
-  </tr>
+ 
   <tr>
     <td colspan="2">* frequency of training may intensify as selected girls train for various events like National competitions, orientation week campfire performances and NDP celebrations in KCPSS.</td>
   </tr>
@@ -131,6 +128,6 @@ Some highlights of our activities include archery, indoor rock climbing, kayakin
 
 
 
-| Ang Siok Min Mitchelle  |  Wang Ting |Low Qiao Xuan |
-| -------- |  -------- |-------- |
-|<a href="mailto:ang_siok_min_mitchelle@schools.gov.sg">ang_siok_min_mitchelle@schools.gov.sg</a> | <a href="mailto:wang_ting@schools.gov.sg">wang_ting@schools.gov.sg</a> |<a href="mailto:Low_Qiao_Xuan@schools.gov.sg">Low_Qiao_Xuan@schools.gov.sg</a> |
+| Ang Siok Min Mitchelle  |  Low Qiao Xuan |
+| -------- |  -------- |
+|<a href="mailto:ang_siok_min_mitchelle@schools.gov.sg">ang_siok_min_mitchelle@schools.gov.sg</a> | <a href="mailto:Low_Qiao_Xuan@schools.gov.sg">Low_Qiao_Xuan@schools.gov.sg</a> |
