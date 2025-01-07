@@ -125,6 +125,6 @@ variant: markdown
 
 
 
-| Su Weizhi | Kang Joo Geok Rebecca |Chan Ann Gee | 
+|  Kang Joo Geok Rebecca |Su Weizhi |Chan Ann Gee | 
 | -------- | -------- | -------- |
-| <a href="mailto:su_weizhi@schools.gov.sg">su_weizhi@schools.gov.sg</a>    |<a href="mailto:kang_joo_geok@schools.gov.sg">kang_joo_geok@schools.gov.sg</a>|<a href="mailto:chan_ann_gee@schools.gov.sg">chan_ann_gee@schools.gov.sg</a>|
+| <a href="mailto:kang_joo_geok@schools.gov.sg">kang_joo_geok@schools.gov.sg</a>|<a href="mailto:su_weizhi@schools.gov.sg">su_weizhi@schools.gov.sg</a>    |<a href="mailto:chan_ann_gee@schools.gov.sg">chan_ann_gee@schools.gov.sg</a>|
