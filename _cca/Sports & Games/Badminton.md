@@ -75,7 +75,7 @@ The CCA also provides Leadership development where the players are given leaders
   </tr>
   <tr>
     <td> <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/training1.jpg" width="464" height="223"></td>
-    <td> <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/training2.jpg" width="456" height="225"></td>
+    <td> <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/bottom_image__right_2_.jpg" width="456" height="225"></td>
   </tr>
 </tbody>
 </table>
