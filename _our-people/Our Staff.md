@@ -621,6 +621,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>S1 HOPE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Chan Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Ho_Chan_Hui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>S1 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -708,7 +720,7 @@ variant: tiptap
 <p>S2 JOY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nam Tin Yuen&nbsp;</p>
+<p>Mdm Cheri Nam Tin Yuen&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a>
@@ -921,18 +933,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S3 PEACE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Dorothy Goh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">dorothy_tay_wyn_hui@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>S3 GRACE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -972,10 +972,10 @@ variant: tiptap
 <p>S3 HOPE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Chan Hui</p>
+<p>Mrs Dorothy Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Ho_Chan_Hui@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">dorothy_tay_wyn_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
