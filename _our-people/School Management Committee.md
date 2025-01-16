@@ -98,6 +98,14 @@ variant: tiptap
 <p>Elder Lee Shee Koeng</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zhuang Li Hao</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
