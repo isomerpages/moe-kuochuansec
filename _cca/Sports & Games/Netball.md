@@ -21,12 +21,10 @@ and values that will help them face the challenges of the 21st century.
 We believe that through our rigorous netball training programme, students
 will be equipped to become resilient and disciplined sportswomen that able
 to exercise personal leadership in all areas of her life.</p>
-<p>
-<br>
-</p>
+<p></p>
 <h3>Area of Focus</h3>
 <div class="isomer-image-wrapper">
-<img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Netball/netball2.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Netball/netball2.jpg">
 </div>
 <p>The Netball CCA aims to help aspiring young student athletes, with or
 without prior netball training experience, to learn the rules and strategies
