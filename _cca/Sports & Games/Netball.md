@@ -11,8 +11,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/Main_photo_at_the_top.jpg">
 </div>
 <h3>Vision</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Netball/netball1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/WhatsApp_Image_2024_10_17_at_07_41_51.jpg">
 </div>
 <p>Co-curricular activities takes on a holistic approach in developing every
 student's character and provide them with the relevant knowledge, skills
