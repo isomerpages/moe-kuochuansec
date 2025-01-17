@@ -63,6 +63,8 @@ variant: markdown
 * B Division Team advanced to NSG League 3 Quater-Finals 2024
 * C Dicision Team advanced to NSG League 3 Quater-Finals 2023
 
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Football/Football_with_Balestier_Khalsa.png)
+
 ### Teachers-in-Charge
 
 |Chua Suet Ting Joyce  | Sean Ong Zhi Han | Mary Ang
