@@ -63,6 +63,6 @@ variant: markdown
 
 ### Teachers-in-Charge
 
-|Chua Suet Ting Joyce  | Sean Ong Zhi Han |
-| -------- | -------- |
-|<a href="mailto:chua_suet_ting_joyce@schools.gov.sg">chua_suet_ting_joyce@schools.gov.sg </a>|<a href="mailto:sean_ong_zhi_han@schools.gov.sg">sean_ong_zhi_han@schools.gov.sg</a>|
+|Chua Suet Ting Joyce  | Sean Ong Zhi Han | Mary Ang
+| -------- | -------- | -------- |
+|<a href="mailto:chua_suet_ting_joyce@schools.gov.sg">chua_suet_ting_joyce@schools.gov.sg </a>|<a href="mailto:sean_ong_zhi_han@schools.gov.sg">sean_ong_zhi_han@schools.gov.sg</a>|<a href="mailto:ang_ser_hui_mary@schools.gov.sg">ang_ser_hui_mary@schools.gov.sgg</a>|
