@@ -143,9 +143,31 @@ environment.</p>
 <p></p>
 <p><strong><u>Acheivements</u></strong>
 </p>
-<p><strong>2024 </strong>
-</p>
-<p>• 2nd place (NSG C Division League 5)</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd place (NSG C Division League 5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h3>Teachers-in-Charge</h3>
 <table style="minWidth: 50px">
