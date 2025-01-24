@@ -21,4 +21,5 @@ variant: tiptap
 <p><a href="https://go.gov.sg/kcpssloa" rel="noopener noreferrer nofollow" target="_blank">Leave of Absent (LOA)</a>
 </p>
 <h3>Weighted Assessment Schedules</h3>
-<p></p>
+<p>Click <a href="https://go.gov.sg/weighted-assessment" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
+weighted assessment schedule.</p>

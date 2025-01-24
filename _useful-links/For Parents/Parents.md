@@ -28,13 +28,5 @@ weighted assessment schedule.</p>
 </p>
 <p></p>
 <h3>Parent Engagement Session</h3>
-<p><a href="https://go.gov.sg/2024-secondary1-engagement-slide" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Parent Engagement slide</a>
-</p>
-<p><a href="https://go.gov.sg/2024-secondary2-parent-engagement" rel="noopener nofollow" target="_blank">Secondary 2 - Parent Engagement Slides</a>
-</p>
-<p><a href="https://go.gov.sg/secondary2briefingsession" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 - Parent Engagement Session - video</a>
-</p>
-<p><a href="https://go.gov.sg/secondary3-parent-engagement" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 - Parent Engagement Session - video</a>
-</p>
-<p><a href="https://go.gov.sg/secondary4and5briefing" rel="noopener noreferrer nofollow" target="_blank">Secondary 4/5 - Parent Engagement Session - Video</a>
-</p>
+<p>Click for <a href="https://go.gov.sg/parent-engagement-resources" rel="noopener nofollow" target="_blank">HERE</a> Parent
+Engagement Recourses.</p>
