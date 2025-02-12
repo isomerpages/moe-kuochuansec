@@ -1173,19 +1173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S5 PERSEVERANCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ravathi Velayuthan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ravathi_velayuthan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S5 PERSEVERANCE</p>
+<p>S5 RESILIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Wenting Janel</p>
