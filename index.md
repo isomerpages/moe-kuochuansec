@@ -17,7 +17,7 @@ sections:
           url: /school-canteen-advertisement
         - title: ESPOIR
           description: ""
-          url: https://go.gov.sg/espoir-2024-issue2
+          url: /espoir-school-publication/
       variant: center
   - resources:
       title: Announcements
