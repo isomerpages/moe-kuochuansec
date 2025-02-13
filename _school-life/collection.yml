@@ -2,7 +2,7 @@ collections:
   school-life:
     output: true
     order:
-      - Espoir (School Publication).md
       - Introduction.md
       - House Events.md
       - House Leadership.md
+      - Espoir (School Publication).md
