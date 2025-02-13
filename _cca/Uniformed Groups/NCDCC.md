@@ -91,7 +91,7 @@ variant: markdown
   </tr>
   <tr>
     <th>Training Timing</th>
-    <td>2.30 PM - 5.00 PM</td>
+    <td>2.15 PM - 5.15 PM</td>
   </tr>
   <tr>
     <th>Venue</th>
