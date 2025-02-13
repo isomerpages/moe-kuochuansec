@@ -111,7 +111,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Precision Drill Challenge</td>
-    <td>Champion (2014, 2016, 2017, 2018,2022 - 2024)</td>
+    <td>Champion (2014, 2016, 2017, 2018,2022 - 2025)</td>
   </tr>
   <tr>
     <td> UACDC</td>
