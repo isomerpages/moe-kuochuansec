@@ -31,6 +31,7 @@ through the processes of journalistic writing.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
