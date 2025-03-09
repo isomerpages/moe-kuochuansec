@@ -100,4 +100,4 @@ Students will be able to:
 
 | Yew Yishen Sam| Norhajjarrillah Abdul Baki |
 | -------- | -------- |
-| <a href="mailto:yew_yishen@schools.gov.sg">yew_yishen@schools.gov.sg</a>    | <a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg</a>    |
+| <a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg</a>    |<a href="mailto:chee_yoon_hui@schools.gov.sg">Chee Yoon Hui@schools.gov.sg</a>    |
