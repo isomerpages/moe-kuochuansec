@@ -73,6 +73,6 @@ Every year, members from the club will take part in the following competitions a
 
 ### Teachers-in-Charge
 
-| Foo Seng Hong | Nur Diyanah Bte Muhammad Suhaini | 
+|Jeremy See Poo Leng |  | 
 | -------- | -------- | 
-| <a href="mailto:foo_seng_hong@schools.gov.sg">foo_seng_hong@schools.gov.sg</a>    | <a href="mailto:nur_diyanah_mohammad_suhai@schools.gov.sg">nur_diyanah_mohammad_suhai@schools.gov.sg</a>     |
+| <a href="mailto:see_poo_leng@schools.gov.sg">see_poo_leng@schools.gov.sg</a>    |      |
