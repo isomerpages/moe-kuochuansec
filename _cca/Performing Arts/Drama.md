@@ -104,6 +104,6 @@ Each training session focuses on the fundamentals of drama training, ensemble wo
 
 
 
-| Sivasankari Pravin | Amelia Yeo Jiaxin |
-| -------- | -------- | 
-|<a href="mailto:sivasankari_pravin@schools.gov.sg">sivasankari_pravin@schools.gov.sg</a>| <a href="mailto:amelia_yeo_jiaxin@schools.gov.sg">amelia_yeo_jiaxin@schools.gov.sg</a>|
+| Sivasankari Pravin | Isaac Sim Wee Siong |Tan Sung Paul |
+| -------- | -------- | -------- | 
+|<a href="mailto:sivasankari_pravin@schools.gov.sg">sivasankari_pravin@schools.gov.sg</a>| <a href="mailto:sim_wee_siong_isaac@schools.gov.sg">sim_wee_siong_isaac@schools.gov.sg</a>|<a href="mailto:Tan_Sung_Paul@schools.gov.sg">Tan_Sung_Paul@schools.gov.sg</a>|
