@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/Resources/2023_sec4e5n_SGC_4apr.pdf
+file_url: /files/Resources/2024/2023_sec4e5n_SGC_4apr.pdf
 ---
