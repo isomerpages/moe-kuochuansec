@@ -69,6 +69,6 @@ Our basketball sessions involve the training of both the physical and mental sta
 
 
 
-| Joseph Chung Wei Peng | Sitoh Wei Sheng Wilson | 
-| -------- | -------- | 
-| <a href="mailto:chung_wei_peng_joseph@schools.gov.sg">chung_wei_peng_joseph@schools.gov.sg</a>    | <a href="mailto:sitoh_wei_sheng_wilson@schools.gov.sg">sitoh_wei_sheng_wilson@schools.gov.sg</a>     |
+| Sitoh Wei Sheng Wilson |Ho Chan Hui |  Hee Pow Soo
+| -------- | -------- |  -------- | 
+| <a href="mailto:sitoh_wei_sheng_wilson@schools.gov.sg">sitoh_wei_sheng_wilson@schools.gov.sg</a>     |<a href="mailto:Ho_Chan_Hui@schools.gov.sg">Ho_Chan_Hui@schools.gov.sg</a>    | <a href="mailto:hee_pow_soo_a@schools.gov.sg">hee_pow_soo_a@schools.gov.sg</a>    | 
