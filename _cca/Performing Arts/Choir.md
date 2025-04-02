@@ -143,10 +143,10 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 <p>Lee Hwee Ling Grace</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Esther Yong Yin Yin</p>
+<p>Nam Tin Yuen</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Goh Yu En</p>
+<p>Fion Tan</p>
 </th>
 </tr>
 <tr>
@@ -155,11 +155,11 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yong_yin_yin_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_yin_yin_esther@schools.gov.sg</a>
+<p><a href="mailto:nam_tin_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Goh_yu_en_D@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_yu_en_D@schools.gov.sg</a>
+<p><a href="mailto:Fion_Tan_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fion_Tan_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
