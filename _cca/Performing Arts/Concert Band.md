@@ -90,6 +90,6 @@ variant: markdown
 
 
 
-| Cheong Hwee Leng | Brian Ho |Lau Pui Lye Kathy  |
+| Cheong Hwee Leng | Brian Ho | Esther Tay  |
 | -------- | -------- | -------- |
-| <a href="mailto:sek_hwee_leng@schools.gov.sg">sek_hwee_leng@schools.gov.sg</a>    | <a href="mailto:ho_yew_kiat@schools.gov.sg">ho_yew_kiat@schools.gov.sg</a>     |  <a href="mailto:lau_pui_lye_kathy@schools.gov.sg">lau_pui_lye_kathy@schools.gov.sg</a>    |
+| <a href="mailto:sek_hwee_leng@schools.gov.sg">sek_hwee_leng@schools.gov.sg</a>    | <a href="mailto:ho_yew_kiat@schools.gov.sg">ho_yew_kiat@schools.gov.sg</a>     |  <a href="mailto:yong_yin_yin_esther@schools.gov.sg">yong_yin_yin_esther@schools.gov.sg</a>    |
