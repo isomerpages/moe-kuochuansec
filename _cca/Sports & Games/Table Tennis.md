@@ -80,7 +80,6 @@ The End of Year intensive training will prepare the students for the Inter Schoo
 
 
 
-| Yu Xiaoqin | Samuel Chan Yew Fai |
-| -------- | -------- | 
-| <a href="mailto:yu_xiaoqin@schools.gov.sg">yu_xiaoqin@schools.gov.sg</a>     | <a href="mailto:chan_yew_fai_samuel@schools.gov.sg">chan_yew_fai_samuel@schools.gov.sg
-</a>     |</b></b>
+| Yu Xiaoqin | Samuel Chan Yew Fai |Kang Jian|Tai Tze Ghee|
+| -------- | -------- | -------- | -------- | 
+| <a href="mailto:yu_xiaoqin@schools.gov.sg">yu_xiaoqin@schools.gov.sg</a>     | <a href="mailto:chan_yew_fai_samuel@schools.gov.sg">chan_yew_fai_samuel@schools.gov.sg</a> | <a href="mailto:Kang_jian@schools.gov.sg">Kang_jian@schools.gov.sg </a> |<a href="mailto:Tai_Tze_Ghee_A@schools.gov.sg">Tai_Tze_Ghee_A@schools.gov.sg </a> | </b></b>

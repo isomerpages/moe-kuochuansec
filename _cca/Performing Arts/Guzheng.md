@@ -104,6 +104,6 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
 
 
 
-| Foo Ji Ying, Eunice  |Lee Chong Min | 
-| -------- | -------- | 
-| <a href="mailto:foo_ji_ying_eunice@schools.gov.sg">foo_ji_ying_eunice@schools.gov.sg</a>     | <a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a>     | 
+| Foo Ji Ying, Eunice  |Lee Chong Min | Mabel Neo | 
+| -------- | -------- | -------- | 
+| <a href="mailto:foo_ji_ying_eunice@schools.gov.sg">foo_ji_ying_eunice@schools.gov.sg</a>     | <a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a>      | <a href="mailto:Mabel_Neo@schools.gov.sg">Mabel_Neo@schools.gov.sg</a> |

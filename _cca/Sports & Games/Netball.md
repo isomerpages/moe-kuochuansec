@@ -170,8 +170,9 @@ environment.</p>
 </table>
 <p></p>
 <h3>Teachers-in-Charge</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -183,6 +184,9 @@ environment.</p>
 <th rowspan="1" colspan="1">
 <p>Lee Rachel</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Yeo Xiao Si Eunice&nbsp;</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -191,6 +195,10 @@ environment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_rachel@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_xiao_si_eunice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_xiao_si_eunice@schools.gov.sg</a>
 </p>
 </td>
 </tr>
