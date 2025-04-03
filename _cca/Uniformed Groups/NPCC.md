@@ -163,18 +163,18 @@ title - Anti Scam Student Champions (ASSC) 2021</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Nam Tin Yuen</p>
+<p>Jade Tan Jie Heng</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Chua Yi Jun</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Jade Tan Jie Heng</p>
+<p>Teo Will Ping</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nam_tin_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a>
+<p><a href="jade_tan_jie_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jade_tan_jie_heng@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,7 +182,7 @@ title - Anti Scam Student Champions (ASSC) 2021</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="jade_tan_jie_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jade_tan_jie_heng@schools.gov.sg</a>
+<p><a href="mailto:Teo_Wil_Ping_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Wil_Ping_B@schools.gov.sg</a>
 </p>
 </td>
 </tr>
