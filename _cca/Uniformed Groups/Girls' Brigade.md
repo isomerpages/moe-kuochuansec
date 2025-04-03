@@ -128,6 +128,6 @@ Some highlights of our activities include archery, indoor rock climbing, kayakin
 
 
 
-| Ang Siok Min Mitchelle  |  Low Qiao Xuan |
-| -------- |  -------- |
-|<a href="mailto:ang_siok_min_mitchelle@schools.gov.sg">ang_siok_min_mitchelle@schools.gov.sg</a> | <a href="mailto:Low_Qiao_Xuan@schools.gov.sg">Low_Qiao_Xuan@schools.gov.sg</a> |
+| Ang Siok Min Mitchelle  |  Low Qiao Xuan |   Gillian Lim|
+| -------- |  -------- | -------- |
+|<a href="mailto:ang_siok_min_mitchelle@schools.gov.sg">ang_siok_min_mitchelle@schools.gov.sg</a> | <a href="mailto:Low_Qiao_Xuan@schools.gov.sg">Low_Qiao_Xuan@schools.gov.sg</a> | <a href="mailto:gillian_lim_xiu_hui@schools.gov.sg">gillian_lim_xiu_hui@schools.gov.sg</a> |
