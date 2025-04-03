@@ -98,6 +98,6 @@ Students will be able to:
 
 
 
-| Yew Yishen Sam| Norhajjarrillah Abdul Baki |
-| -------- | -------- |
-| <a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg</a> |<a href="mailto:chee_yoon_hui@schools.gov.sg">Chee Yoon Hui@schools.gov.sg</a> |
+| Norhajjarrillah Abdul Baki | Chee Yoon Hui|Ong Yi Pin|
+| -------- | -------- |-------- |
+| <a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg</a> |<a href="mailto:chee_yoon_hui@schools.gov.sg">Chee Yoon Hui@schools.gov.sg</a> |<a href="mailto:ong_yi_pin@schools.gov.sg">ong_yi_pin@schools.gov.sg</a> |
