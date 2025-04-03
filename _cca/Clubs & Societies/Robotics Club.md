@@ -73,6 +73,6 @@ Every year, members from the club will take part in the following competitions a
 
 ### Teachers-in-Charge
 
-|Jeremy See Poo Leng |  | 
+|Jeremy See Poo Leng |  Jocelyn Kong|  
 | -------- | -------- | 
-| <a href="mailto:see_poo_leng@schools.gov.sg">see_poo_leng@schools.gov.sg</a>    |      |
+| <a href="mailto:see_poo_leng@schools.gov.sg">see_poo_leng@schools.gov.sg</a>    | <a href="mailto:Jocelyn_Kong@schools.gov.sgg">Jocelyn_Kong@schools.gov.sg</a>     |
