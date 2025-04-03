@@ -82,8 +82,9 @@ of discipline, citizenship and service to the community.</p>
 </tbody>
 </table>
 <h3>Teachers-in-Charge</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -93,12 +94,19 @@ of discipline, citizenship and service to the community.</p>
 <p>Tan Siaw Chong</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>Dylan Raj Singh</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Jasmin Jiang</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_siaw_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siaw_chong@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dylan_raj_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dylan_raj_singh@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
