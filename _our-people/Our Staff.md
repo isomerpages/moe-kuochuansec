@@ -516,7 +516,7 @@ variant: tiptap
 <p>S1 JOY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Christopher Cassandra&nbsp;</p>
+<p>Miss Cassandra&nbsp;Christopher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">cassandra_christopher@schools.gov.sg</a>
@@ -1280,7 +1280,7 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mabel Nio</p>
+<p>Ms Mabel Neo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Mabel_Neo@schools.gov.sg</a>
@@ -1332,6 +1332,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Nicky_Phua_Cheng_Liang_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Kheam Soon, Alex</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alex_lim_kheam_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alex_lim_kheam_soon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1416,18 +1428,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">png_siew_hoon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Mary Ang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ANG_SER_HUI_MARY@schools.gov.sg</a>
 </p>
 </td>
 </tr>
