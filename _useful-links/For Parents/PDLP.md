@@ -5,4 +5,11 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h2>PDLP</h2><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Links/Parents/PDLP_2024.jpg"></div><p><a href="/files/Useful Links/Parents/Parent_Engagement_Deck_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 PLD Parent Engagement Slides</a></p><p><a href="/files/Useful%20Links/Parents/DMA%20Parent%20Guide%20v2_0%20-%20Default%20iPadOS.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default (iPadOS)</a></p><p><a href="/files/Useful%20Links/Parents/DMA%20Parent%20Guide%20v2_0%20-%20Option%20A%20iPadOS.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A (iPadOS)</a></p><p><a href="/files/Useful%20Links/Parents/DMA%20Parent%20Guide%20v2_0%20-%20Option%20B%20iPadOS.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B (iPadOS)</a></p><p><a href="/files/Useful%20Links/Parents/DMA_Option_Change_RequestForm.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Option Change Request Form</a></p>
+<h2>PDLP</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Links/Parents/PDLP_2024.jpg">
+</div>
+<p></p>
+<p><a href="/files/Useful%20Links/Parents/DMA_Option_Change_RequestForm.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Option Change Request Form</a>
+</p>
