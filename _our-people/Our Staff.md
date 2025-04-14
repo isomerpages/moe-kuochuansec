@@ -1164,10 +1164,10 @@ variant: tiptap
 <p>S4 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Li Eng</p>
+<p>Ms Lim Wenting Janel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_li_eng@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">janell_lim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1180,18 +1180,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">quek_imm_ki@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S5 RESILIENCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Wenting Janel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">janell_lim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
