@@ -813,6 +813,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>S2 HOPE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gillian Lim Xiu Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gillian_lim_xiu_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gillian_lim_xiu_hui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>S2 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
