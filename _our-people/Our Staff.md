@@ -543,7 +543,7 @@ variant: tiptap
 <p>Mrs Tham Hwee Ling Grace&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_hwee_ling_grace@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_hwee_ling_gr@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -552,10 +552,10 @@ variant: tiptap
 <p>S1 LOVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khoo Kian Seong Kenneth&nbsp;</p>
+<p>Dylan Raj Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">khoo_kian_seong_kenneth@schools.gov.sg</a>
+<p><a href="mailto:dylan_raj_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dylan_raj_singh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
