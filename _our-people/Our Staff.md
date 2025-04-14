@@ -552,7 +552,7 @@ variant: tiptap
 <p>S1 LOVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dylan Raj Singh</p>
+<p>Mr Dylan Raj Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dylan_raj_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dylan_raj_singh@schools.gov.sg</a>
@@ -1725,4 +1725,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Mr</p>
