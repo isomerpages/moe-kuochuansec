@@ -1032,10 +1032,10 @@ variant: tiptap
 <p>S4 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Say Pin</p>
+<p>Mdm Ravathi Velayuthan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_say_pin@schools.gov.sg</a>
+<p><a href="mailto:ravathi_velayuthan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ravathi_velayuthan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
