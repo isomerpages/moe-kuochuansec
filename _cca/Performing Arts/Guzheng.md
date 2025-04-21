@@ -47,7 +47,7 @@ Instruments Graded Examination.</p>
 on equipping our student performers with <strong>grace, strong moral values,</strong> and
 the skills needed to balance their academic responsibilities.</p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAkhfBdxVoL3Mzs-Z7DAyiIW0HLzzXU5KWEQJ7rg9SrldenGYixi97JUVOEmEE2r5m-W5Tqhg-v4cd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFl-tfye2ZLdDAMT-CUCPN-sUoafVtCZRKGRUs6LYwAWgqjdl6uQ0Mo0clAcJTIz5TiIVenc9_Ta3c/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h3>Programmes</h3>
 <div class="isomer-image-wrapper">
