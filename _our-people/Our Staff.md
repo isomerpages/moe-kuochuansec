@@ -543,7 +543,7 @@ variant: tiptap
 <p>Mrs Tham Hwee Ling Grace&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_hwee_ling_grace@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_hwee_ling_gr@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -552,10 +552,10 @@ variant: tiptap
 <p>S1 LOVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khoo Kian Seong Kenneth&nbsp;</p>
+<p>Mr Dylan Raj Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">khoo_kian_seong_kenneth@schools.gov.sg</a>
+<p><a href="mailto:dylan_raj_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dylan_raj_singh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -813,6 +813,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>S2 HOPE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gillian Lim Xiu Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gillian_lim_xiu_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gillian_lim_xiu_hui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>S2 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1020,10 +1032,10 @@ variant: tiptap
 <p>S4 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Say Pin</p>
+<p>Mdm Ravathi Velayuthan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_say_pin@schools.gov.sg</a>
+<p><a href="mailto:ravathi_velayuthan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ravathi_velayuthan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1152,10 +1164,10 @@ variant: tiptap
 <p>S4 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Li Eng</p>
+<p>Ms Lim Wenting Janel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_li_eng@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">janell_lim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1168,18 +1180,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">quek_imm_ki@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S5 RESILIENCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Wenting Janel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">janell_lim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
