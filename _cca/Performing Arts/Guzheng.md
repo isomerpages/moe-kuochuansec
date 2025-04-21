@@ -136,10 +136,10 @@ the skills needed to balance their academic responsibilities.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>2023 - Centificate of Distinction</p>
+<p>2023 - Certificate of Distinction</p>
 </li>
 <li>
-<p>2021 - Centificate of Distinction</p>
+<p>2021 - Certificate of Distinction</p>
 </li>
 <li>
 <p>2019 - Certificate of Accomplishment</p>
@@ -151,7 +151,7 @@ the skills needed to balance their academic responsibilities.</p>
 <p>2015 - Certificate of Accomplishment</p>
 </li>
 <li>
-<p>2013 - Centificate of Distinction</p>
+<p>2013 - Certificate of Distinction</p>
 </li>
 </ul>
 </td>
@@ -191,6 +191,12 @@ the skills needed to balance their academic responsibilities.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
+<p>2024 - KCPSS Centennial Musical</p>
+</li>
+<li>
+<p>2024 - Lions Home for The Elders Values-in-Action (VIA) Performance</p>
+</li>
+<li>
 <p>2023 - Beyond the Label Fest@ Jewel Changi</p>
 </li>
 <li>
@@ -200,7 +206,7 @@ the skills needed to balance their academic responsibilities.</p>
 <p>2014 - Singapore Conference Hall Ensemble Series</p>
 </li>
 <li>
-<p>2010 - Kuo Chuan Biennial in Esplanate - Te Deum</p>
+<p>2010 - Kuo Chuan Biennial in Esplanade - Te Deum</p>
 </li>
 <li>
 <p>2008 - SYF @ Vivo City</p>
