@@ -136,6 +136,9 @@ the skills needed to balance their academic responsibilities.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
+<p>2025 - Certificate of Distinction</p>
+</li>
+<li>
 <p>2023 - Certificate of Distinction</p>
 </li>
 <li>
