@@ -66,6 +66,7 @@ variant: markdown
 ![](/images/The%20Kuo%20Chuan%20Experience/CCA/Football/Football_with_Balestier_Khalsa.png)
 
 ### Teachers-in-Charge
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Football/football_i1.jpg)
 
 |Chua Suet Ting Joyce  | Sean Ong Zhi Han | Quek Suan Shiau
 | -------- | -------- | -------- |
