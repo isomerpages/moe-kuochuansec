@@ -33,7 +33,7 @@ Our basketball sessions involve the training of both the physical and mental sta
 
 
 **<u>Training</u>**
-* From 2024 onwards, training days will be on Tuesdays &amp; Fridays
+
 <table>
 <thead>
   <tr>
