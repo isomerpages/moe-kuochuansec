@@ -88,7 +88,7 @@ shared vision.</p>
 <p>Venue</p>
 </th>
 <td rowspan="1" colspan="2">
-<p>KCPSS ISH LEvel 1 baskettball court</p>
+<p>KCPSS ISH Level 1 basketball court</p>
 </td>
 </tr>
 </tbody>
@@ -113,6 +113,10 @@ shared vision.</p>
 </li>
 </ul>
 <h3>Teachers-in-Charge</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Basketball/basketball_i1.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
