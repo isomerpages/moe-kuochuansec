@@ -24,7 +24,7 @@ variant: tiptap
 </td>
 <td rowspan="2" colspan="1">
 <p>"Music expresses that which cannot be said and on which it is impossible
-to be silent." - Victor Hugo0</p>
+to be silent." - Victor Hugo</p>
 </td>
 </tr>
 <tr></tr>
@@ -88,7 +88,7 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 <p>3.00PM - 6.00PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00PM - 6.00PM</p>
+<p>2.00PM - 6.00PM</p>
 </td>
 </tr>
 <tr>
@@ -128,6 +128,12 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 </li>
 <li>
 <p>Choir Exchange with other schools</p>
+</li>
+<li>
+<p>National Day Performance at Sin Min Bishan CC</p>
+</li>
+<li>
+<p>School Musical (Grace Arise)</p>
 </li>
 </ul>
 <h3>Teachers-in-Charge</h3>
