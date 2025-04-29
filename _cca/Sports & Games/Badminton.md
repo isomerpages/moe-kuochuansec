@@ -152,6 +152,10 @@ build up readiness for the actual competition.</p>
 <br>Linesmen duties for South Zone Competitions and National School Games
 Finals.</p>
 <h3>Teachers-in-Charge</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Badminton/badminton_i1.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

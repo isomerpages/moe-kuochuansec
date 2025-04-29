@@ -6,8 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h2>Choir</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/Choir.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Choir/choirv2.jpg">
 </div>
 <h3>Vision</h3>
 <table style="minWidth: 50px">
@@ -18,13 +19,14 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Choir/choir1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Choir/vision.jpg">
 </div>
 </td>
 <td rowspan="2" colspan="1">
 <p>"Music expresses that which cannot be said and on which it is impossible
-to be silent." - Victor Hugo0</p>
+to be silent." - Victor Hugo</p>
 </td>
 </tr>
 <tr></tr>
@@ -44,8 +46,9 @@ team spirit,leadership skills and confidence.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Choir/AreofFocus.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,8 +60,9 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 </table>
 <p></p>
 <h3>Programmes</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Choir/Programme.jpg">
 </div>
 <p><strong><u>Training</u></strong>
 </p>
@@ -88,7 +92,7 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 <p>3.00PM - 6.00PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00PM - 6.00PM</p>
+<p>2.00PM - 6.00PM</p>
 </td>
 </tr>
 <tr>
@@ -129,8 +133,18 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 <li>
 <p>Choir Exchange with other schools</p>
 </li>
+<li>
+<p>National Day Performance at Sin Min Bishan CC</p>
+</li>
+<li>
+<p>School Musical (Grace Arise)</p>
+</li>
 </ul>
 <h3>Teachers-in-Charge</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Choir/choir_i1.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
