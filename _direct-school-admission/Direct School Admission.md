@@ -7,9 +7,6 @@ variant: tiptap
 <h2>Direct School Admission</h2>
 <p>These are the DSA talent areas that the school is offering for admissions.
 All talent areas are open to both male and female applicants.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8-XSuHIlcQk"></iframe>
-</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
