@@ -3,12 +3,13 @@ title: What are we looking for?
 permalink: /admission/direct-school-admission/leadership/what-are-we-looking-for/
 description: ""
 third_nav_title: Community Youth Leadership
+variant: markdown
 ---
 ## What are we looking for?
 
-**What are we looking for?**
 
-&nbsp;We are looking for applicants with:
+
+
 
 &nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passion for social causes (i.e., environmental, elderly)
 
