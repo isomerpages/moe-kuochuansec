@@ -3,19 +3,17 @@ title: What are we looking for?
 permalink: /admission/direct-school-admission/leadership/what-are-we-looking-for/
 description: ""
 third_nav_title: Community Youth Leadership
+variant: markdown
 ---
 ## What are we looking for?
 
-**What are we looking for?**
+We are looking for applicants who have:
+* Served the community in school and/or beyond school-based programmes
+* Shown initiative to champion for social causes (i.e., environmental, elderly)
+* Ability to positively influence others
+* Good role model behaviour grounded on sound moral values
 
-&nbsp;We are looking for applicants with:
 
-&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passion for social causes (i.e., environmental, elderly)
-
-&nbsp;●&nbsp; &nbsp; &nbsp;&nbsp;Ability to positively influence others
-
-&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good role model behaviour grounded on sound moral values
- 
  <table>
 <thead>
   <tr>
@@ -37,7 +35,7 @@ third_nav_title: Community Youth Leadership
   </tr>
   <tr>
     <td>Motivation and Interest</td>
-    <td>Brief personal statement (not exceeding 100 words) addressing the following areas:<br> <br>●       What are some personal qualities you have that will make you suitable for this talent area?<br>●       What do you hope to gain from coming to KCPSS?</td>
+    <td>Any evidence of pursuit in talent area interest within or beyond school<br> </td>
   </tr>
 </tbody>
 </table>

@@ -7,11 +7,12 @@ variant: tiptap
 <h2>Direct School Admission</h2>
 <p>These are the DSA talent areas that the school is offering for admissions.
 All talent areas are open to both male and female applicants.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8-XSuHIlcQk"></iframe>
-</div>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -108,11 +109,15 @@ All talent areas are open to both male and female applicants.</p>
 </table>
 <p>Shortlisted applicants may be asked to attend in-person auditions and
 interviews on the various talent areas to help us get to know you better.</p>
+<p>You will receive notification from the school by <strong>11 July (Fri)</strong>,
+if your child has been shortlisted to undergo Direct School Admission (DSA)
+selection. All applicants will receive their application outcomes between <strong>25 Aug and 4 Sep 2025.</strong>
+</p>
 <p>Kindly send any inquiries concerning DSA to &nbsp;<a href="mailto:kcpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a>
 </p>
 <p></p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from <strong>11am on Tuesday, 7 May 2024 to 3pm on Monday, 3 June 2024</strong>.
+The application is free-of-charge and will be open from <strong>7 May 2025, 11am to 3 Jun 2025, 3pm</strong>.
 For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on

@@ -43,7 +43,11 @@ join the KCPSS Band to make music that moves and inspires!</p>
 <p>Sight-reading (score will be provided on the spot)</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -87,12 +91,7 @@ beyond
 <p>Motivation and Interest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brief personal statement (not exceeding 100 words) addressing the following
-areas:
-<br>
-<br>● What are some personal qualities you have that will make you suitable
-for Band?
-<br>● What do you hope to gain from coming to KCPSS?</p>
+<p>Any evidence of pursuit in talent area interest within or beyond school</p>
 </td>
 </tr>
 </tbody>

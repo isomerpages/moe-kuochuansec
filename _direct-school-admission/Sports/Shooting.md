@@ -63,7 +63,11 @@ sessions nearing competitions.</p>
 </ul>
 <p><strong>KCPSS Selection Criteria</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -112,17 +116,7 @@ sessions nearing competitions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brief personal statement (not exceeding 100 words) addressing the following
-areas:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>What are some personal qualities you have that will make you suitable
-for this talent area?</p>
-</li>
-<li>
-<p>What do you hope to gain from coming to KCPSS?</p>
-</li>
-</ul>
+<p>Any evidence of pursuit in talent area interest within or beyond school</p>
 </td>
 </tr>
 </tbody>
