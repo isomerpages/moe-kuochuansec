@@ -93,5 +93,5 @@ individuals who exhibit a talent or prowess for speaking and writing be
 it on a public or private platform. If you fit the bill, come join us through
 the Direct Schools Admission (DSA) exercise to allow us to get to know
 you better!</p>
-<p>For more information on the programme, please visit&nbsp;<a href="https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/applied-learning-programme-in-media-literacy/" rel="noopener noreferrer nofollow" target="_blank">https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/applied-learning-programme-in-media-literacy/</a>
+<p>For more information on the programme, please visit&nbsp;<a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/applied-learning-programme-in-media-literacy/" rel="noopener nofollow" target="_blank">Applied Learning Programme in Media Lireracy</a>
 </p>
