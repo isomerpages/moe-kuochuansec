@@ -38,7 +38,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Motivation and Interest</td>
-    <td>Any evidence of pursuit in talent area interest within or beyond school<br></td>
+    <td>Any evidence of pursuit in talent area interest within or beyond school<br> </td>
   </tr>
 </tbody>
 </table>
