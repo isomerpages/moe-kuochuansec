@@ -38,7 +38,11 @@ in higher education.</p>
 with bodily expressions using dance forms.</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interested and can appreciate
 different dance genres and styles</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -86,12 +90,7 @@ Arts )
 <p>Motivation and Interest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brief personal statement (not exceeding 100 words) addressing the following
-areas:
-<br>
-<br>● What are some personal qualities you have that will make you suitable
-for this talent area?
-<br>● What do you hope to gain from coming to KCPSS?</p>
+<p>Any evidence of pursuit in talent area interest within or beyond school</p>
 </td>
 </tr>
 </tbody>
