@@ -30,5 +30,5 @@ community through the ownership of projects and school improvement</p>
 individuals who exhibit leadership potential on top of good and consistent
 character. If you fit the bill, come join us through the Direct Schools
 Admission (DSA) exercise to allow us to know you better!</p>
-<p>For more information on the programme, please visit <a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/learning-for-life-programme/" rel="noopener nofollow" target="_blank">Learning for Life Proramme</a> 
+<p>For more information on the programme, please visit <a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/learning-for-life-programme/" rel="noopener nofollow" target="_blank">Learning for Life Proramme</a>
 </p>
