@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>Direct School Admission</h2>
-<p>These are the DSA talent areas that the school is offering for admissions.
+<p>These are the DSA talent areas that the school is offering for 2025 admissions.
 All talent areas are open to both male and female applicants.</p>
 <p></p>
 <table style="minWidth: 50px">
