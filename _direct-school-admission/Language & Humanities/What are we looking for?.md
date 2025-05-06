@@ -6,12 +6,18 @@ third_nav_title: Language & Humanities
 variant: tiptap
 ---
 <h2>What are we looking for?</h2>
-<p>&nbsp;We are looking for applicants with:</p>
-<p>&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passion for social causes
-(i.e., environmental, elderly)</p>
-<p>&nbsp;●&nbsp; &nbsp; &nbsp;&nbsp;Ability to positively influence others</p>
-<p>&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good role model behavior
-grounded on sound moral values</p>
+<p>We are looking for applicants with:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Passion for social causes (i.e., environmental, elderly)</p>
+</li>
+<li>
+<p>Ability to positively influence others</p>
+</li>
+<li>
+<p>Good role model behavior grounded on sound moral values</p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
