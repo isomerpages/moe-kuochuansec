@@ -39,6 +39,8 @@ school and the community</p>
 <p>In addition, students will be able to pick up other soft skills such as
 teamwork and time management, and be given platforms like major school
 events and school social media to showcase their work.</p>
+<p>For more information on the programme, please visit <a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/infocomm-tech-club/" rel="noopener nofollow" target="_blank">Infocomm Technology Club.</a>
+</p>
 <p><strong>Photography (Under Photography CCA)</strong>
 </p>
 <p>Under guidance, students in our programme will be able to develop themselves
