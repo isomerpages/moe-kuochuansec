@@ -7,16 +7,13 @@ variant: markdown
 ---
 ## What are we looking for?
 
+We are looking for applicants who have:
+* Served the community in school and/or beyond school-based programmes
+* Shown initiative to champion for social causes (i.e., environmental, elderly)
+* Ability to positively influence others
+* Good role model behaviour grounded on sound moral values
 
 
-
-
-&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passion for social causes (i.e., environmental, elderly)
-
-&nbsp;●&nbsp; &nbsp; &nbsp;&nbsp;Ability to positively influence others
-
-&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good role model behaviour grounded on sound moral values
- 
  <table>
 <thead>
   <tr>
