@@ -9,12 +9,12 @@ third_nav_title: Sports
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnd_Wqo5sRn5oh0FS9eHCUmzvOi3ljcEzQlKYt9_kHWeAfKFWQz4IfxZTSlmqGR6Si0PrE7ugUft7z/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Introduction and Background</h4>
-<p>Our vision at Shooting CCA is to develop leaders with precision, fortified
+<p>The vision of the Shooting CCA is to develop leaders with precision, fortified
 with resolute hearts and minds. Through our training program, we hone students'
 shooting skills, mental acuity, and physical strength, fostering resilience,
 discipline, and focus. We cultivate a positive, caring culture that builds
 strong bonds among students and teachers.</p>
-<p><strong>Training Program</strong>
+<p><strong>Program</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
