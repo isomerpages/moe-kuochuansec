@@ -15,7 +15,11 @@ variant: tiptap
 <p>Ability to work well with others as part of a team</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -115,11 +119,7 @@ or dubbing)</p>
 <p>Motivation and Interest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brief personal statement (not exceeding 100 words) addressing the following
-areas:
-<br>● What are some personal qualities you have that will make you suitable
-for this talent area?
-<br>● What do you hope to learn from coming to KCPSS?</p>
+<p>Any evidence of pursuit in talent area interest within or beyond school</p>
 </td>
 </tr>
 </tbody>
