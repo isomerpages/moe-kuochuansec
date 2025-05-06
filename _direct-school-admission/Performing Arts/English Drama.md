@@ -3,6 +3,7 @@ title: English Drama
 permalink: /admission/direct-school-admission/performing-arts/english-drama/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## English Drama
 
@@ -51,7 +52,7 @@ We are looking for applicants who are:
   </tr>
   <tr>
     <td>Motivation and Interest</td>
-    <td>Brief personal statement (not exceeding 100 words) addressing the following areas:<br> <br>●       What are some personal qualities you have that will make you suitable for this talent area?<br>●       What do you hope to gain from coming to KCPSS?</td>
+    <td>Any evidence of pursuit in talent area interest within or beyond school<br> </td>
   </tr>
 </tbody>
 </table>
