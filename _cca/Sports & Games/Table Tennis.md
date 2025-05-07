@@ -142,6 +142,10 @@ are able to manage their academic commitments.</p>
 </tbody>
 </table>
 <h3><strong>Teachers-in-Charge</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/table_tennis_i1__Copy_.jpg">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
