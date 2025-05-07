@@ -110,7 +110,7 @@ are able to manage their academic commitments.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSD3TWsNALQGHsO045QiyCH482IvAp48Repr3lN-CH0v9G0sYT5c8VkILhmjVGUn_pWizxx6-MoNLSP/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p><strong><u>Acheivements</u></strong>
+<p><strong><u>Achievements</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
