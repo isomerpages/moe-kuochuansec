@@ -108,7 +108,7 @@ are able to manage their academic commitments.</p>
 <p><strong>The CCA will organise a Day Camp in the June holidays. It will involve enrichment programmes which include group games and challenges to enhance students’ confidence and teamwork.<br><br>Friendly games against other school teams will help to gauge the students’ readiness for the Inter Schools Competitions.<br><br>The End of Year intensive training will prepare the students for the Inter Schools Competition in the beginning of the next year. The coaches will assess the basic skills that the students have acquired within the year, and organise an internal competition, and reward the winners with prizes and encourage those who fall behind to close the gap. This competitive atmosphere will help them immensely.</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR0vpdOzsxZk7TOKKkNt99zPPh826K-NyG81XfEe_lpILkWpenWtRig6o6IzREIdbExMHza0fI622Uf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSD3TWsNALQGHsO045QiyCH482IvAp48Repr3lN-CH0v9G0sYT5c8VkILhmjVGUn_pWizxx6-MoNLSP/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong><u>Acheivements</u></strong>
 </p>
