@@ -44,12 +44,12 @@ Each training session focuses on the fundamentals of drama training, ensemble wo
   <tr>
     <th>Training Timing</th>
     <td>3.00PM - 6.00PM</td>
-    <td>3.00PM - 6.00PM</td>
+    <td>2.00PM - 5.00PM</td>
   </tr>
   <tr>
     <th>Venue</th>
-    <td>Multi-Purpose Room L3</td>
-    <td>Multi-Purpose Room L3</td>
+    <td>Media Resource Room L4</td>
+    <td>Media Resource Room L4</td>
   </tr>
 </tbody>
 </table>

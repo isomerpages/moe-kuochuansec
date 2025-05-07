@@ -6,13 +6,11 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Table Tennis</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Table%20Tennis/table%20tennis.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/table_tennis_2__Copy_.jpg">
 </div>
 <h3>Vision</h3>
-<div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Table%20Tennis/table-tennis1.jpg">
-</div>
 <p>The CCA starts with the objective of teaching interested students to understand
 and apply the rules of Table Tennis. The CCA allows the students (ranging
 from beginners to advanced players) to learn and apply skills such as service,
@@ -30,8 +28,9 @@ hones their skills and techniques to be highly competent players of the
 sport, but also develops their leadership potential to be effective Servant
 Leaders who can inspire a common vision for their peers.</p>
 <h3>Area of Focus</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Table%20Tennis/table-tennis2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/ttareafocus.png">
 </div>
 <p>Kuo Chuan Table Tennis aims to equip aspiring young athletes, with or
 without prior experience, <strong>to develop the skills</strong> of the sport,
@@ -46,8 +45,9 @@ to eventually apply what they have learned in the CCA to their daily lives.
 on ensuring that our student performers are <strong>equipped with gracefulness and strong moral values,</strong> and
 are able to manage their academic commitments.</p>
 <h3><strong>Programmes</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Table%20Tennis/table-tennis1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/tttraining.png">
 </div>
 <p><strong><u>Training</u></strong>
 </p>
@@ -108,9 +108,9 @@ are able to manage their academic commitments.</p>
 <p><strong>The CCA will organise a Day Camp in the June holidays. It will involve enrichment programmes which include group games and challenges to enhance students’ confidence and teamwork.<br><br>Friendly games against other school teams will help to gauge the students’ readiness for the Inter Schools Competitions.<br><br>The End of Year intensive training will prepare the students for the Inter Schools Competition in the beginning of the next year. The coaches will assess the basic skills that the students have acquired within the year, and organise an internal competition, and reward the winners with prizes and encourage those who fall behind to close the gap. This competitive atmosphere will help them immensely.</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR0vpdOzsxZk7TOKKkNt99zPPh826K-NyG81XfEe_lpILkWpenWtRig6o6IzREIdbExMHza0fI622Uf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSD3TWsNALQGHsO045QiyCH482IvAp48Repr3lN-CH0v9G0sYT5c8VkILhmjVGUn_pWizxx6-MoNLSP/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p><strong><u>Acheivements</u></strong>
+<p><strong><u>Achievements</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -141,6 +141,10 @@ are able to manage their academic commitments.</p>
 </tbody>
 </table>
 <h3><strong>Teachers-in-Charge</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/table_tennis_i1__Copy_.jpg">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
