@@ -1,5 +1,5 @@
 ---
-title: Guzheng
+title: Guzheng Ensemble
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
@@ -8,11 +8,12 @@ variant: tiptap
 <h2>Guzheng Ensemble</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Guzheng/guzheng%20ensemble.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Guzheng/guzheng_ensemble_i1__Copy_.jpg">
 </div>
 <h3>Vision</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Guzheng/guzheng1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Guzheng/1__FAB09329.jpg">
 </div>
 <p><strong>Our Vision</strong>
 </p>
@@ -31,8 +32,9 @@ performers who can exercise personal leadership in all aspects of their
 lives.</p>
 <p></p>
 <h3>Area of Focus</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Guzheng/guzheng2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Guzheng/2__FAB09315.jpg">
 </div>
 <p>The Kuo Chuan Guzheng Ensemble aims to equip aspiring young student performers,
 regardless of their prior experience, with the <strong>skills</strong> to
@@ -51,8 +53,9 @@ the skills needed to balance their academic responsibilities.</p>
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFl-tfye2ZLdDAMT-CUCPN-sUoafVtCZRKGRUs6LYwAWgqjdl6uQ0Mo0clAcJTIz5TiIVenc9_Ta3c/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h3>Programmes</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Guzheng/Programmes%20Pic%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Guzheng/Programmes Pic 1.jpg">
 </div>
 <p><strong><u>Training</u></strong>
 </p>
@@ -79,10 +82,10 @@ the skills needed to balance their academic responsibilities.</p>
 <p>Training Timing</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>3.00PM - 6.00PM</p>
+<p>3.30PM - 6.00PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00PM - 5.00PM</p>
+<p>2.00PM - 5.30PM</p>
 </td>
 </tr>
 <tr>
