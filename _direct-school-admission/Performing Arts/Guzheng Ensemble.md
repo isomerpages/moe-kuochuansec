@@ -22,7 +22,7 @@ as an appreciation for Chinese culture through music.</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Concerts</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participation in the Singapore
 Youth Festival</p>
-<p>For more information on the programme, please visit&nbsp;<a href="https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/guzheng/" rel="noopener noreferrer nofollow" target="_blank">https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/guzheng/</a>
+<p>For more information on the programme, please visit&nbsp;<a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/guzheng/" rel="noopener nofollow" target="_blank">Guzheng Ensemble</a>
 </p>
 <h3>What are we looking for?</h3>
 <p>We are looking for applicants with:</p>
