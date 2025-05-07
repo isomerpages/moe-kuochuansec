@@ -6,8 +6,9 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Table Tennis</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Table%20Tennis/table%20tennis.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/table_tennis_2__Copy_.jpg">
 </div>
 <h3>Vision</h3>
 <div class="isomer-image-wrapper">
