@@ -79,10 +79,10 @@ the skills needed to balance their academic responsibilities.</p>
 <p>Training Timing</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>3.00PM - 6.00PM</p>
+<p>3.30PM - 6.00PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00PM - 5.00PM</p>
+<p>2.00PM - 5.30PM</p>
 </td>
 </tr>
 <tr>
