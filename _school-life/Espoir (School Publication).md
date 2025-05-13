@@ -15,8 +15,9 @@ are introduced to journalistic writing skills. These skills are infused
 into the EL curriculum with the aim of equipping learners with higher-order
 skills such as critical thinking, communication and collaboration skills
 through the processes of journalistic writing.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -25,7 +26,7 @@ through the processes of journalistic writing.</p>
 <th rowspan="1" colspan="1">
 <p>Year</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Publication</p>
 </th>
 </tr>
@@ -35,17 +36,29 @@ through the processes of journalistic writing.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://anyflip.com/jwndd/lebp/" rel="noopener nofollow" target="_blank">Issue 1</a>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/Espoir/espoir_2024_issue1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/Espoir/espoir_2024_issue2.png">
+</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://anyflip.com/jwndd/ejtp/" rel="noopener nofollow" target="_blank">Issue 2</a>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
