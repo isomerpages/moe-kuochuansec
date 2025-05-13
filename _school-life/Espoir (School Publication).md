@@ -31,27 +31,24 @@ through the processes of journalistic writing.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-<p>2024</p>
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/espoir-2025-issue1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/Espoir/espoir_2025_issue1.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/Espoir/espoir_2024_issue1.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/Espoir/espoir_2024_issue2.png">
-</div>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p>2024</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/espoir-2024isue1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/Espoir/espoir_2024_issue1.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/espoir-2024-issue2"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/Espoir/espoir_2024_issue2.png"></a>
 <p></p>
 </td>
 </tr>
