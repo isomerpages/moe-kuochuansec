@@ -48,7 +48,7 @@ through the processes of journalistic writing.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/espoir-2024isue1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/Espoir/espoir_2024_issue1.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/espoir-2024-issue2"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/Espoir/espoir_2024_issue2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/espoir-2024-issue2"><img style="width: 55%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/Espoir/espoir_2024_issue2.png"></a>
 <p></p>
 </td>
 </tr>
