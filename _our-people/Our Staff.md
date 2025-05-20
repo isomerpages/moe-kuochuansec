@@ -68,18 +68,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Vice - Principal (Admin)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jamie Amanda YEE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Jamie_Amanda_YEE@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Head of Department&nbsp;</strong>
 </p>
@@ -1477,6 +1465,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Special Educational Needs (SEN) Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Selena Ng Sau Wuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:selena_ng_sau_wuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">selena_ng_sau_wuan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1484,6 +1484,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">joey_hong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Wei Yong Shaun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_wei_yong_shaun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wei_yong_shaun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1516,6 +1528,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">seah_bee_leng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Wei Kiong, Edwin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_wei_keong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_keong_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
