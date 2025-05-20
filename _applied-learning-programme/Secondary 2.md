@@ -19,7 +19,9 @@ equipment and learn from experts in the field. Our vendors have a track
 record for being excellent and experienced in all things media.</p>
 <p>Through this process, our students learn to be more critical and savvy
 consumers and producers of media.”</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTEJvsKLQ2vjtol2K0qixytMEB8V1OMFhIH5-3ZmLEZsReW3viaNAV6pCHTOqnbsfLxMg_osWOwOzru/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
 <p><strong>Secondary 2 PEACE - Newsletter for Mental Wellness</strong>
 </p>
