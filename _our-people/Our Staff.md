@@ -1476,6 +1476,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Executive &amp; Admin Staff</strong>
 </p>
@@ -1504,6 +1515,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">seah_bee_leng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Wei Kiong, Edwin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_wei_keong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_keong_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
