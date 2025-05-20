@@ -1465,6 +1465,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Special Educational Needs (SEN) Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Selena Ng Sau Wuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:selena_ng_sau_wuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">selena_ng_sau_wuan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
