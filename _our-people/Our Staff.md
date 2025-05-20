@@ -1489,13 +1489,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Koh Wei Yong Shaun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:koh_wei_yong_shaun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wei_yong_shaun@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
