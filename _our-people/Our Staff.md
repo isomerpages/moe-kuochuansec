@@ -68,18 +68,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Vice - Principal (Admin)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jamie Amanda YEE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Jamie_Amanda_YEE@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Head of Department&nbsp;</strong>
 </p>
