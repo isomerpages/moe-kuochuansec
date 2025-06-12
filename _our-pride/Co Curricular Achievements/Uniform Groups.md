@@ -256,22 +256,14 @@ Champion</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2017</strong>
-<br>Sustained 10 Year Gold Achievement Award
-<br>
-<br>Girls' Brigade Company Award
-<br>
-<br>Low Guat Tin Competition
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>Gold
-<br>
-<br>Silver</p>
+<p><strong>Sustained 10 Year Gold Achievement Award </strong>
+<br><strong>Girls' Brigade Company Award</strong> - Gold
+<br><strong>Low Guat Tin Competition</strong> - Silver</p>
 </td>
 </tr>
 <tr>
