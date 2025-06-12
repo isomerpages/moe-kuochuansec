@@ -234,26 +234,23 @@ Champion</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2018</strong>
-<br>Sustained 10 Year Gold Achievement Award
 <br>
-<br>Girls' Brigade Company Award
 <br>
-<br>National Drill Competition
-<br>
-<br>Pioneer Brigadier Brooch Award
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>Gold
-<br>
-<br>Silver
-<br>
-<br>Ong Wei Ning Renee (4FH)</p>
+<p><strong>Sustained 10 Year Gold Achievement Award</strong>
+<br><strong>Girls' Brigade Company Award</strong> - Gold
+<br><strong>National Drill Competition</strong> - Silver
+<br><strong>Pioneer Brigadier Brooch Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ong Wei Ning Renee (4FH)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
