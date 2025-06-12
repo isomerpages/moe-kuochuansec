@@ -191,7 +191,7 @@ Champion</p>
 <td rowspan="1" colspan="1">
 <p><strong>Drill Competition</strong> - Overall Champion Top in precision
 and creativity</p>
-<p><strong>Pioneer Brigadier Brooch</strong> 
+<p><strong>Pioneer Brigadier Brooch</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
