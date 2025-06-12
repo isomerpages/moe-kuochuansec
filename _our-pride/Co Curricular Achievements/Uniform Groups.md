@@ -129,46 +129,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2017</strong>
-<br>Boys' Brigade JM Fraser Award
-<br>
-<br>Boys' Brigade Blaze Team
-<br>
-<br>14th BB Pipes and Drums Festival (Junior Events and Junior Overall)
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>3rd &amp; 6th placing
-<br>
-<br>Champion
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>2016</strong>
-<br>Boys' Brigade JM Fraser Award
 <br>
-<br>Boys Brigade Blaze Team
-<br>
-<br>13th BB Pipes and Drums Festival (Novice Events and Novice Overall)
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>2nd placing
-<br>
-<br>Champion</p>
+<p><strong>JM Fraser Award</strong> - Gold
+<br><strong>Boys Brigade Blaze Team</strong> - 2nd placing
+<br><strong>13th BB Pipes and Drums Festival (Novice Events and Novice Overall) </strong>-
+Champion</p>
 </td>
 </tr>
 <tr>
