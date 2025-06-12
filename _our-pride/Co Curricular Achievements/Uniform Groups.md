@@ -33,10 +33,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>BB Blaze 2024 - </strong>7th &amp; 9th position overall</p>
+<p><strong>Character Quest 2024</strong> - 4th</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +71,7 @@ variant: tiptap
 <p>SSG Yip Kai Jun Jayden</p>
 </li>
 </ul>
-<p><strong>JM Fraser</strong> - High Distinction"</p>
+<p><strong>JM Fraser</strong> - High Distinction</p>
 </td>
 </tr>
 <tr>
@@ -82,13 +83,12 @@ variant: tiptap
 <br>
 <br>
 <br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Boys' Brigade JM Fraser Award</strong> - Gold
 <br><strong>Boys' Brigade Blaze Team</strong> - 3rd Placing
-<br><strong>Founder's Award </strong>
+<br><strong>Founder's Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -109,9 +109,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2018</strong>
-<br>
-<br>
-<br>
 <br>
 </p>
 </td>
