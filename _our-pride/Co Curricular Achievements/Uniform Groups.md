@@ -33,9 +33,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p><strong>2024</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>JM Fraser</strong> - High Distinction</p>
 <p><strong>BB Blaze 2024 - </strong>7th &amp; 9th position overall</p>
 <p><strong>Character Quest 2024</strong> - 4th</p>
 </td>
