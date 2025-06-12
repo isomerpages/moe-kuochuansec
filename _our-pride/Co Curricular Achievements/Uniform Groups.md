@@ -193,18 +193,33 @@ Champion</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2023</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Drill Competition Carnival (Senior)</strong> - Gold</p>
+<p><strong>Pioneer Brigader Brooch</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>G AKSHINI (4PC)</p>
+</li>
+<li>
+<p>CHONG HUI-EN HAYLEY (4PC)</p>
+</li>
+<li>
+<p>BETHANY NEO JIAXIN (4LV)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2022</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Company Award</strong> - Gold</p>
 </td>
 </tr>
 <tr>
