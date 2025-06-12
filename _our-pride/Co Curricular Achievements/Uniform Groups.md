@@ -185,6 +185,30 @@ Champion</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2021</strong>
 </p>
 </td>
@@ -197,24 +221,14 @@ Champion</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-<br>Girls' Brigade Company Award
-<br>
-<br>Low Guat Tin Challenge
-<br>
-<br>National Drill Competition
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>Gold
-<br>
-<br>Silver
-<br>
-</p>
+<p><strong>Girls' Brigade Company Award</strong> - Gold
+<br><strong>Low Guat Tin Challenge</strong> - Gold
+<br><strong>National Drill Competition</strong> - Silver</p>
 </td>
 </tr>
 <tr>
