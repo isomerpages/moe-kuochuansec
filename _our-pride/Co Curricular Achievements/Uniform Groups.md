@@ -185,10 +185,42 @@ Champion</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Drill Competition</strong> - Overall Champion Top in precision
+and creativity</p>
+<p><strong>Pioneer Brigadier Brooch</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ONG EN XI, ANNABELLE (4 Joy)</p>
+</li>
+<li>
+<p>WU JIAQI (4 Love)</p>
+</li>
+<li>
+<p>KHOO WAN PING, NATALIE (4 Love)</p>
+</li>
+<li>
+<p>ALISHA JAYA DANIEL (4 Peace)</p>
+</li>
+<li>
+<p>ONG SI XUAN FELYSHA (4 Faith)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Company Award</strong> - Gold</p>
+<p><strong>3 Brigadiers accorded the pinnacle Pioneer Brigadier Badge</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -197,6 +229,7 @@ Champion</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Company Award</strong> - Gold</p>
 <p><strong>Drill Competition Carnival (Senior)</strong> - Gold</p>
 <p><strong>Pioneer Brigader Brooch</strong>
 </p>
