@@ -145,18 +145,11 @@ Champion</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2015</strong>
-<br>Boys' Brigade JM Fraser Award
-<br>
-<br>Boys' Brigade Blaze
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-</p>
+<p><strong>JM Fraser Award</strong> - Gold
+<br><strong>Boys' Brigade Blaze</strong> - Gold</p>
 </td>
 </tr>
 <tr>
