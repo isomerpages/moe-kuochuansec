@@ -29,7 +29,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>The Boys' Brigade Best Boy Award (S P CHUA MEDAL) 2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>BIN JING HE, JOSIAH (4 Joy)</p>
+</li>
+</ul>
+<p><strong>BB Blaze 2025</strong> - 5th position overall</p>
 </td>
 </tr>
 <tr>
