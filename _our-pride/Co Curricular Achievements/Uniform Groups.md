@@ -269,43 +269,27 @@ Champion</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2016</strong>
-<br>Sustained 10 Year Gold Achievement Award
-<br>
-<br>Girls' Brigade Company Award
-<br>
-<br>National Drill Competition
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>Gold
-<br>
-<br>Gold</p>
+<p><strong>Sustained 10 Year Gold Achievement Award </strong>
+<br><strong>Girls' Brigade Company Award</strong> - Gold <strong>National Drill Competition</strong> -
+Gold</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2015</strong>
-<br>Sustained 10 Year Gold Achievement Award
-<br>
-<br>Girls' Brigade Company Award
-<br>
-<br>Low Guat Tin Challenge
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>1st (Gold)
-<br>
-<br>4 Gold 1 Silver</p>
+<p><strong>Sustained 10 Year Gold Achievement Award</strong> 
+<br><strong>Girls' Brigade Company Award</strong> - 1st (Gold)
+<br><strong>Low Guat Tin Challenge</strong> - 4 Gold 1 Silver</p>
 </td>
 </tr>
 <tr>
