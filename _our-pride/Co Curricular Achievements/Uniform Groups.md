@@ -155,19 +155,13 @@ Champion</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2014</strong>
-<br>Boys' Brigade JM Fraser Award
 <br>
-<br>Boys' Brigade Blaze
-<br>
-<br>Boys' Brigade Cluster Drill</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>Top 6 (National)
-<br>
-<br>1st (Cluster)</p>
+<p><strong>JM Fraser Award</strong> - Gold
+<br><strong>Boys' Brigade Blaze</strong> - Top 6 (National)
+<br><strong>Boys' Brigade Cluster Drill</strong> - 1st (Cluster)</p>
 </td>
 </tr>
 </tbody>
