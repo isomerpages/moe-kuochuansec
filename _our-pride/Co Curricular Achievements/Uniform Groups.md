@@ -75,67 +75,49 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2021</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Awaiting Assessment Results</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2020</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No Assessment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-<br>Boys' Brigade JM Fraser Award
 <br>
-<br>Boys' Brigade Blaze Team
 <br>
-<br>Founder's Award
+<br>
+<br>
+<br>
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>3rd placing
-<br>
-<br>- Zamine Ethan 4-JY
-<br>- Veerappan Harish - 4JY
-<br>- Acton Ang - 4JY
-<br>- Nithyanandhan - 4FH
-<br>
-<br>
+<p><strong>Boys' Brigade JM Fraser Award</strong> - Gold
+<br><strong>Boys' Brigade Blaze Team</strong> - 3rd Placing
+<br><strong>Founder's Award </strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Zamine Ethan 4-JY</p>
+</li>
+<li>
+<p>Veerappan Harish - 4JY</p>
+</li>
+<li>
+<p>Acton Ang - 4JY</p>
+</li>
+<li>
+<p>Nithyanandhan - 4FH</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2018</strong>
-<br>Boys' Brigade JM Fraser Award
 <br>
-<br>Boys' Brigade Blaze Team
+<br>
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>
-<br>
-<br>
-</p>
+<p><strong>Boys' Brigade JM Fraser Award</strong> - Gold</p>
+<p><strong>Boys' Brigade Blaze Team</strong> - Gold</p>
 </td>
 </tr>
 <tr>
