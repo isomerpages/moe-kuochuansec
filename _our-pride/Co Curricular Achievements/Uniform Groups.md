@@ -189,16 +189,9 @@ Champion</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Awaiting Assessment Results</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2020</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No Assessment</p>
+<p><strong>Company Award</strong> - Gold</p>
+<p><strong>Low Guat Tin Challenge</strong> - Gold</p>
+<p><strong>National Drill Competition</strong> - Silver</p>
 </td>
 </tr>
 <tr>
