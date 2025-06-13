@@ -374,11 +374,36 @@ Gold</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2022</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Unit Overall Proficiency Award</strong> - Gold</p>
+<p><strong>Anti-Scam Student Champions</strong> - 1st Runner Up</p>
 </td>
 </tr>
 <tr>
@@ -458,7 +483,7 @@ Gold</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Unit Overall Proficiency Award</strong> - Silver</p>
-<p><strong>SPF-NPCC Award </strong>
+<p><strong>SPF-NPCC Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
