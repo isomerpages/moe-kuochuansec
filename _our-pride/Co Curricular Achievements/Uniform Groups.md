@@ -433,56 +433,51 @@ Gold</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2016</strong>
-<br>Unit Overall Proficiency Award
-<br>
-<br>SPF-NPCC Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>Harold Lee Feng (4FH)
 <br>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Unit Overall Proficiency Award</strong> - Gold
+<br><strong>SPF-NPCC Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Harold Lee Feng (4FH)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2015</strong>
-<br>Unit Overall Proficiency Award
 <br>
-<br>SPF-NPCC Award
-<br>
-<br>Annual PHS Air Rifle Competition
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Silver
-<br>
-<br>Ng Jin Fong
-<br>
-<br>2nd (Silver)
-<br>
-<br>
+<p><strong>Unit Overall Proficiency Award</strong> - Silver</p>
+<p><strong>SPF-NPCC Award </strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Jin Fong</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Annual PHS Air Rifle Competition</strong> - 2nd (Silver)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2014</strong>
-<br>Unit Overall Proficiency Award
 <br>
-<br>Total Defence</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Silver
-<br>
-<br>Silver Badge (17 recipients)</p>
+<p><strong>Unit Overall Proficiency Award</strong> - Silver
+<br><strong>Total Defense</strong> - Silver Badge (17 recipients)</p>
 </td>
 </tr>
 </tbody>
