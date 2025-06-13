@@ -374,68 +374,60 @@ Gold</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2021</strong>
+<p><strong>2022</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Awaiting Assessment Results</p>
+<p><strong>Unit Overall Proficiency Award</strong> - Gold</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2020</strong>
-<br>Unit Overall Proficiency Award
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cancelled Due to Covid</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2019</strong>
-<br>Unit Overall Proficiency Award (2018)
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-</p>
+<p><strong>Unit Overall Proficiency Award</strong> - Cancelled Due to Covid</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2018</strong> 
-<br>SPF-NPCC Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Sumitra R (4LV)
-<br>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Unit Overall Proficiency Award</strong> - Gold
+<br><strong>SPF-NPCC Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sumitra R (4LV)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2017</strong>
-<br>Unit Overall Proficiency Award
 <br>
-<br>SPF-NPCC Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>Adisurya (4JY)
-<br>Truman (4JY)
 <br>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Unit Overall Proficiency Award</strong> - Gold
+<br><strong>SPF-NPCC Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Adisurya (4JY</p>
+</li>
+<li>
+<p>Truman (4JY)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
