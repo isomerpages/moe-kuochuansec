@@ -555,10 +555,29 @@ Gold</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2023</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>GG South Division Day Poetry Competition -</strong>
+</p>
+<p>3rd position</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>FELICIA YEO (3FH)</p>
+</li>
+<li>
+<p>LIM ANNIE (2PR)</p>
+</li>
+</ul>
+<p><strong>Baden Powell Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>KATELYN NG YU SHI (4LV)</p>
+</li>
+</ul>
+<p><strong>Puan Noor Aisha Award</strong> - Gold Award</p>
 </td>
 </tr>
 <tr>
@@ -568,7 +587,7 @@ Gold</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Puan Noor Aisha Award</strong> - Gold Award</p>
-<p><strong>Baden Powell Award</strong> 
+<p><strong>Baden Powell Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
