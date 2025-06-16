@@ -710,35 +710,22 @@ Gold</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2020</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No Assessment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-<br>Unit Overall Proficiency Award (2018)
 <br>
-<br>Precision Drill Challenge
-<br>
-<br>SCDF-NCDCC Pinnacle Badge Award
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>2nd placing
-<br>
-<br>Cheng Ka Wai (4FH)
-<br>
-<br>
+<p><strong>Unit Overall Proficiency Award (2018)</strong> - Gold</p>
+<p><strong>Precision Drill Challenge - </strong>2nd placing
+<br><strong>SCDF-NCDCC Pinnacle Badge Award </strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cheng Ka Wai (4FH)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
