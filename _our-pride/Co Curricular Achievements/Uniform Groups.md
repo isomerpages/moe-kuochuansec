@@ -581,47 +581,42 @@ Gold</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2018</strong>
-<br>Puan Noor Aisha Award
-<br>
-<br>Baden Powell Award
 <br>
 <br>
 <br>
-<br>Wee Kim Wee Challenge
-<br>(South Division)
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>1st (Gold)
-<br>
-<br>Teo Lay Sim (4FH)
-<br>Wang Fang Ting (4LV)
-<br>Goh Yean Yee Tasha (4GR)
-<br>
-<br>1st (Gold)</p>
+<p><strong>Puan Noor Aisha Award</strong> - 1st (Gold)
+<br><strong>Baden Powell Award</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Teo Lay Sim (4FH)</p>
+</li>
+<li>
+<p>Wang Fang Ting (4LV)</p>
+</li>
+</ul>
+<p>Goh Yean Yee Tasha (4GR)</p>
+<p></p>
+<p><strong>Wee Kim Wee Challenge <br>(South Division)</strong> - 1st (Gold)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2017</strong>
-<br>Puan Noor Aisha Award
-<br>
-<br>Baden Powell Award
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>1st (Gold)
-<br>
-<br>Pow Jia Yun (4TH)
-<br>
-<br>
-</p>
+<p><strong>Puan Noor Aisha Award</strong> - 1st (Gold)
+<br><strong>Baden Powell Award</strong> - Pow Jia Yun (4TH)</p>
 </td>
 </tr>
 <tr>
