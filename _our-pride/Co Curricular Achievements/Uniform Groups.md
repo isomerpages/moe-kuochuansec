@@ -752,7 +752,7 @@ Gold</p>
 <td rowspan="1" colspan="1">
 <p><strong>Unit Overall Proficiency Award - </strong>Gold
 <br><strong>Precision Drill Challenge - </strong>Champion
-<br><strong>SCDF – NCDCC Badge </strong>
+<br><strong>SCDF – NCDCC Badge</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
