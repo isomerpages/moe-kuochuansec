@@ -794,57 +794,45 @@ Gold</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2016</strong>
-<br>Unit Overall Proficiency Award
 <br>
-<br>Precision Drill Challenge
-<br>
-<br>SCDF – NCDCC Badge
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>Champion
-<br>
-<br>Teh Yew Ming Darren (4 PC)
-<br>
-<br>
+<p><strong>Unit Overall Proficiency Award - </strong>Gold
+<br><strong>Precision Drill Challenge - </strong>Champion
+<br><strong>SCDF – NCDCC Badge </strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Teh Yew Ming Darren (4 PC)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2015</strong>
-<br>Unit Overall Proficiency Award
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Silver</p>
+<p><strong>Unit Overall Proficiency Award - </strong>Silver</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2014</strong>
-<br>Unit Overall Proficiency Award
 <br>
-<br>Precision Drill Competition
 <br>
-<br>Urban Adventure Civil Defense
-<br>Defense Skills Competition</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>Champion
-<br>
-<br>Silver</p>
+<p><strong>Unit Overall Proficiency Award</strong> - Gold
+<br><strong>Precision Drill Competition</strong> - Champion
+<br><strong>Urban Adventure Civil Defense <br>Defense Skills Competition</strong> -
+Silver</p>
 </td>
 </tr>
 </tbody>
