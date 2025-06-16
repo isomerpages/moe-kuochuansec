@@ -717,10 +717,19 @@ Gold</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2023</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Precision Drill Competition</strong> - 1st</p>
+<p><strong>SCDF-NCDCC Pinnacle Badge</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SIM TZE YEE, SONIA (4JY)</p>
+</li>
+</ul>
+<p><strong>Unit Overall Proficiency Award -</strong> Gold</p>
 </td>
 </tr>
 <tr>
