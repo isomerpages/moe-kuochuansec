@@ -744,22 +744,21 @@ Gold</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2018</strong>
-<br>Unit Overall Proficiency Award
 <br>
-<br>Precision Drill Challenge
-<br>
-<br>SCDF – NCDCC Badge
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>Champion
-<br>
-<br>Tan Wee Choon Waylen (4FH)</p>
+<p><strong>Unit Overall Proficiency Award - </strong>Gold
+<br><strong>Precision Drill Challenge - </strong>Champion
+<br><strong>SCDF – NCDCC Badge </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Wee Choon Waylen (4FH)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -774,7 +773,7 @@ Gold</p>
 <td rowspan="1" colspan="1">
 <p><strong>Unit Overall Proficiency Award - </strong>Gold
 <br><strong>Inter-Unit Quiz 2017 - </strong>Champion
-<br><strong>Precision Drill Challenge  - </strong>Champion
+<br><strong>Precision Drill Challenge - </strong>Champion
 <br><strong>SCDF – NCDCC Badge</strong>
 </p>
 <ul data-tight="true" class="tight">
