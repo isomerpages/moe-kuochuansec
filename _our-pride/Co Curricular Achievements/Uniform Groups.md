@@ -705,7 +705,7 @@ Gold</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Awaiting Assessment Results</p>
+<p><strong>NCDCC Precision Drill Challenge 2019</strong> - 2nd Runner Up</p>
 </td>
 </tr>
 <tr>
@@ -719,7 +719,7 @@ Gold</p>
 <td rowspan="1" colspan="1">
 <p><strong>Unit Overall Proficiency Award (2018)</strong> - Gold</p>
 <p><strong>Precision Drill Challenge - </strong>2nd placing
-<br><strong>SCDF-NCDCC Pinnacle Badge Award </strong>
+<br><strong>SCDF-NCDCC Pinnacle Badge Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
