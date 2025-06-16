@@ -765,30 +765,26 @@ Gold</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2017</strong>
-<br>Unit Overall Proficiency Award
 <br>
-<br>Inter-Unit Quiz 2017
 <br>
-<br>Precision Drill Challenge
-<br>
-<br>SCDF – NCDCC Badge
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>Champion
-<br>
-<br>Champion
-<br>
-<br>Ting Shao Wei, Jayden (4FH)
-<br>Amelia Chia Qi Shan (4LV)
-<br>
-<br>
+<p><strong>Unit Overall Proficiency Award - </strong>Gold
+<br><strong>Inter-Unit Quiz 2017 - </strong>Champion
+<br><strong>Precision Drill Challenge  - </strong>Champion
+<br><strong>SCDF – NCDCC Badge</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ting Shao Wei, Jayden (4FH)</p>
+</li>
+<li>
+<p>Amelia Chia Qi Shan (4LV)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -802,7 +798,7 @@ Gold</p>
 <td rowspan="1" colspan="1">
 <p><strong>Unit Overall Proficiency Award - </strong>Gold
 <br><strong>Precision Drill Challenge - </strong>Champion
-<br><strong>SCDF – NCDCC Badge </strong>
+<br><strong>SCDF – NCDCC Badge</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
