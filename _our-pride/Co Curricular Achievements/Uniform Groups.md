@@ -588,13 +588,11 @@ Gold</p>
 <br>
 <br>
 <br>
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Puan Noor Aisha Award</strong> - 1st (Gold)
-<br><strong>Baden Powell Award</strong> 
+<br><strong>Baden Powell Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
