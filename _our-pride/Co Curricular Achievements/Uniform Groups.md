@@ -627,43 +627,29 @@ Gold</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2016</strong>
-<br>Puan Noor Aisha Award
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>1st (Gold)
-<br>
-<br>
-</p>
+<p><strong>Puan Noor Aisha Award</strong> - 1st (Gold)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2015</strong>
-<br>Puan Noor Aisha Award
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>1st (Gold)
-<br>
-<br>
-</p>
+<p><strong>Puan Noor Aisha Award </strong>- 1st (Gold)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2014</strong>
-<br>Wee Kim Wee Challenge Shield (Culinary Skills)</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>1st (Gold)</p>
+<p><strong>Wee Kim Wee Challenge Shield (Culinary Skills)</strong> - 1st (Gold)</p>
 </td>
 </tr>
 </tbody>
