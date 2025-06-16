@@ -539,43 +539,66 @@ Gold</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2021</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Awaiting Assessment Results</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2020</strong>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No Assessment</p>
+<p><strong>Puan Noor Aisha Award</strong> - Gold Award</p>
+<p><strong>Baden Powell Award</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim Sin (4FH)</p>
+</li>
+<li>
+<p>Hasika Bhesetti (4FH)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Division First Aid and SG Secure competition</strong> - 2nd</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-<br>Puan Noor Aisha Award
-<br>
-<br>First Aid &amp; SG Secure (South Division)
-<br>
-<br>Baden Powell Award
-<br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Gold
-<br>
-<br>2nd Placing
-<br>
-<br>Anna Elisabeth (4GR)
-<br>
-</p>
+<p><strong>Puan Noor Aisha Award</strong> - Gold
+<br><strong>First Aid &amp; SG Secure (South Division)</strong> - 2nd Placing
+<br><strong>Baden Powell Award</strong> - Anna Elisabeth (4GR)</p>
 </td>
 </tr>
 <tr>
