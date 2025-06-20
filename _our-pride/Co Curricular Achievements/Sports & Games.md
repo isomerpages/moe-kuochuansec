@@ -25,10 +25,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2023</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Air Rifle (Team)</strong>
+</p>
+<p>B Div Boys - 14/18</p>
+<p>B Div Girls - 13/13</p>
+<p>C Div Boys - 12/17</p>
+<p>C Div Girls - 12/13</p>
+<p>Air Pistol (Team)</p>
+<p>B Div Boys - 12/16</p>
+<p>B Div Girls - 4/16</p>
+<p>C Div Boys - 11/15</p>
+<p>C Div Girls - 4/14</p>
+<p><strong>Air Pistol (Girls - Individual)</strong>
+</p>
+<p>Teh Yu Han (2PC) - 4th</p>
+<p>Hee Xin Rui (2FH) - 12th</p>
+<p><strong>Air Pistol (Boys - Individual)</strong>
+</p>
+<p>Samuel Chua Wei Lun (2PC) - 17th</p>
+<p><strong>Air Rifle (Boys - Individual)</strong>
+</p>
+<p>Caleb Tham Kin Weng (2LV) - 10th</p>
+<p><strong>NTU Invitational Shoot</strong>
+</p>
+<p>Pistol - 2nd Individual</p>
+<p>Hee Xin Rui (2FH)</p>
 </td>
 </tr>
 <tr>
