@@ -26,26 +26,34 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2021</strong>
-<br><strong>Air Rifle (Team)</strong>
-<br>B Division Boys
-<br>B Division Girls
 <br>
-<br><strong>Air Pistol (Team)</strong>
-<br>B Division Boys
-<br>B Division Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>16th placing
-<br>14th placing
-<br>
-<br>
-<br>14th placing
-<br>15th placing
 <br>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Air Rifle (Team)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Division Boys - 16th</p>
+</li>
+<li>
+<p>B Division Girls - 14th
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Air Pistol (Team)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Division Boys - 14th</p>
+</li>
+<li>
+<p>B Division Girls - 15th</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
