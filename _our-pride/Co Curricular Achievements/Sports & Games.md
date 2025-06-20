@@ -464,18 +464,57 @@ Jaclyn Ng (2PC)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2023</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Swimming NSG</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Matthias Ang (2FH) - 50m BF / 200m IM - Heats</p>
+</li>
+<li>
+<p>Duncan Toh (2PR) - 50m FS - Heats</p>
+</li>
+<li>
+<p>Vismaya Yuvakumar (2HP) - 50m / 100m FS - Heats</p>
+</li>
+<li>
+<p>Jax Toh (3HP) - 50m FS - Heats</p>
+</li>
+<li>
+<p>Andrew Yiau (4FH) - 50m/100m BS - Heats</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2022</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>B Div Boys</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Andrew Yiau (3FH) - 100m/200m FS Heats</p>
+</li>
+</ul>
+<p><strong>C Div Boys</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Benedict Pham (1PR) - 100m FS Heats</p>
+</li>
+<li>
+<p>Duncan Toh (1PR) - 100m FS Heats</p>
+</li>
+<li>
+<p>Matthias Tan (1FH) - 50m/100m FS - Heats</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
