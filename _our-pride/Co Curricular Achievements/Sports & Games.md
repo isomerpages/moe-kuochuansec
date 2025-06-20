@@ -449,65 +449,58 @@ Jaclyn Ng (2PC)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-<br><strong>National Inter-School Swimming Championship</strong>
-<br>
-<br>C Division Boys
-<br>(100m Butterfly) - Joshua Lim Shao Wei - 2LV
-<br>(200m Butterfly) - Joshua Lim Shao Wei - 2LV
-<br>
-<br>(100m Butterfly) - Kobe Castor Ramirez - 1FH
-<br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>2nd placing
-<br>8th placing
-<br>
-<br>8th placing
-<br>
-<br>
-</p>
+<p><strong>National Inter-School Swimming Championship</strong>
+<br>C Division Boys (100m Butterfly)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Joshua Lim Shao Wei - 2LV - 2nd</p>
+</li>
+<li>
+<p>Kobe Castor Ramirez - 1FH - 8th</p>
+</li>
+</ul>
+<p></p>
+<p>C Division Boys (200m Butterfly)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Joshua Lim Shao Wei - 2LV - 8th</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2017</strong>
-<br><strong>National Inter-School Swimming Championship</strong>
-<br>(50m Butterfly)
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>8th
-<br>Shawn Khoo Chen Jun 4LV
-<br>
-</p>
+<p><strong>National Inter-School Swimming Championship</strong>
+<br>(50m Butterfly) - 8th</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Shawn Khoo Chen Jun 4LV</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2016</strong>
-<br><strong>National Inter-School Swimming Championship</strong>
 <br>
-<br>4 Individual
-<br>5 Team
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>Top 8 Events
-<br>Top 8 Events</p>
+<p><strong>National Inter-School Swimming Championship</strong>
+<br>4 Individual - Top 8
+<br>5 Team - Top 8</p>
 </td>
 </tr>
 <tr>
@@ -519,12 +512,10 @@ Jaclyn Ng (2PC)</p>
 <br>
 <br>
 <br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>National Inter-School Swimming Championship</strong>
-<br>
 <br>(50m Backstroke B Div Girls - Ind) - Top 8
 <br>(100m Backstroke B Div Girls - Ind) - Top 8
 <br>(200m Medley B Div Girls - Ind) Top 8</p>
