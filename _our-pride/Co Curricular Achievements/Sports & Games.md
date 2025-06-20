@@ -25,6 +25,70 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Shooting Championship</strong>
+</p>
+<p><strong>Air Rifle</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Div Boys - Prelims</p>
+</li>
+<li>
+<p>B Div Girls - Prelims</p>
+</li>
+<li>
+<p>C Boys - Prelims</p>
+</li>
+<li>
+<p>C Girls - 9th (individual)</p>
+</li>
+</ul>
+<p><strong>Air Pistol</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Div Boys - 9th (individual)</p>
+</li>
+<li>
+<p>B Div Girls - 6th, 12th (individual)</p>
+</li>
+<li>
+<p>C Boys - 20th (individual)</p>
+</li>
+<li>
+<p>C Girls - 9th, 10th, 22nd (individual)</p>
+</li>
+</ul>
+<p><strong>NTU Invitational Shoot</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Air Pistol Women Individual (2nd) - Kimberly Chiang (2PC)</p>
+</li>
+<li>
+<p>Air Pistol Women Team (2nd) - Kimberly Chiang (2PC), Faith Lee (2GR),
+Jaclyn Ng (2PC)</p>
+</li>
+<li>
+<p>Air Pistol Men Individual (2nd) - Daryl Pratama (2FH)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
