@@ -513,23 +513,23 @@ Jaclyn Ng (2PC)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2015</strong>
-<br><strong>National Inter-School Swimming Championship</strong>
 <br>
-<br>(50m Backstroke B Division Girls - Individual)
-<br>(100m Backstroke B Division Girls - Individual)
-<br>(200m Individual Medley B Division Girls - Individual)
-<br>(50m Butterfly B Division Boys - Individual)
-<br>(100m Butterfly B Division Boys - Individual)</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><strong>National Inter-School Swimming Championship</strong>
 <br>
-<br>
-<br>Top 8 Events
-<br>Top 8 Events
-<br>Top 8 Events
-<br>Top 8 Events
-<br>Top 8 Events</p>
+<br>(50m Backstroke B Div Girls - Ind) - Top 8
+<br>(100m Backstroke B Div Girls - Ind) - Top 8
+<br>(200m Medley B Div Girls - Ind) Top 8</p>
+<p>(50m Butterfly B Div Boys - Ind) - Top 8</p>
+<p>(100m Butterfly B Div Boys - Ind) = Top 8</p>
 </td>
 </tr>
 </tbody>
