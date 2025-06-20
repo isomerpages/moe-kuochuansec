@@ -31,29 +31,67 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Air Rifle (Team)</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>B Div Boys - 14/18</p>
+</li>
+<li>
 <p>B Div Girls - 13/13</p>
+</li>
+<li>
 <p>C Div Boys - 12/17</p>
+</li>
+<li>
 <p>C Div Girls - 12/13</p>
+</li>
+<li>
 <p>Air Pistol (Team)</p>
+</li>
+<li>
 <p>B Div Boys - 12/16</p>
+</li>
+<li>
 <p>B Div Girls - 4/16</p>
+</li>
+<li>
 <p>C Div Boys - 11/15</p>
+</li>
+<li>
 <p>C Div Girls - 4/14</p>
+</li>
+</ul>
 <p><strong>Air Pistol (Girls - Individual)</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Teh Yu Han (2PC) - 4th</p>
+</li>
+<li>
 <p>Hee Xin Rui (2FH) - 12th</p>
+</li>
+</ul>
 <p><strong>Air Pistol (Boys - Individual)</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Samuel Chua Wei Lun (2PC) - 17th</p>
+</li>
+</ul>
 <p><strong>Air Rifle (Boys - Individual)</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Caleb Tham Kin Weng (2LV) - 10th</p>
+</li>
+</ul>
 <p><strong>NTU Invitational Shoot</strong>
 </p>
 <p>Pistol - 2nd Individual</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Hee Xin Rui (2FH)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
