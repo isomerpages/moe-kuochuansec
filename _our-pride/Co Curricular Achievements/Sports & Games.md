@@ -98,7 +98,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>2018</strong>
 <br>
-<br>2018
 <br>
 <br>
 <br>
@@ -124,20 +123,9 @@ variant: tiptap
 <p>B Division Girls, Air Pistol</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>3rd Boo Yi Ting (3FH)
-<br>
-<br>
-</p>
+<p>3rd Boo Yi Ting (3FH)</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
