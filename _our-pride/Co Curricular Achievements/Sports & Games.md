@@ -456,10 +456,24 @@ Jaclyn Ng (2PC)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2024</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Swimming NSG</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Matthias Tan (3FH) - 200m Freestyle Heats - 15/17 &amp; 100m Butterfly
+Heats - 13/13</p>
+</li>
+<li>
+<p>Duncan Toh (3GR) - 50m Freestyle Heats - 24/65</p>
+</li>
+<li>
+<p>Vismaya Yuvakumar (3PR) - 50m Freestyle Heats - 32/39</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
