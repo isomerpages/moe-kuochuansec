@@ -25,6 +25,67 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Air Rifle (Team)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Div Boys - 19/19</p>
+</li>
+<li>
+<p>B Div Girls - 12/15</p>
+</li>
+<li>
+<p>C Boys - 14/16</p>
+</li>
+<li>
+<p>C Girls - 11/12</p>
+</li>
+</ul>
+<p><strong>Air Pistol (Team)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Div Boys - 14/16</p>
+</li>
+<li>
+<p>B Div Girls - 8/15</p>
+</li>
+<li>
+<p>C Boys - 10/14</p>
+</li>
+<li>
+<p>C Girls - 3/14</p>
+</li>
+<li>
+<p>Estelle Foo (Individual) - 3rd</p>
+</li>
+</ul>
+<p><strong>NTU Invitational Shoot</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Air Pistol (Individual)</p>
+</li>
+<li>
+<p>Hee Xin Rui (2FH) - 2nd</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2021</strong>
 <br>
 <br>
