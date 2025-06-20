@@ -60,38 +60,49 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-<br><strong>NSG Shooting Championship</strong>
 <br>
-<br><strong>Air Rifle (Team)</strong>
-<br>B Division Boys
-<br>B Division Girls
-<br>C Division Boys
-<br>C Division Girls
 <br>
-<br><strong>Air Pistol (Team)</strong>
-<br>B Division Boys
-<br>B Division Girls
-<br>C Division Boys
-<br>C Division Girls
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><strong>NSG Shooting Championship</strong>
+<br><strong>Air Rifle (Team)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Division Boys - 12th</p>
+</li>
+<li>
+<p>B Division Girls - 15th</p>
+</li>
+<li>
+<p>C Division Boys - 12th</p>
+</li>
+</ul>
+<p>C Division Girls - 12th
 <br>
-<br>
-<br>
-<br>12th placing
-<br>15th placing
-<br>12th placing
-<br>12th placing
-<br>
-<br>
-<br>11th placing
-<br>13th placing
-<br>11th placing
-<br>7th placing</p>
+<br><strong>Air Pistol (Team)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Division Boys - 11th</p>
+</li>
+<li>
+<p>B Division Girls - 13th</p>
+</li>
+<li>
+<p>C Division Boys - 11th</p>
+</li>
+<li>
+<p>C Division Girls - 7th</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
