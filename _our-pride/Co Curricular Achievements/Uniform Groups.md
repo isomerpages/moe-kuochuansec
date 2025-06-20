@@ -557,17 +557,17 @@ Gold</p>
 <p>3rd position</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>FELICIA YEO (3FH)</p>
+<p>Felicia Yeo (3FH)</p>
 </li>
 <li>
-<p>LIM ANNIE (2PR)</p>
+<p>Lim Annie (2PR)</p>
 </li>
 </ul>
 <p><strong>Baden Powell Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>KATELYN NG YU SHI (4LV)</p>
+<p>Katelyn Ng Yu Shi (4LV)</p>
 </li>
 </ul>
 <p><strong>Puan Noor Aisha Award</strong> - Gold Award</p>
@@ -636,8 +636,10 @@ Gold</p>
 <li>
 <p>Wang Fang Ting (4LV)</p>
 </li>
-</ul>
+<li>
 <p>Goh Yean Yee Tasha (4GR)</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Wee Kim Wee Challenge <br>(South Division)</strong> - 1st (Gold)</p>
 </td>
