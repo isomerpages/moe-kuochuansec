@@ -98,33 +98,46 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>2018</strong>
 <br>
-<br>NTU Invitational Shoot 2018
-<br>
-<br>C Division Girls – Team competition
-<br>
-<br>
-<br>National School Games, Shooting National Championship
-<br>
-<br>B Division Boys, Air Rifle
-<br>
-<br>B Division Girls, Air Pistol</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>2nd position
+<br>2018
 <br>
 <br>
 <br>
 <br>
-<br>3rd Ethan Ding (3JY)
 <br>
-<br>3rd Boo Yi Ting (3FH)
+<br>
 <br>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NTU Invitational Shoot</strong>
+<br>C Division Girls – Team competition - 2nd
+<br>
+<br><strong>National School Games, Shooting National Championship </strong>
+<br>B Division Boys, Air Rifle</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3rd Ethan Ding (3JY)</p>
+</li>
+</ul>
+<p></p>
+<p>B Division Girls, Air Pistol</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3rd Boo Yi Ting (3FH)
+<br>
+<br>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -139,7 +152,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NTU Invitational Shoot  </strong>
+<p><strong>NTU Invitational Shoot</strong>
 </p>
 <p>B and C Division Boys</p>
 <ul data-tight="true" class="tight">
