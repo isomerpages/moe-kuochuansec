@@ -25,10 +25,33 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>NSG Shooting Championship</strong>
+</p>
+<p><strong>B Div Girls - Women's Rifle</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kylie Tang Zi Xuan (3 Hope) - 15th</p>
+</li>
+</ul>
+<p><strong>B Div Girls - Women's Pistol</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jaclyn Ng Yu Xuan (3 Joy) - 9th</p>
+</li>
+<li>
+<p>Faith Lee Kai Xin (3 Love) - 9th</p>
+</li>
+<li>
+<p>Teh Yu Han (4 Joy) - 5th</p>
+</li>
+</ul>
+<p><strong>B Div Girls' Team</strong> - 7th overall</p>
 </td>
 </tr>
 <tr>
