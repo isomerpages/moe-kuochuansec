@@ -1144,65 +1144,58 @@ Heats - 13/13</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2021</strong>
-<br>B Division Boys
-<br>B Division Girls
+<br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>1st Round
-<br>1st Round</p>
+<p><strong>South Zone Table Tennis</strong>
+<br><strong>B Division Boys - </strong>1st Round
+<br><strong>B Division Girls -</strong>1st Round</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2020</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Competition Suspended
-<br>
-</p>
+<p>Competition Suspended</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2019<br>South Zone Table Tennis</strong>
-<br>C Division Boys Team
-<br>B Division Girls' Team
+<p><strong>2019<br></strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>4th placing
-<br>4th placing</p>
+<p><strong>South Zone Table Tennis</strong>
+<br><strong>C Division Boys Team - </strong>4th placing
+<br><strong>B Division Girls' Team - </strong>4th placing</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2018<br>South Zone Table Tennis</strong>
-<br>C Division Boys Team
-<br>B Division Girls' Team</p>
+<p><strong>2018<br></strong>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>4th Placing
-<br>4th Placing</p>
+<p><strong>South Zone Table Tennis</strong>
+<br><strong>C Division Boys Team - </strong>4th Placing
+<br><strong>B Division Girls' Team - </strong>4th Placing</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2017<br>South Zone Table Tennis</strong>
-<br>B Division Girls' Team</p>
+<p><strong>2017<br></strong>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>4th Placing</p>
+<p><strong>South Zone Table Tennis</strong>
+<br><strong>B Div Girls' Team</strong> - 4th Placing</p>
 </td>
 </tr>
 </tbody>
