@@ -621,7 +621,54 @@ Heats - 13/13</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2021<br> </strong>
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG South-Zone Basketball Competition</strong>
+</p>
+<p><strong>B Div </strong>- Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG South-Zone Basketball Competition</strong>
+</p>
+<p><strong>B Div </strong>- Prelim
+<br><strong>C Div</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG South-Zone Basketball Competition</strong>
+</p>
+<p><strong>B Div </strong>- Quarter Finals
+<br><strong>C Div</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG South-Zone Basketball Competition</strong>
+</p>
+<p><strong>B Div</strong> - 1st Round</p>
+<p><strong>C Div</strong> - Quarter Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -647,8 +694,8 @@ Heats - 13/13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>South Zone Inter-School Basketball </strong>
-<br>C Division - Quarter Finalist
-<br>B Division - Quarter Finalist</p>
+<br><strong>C Division</strong> - Quarter Finalist
+<br><strong>B Division</strong> - Quarter Finalist</p>
 </td>
 </tr>
 <tr>
@@ -657,8 +704,8 @@ Heats - 13/13</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>South Zone Basketball </strong>
-<br>B &amp; C Division - Quarter Finalist</p>
+<p><strong>South Zone Inter-School Basketball </strong>
+<br><strong>B &amp; C Division</strong> - Quarter Finalist</p>
 </td>
 </tr>
 <tr>
@@ -668,9 +715,9 @@ Heats - 13/13</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Inter-schools Basketball Championship</strong>
-<br>C Division - Top 8
-<br>B Division - Top 8</p>
+<p><strong>South Zone Inter-School Basketball </strong>
+<br><strong>C Division</strong> - Top 8
+<br><strong>B Division</strong> - Top 8</p>
 </td>
 </tr>
 </tbody>
