@@ -872,8 +872,9 @@ Heats - 13/13</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>South Zone Netball </strong>
+<p><strong>National School Games</strong>
 </p>
+<p><strong>B Div</strong> - Prelim</p>
 </td>
 </tr>
 <tr>
@@ -882,7 +883,7 @@ Heats - 13/13</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>South Zone Netball </strong>
+<p><strong>South Zone Netball</strong>
 </p>
 <p><strong>B Div</strong> - Prelim
 <br><strong>C Div</strong> - League 5 2nd</p>
@@ -894,7 +895,7 @@ Heats - 13/13</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>South Zone Netball </strong>
+<p><strong>South Zone Netball</strong>
 </p>
 <p><strong>B Div</strong> - Prelim
 <br><strong>C Div</strong> - Prelim</p>
@@ -906,7 +907,7 @@ Heats - 13/13</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>South Zone Netball </strong>
+<p><strong>South Zone Netball</strong>
 </p>
 <p><strong>B Div</strong> - Quarter Finals</p>
 <p><strong>C Div</strong> - 1st Round</p>
