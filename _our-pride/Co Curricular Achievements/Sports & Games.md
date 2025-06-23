@@ -1023,7 +1023,8 @@ Heats - 13/13</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>National School Games</strong>
+<br><strong>B Div</strong> - Prelim</p>
 </td>
 </tr>
 <tr>
@@ -1032,7 +1033,10 @@ Heats - 13/13</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>National School Games</strong>
+</p>
+<p><strong>B Div</strong> - Prelim
+<br><strong>C Div</strong> - League 5 Prelim</p>
 </td>
 </tr>
 <tr>
@@ -1041,7 +1045,10 @@ Heats - 13/13</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>South Zone Competitions</strong>
+</p>
+<p><strong>B Div</strong> - Quarter Finals
+<br><strong>C Div</strong> - Prelim</p>
 </td>
 </tr>
 <tr>
@@ -1050,7 +1057,10 @@ Heats - 13/13</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>South Zone Competitions</strong>
+</p>
+<p><strong>B Div</strong> - Quarter Finals
+<br><strong>C Div</strong> - Quarter Finals</p>
 </td>
 </tr>
 <tr>
