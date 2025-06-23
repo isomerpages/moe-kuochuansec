@@ -1177,6 +1177,10 @@ Heats - 13/13</p>
 <td rowspan="1" colspan="1">
 <p><strong>South Zone Table Tennis</strong>
 </p>
+<p><strong>B Div Boys</strong>- 1st Round</p>
+<p><strong>C Div Boys</strong> - 3rd</p>
+<p><strong>B Div Girls</strong>- 1st Round</p>
+<p><strong>C Div Girls</strong> - 1st Round</p>
 </td>
 </tr>
 <tr>
