@@ -613,77 +613,64 @@ Heats - 13/13</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Competition Name &amp; Year</p>
+<p>Year</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Award Received</p>
+<p>Competition Name &amp; Award Received</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2021<br>NSG South-Zone Basketball Competition <br></strong>
+<p><strong>2021<br> </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><strong>NSG South-Zone Basketball Competition</strong>
 <br>Cancelled due to COVID-19</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2020<br>NSG South-Zone Basketball Competition </strong>
-<br>
+<p><strong>2020<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><strong>NSG South-Zone Basketball Competition </strong>
 <br>Cancelled due to COVID-19</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2019<br>South Zone Inter-school Basketball </strong>
-<br>C Division
-<br>B Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Quarter Finalist
-<br>Quarter Finalist
-<br>
+<p><strong>2019<br></strong>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Inter-School Basketball </strong>
+<br>C Division - Quarter Finalist
+<br>B Division - Quarter Finalist</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2016<br>South Zone Basketball </strong>
-<br>B &amp; C Division</p>
+<p><strong>2016<br></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Quarter Finalist
-<br>
-<br>
-</p>
+<p><strong>South Zone Basketball </strong>
+<br>B &amp; C Division - Quarter Finalist</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2014<br>Inter-schools Basketball Championship</strong>
-<br>C Division
-<br>B Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Top 8
-<br>Top 8
-<br>
+<p><strong>2014<br></strong>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Inter-schools Basketball Championship</strong>
+<br>C Division - Top 8
+<br>B Division - Top 8</p>
 </td>
 </tr>
 </tbody>
