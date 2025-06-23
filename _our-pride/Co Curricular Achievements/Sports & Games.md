@@ -1272,20 +1272,61 @@ Heats - 13/13</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Competition Name &amp; Year</p>
+<p>Year</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Award Received</p>
+<p>Competition Name &amp; Award Received</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2021</strong>
-<br>B Division</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>1st Round</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Inter-School Championship</strong>
+</p>
+<p><strong>B Div</strong> - Prelim</p>
+<p><strong>C Div</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Inter-School Championship</strong>
+</p>
+<p><strong>B Div </strong>- 4th</p>
+<p><strong>C Div</strong> - 1st Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Inter-School Championship</strong>
+<br><strong>B Division</strong> - 1st Round</p>
 </td>
 </tr>
 <tr>
@@ -1299,46 +1340,35 @@ Heats - 13/13</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2019<br>Singapore (VAS) National Championship</strong>
-<br>Under-14 Boys
+<p><strong>2019<br></strong>
 <br>
-<br><strong>South Zone Inter-school Championship</strong>
 <br>
-<br>C Division Boys
 <br>
-<br><strong>Chung Cheng High (Yishun) - Invitation Volleyball Championship</strong>
 <br>
-<br>Under-14 Boys
+<br>
+<br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><strong>Singapore (VAS) National Championship</strong>
+<br><strong>Under-14 Boys </strong>- 4th Placing
 <br>
-<br>4th Placing
+<br><strong>South Zone Inter-School Championship</strong>
+<br><strong>C Division Boys - </strong>2nd placing
 <br>
-<br>
-<br>
-<br>2nd placing
-<br>
-<br>
-<br>
-<br>2nd placing
-<br>
-<br>
-</p>
+<br><strong>Chung Cheng High (Yishun) - Invitation Volleyball Championship</strong>
+<br><strong>Under-14 Boys - </strong>2nd placing</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2018<br>Singapore (VAS) National Championship</strong>
-<br>Under-13 Boys
-<br>
+<p><strong>2018<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>3rd Placing</p>
+<p><strong>Singapore (VAS) National Championship</strong>
+<br><strong>Under-13 Boys - </strong>3rd Placing</p>
 </td>
 </tr>
 </tbody>
