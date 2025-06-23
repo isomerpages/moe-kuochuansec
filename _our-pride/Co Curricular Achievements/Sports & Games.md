@@ -1167,11 +1167,10 @@ Heats - 13/13</p>
 <td rowspan="1" colspan="1">
 <p><strong>South Zone Table Tennis</strong>
 </p>
-<p>B Div Boys - Prelim</p>
-<p>C Div Boys - Prelim</p>
-<p></p>
-<p>B Div Girls - 2nd</p>
-<p>C Div Girls - 4th</p>
+<p><strong>B Div Boys</strong> - Prelim</p>
+<p><strong>C Div Boys</strong> - Prelim</p>
+<p><strong>B Div Girls</strong> - 2nd</p>
+<p><strong>C Div Girls</strong> - 4th</p>
 <p></p>
 <p><strong>National School Games</strong>
 </p>
