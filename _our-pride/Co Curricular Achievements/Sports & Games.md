@@ -1147,7 +1147,10 @@ Heats - 13/13</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>National School Games</strong>
+</p>
+<p><strong>B Div Boys</strong> - 3rd</p>
+<p><strong>B Div Girls</strong> - Prelim</p>
 </td>
 </tr>
 <tr>
