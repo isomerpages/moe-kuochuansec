@@ -733,10 +733,10 @@ Heats - 13/13</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Competition Name &amp; Year</p>
+<p>Year</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Award Received</p>
+<p>Competition Name &amp; Award Received</p>
 </th>
 </tr>
 <tr>
@@ -760,55 +760,44 @@ Heats - 13/13</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-<br>National School Games
-<br>B Division Boys</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Qualified for League 3</p>
+<p><strong>National School Games </strong>
+<br><strong>B Division Boys</strong> - Qualified for League 3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2017</strong>
-<br>South Zone Football</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>3rd placing
-<br>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Football</strong>
+<br>3rd placing</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2016</strong>
-<br>South Zone Football
-<br>B Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Quarter Finalist
-<br>
-<br>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Football</strong>
+<br><strong>B Division - </strong>Quarter Finalist</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2015</strong>
-<br>South Zone Football
-<br>C Division</p>
+<p><strong>2015<br></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Top 8
-<br>
-<br>
-</p>
+<p><strong>South Zone Football </strong>
+<br><strong>C Division - </strong>Top 8</p>
 </td>
 </tr>
 </tbody>
