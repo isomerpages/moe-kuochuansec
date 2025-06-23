@@ -887,90 +887,68 @@ Heats - 13/13</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-<br><strong>M1 School Challenge League</strong>
-<br>B Division Girls
 <br>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>M1 School Challenge League</strong>
+<br><strong>B Division Girls</strong> - 2nd placing</p>
+<p>
 <br><strong>Punggol Secondary School Netball Carnival</strong>
-<br>C Division Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>2nd placing
-<br>
-<br>
-<br>
-<br>3rd placing
-<br>
-<br>
-</p>
+<br><strong>C Division Girls</strong> - 3rd placing</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2018<br>South Zone Netball </strong>
-<br>B Division Girls</p>
+<p><strong>2018<br></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>3rd position
-<br>
-<br>
-</p>
+<p><strong>South Zone Netball </strong>
+<br>B Division Girls - 3rd position</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2017<br>South Zone Netball</strong>
-<br>B Division</p>
+<p><strong>2017<br></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Quarter Finalist
-<br>
-<br>
-<br>
-</p>
+<p><strong>South Zone Netball</strong>
+<br><strong>B Division</strong> - Quarter Finalist</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2016<br>South Zone Netball</strong>
-<br>B Division</p>
+<p><strong>2016<br></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Quarter Finalist
-<br>
-<br>
-<br>
-</p>
+<p><strong>South Zone Netball</strong>
+<br><strong>B Division</strong> - Quarter Finalist</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2015<br><br>Inter-School Netball<br>Championship</strong> - B girls</p>
+<p><strong>2015<br></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Top 8
-<br>
-<br>
-<br>
-</p>
+<p><strong>Inter-School Netball Championship</strong>
+<br><strong>B Girls</strong> - Top 8</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2014<br><br>Inter-School Netball<br>Championship </strong>- B
-Girls</p>
+<p><strong>2014<br> </strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Top 8</p>
+<p><strong>Inter-School Netball Championship</strong>
+<br><strong>B Girls</strong> - Top 8</p>
 </td>
 </tr>
 </tbody>
