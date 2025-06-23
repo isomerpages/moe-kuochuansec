@@ -3,288 +3,1381 @@ title: Sports & Games
 permalink: /the-kuo-chuan-experience/our-pride/co-curricular-achievements/sports-n-games/
 description: ""
 third_nav_title: Co Curricular Achievements
+variant: tiptap
 ---
-### NON-ACADEMIC ACHIEVEMENTS
-
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/shooting%20club.jpg)
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
+<h3>NON-ACADEMIC ACHIEVEMENTS</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/shooting%20club.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td> <b>2021</b><br><b>Air Rifle (Team)</b><br>B Division Boys<br>B Division Girls<br><br><b>Air Pistol (Team)</b><br>B Division Boys<br>B Division Girls</td>
-    <td> <br><br>16th placing<br>14th placing<br><br><br>14th placing<br>15th placing<br><br></td>
-  </tr>
-  <tr>
-    <td> <b>2020</b></td>
-    <td> Competition Suspended</td>
-  </tr>
-  <tr>
-    <td> <b>2019</b><br><b>NSG Shooting Championship</b><br><br><b>Air Rifle (Team)</b><br>B Division Boys<br>B Division Girls<br>C Division Boys<br>C Division Girls<br><br><b>Air Pistol (Team)</b><br>B Division Boys<br>B Division Girls<br>C Division Boys<br>C Division Girls<br><br></td>
-    <td> <br><br><br><br>12th placing<br>15th placing<br>12th placing<br>12th placing<br><br><br>11th placing<br>13th placing<br>11th placing<br>7th placing</td>
-  </tr>
-  <tr>
-    <td> <b>2018</b><br><br>NTU Invitational Shoot 2018<br><br>C Division Girls – Team competition<br><br><br>National School Games, Shooting National Championship <br><br>B Division Boys, Air Rifle<br> <br>B Division Girls, Air Pistol </td>
-    <td> <br><br><br><br>2nd position<br><br><br><br><br>3rd Ethan Ding (3JY)<br><br>3rd Boo Yi Ting (3FH)<br><br></td>
-  </tr>
-  <tr>
-    <td><b>2017</b><br>NTU Invitational Shoot<br>B and C Division Boys<br><br><br>National School Games Shooting Championship<br><br></td>
-    <td><br>2nd - Joel Wang 4JY<br>3rd - Chloe Chan 2LV<br>2nd - Darius John 2 PC<br><br>9th - Brandon Lim 4JY<br>9th - Natania Lee 3LV<br>11th - Joel Wang 4JY<br>12th - Jomel Cheng 4PC<br>19th - Gabriel Chen 4JY<br><br></td>
-  </tr>
-  <tr>
-    <td><b>2016</b><br>National Shooting Air Pistol <br>B Division Boys<br><br></td>
-    <td><br>2nd position<br>(Individual )<br><br></td>
-  </tr>
-  <tr>
-    <td><b>2015</b><br>Inter-School Shooting <br>Championships<br><br>C Division - Boys (Individual)</td>
-    <td> <br><br><br><br>3rd position</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition Name &amp; Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Shooting Championship</strong>
+</p>
+<p><strong>B Div Girls - Women's Rifle</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kylie Tang Zi Xuan (3 Hope) - 15th</p>
+</li>
+</ul>
+<p><strong>B Div Girls - Women's Pistol</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jaclyn Ng Yu Xuan (3 Joy) - 9th</p>
+</li>
+<li>
+<p>Faith Lee Kai Xin (3 Love) - 9th</p>
+</li>
+<li>
+<p>Teh Yu Han (4 Joy) - 5th</p>
+</li>
+</ul>
+<p><strong>B Div Girls' Team</strong> - 7th overall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Shooting Championship</strong>
+</p>
+<p><strong>Air Rifle</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Div Boys - Prelims</p>
+</li>
+<li>
+<p>B Div Girls - Prelims</p>
+</li>
+<li>
+<p>C Boys - Prelims</p>
+</li>
+<li>
+<p>C Girls - 9th (individual)</p>
+</li>
+</ul>
+<p><strong>Air Pistol</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Div Boys - 9th (individual)</p>
+</li>
+<li>
+<p>B Div Girls - 6th, 12th (individual)</p>
+</li>
+<li>
+<p>C Boys - 20th (individual)</p>
+</li>
+<li>
+<p>C Girls - 9th, 10th, 22nd (individual)</p>
+</li>
+</ul>
+<p><strong>NTU Invitational Shoot</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Air Pistol Women Individual (2nd) - Kimberly Chiang (2PC)</p>
+</li>
+<li>
+<p>Air Pistol Women Team (2nd) - Kimberly Chiang (2PC), Faith Lee (2GR),
+Jaclyn Ng (2PC)</p>
+</li>
+<li>
+<p>Air Pistol Men Individual (2nd) - Daryl Pratama (2FH)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Air Rifle (Team)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Div Boys - 14/18</p>
+</li>
+<li>
+<p>B Div Girls - 13/13</p>
+</li>
+<li>
+<p>C Div Boys - 12/17</p>
+</li>
+<li>
+<p>C Div Girls - 12/13</p>
+</li>
+<li>
+<p>Air Pistol (Team)</p>
+</li>
+<li>
+<p>B Div Boys - 12/16</p>
+</li>
+<li>
+<p>B Div Girls - 4/16</p>
+</li>
+<li>
+<p>C Div Boys - 11/15</p>
+</li>
+<li>
+<p>C Div Girls - 4/14</p>
+</li>
+</ul>
+<p><strong>Air Pistol (Girls - Individual)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Teh Yu Han (2PC) - 4th</p>
+</li>
+<li>
+<p>Hee Xin Rui (2FH) - 12th</p>
+</li>
+</ul>
+<p><strong>Air Pistol (Boys - Individual)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Samuel Chua Wei Lun (2PC) - 17th</p>
+</li>
+</ul>
+<p><strong>Air Rifle (Boys - Individual)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Caleb Tham Kin Weng (2LV) - 10th</p>
+</li>
+</ul>
+<p><strong>NTU Invitational Shoot</strong>
+</p>
+<p>Pistol - 2nd Individual</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hee Xin Rui (2FH)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Air Rifle (Team)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Div Boys - 19/19</p>
+</li>
+<li>
+<p>B Div Girls - 12/15</p>
+</li>
+<li>
+<p>C Boys - 14/16</p>
+</li>
+<li>
+<p>C Girls - 11/12</p>
+</li>
+</ul>
+<p><strong>Air Pistol (Team)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Div Boys - 14/16</p>
+</li>
+<li>
+<p>B Div Girls - 8/15</p>
+</li>
+<li>
+<p>C Boys - 10/14</p>
+</li>
+<li>
+<p>C Girls - 3/14</p>
+</li>
+<li>
+<p>Estelle Foo (Individual) - 3rd</p>
+</li>
+</ul>
+<p><strong>NTU Invitational Shoot</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Air Pistol (Individual)</p>
+</li>
+<li>
+<p>Hee Xin Rui (2FH) - 2nd</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Air Rifle (Team)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Division Boys - 16th</p>
+</li>
+<li>
+<p>B Division Girls - 14th
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Air Pistol (Team)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Division Boys - 14th</p>
+</li>
+<li>
+<p>B Division Girls - 15th</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2020</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Competition Suspended</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Shooting Championship</strong>
+<br><strong>Air Rifle (Team)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Division Boys - 12th</p>
+</li>
+<li>
+<p>B Division Girls - 15th</p>
+</li>
+<li>
+<p>C Division Boys - 12th</p>
+</li>
+</ul>
+<p>C Division Girls - 12th
+<br>
+<br><strong>Air Pistol (Team)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Division Boys - 11th</p>
+</li>
+<li>
+<p>B Division Girls - 13th</p>
+</li>
+<li>
+<p>C Division Boys - 11th</p>
+</li>
+<li>
+<p>C Division Girls - 7th</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2018</strong>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NTU Invitational Shoot</strong>
+<br>C Division Girls – Team competition - 2nd
+<br>
+<br><strong>National School Games, Shooting National Championship </strong>
+<br>B Division Boys, Air Rifle</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3rd Ethan Ding (3JY)</p>
+</li>
+</ul>
+<p></p>
+<p>B Division Girls, Air Pistol</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3rd Boo Yi Ting (3FH)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2017</strong>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NTU Invitational Shoot</strong>
+</p>
+<p>B and C Division Boys</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2nd - Joel Wang 4JY</p>
+</li>
+<li>
+<p>3rd - Chloe Chan 2LV</p>
+</li>
+<li>
+<p>2nd - Darius John 2 PC</p>
+</li>
+</ul>
+<p></p>
+<p><strong>National School Games Shooting Championship</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>9th - Brandon Lim 4JY</p>
+</li>
+<li>
+<p>9th - Natania Lee 3LV</p>
+</li>
+<li>
+<p>11th - Joel Wang 4JY</p>
+</li>
+<li>
+<p>12th - Jomel Cheng 4PC</p>
+</li>
+<li>
+<p>19th - Gabriel Chen 4JY</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2016</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Shooting Air Pistol </strong>
+<br>B Division Boys (Individual)- 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2015</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Inter-School Shooting Championships</strong>
+<br>C Division - Boys (Individual) - 3rd</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/swimming.jpg)
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/swimming.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td> <b>2019</b><br><b>National Inter-School Swimming Championship</b><br><br>C Division Boys<br>(100m Butterfly) - Joshua Lim Shao Wei - 2LV<br>(200m Butterfly) - Joshua Lim Shao Wei - 2LV<br><br>(100m Butterfly) - Kobe Castor Ramirez - 1FH<br><br></td>
-    <td> <br><br><br><br>2nd placing<br>8th placing<br><br>8th placing<br><br></td>
-  </tr>
-  <tr>
-    <td><b>2017</b><br><b>National Inter-School Swimming Championship</b><br>(50m Butterfly)<br> <br></td>
-    <td><br>8th<br>Shawn Khoo Chen Jun 4LV <br></td>
-  </tr>
-  <tr>
-    <td><b>2016</b><br><b>National Inter-School Swimming Championship</b><br><br>4 Individual<br>5 Team <br><br></td>
-    <td><br><br><br>Top 8 Events<br>Top 8 Events</td>
-  </tr>
-  <tr>
-    <td><b>2015</b><br><b>National Inter-School Swimming Championship</b><br><br>(50m Backstroke B Division Girls - Individual)<br> (100m Backstroke B Division Girls - Individual)<br> (200m Individual Medley B Division Girls - Individual)<br> (50m Butterfly B Division Boys - Individual)<br> (100m Butterfly B Division Boys - Individual)</td>
-    <td><br><br><br>Top 8 Events<br>Top 8 Events<br>Top 8 Events<br>Top 8 Events<br>Top 8 Events</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition Name &amp; Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Swimming NSG</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Matthias Tan (3FH) - 200m Freestyle Heats - 15/17 &amp; 100m Butterfly
+Heats - 13/13</p>
+</li>
+<li>
+<p>Duncan Toh (3GR) - 50m Freestyle Heats - 24/65</p>
+</li>
+<li>
+<p>Vismaya Yuvakumar (3PR) - 50m Freestyle Heats - 32/39</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Swimming NSG</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Matthias Ang (2FH) - 50m BF / 200m IM - Heats</p>
+</li>
+<li>
+<p>Duncan Toh (2PR) - 50m FS - Heats</p>
+</li>
+<li>
+<p>Vismaya Yuvakumar (2HP) - 50m / 100m FS - Heats</p>
+</li>
+<li>
+<p>Jax Toh (3HP) - 50m FS - Heats</p>
+</li>
+<li>
+<p>Andrew Yiau (4FH) - 50m/100m BS - Heats</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>B Div Boys</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Andrew Yiau (3FH) - 100m/200m FS Heats</p>
+</li>
+</ul>
+<p><strong>C Div Boys</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Benedict Pham (1PR) - 100m FS Heats</p>
+</li>
+<li>
+<p>Duncan Toh (1PR) - 100m FS Heats</p>
+</li>
+<li>
+<p>Matthias Tan (1FH) - 50m/100m FS - Heats</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Inter-School Swimming Championship</strong>
+<br>C Division Boys (100m Butterfly)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Joshua Lim Shao Wei - 2LV - 2nd</p>
+</li>
+<li>
+<p>Kobe Castor Ramirez - 1FH - 8th</p>
+</li>
+</ul>
+<p></p>
+<p>C Division Boys (200m Butterfly)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Joshua Lim Shao Wei - 2LV - 8th</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2017</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Inter-School Swimming Championship</strong>
+<br>(50m Butterfly) - 8th</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Shawn Khoo Chen Jun 4LV</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2016</strong>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Inter-School Swimming Championship</strong>
+<br>4 Individual - Top 8
+<br>5 Team - Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2015</strong>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Inter-School Swimming Championship</strong>
+<br>(50m Backstroke B Div Girls - Ind) - Top 8
+<br>(100m Backstroke B Div Girls - Ind) - Top 8
+<br>(200m Medley B Div Girls - Ind) Top 8</p>
+<p>(50m Butterfly B Div Boys - Ind) - Top 8</p>
+<p>(100m Butterfly B Div Boys - Ind) = Top 8</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/basketball.jpg)
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/basketball.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td> <b>2021<br>NSG South-Zone Basketball Competition <br></b></td>
-    <td> <br>Cancelled due to COVID-19</td>
-  </tr>
-  <tr>
-    <td><b>2020<br>NSG South-Zone Basketball Competition </b><br></td>
-    <td> <br>Cancelled due to COVID-19</td>
-  </tr>
-  <tr>
-    <td> <b>2019<br>South Zone Inter-school Basketball </b><br>C Division<br>B Division</td>
-    <td> <br><br>Quarter Finalist<br>Quarter Finalist<br><br></td>
-  </tr>
-  <tr>
-    <td><b>2016<br>South Zone Basketball </b><br>B &amp; C Division</td>
-    <td><br><br>Quarter Finalist<br><br></td>
-  </tr>
-  <tr>
-    <td><b>2014<br>Inter-schools Basketball Championship</b><br>C Division<br>B Division</td>
-    <td><br><br>Top 8<br>Top 8<br><br></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition Name &amp; Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG South-Zone Basketball Competition</strong>
+</p>
+<p><strong>B Div </strong>- Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG South-Zone Basketball Competition</strong>
+</p>
+<p><strong>B Div </strong>- Prelim
+<br><strong>C Div</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG South-Zone Basketball Competition</strong>
+</p>
+<p><strong>B Div </strong>- Quarter Finals
+<br><strong>C Div</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG South-Zone Basketball Competition</strong>
+</p>
+<p><strong>B Div</strong> - 1st Round</p>
+<p><strong>C Div</strong> - Quarter Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG South-Zone Basketball Competition</strong>
+<br>Cancelled due to COVID-19</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2020<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG South-Zone Basketball Competition </strong>
+<br>Cancelled due to COVID-19</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019<br></strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Inter-School Basketball </strong>
+<br><strong>C Division</strong> - Quarter Finalist
+<br><strong>B Division</strong> - Quarter Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2016<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Inter-School Basketball </strong>
+<br><strong>B &amp; C Division</strong> - Quarter Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2014<br></strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Inter-School Basketball </strong>
+<br><strong>C Division</strong> - Top 8
+<br><strong>B Division</strong> - Top 8</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/soccer.jpg)
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/soccer.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td> <b>2021</b></td>
-    <td> Competition Suspended</td>
-  </tr>
-  <tr>
-    <td> <b>2020</b></td>
-    <td> Competition Suspended</td>
-  </tr>
-  <tr>
-    <td> <b>2019</b><br>National School Games<br>B Division Boys</td>
-    <td> <br><br>Qualified for League 3</td>
-  </tr>
-  <tr>
-    <td><b>2017</b><br>South Zone Football</td>
-    <td><br>3rd placing <br><br></td>
-  </tr>
-  <tr>
-    <td><b>2016</b><br>South Zone Football<br>B Division</td>
-    <td><br>Quarter Finalist<br><br><br></td>
-  </tr>
-  <tr>
-    <td><b>2015</b><br>South Zone Football<br>C Division</td>
-    <td><br>Top 8<br><br></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition Name &amp; Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games</strong>
+</p>
+<p><strong>B Div </strong>- League 3 Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games</strong>
+</p>
+<p><strong>B Div </strong>- League 3 Quarter Finals</p>
+<p><strong>C Div</strong> - League 4 Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games</strong>
+</p>
+<p><strong>B Div</strong> - League 4 Prelim</p>
+<p><strong>C Div</strong> - League 3 Quarter Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games</strong>
+</p>
+<p><strong>B Div</strong> - 1st Round
+<br><strong>C Div</strong> - 1st Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Competition Suspended</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2020</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Competition Suspended</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games </strong>
+<br><strong>B Division Boys</strong> - Qualified for League 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2017</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Football</strong>
+<br>3rd placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2016</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Football</strong>
+<br><strong>B Division - </strong>Quarter Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2015<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Football </strong>
+<br><strong>C Division - </strong>Top 8</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/Netball.jpg)
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/Netball.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td> <b>2021</b></td>
-    <td> Competition Suspended</td>
-  </tr>
-  <tr>
-    <td> <b>2020</b></td>
-    <td> Competition Suspended</td>
-  </tr>
-  <tr>
-    <td> <b>2019</b><br><b>M1 School Challenge League</b><br>B Division Girls<br><br><b>Punggol Secondary School Netball Carnival</b><br>C Division Girls</td>
-    <td> <br><br>2nd placing<br><br><br><br>3rd placing<br><br></td>
-  </tr>
-  <tr>
-    <td> <b>2018<br>South Zone Netball </b><br>B Division Girls </td>
-    <td> <br><br>3rd position<br><br></td>
-  </tr>
-  <tr>
-    <td><b>2017<br>South Zone Netball</b><br>B Division</td>
-    <td> <br>Quarter Finalist<br><br><br></td>
-  </tr>
-  <tr>
-    <td><b>2016<br>South Zone Netball</b><br>B Division</td>
-    <td><br>Quarter Finalist<br><br><br></td>
-  </tr>
-  <tr>
-    <td><b>2015<br><br>Inter-School Netball<br>Championship</b> - B girls</td>
-    <td><br><br>Top 8<br><br><br></td>
-  </tr>
-  <tr>
-    <td><b>2014<br><br> Inter-School Netball<br>Championship </b>- B Girls</td>
-    <td><br><br>Top 8 </td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition Name &amp; Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games</strong>
+</p>
+<p><strong>B Div</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Netball</strong>
+</p>
+<p><strong>B Div</strong> - Prelim
+<br><strong>C Div</strong> - League 5 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Netball</strong>
+</p>
+<p><strong>B Div</strong> - Prelim
+<br><strong>C Div</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Netball</strong>
+</p>
+<p><strong>B Div</strong> - Quarter Finals</p>
+<p><strong>C Div</strong> - 1st Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Competition Suspended</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2020</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Competition Suspended</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>M1 School Challenge League</strong>
+<br><strong>B Division Girls</strong> - 2nd placing</p>
+<p>
+<br><strong>Punggol Secondary School Netball Carnival</strong>
+<br><strong>C Division Girls</strong> - 3rd placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2018<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Netball </strong>
+<br>B Division Girls - 3rd position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2017<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Netball</strong>
+<br><strong>B Division</strong> - Quarter Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2016<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Netball</strong>
+<br><strong>B Division</strong> - Quarter Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2015<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Inter-School Netball Championship</strong>
+<br><strong>B Girls</strong> - Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2014<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Inter-School Netball Championship</strong>
+<br><strong>B Girls</strong> - Top 8</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/badminton.jpg)
-
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/badminton.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td> <b>2021</b><br>B Division</td>
-    <td> <br>1st Round</td>
-  </tr>
-  <tr>
-    <td><b>2020</b></td>
-    <td> Competition Suspended</td>
-  </tr>
-  <tr>
-    <td> <b>2019</b><br>B Division<br>C Division<br><br></td>
-    <td> <br>Zonal Group<br>Zonal Group</td>
-  </tr>
-  <tr>
-    <td><b>2016</b><br>Annual Badminton South Zone Competitions<br><br> Wee Kim Wee Cup 2016</td>
-    <td><br>Represent School<br><br>Represent School<br><br></td>
-  </tr>
-  <tr>
-    <td><b>2014<br>South Zone Badminton Championship</b><br><br>B Boys<br>C Boys</td>
-    <td><br>South Zone Sportsmanship<br><br>Terry Tan (4TH)<br>Lo Zi Jian (1PC)</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition Name &amp; Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games</strong>
+<br><strong>B Div</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games</strong>
+</p>
+<p><strong>B Div</strong> - Prelim
+<br><strong>C Div</strong> - League 5 Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Competitions</strong>
+</p>
+<p><strong>B Div</strong> - Quarter Finals
+<br><strong>C Div</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Competitions</strong>
+</p>
+<p><strong>B Div</strong> - Quarter Finals
+<br><strong>C Div</strong> - Quarter Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Competitions</strong>
+<br><strong>B Division - </strong>1st Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2020</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Competition Suspended</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Competitions</strong>
+<br><strong>B Division - </strong>Zonal Group
+<br><strong>C Division</strong> - Zonal Group</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2016</strong>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Competitions - </strong>Represent School
+<br>
+<br><strong>Wee Kim Wee Cup 2016 - </strong>Represent School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2014<br></strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Badminton Championship</strong>
+<br><strong>B Boys</strong> - Terry Tan (4TH)
+<br><strong>C Boys</strong> - Lo Zi Jian (1PC)</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/table%20tennis.jpg)
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/table%20tennis.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td> <b>2021</b><br>B Division Boys<br>B Division Girls<br></td>
-    <td> <br>1st Round<br>1st Round</td>
-  </tr>
-  <tr>
-    <td><b> 2020</b><br></td>
-    <td> Competition Suspended<br></td>
-  </tr>
-  <tr>
-    <td> <b>2019<br>South Zone Table Tennis</b><br>C Division Boys Team<br>B Division Girls' Team<br></td>
-    <td> <br><br>4th placing<br>4th placing</td>
-  </tr>
-  <tr>
-    <td><b>2018<br>South Zone Table Tennis</b><br>C Division Boys Team<br>B Division Girls' Team</td>
-    <td><br><br>4th Placing<br>4th Placing </td>
-  </tr>
-  <tr>
-    <td><b>2017<br>South Zone Table Tennis</b><br>B Division Girls' Team</td>
-    <td><br>4th Placing</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition Name &amp; Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games</strong>
+</p>
+<p><strong>B Div Boys</strong> - 3rd</p>
+<p><strong>B Div Girls</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Table Tennis</strong>
+<br><strong>B Div Boys</strong> - 3rd
+<br><strong>C Div Boys</strong> - League 1 Prelim
+<br><strong>B Div Girls</strong> - Prelim
+<br><strong>C Div Girls</strong> - League 2 Prelim</p>
+<p></p>
+<p><strong>National School Games</strong>
+<br><strong>B Div Boys</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Table Tennis</strong>
+</p>
+<p><strong>B Div Boys</strong> - Prelim</p>
+<p><strong>C Div Boys</strong> - Prelim</p>
+<p><strong>B Div Girls</strong> - 2nd</p>
+<p><strong>C Div Girls</strong> - 4th</p>
+<p></p>
+<p><strong>National School Games</strong>
+</p>
+<p><strong>B Div Girls</strong> - Prelim</p>
+<p><strong>C Div Girls</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Table Tennis</strong>
+</p>
+<p><strong>B Div Boys</strong>- 1st Round</p>
+<p><strong>C Div Boys</strong> - 3rd</p>
+<p><strong>B Div Girls</strong>- 1st Round</p>
+<p><strong>C Div Girls</strong> - 1st Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Table Tennis</strong>
+<br><strong>B Division Boys - </strong>1st Round
+<br><strong>B Division Girls -</strong>1st Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2020</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Competition Suspended</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019<br></strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Table Tennis</strong>
+<br><strong>C Division Boys Team - </strong>4th placing
+<br><strong>B Division Girls' Team - </strong>4th placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2018<br></strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Table Tennis</strong>
+<br><strong>C Division Boys Team - </strong>4th Placing
+<br><strong>B Division Girls' Team - </strong>4th Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2017<br></strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Table Tennis</strong>
+<br><strong>B Div Girls' Team</strong> - 4th Placing</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/volleyball.jpg)
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/volleyball.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td><b> 2021</b><br>B Division</td>
-    <td> <br>1st Round</td>
-  </tr>
-  <tr>
-    <td> <b>2020</b></td>
-    <td> Competition Suspended</td>
-  </tr>
-  <tr>
-    <td><b>2019<br> Singapore (VAS)  National Championship</b><br>Under-14 Boys <br><br><b>South Zone Inter-school Championship</b><br><br>C Division Boys<br><br><b>Chung Cheng High (Yishun) - Invitation Volleyball Championship</b><br><br>Under-14 Boys<br></td>
-    <td><br><br>4th Placing<br>  <br><br><br>2nd placing<br><br><br><br>2nd placing<br><br></td>
-  </tr>
-  <tr>
-    <td><b>2018<br>Singapore (VAS)  National Championship</b><br>Under-13 Boys <br></td>
-    <td><br>3rd Placing</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition Name &amp; Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games</strong>
+</p>
+<p><strong>B Div</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games</strong>
+</p>
+<p><strong>B Div</strong> - Prelim</p>
+<p><strong>C Div</strong> - League 5 Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Inter-School Championship</strong>
+</p>
+<p><strong>B Div</strong> - Prelim</p>
+<p><strong>C Div</strong> - Prelim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Inter-School Championship</strong>
+</p>
+<p><strong>B Div </strong>- 4th</p>
+<p><strong>C Div</strong> - 1st Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Inter-School Championship</strong>
+<br><strong>B Division</strong> - 1st Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2020</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Competition Suspended</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019<br></strong>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore (VAS) National Championship</strong>
+<br><strong>Under-14 Boys </strong>- 4th Placing
+<br>
+<br><strong>South Zone Inter-School Championship</strong>
+<br><strong>C Division Boys - </strong>2nd placing
+<br>
+<br><strong>Chung Cheng High (Yishun) - Invitation Volleyball Championship</strong>
+<br><strong>Under-14 Boys - </strong>2nd placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2018<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore (VAS) National Championship</strong>
+<br><strong>Under-13 Boys - </strong>3rd Placing</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>

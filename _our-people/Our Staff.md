@@ -68,6 +68,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Vice - Principal Admin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Phang Teck King, James</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phang_teck_king_james@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_teck_king_james@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Head of Department&nbsp;</strong>
 </p>
