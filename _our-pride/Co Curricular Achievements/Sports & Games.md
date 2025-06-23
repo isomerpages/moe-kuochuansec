@@ -1020,11 +1020,12 @@ Heats - 13/13</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2021</strong>
-<br>B Division</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>1st Round</p>
+<p><strong>South Zone Competitions</strong>
+<br><strong>B Division - </strong>1st Round</p>
 </td>
 </tr>
 <tr>
@@ -1039,48 +1040,40 @@ Heats - 13/13</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-<br>B Division
-<br>C Division
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Zonal Group
-<br>Zonal Group</p>
+<p><strong>South Zone Competitions</strong>
+<br><strong>B Division - </strong>Zonal Group
+<br><strong>C Division</strong> - Zonal Group</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2016</strong>
-<br>Annual Badminton South Zone Competitions
 <br>
-<br>Wee Kim Wee Cup 2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Represent School
-<br>
-<br>Represent School
 <br>
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>South Zone Competitions - </strong>Represent School
+<br>
+<br><strong>Wee Kim Wee Cup 2016 - </strong>Represent School</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2014<br>South Zone Badminton Championship</strong>
+<p><strong>2014<br></strong>
 <br>
-<br>B Boys
-<br>C Boys</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>South Zone Sportsmanship
-<br>
-<br>Terry Tan (4TH)
-<br>Lo Zi Jian (1PC)</p>
+<p><strong>South Zone Badminton Championship</strong>
+<br><strong>B Boys</strong> - Terry Tan (4TH)
+<br><strong>C Boys</strong> - Lo Zi Jian (1PC)</p>
 </td>
 </tr>
 </tbody>
