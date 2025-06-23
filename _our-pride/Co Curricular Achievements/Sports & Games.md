@@ -943,7 +943,7 @@ Heats - 13/13</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2014<br> </strong>
+<p><strong>2014<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
