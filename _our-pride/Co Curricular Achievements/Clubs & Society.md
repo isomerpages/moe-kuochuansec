@@ -113,114 +113,119 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2022</strong>
-<br>National Robotics Competition
-<br>Best Content
-<br>CoderZ Challenge
-<br>Robot Run</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
 <br>
-<br>Finalist
-<br>Participantion
-<br>Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2021</strong>
+<br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Competition Suspended</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2020</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Competition Suspended</p>
+<p><strong>National Robotics Competition </strong>
+<br><strong>Best Content -</strong>Finalist</p>
+<p><strong>CoderZ Challenge - </strong>Participation
+<br><strong>Robot Run - </strong>Participation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-<br>ITE East Robotics Challenge
-<br>i) Creative Challenge
-<br>
-<br>
-<br>ii)Tracing Challenge
 <br>
 <br>
 <br>
 <br>
-<br>iii)Asia Pacific Youth Robotic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Merit Award ( Ethan 4GR)
-<br>Merit Award ( Elliot 4LV)
-<br>Merit Award ( Malcom 3PC)
-<br>Merit Award ( Aidan 2JY)
-<br>Runner Up (Ryan 4LV)
-<br>Runner Up (Gavin 4PC)
-<br>Runner Up (Aadithyan 2FH)
-<br>Runner Up (Syen 2JY)
-<br>Runner Up (Jenson&amp;Ebenezer 1LV)
-<br>3rd &amp; 4th Placing (Prajen&amp;Josh 1LV)
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ITE East Robotics Challenge </strong>
+</p>
+<p><strong>i) Creative Challenge</strong>
+<br>Merit Award (Ethan 4GR)
+<br>Merit Award (Elliot 4LV)
+<br>Merit Award (Malcom 3PC)
+<br>Merit Award (Aidan 2JY)</p>
+<p><strong>ii)Tracing Challenge </strong>
+<br>Runner Up (Ryan 4LV)
+<br>Runner Up (Gavin 4PC)
+<br>Runner Up (Aadithyan 2FH)</p>
+<p><strong>iii)Asia Pacific Youth Robotic</strong>
+<br>Runner Up (Syen 2JY)
+<br>Runner Up (Jenson&amp;Ebenezer 1LV)
+<br>3rd &amp; 4th Placing (Prajen&amp;Josh 1LV)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2018</strong>
-<br>ITE College East Robotics Competition
-<br>Obstacle Avoidance Challenge
-<br>Creative Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>4th Placing
-<br>4th Placing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2017</strong> 
-<br>ITE College East Robotics Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>4th placing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2016</strong>
-<br>ITE College East Robotics Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>4th placing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2015</strong>
-<br>Bull's Eye Robotic Challenge
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>3rd placing</p>
+<p><strong>ITE College East Robotics Competition </strong>
+<br>Obstacle Avoidance Challenge - 4th
+<br>Creative Challenge - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2017 <br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ITE College East Robotics Competition</strong>
+<br>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2016</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ITE College East Robotics Competition</strong>
+<br>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2015</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bull's Eye Robotic Challenge </strong>
+<br>3rd</p>
 </td>
 </tr>
 </tbody>
