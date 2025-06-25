@@ -32,6 +32,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Copyright School Challenge Video Competition</strong>
 <br>Finalists</p>
+<p>Team 1: Silver</p>
+<p>Team 2: Honorary Mention</p>
 </td>
 </tr>
 <tr>
