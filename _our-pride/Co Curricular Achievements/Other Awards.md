@@ -25,6 +25,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Golf - B Div Girls </strong>
+</p>
+<p>Kelly See (4HP): 5th</p>
+<p></p>
+<p><strong>Track &amp; Field - B Div Boys</strong>
+</p>
+<p>Kesav Subburaj (4FH) - 800m/1500m Heats</p>
+<p>C Div Boys</p>
+<p>Nathan Sng (2GR) - 1500m Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2021</strong>
 <br>
 </p>
@@ -97,7 +122,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>44th Singapore Athletics U15/U18  Championship <br>(3000m - Individual)</strong>
+<p><strong>44th Singapore Athletics U15/U18 Championship <br>(3000m - Individual)</strong>
 </p>
 <p>2nd Position, Bodapati Vamshi Krisha - 2 LV</p>
 </td>
@@ -149,7 +174,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Asian Cities Taekwondo Championship <br>(Kyruogi, Female Cadet - Under 33KG) </strong>
+<p><strong>Asian Cities Taekwondo Championship <br>(Kyruogi, Female Cadet - Under 33KG)</strong>
 </p>
 <p>Joie Kong Li ng Ci - 1PC
 <br>(Represent Singapore)
