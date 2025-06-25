@@ -144,69 +144,70 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2021</strong>
-<br>Chinese Dance
-<br>Modern Dance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Certificate of Distinction
-<br>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2020</strong>
+<br>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Competition Suspended</p>
+<p><strong>Chinese Dance </strong>
+<br>Certificate of Distinction</p>
+<p><strong>Modern Dance</strong>
+<br>Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-<br>SYF Central Judging
-<br>Contemporary Dance</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Certificate of Accomplishment</p>
+<p><strong>SYF Central Judging</strong>
+</p>
+<p>Accomplishment</p>
+<p><strong>International Dance</strong> 
+<br>Accomplishment</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2017</strong> 
-<br>SYF Central Judging
-<br>International Dance</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Accomplishment
+<p><strong>SYF Central Judging</strong>
+</p>
+<p>Accomplishment</p>
+<p><strong>International Dance</strong> 
 <br>Silver</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2015</strong>
-<br>SYF Central Judging
-<br>International Dance</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Accomplishment
+<p><strong>SYF Central Judging</strong>
+</p>
+<p>Accomplishment</p>
+<p><strong>International Dance</strong> 
 <br>Silver</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2013</strong>
-<br>SYF Central Judging
-<br>International Dance</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Accomplishment
+<p><strong>SYF Central Judging</strong>
+</p>
+<p>Accomplishment</p>
+<p><strong>International Dance</strong> 
 <br>Silver</p>
 </td>
 </tr>
