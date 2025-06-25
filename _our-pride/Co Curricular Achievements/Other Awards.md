@@ -49,7 +49,7 @@ variant: tiptap
 <br>7th (Kelly See 1HP)
 <br><strong>Wushu - B Division Boys</strong>
 <br>
-<br><strong>1st International Broadsword </strong>
+<br><strong>1st International Broadsword</strong>
 </p>
 <p>3rd (Justin Ang 3 JY)</p>
 <p><strong>2nd International Broadsword</strong>
@@ -74,28 +74,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Inter-School Golf Championship
-<br>(Individual - C Division)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>National Inter-School Golf Championship <br>(Individual - C Division)</strong>
+</p>
 <p>4th Position, Mikaela Miswi - 2 JY</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22nd Asian Cities Taekwondo Championship
-<br>(Kyruogi, Under 39KG)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>22nd Asian Cities Taekwondo Championship <br>(Kyruogi, Under 39KG)</strong>
+</p>
 <p>1st Position, Joie Kong - 1PC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>44th Singapore Athletics U15/U18 Championship
-<br>(3000m - Individual)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>44th Singapore Athletics U15/U18  Championship <br>(3000m - Individual)</strong>
+</p>
 <p>2nd Position, Bodapati Vamshi Krisha - 2 LV</p>
 </td>
 </tr>
@@ -105,13 +108,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>National Inter-School Wushu Championship <br>(Individual - C Boys)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Inter-School Wushu Championship
-<br>(Individual - C Boys)
+<p>
 <br>
 <br>
 <br>
@@ -130,25 +133,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Inter-School Golf Championship
-<br>(Individual - C Division)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>National Inter-School Golf Championship <br>(Individual - C Division)</strong>
+</p>
 <p>7th - Mikaela Miswi - 1 JY</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asian Cities Taekwondo Championship
-<br>(Kyruogi, Female Cadet - Under 33KG)
+<p>
 <br>
-<br>6th Youth Olympic Festival Taekwondo Championship
-<br>(Kyruogi, Female Poom - Under 34KG)</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Asian Cities Taekwondo Championship <br>(Kyruogi, Female Cadet - Under 33KG) </strong>
+</p>
 <p>Joie Kong Li ng Ci - 1PC
 <br>(Represent Singapore)
 <br>
+</p>
+<p><strong>6th Youth Olympic Festival Taekwondo Championship <br>(Kyruogi, Female Poom - Under 34KG)</strong>
 <br>Joie Kong Li ng Ci - 1PC
 <br>(Gold Medal - Individual)</p>
 </td>
