@@ -506,7 +506,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>SYF Central Judging </strong>
 <br>Accomplishment</p>
-<p> <strong>Drama</strong>
+<p><strong>Drama</strong>
 <br>Silver</p>
 </td>
 </tr>
