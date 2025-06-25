@@ -121,10 +121,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2024</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>NRC 2024 CoSpace Robot Challenge</strong>
+</p>
+<p>Team 1st (Virtual Robot Challenge)</p>
+<p>- Keyvon Chan (3FH)</p>
+<p>- Yang Tianrui (2FH)"</p>
 </td>
 </tr>
 <tr>
