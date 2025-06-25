@@ -249,11 +249,32 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Competition Name &amp; Year</p>
+<p>Year</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Award Received</p>
+<p>Competition Name &amp; Award Received</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+<br>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Arts Presentation</strong>
+</p>
+<p>Certificate of Distinction</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
