@@ -29,6 +29,24 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>National School Games Taekwondo Kyorugi </strong>'C' Div Girls
+Poom Belt (&lt;62kg) -</p>
+<p>First position - Lee Yi Chen (1 Truth)</p>
+<p>'B' Div Girls Poom Belt (&lt;62kg) -</p>
+<p>First position - LEONG WAN WAI ISABELLE (3 Faith)</p>
+<p><strong>National School Games - TKD Poomsae</strong> 
+</p>
+<p>'C' Div</p>
+<p>Lee Yi Chen (1TR)</p>
+<p>Result: 11/21</p>
+<p>'B' Div</p>
+<p>Thiraputhbhokin Cherchan (2FH)</p>
+<p>Result: 9/21</p>
+<p>Regan Tay (3GR)</p>
+<p>Result: 9/33</p>
+<p>Elizabeth Soo (3PR), Licia Ho (3JY)</p>
+<p>Result: 30, 18/37</p>
+<p></p>
 <p></p>
 </td>
 </tr>
