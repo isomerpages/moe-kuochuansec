@@ -135,10 +135,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Competition Name &amp; Year</p>
+<p>Year</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Award Received</p>
+<p>Competition Name &amp; Award Received</p>
 </th>
 </tr>
 <tr>
