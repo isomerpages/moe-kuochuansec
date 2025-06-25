@@ -3,222 +3,527 @@ title: Performing Arts
 permalink: /the-kuo-chuan-experience/our-pride/co-curricular-achievements/performing-arts/
 description: ""
 third_nav_title: Co Curricular Achievements
+variant: tiptap
 ---
-### NON-ACADEMIC ACHIEVEMENTS
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/symphonic%20band.jpg)
-
-
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
+<h3>NON-ACADEMIC ACHIEVEMENTS</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/symphonic%20band.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td> <b>2021</b></td>
-    <td> Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td> <b>2020</b></td>
-    <td> Competition Suspended</td>
-  </tr>
-  <tr>
-    <td> <b>2019</b><br>SYF Central Judging<br>Band Concert<br><br>Impressivo II : Rhapsodies of Singapore Concert @ School of the Arts</td>
-    <td> <br>Certificate of Accomplishment<br><br><br>Certificate of Appreciation</td>
-  </tr>
-  <tr>
-    <td><b>2017</b><br>SYF Central Judging <br>Band Concert </td>
-    <td><br>Accomplishment <br>Silver </td>
-  </tr>
-  <tr>
-    <td><b>2015</b><br>SYF Central Judging <br>Band Concert</td>
-    <td><br>Accomplishment <br>Silver</td>
-  </tr>
-  <tr>
-    <td> <b>2013</b><br>SYF Central Judging <br>Band Concert</td>
-    <td> <br>Accomplishment <br>Silver</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition Name &amp; Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+<br>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Arts Presentation</strong>
+</p>
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+</p>
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2020</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Competition Suspended</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+<br>Certificate of Accomplishment
+<br>
+<br><strong>Impressive II: Rhapsodies of Singapore Concert @ School of the Arts - </strong>
+<br>Certificate of Appreciation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2017</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+</p>
+<p>Certificate of Accomplishment</p>
+<p>
+<br><strong>Band Concert - </strong>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2015</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+</p>
+<p>Certificate of Accomplishment
+<br><strong>Band Concert - </strong>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2013</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+</p>
+<p>Certificate of Accomplishment
+<br><strong>Band Concert - </strong>Silver</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/DanceEnsemble.jpg)
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/DanceEnsemble.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td> <b>2021</b><br>Chinese Dance<br>Modern Dance</td>
-    <td> <br>Certificate of Distinction<br>Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td> <b>2020</b></td>
-    <td> Competition Suspended</td>
-  </tr>
-  <tr>
-    <td> <b>2019</b><br>SYF Central Judging<br>Contemporary Dance</td>
-    <td> <br><br>Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td><b>2017</b> <br>SYF Central Judging <br>International Dance</td>
-    <td><br>Accomplishment<br>Silver </td>
-  </tr>
-  <tr>
-    <td><b>2015</b><br>SYF Central Judging <br>International Dance</td>
-    <td><br>Accomplishment<br>Silver</td>
-  </tr>
-  <tr>
-    <td> <b>2013</b><br>SYF Central Judging <br>International Dance</td>
-    <td> <br>Accomplishment<br>Silver</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition Name &amp; Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Dance SYF</strong>
+</p>
+<p>Certificate of Accomplishment</p>
+<p><strong>Modern Dance SYF</strong>
+</p>
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>5th Chinese Street Dance Competition</strong>
+</p>
+<p>Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Dance </strong>
+<br>Certificate of Distinction</p>
+<p><strong>Modern Dance</strong>
+<br>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+</p>
+<p>Accomplishment</p>
+<p><strong>International Dance</strong> 
+<br>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2017</strong> 
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+</p>
+<p>Accomplishment</p>
+<p><strong>International Dance</strong> 
+<br>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2015</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+</p>
+<p>Accomplishment</p>
+<p><strong>International Dance</strong> 
+<br>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2013</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+</p>
+<p>Accomplishment</p>
+<p><strong>International Dance</strong> 
+<br>Silver</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/guzheng%20ensemble.jpg)
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/guzheng%20ensemble.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td> <b>2021</b></td>
-    <td> Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <td> <b>2020</b></td>
-    <td> Competition Suspended</td>
-  </tr>
-  <tr>
-    <td> <b>2019</b><br>SYF Central Judging<br>Guzheng Ensemble<br></td>
-    <td> <br>Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td><b>2017</b><br>SYF Central Judging<br>Guzheng Ensemble</td>
-    <td><br>Accomplishment<br>Silver</td>
-  </tr>
-  <tr>
-    <td><b>2015</b><br>SYF Central Judging<br>Guzheng Ensemble</td>
-    <td><br>Accomplishment<br>Silver </td>
-  </tr>
-  <tr>
-    <td><b>2013</b><br>SYF Central Judging<br>Guzheng Ensemble</td>
-    <td><br>Distinction <br>Gold </td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition Name &amp; Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+<br>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Arts Presentation</strong>
+</p>
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+</p>
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging </strong>
+<br>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2017</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging </strong>
+<br>Certificate of Accomplishment
+<br><strong>Guzheng Ensemble</strong>
+<br>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2015</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging </strong>
+<br>Certificate of Accomplishment
+<br><strong>Guzheng Ensemble</strong>
+<br>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2013</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging </strong>
+<br>Certificate of Accomplishment
+<br><strong>Guzheng Ensemble</strong>
+<br>Gold</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/Choir.jpg)
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/Choir.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td> <b>2021</b></td>
-    <td> Competition Suspended</td>
-  </tr>
-  <tr>
-    <td> <b>2020</b></td>
-    <td> Competition Suspended </td>
-  </tr>
-  <tr>
-    <td> <b>2019</b><br>SYF Central Judging<br>Choir</td>
-    <td> <br>Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td><b>2017</b><br>SYF Central Judging<br>Choir</td>
-    <td><br>Distinction <br>Gold</td>
-  </tr>
-  <tr>
-    <td><b>2015</b><br>SYF Central Judging<br>Choir</td>
-    <td><br>Accomplishment <br>Silver</td>
-  </tr>
-  <tr>
-    <td><b>2013</b><br>SYF Central Judging<br>Choir</td>
-    <td><br>Accomplishment <br>Silver</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition Name &amp; Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+<br>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Arts Presentation</strong>
+<br>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging </strong>
+<br>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2017</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging</strong>
+<br>Distinction</p>
+<p><strong>Choir</strong> 
+<br>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2015</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging </strong>
+<br>Accomplishment</p>
+<p><strong>Choir</strong> 
+<br>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2013</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging </strong>
+<br>Accomplishment</p>
+<p><strong>Choir</strong>
+<br>Silver</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/DanceEnsemble.jpg)
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/drama.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td> <b>2021</b><br>Chinese Dance<br>Modern Dance</td>
-    <td> <br>Certificate of Distinction<br>Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td> <b>2020</b></td>
-    <td> Competition Suspended</td>
-  </tr>
-  <tr>
-    <td> <b>2019</b><br>SYF Central Judging Chinese Dance</td>
-    <td> <br>Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td><b>2017</b><br>SYF Central Judging Chinese Dance </td>
-    <td><br>Distinction<br>Gold </td>
-  </tr>
-  <tr>
-    <td><b>2015</b><br>SYF Central Judging Chinese Dance</td>
-    <td><br>Distinction<br>Gold</td>
-  </tr>
-  <tr>
-    <td><b>2013</b><br>SYF Central Judging Chinese Dance</td>
-    <td><br>Distinction<br>Gold</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition Name &amp; Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Arts Presentation</strong>
+</p>
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Arts Presentation</strong>
+</p>
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging </strong>
+<br>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2017</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging </strong>
+<br>Commendation</p>
+<p><strong>Drama</strong>
+<br>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2015</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging </strong>
+<br>Accomplishment</p>
+<p><strong>Drama</strong>
+<br>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2013</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging </strong>
+<br>Accomplishment</p>
+<p><strong>Drama</strong> 
+<br>Silver</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/drama.jpg)
-
-<table>
-<thead>
-  <tr>
-    <th>Competition Name &amp; Year</th>
-    <th>Award Received</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td> <b>2019</b><br>SYF Central Judging <br>Drama<br></td>
-    <td> <br>Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td><b>2017</b><br>SYF Central Judging<br>Drama</td>
-    <td><br>Commendation<br>Bronze</td>
-  </tr>
-  <tr>
-    <td><b>2015</b><br>SYF Central Judging <br>Drama</td>
-    <td> <br>Accomplishment<br>Silver</td>
-  </tr>
-  <tr>
-    <td><b>2013</b><br>SYF Central Judging <br>Drama</td>
-    <td><br>Accomplishment<br>Silver</td>
-  </tr>
-</tbody>
-</table>
+<p></p>

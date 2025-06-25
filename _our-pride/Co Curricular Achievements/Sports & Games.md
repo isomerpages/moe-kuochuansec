@@ -448,6 +448,30 @@ Jaclyn Ng (2PC)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Swimming NSG</strong>
+</p>
+<p>'B' Div</p>
+<p>Tan Boon Hee Matthias (4FH), 400m Freestyle</p>
+<p>Result: 9/13</p>
+<p>Jerone How Yan Jie (3FH), Tan Boon Hee Matthias (4FH), Toh Zhi Jian Duncan
+(4GR), 50m Freestyle</p>
+<p>Result:</p>
+<p>Duncan: 13/62</p>
+<p>Matthias: 22/62</p>
+<p>Jerone: 32/62</p>
+<p>Toh Zhi Jian Duncan (4GR), 50m Butterfly</p>
+<p>Result: 19/26</p>
+<p>Jerone How Yan Jie (3FH), 200m Freestyle</p>
+<p>@ OCBC Aquatics Centre</p>
+<p>Result: 14/16"</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2024</strong>
 </p>
 </td>
