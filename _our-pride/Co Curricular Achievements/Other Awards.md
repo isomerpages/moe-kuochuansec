@@ -34,6 +34,7 @@ Poom Belt (&lt;62kg) -</p>
 <p>First position - Lee Yi Chen (1 Truth)</p>
 <p>'B' Div Girls Poom Belt (&lt;62kg) -</p>
 <p>First position - LEONG WAN WAI ISABELLE (3 Faith)</p>
+<p></p>
 <p><strong>National School Games - TKD Poomsae</strong>
 </p>
 <p>'C' Div</p>
@@ -45,7 +46,7 @@ Poom Belt (&lt;62kg) -</p>
 <p>Elizabeth Soo (3PR), Licia Ho (3JY)</p>
 <p>Result: 30, 18/37</p>
 <p></p>
-<p><strong>National School Games - Track &amp; Field</strong> 
+<p><strong>National School Games - Track &amp; Field</strong>
 </p>
 <p>'C' Div</p>
 <p>Wee Zhan De, Jaekan (1JY)</p>
