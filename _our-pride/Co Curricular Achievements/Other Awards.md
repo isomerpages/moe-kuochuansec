@@ -25,6 +25,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games - Track &amp; Field</strong>
+</p>
+<p>Nathan Sng (4PR)</p>
+<p>800m Heats - 21/96</p>
+<p>1500m Heats - 19/94</p>
+<p></p>
+<p><strong>National School Games - TKD Poomsae</strong>
+</p>
+<p>Richel Tay (4PC)</p>
+<p>B Div Black 3 - 19/26</p>
+<p>Regan Tay (2GR)</p>
+<p>C Div Poom 2 - 15/31</p>
+<p>Licia Ho (2GR)</p>
+<p>C Div Blue 3 - 10/18</p>
+<p>Elizabeth Soo (2JY)</p>
+<p>C Div Blue 3 - 12/18</p>
+<p>Thiraputhbhokin Cherchan (1FH)</p>
+<p>C Div Green 6 - 10/17</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -36,11 +62,11 @@ variant: tiptap
 <p></p>
 <p><strong>National School Games - Track &amp; Field</strong>
 </p>
-<p>\Nathan Sng (3PR)</p>
+<p>Nathan Sng (3PR)</p>
 <p>800m - Heats</p>
 <p>1500m - Heats</p>
 <p></p>
-<p><strong>National School Games - TKD Poomsae</strong> 
+<p><strong>National School Games - TKD Poomsae</strong>
 </p>
 <p>Richel Tay (3PC)</p>
 <p>10/18</p>
