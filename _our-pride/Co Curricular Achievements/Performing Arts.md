@@ -282,64 +282,59 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>SYF Central Judging </strong>
+</p>
 <p>Certificate of Distinction</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2020</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Competition Suspended</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-<br>SYF Central Judging
-<br>Guzheng Ensemble
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><strong>SYF Central Judging </strong>
 <br>Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2017</strong>
-<br>SYF Central Judging
-<br>Guzheng Ensemble</p>
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Accomplishment
+<p><strong>SYF Central Judging </strong>
+<br>Certificate of Accomplishment
+<br><strong>Guzheng Ensemble</strong>
 <br>Silver</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2015</strong>
-<br>SYF Central Judging
-<br>Guzheng Ensemble</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Accomplishment
+<p><strong>SYF Central Judging </strong>
+<br>Certificate of Accomplishment
+<br><strong>Guzheng Ensemble</strong>
 <br>Silver</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2013</strong>
-<br>SYF Central Judging
-<br>Guzheng Ensemble</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Distinction
+<p><strong>SYF Central Judging </strong>
+<br>Certificate of Accomplishment
+<br><strong>Guzheng Ensemble</strong>
 <br>Gold</p>
 </td>
 </tr>
