@@ -129,10 +129,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2023</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>National Robotics Competition</strong>
+</p>
+<p>Regular Category</p>
+<p>Best Research Award</p>
+<p>Secondary - 2nd</p>
 </td>
 </tr>
 <tr>
@@ -166,7 +171,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ITE East Robotics Challenge </strong>
+<p><strong>ITE East Robotics Challenge</strong>
 </p>
 <p><strong>i) Creative Challenge</strong>
 <br>Merit Award (Ethan 4GR)
