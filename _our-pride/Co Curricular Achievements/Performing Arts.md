@@ -143,6 +143,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Dance SYF</strong>
+</p>
+<p>Certificate of Accomplishment</p>
+<p><strong>Modern Dance SYF</strong>
+</p>
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>5th Chinese Street Dance Competition</strong>
+</p>
+<p>Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2021</strong>
 <br>
 <br>
