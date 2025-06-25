@@ -451,10 +451,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>SYF Arts Presentation</strong>
+</p>
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -471,49 +474,53 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-<br>SYF Central Judging
-<br>Drama
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><strong>SYF Central Judging </strong>
 <br>Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2017</strong>
-<br>SYF Central Judging
-<br>Drama</p>
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Commendation
+<p><strong>SYF Central Judging </strong>
+<br>Commendation</p>
+<p><strong>Drama</strong>
 <br>Bronze</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2015</strong>
-<br>SYF Central Judging
-<br>Drama</p>
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Accomplishment
+<p><strong>SYF Central Judging </strong>
+<br>Accomplishment</p>
+<p> <strong>Drama</strong>
 <br>Silver</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2013</strong>
-<br>SYF Central Judging
-<br>Drama</p>
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Accomplishment
+<p><strong>SYF Central Judging </strong>
+<br>Accomplishment</p>
+<p><strong>Drama</strong> 
 <br>Silver</p>
 </td>
 </tr>
