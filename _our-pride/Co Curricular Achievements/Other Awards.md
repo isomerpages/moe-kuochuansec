@@ -37,7 +37,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Golf - B Div Girls </strong>
+<p><strong>Golf - B Div Girls</strong>
 </p>
 <p>Kelly See (4HP): 5th</p>
 <p></p>
@@ -46,6 +46,13 @@ variant: tiptap
 <p>Kesav Subburaj (4FH) - 800m/1500m Heats</p>
 <p>C Div Boys</p>
 <p>Nathan Sng (2GR) - 1500m Finals</p>
+<p></p>
+<p><strong>TKD (Poomsae) - C Div Girls</strong>
+</p>
+<p>Richel Teo (2LV)</p>
+<p>Poom Black 2: 7/28</p>
+<p>Iris Kong (1PC)</p>
+<p>Poom Black 1: 17/20"</p>
 </td>
 </tr>
 <tr>
@@ -187,4 +194,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
