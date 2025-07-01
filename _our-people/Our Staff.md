@@ -1252,6 +1252,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Rachel Lim Kim Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_kim_neo_rachel_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kim_neo_rachel_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1391,6 +1403,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">png_siew_hoon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Vivian Tan Kher Sin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_kher_sin_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kher_sin_c@schools.gov.sg</a>
 </p>
 </td>
 </tr>
