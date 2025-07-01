@@ -600,22 +600,11 @@ variant: tiptap
 <p>S1 GRACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Jia Perng</p>
+<p>Mr Ng Hao Hiang Herman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">loh_jia_perng@schools.gov.sg</a>
+<p><a href="mailto:ng_hao_hiang_herman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hao_hiang_herman@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
