@@ -45,13 +45,6 @@ Poom Belt (&lt;62kg) -</p>
 <p>Regan Tay (3GR) - Result: 9/33</p>
 <p>Elizabeth Soo (3PR), Licia Ho (3JY)</p>
 <p>Result: 30, 18/37</p>
-<p></p>
-<p><strong>National School Games - Track &amp; Field</strong>
-</p>
-<p>'C' Div</p>
-<p>Wee Zhan De, Jaekan (1JY)</p>
-<p>Long Jump</p>
-<p>Result: Did not meet qualifying mark</p>
 </td>
 </tr>
 <tr>
