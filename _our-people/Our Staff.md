@@ -945,6 +945,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>S3 JOY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Koh Jie Hui Avigail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_jie_hui_avigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_jie_hui_avigail@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>S3 LOVE</p>
 </td>
 <td rowspan="1" colspan="1">
