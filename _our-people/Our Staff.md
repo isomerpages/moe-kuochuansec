@@ -756,10 +756,10 @@ variant: tiptap
 <p>S2 LOVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Michelle Cheong</p>
+<p>Mr Ryan Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">cheong_mun_mun_michelle@schools.gov.sg</a>
+<p><a href="mailto:ryan_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ryan_loh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
