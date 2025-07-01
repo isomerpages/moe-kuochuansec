@@ -981,6 +981,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>S3 PEACE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jason Untung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jason_untung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jason_untung@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>S3 GRACE</p>
 </td>
 <td rowspan="1" colspan="1">
