@@ -1384,6 +1384,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Cynthia Tan Jia Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_jia_ning_cynthia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_ning_cynthia@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
