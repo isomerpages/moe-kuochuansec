@@ -1396,6 +1396,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lee Hui Ern Desiree</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lee_Hui_Ern_Desiree@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Hui_Ern_Desiree@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Design &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
