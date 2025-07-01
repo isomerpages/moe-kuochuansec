@@ -1032,10 +1032,10 @@ variant: tiptap
 <p>S3 HOPE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Dorothy Goh</p>
+<p>Mr Ong Wei Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">dorothy_tay_wyn_hui@schools.gov.sg</a>
+<p><a href="mailto:ong_wei_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_han@schools.gov.sg</a>
 </p>
 </td>
 </tr>
