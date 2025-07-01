@@ -780,10 +780,10 @@ variant: tiptap
 <p>S2 PEACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Chee Yong&nbsp;</p>
+<p>Miss Suzann Chua Shi Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_chee_yong@schools.gov.sg</a>
+<p><a href="mailto:suzann_chua_shi_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suzann_chua_shi_xuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
