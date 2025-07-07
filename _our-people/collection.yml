@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Staff/Head Of Department.md
-      - Our Staff/Our Staff.md
       - Our Staff/.keep
       - School Management Committee.md
       - School Executive Committee.md
