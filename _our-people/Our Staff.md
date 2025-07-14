@@ -1307,7 +1307,7 @@ variant: tiptap
 <p>Hoo Wee Ning Jolene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mailto:<a href="mailto:Hoo_Wee_Ning_Jolene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Hoo_Wee_Ning_Jolene@schools.gov.sg</a>
+<p><a href="mailto:Hoo_Wee_Ning_Jolene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Hoo_Wee_Ning_Jolene@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1391,7 +1391,8 @@ variant: tiptap
 <p>Mr Balvinder Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Mbalvinder_Singh_Surender_Singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">balvinder_Singh_Surender_Singh@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
