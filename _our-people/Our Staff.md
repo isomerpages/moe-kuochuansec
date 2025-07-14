@@ -2,7 +2,7 @@
 title: Our Staff
 permalink: /our-people/our-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>
