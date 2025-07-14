@@ -1301,6 +1301,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hoo Wee Ning Jolene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mailto:<a href="mailto:Hoo_Wee_Ning_Jolene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Hoo_Wee_Ning_Jolene@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1369,6 +1381,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alex_lim_kheam_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alex_lim_kheam_soon@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Balvinder Singh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1476,6 +1499,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_kher_sin_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kher_sin_c@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Yong Kang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Yeo_Yong_Kang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yeo_Yong_Kang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
