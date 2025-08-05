@@ -30,27 +30,7 @@ fellow parents and foster a greater partnership in enriching our KCPians
 journey in KCPSS.</p>
 <p>Ms Serene Tee</p>
 <p>KCPSS PSG Chairman (2025)</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/PSG/Picture1.png">
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMLqOsqw2IYIenFgWrrK4Zgi1MYEyVKSXBRRJgMuttlUIfVzNuJu_1bH8eY9lu7KbONnbPkfUiV6ue/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/PSG/Picture2.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<h3></h3>
 <p></p>
