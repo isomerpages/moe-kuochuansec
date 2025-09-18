@@ -22,4 +22,9 @@ sections:
   - resources:
       title: Announcements
       button: Click Here
+  - infopic:
+      title: Thanksgiving Ceremony
+      id: infopic
+      description: Friday 26 September 2025
+      image: /images/information_for_school_website_2025.jpg
 ---
