@@ -40,7 +40,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/CCA_Deployment_2025__21_Mar_.pdf" rel="noopener nofollow" target="_blank">CCA Deployment Schedule</a>
+<p><a href="/files/CCA_Deployment_2025_23June25.pdf" rel="noopener nofollow" target="_blank">CCA Deployment Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
