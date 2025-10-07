@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Teachers.md
+      - For Parents/Webinar Registration.md
       - For Parents/.keep
       - For Parents/Parents.md
       - For Parents/PDLP.md
