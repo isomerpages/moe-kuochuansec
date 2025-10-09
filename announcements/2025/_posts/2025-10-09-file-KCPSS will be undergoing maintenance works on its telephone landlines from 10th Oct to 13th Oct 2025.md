@@ -6,5 +6,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/telephone_distruptionv1.pdf
+file_url: /files/telephone_distruptionv2.pdf
 ---
