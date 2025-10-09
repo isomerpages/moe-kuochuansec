@@ -8,7 +8,6 @@ variant: tiptap
 <p></p>
 <p><strong>HUMANITIES DEPARTMENT</strong>
 </p>
-<p></p>
 <h2>Programmes</h2>
 <p><strong>Learning Journeys for Secondary One students (History)</strong>
 </p>
@@ -23,7 +22,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqRqv7kljUdkuEB3FMmUBUpKQApsB8oOL02wzmez0wxWelylLjrqE0SuQ_fRLZByBRtvEd_rtArebT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKMlNW5Xt1ASP0TDDliG-IhGtbadQ64r3SUQ1sA5NsHriN4weGAAGAt5vC88ot2Nh3p1n3aPvw4h38/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 </td>
 </tr>
