@@ -71,5 +71,18 @@ through the processes of journalistic writing.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/espoir-2025-issue1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Espoir Issue 1" src="/images/The Kuo Chuan Experience/Espoir/espoir_2025_issue1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025 Espoir Issue 1</div><div class="isomer-card-link">Explore more about...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/espoir-2025-issue2" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Espoir Issue 2" src="/images/The Kuo Chuan Experience/Espoir/espoir_2025_issue2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">2025 Espoir Issue 2</div>
+<div class="isomer-card-link">Explore more about...</div>
+</div>
+</a>
+</div>
 <p></p>
 <p></p>
