@@ -168,28 +168,7 @@ practical solutions to support conservation efforts.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Geographical Investigations @ Toa Payoh &amp; Bishan Neighborhood</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRL2TYIzCvz0RHbW0rjuRKs6oOFQuLPX6i4rzUwE_45GKJhiaHGQgqJdtfQ8RWFhcixXMsIBBhphFHh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Secondary Two students embarked on a field study trip to explore the
-neighborhood at Ang Mo Kio and Bishan. They discovered elements of inclusive
-housing on their journey and a sense of place and space.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>Bite-sized Fieldwork: Geography in Everyday Life</strong>
 </p>
 <table style="minWidth: 50px">
@@ -199,38 +178,18 @@ housing on their journey and a sense of place and space.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jMOHi2HbYRo?si=fCDTVGRdrWG3IQUV"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Secondary Three students applied Geographical concepts through the fieldwork
 project. Students researched the history of their selected town, and created
 a video to share about its sustainability features. The students could
 see the relevance of the concepts, highlighting Geography in Everyday life.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Bite-sized Fieldwork: Tourism @ Chinatown</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXqsKwmQkbOEDowrzsFSofGgYBARNskr0kjHiwascLyAcqtjDp4I8KvCIIGcNPajySdjGEW_Vh_XMd/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Secondary Four and Five students embarked on a self-directed Learning
-Journey to Chinatown to enhance their Geographical Investigation skills
-in conducting interviews, land use surveys and data collection.</p>
 </td>
 </tr>
 </tbody>
