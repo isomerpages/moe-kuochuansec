@@ -174,4 +174,91 @@ involvement in music</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%2016.png">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Overview of the Design &amp; Technology Curriculum</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>The Design &amp; Technology (D&amp;T) curriculum immerses students in
+the progressive learning of design thinking, problem-solving, and technical
+concepts across 4 to 5 years of secondary education. Through authentic
+and rigorous projects, students engage in <strong>self-directed inquiry, collaborative design work, and School Curriculum Innovation (SCI)</strong>.</p>
+<p>Throughout this journey, students are meaningfully exposed to <strong>adaptive thinking and critical thinking</strong> and
+the continual development of <strong>21st Century Competencies (21CC)</strong>,
+equipping them with creativity, resilience, and problem-solving skills
+essential for their projects and assessments.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Secondary 1 – Design Discovery</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>At Secondary 1, students embark on their <strong>first encounter with D&amp;T</strong>,
+a subject unlike any they have taken before. The focus is on sparking curiosity
+and introducing the <strong>world of design in daily life</strong>—from
+simple phone holders to electronic tags.</p>
+<p>Students gain awareness that design is not limited to exhibitions or buildings
+but is all around them. They also develop foundational <strong>technical skills</strong> such
+as drilling, filing, and sanding, which build their <strong>spatial awareness and confidence</strong> in
+handling tools and materials.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Secondary 2 – Design Community</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>In Secondary 2, students broaden their design perspectives by learning
+to <strong>think and do</strong>—to visualise possibilities and transform
+them into tangible design solutions for real-world contexts. They engage
+with <strong>non-verbal design codes</strong> such as sketches, diagrams,
+models, and prototypes, which help them translate <strong>abstract needs</strong> (e.g.,
+creating intellectual engagement or designing for children) into <strong>concrete, purposeful objects</strong>.</p>
+<p>Through this process, students develop a <strong>solution-focused mindset</strong>,
+strengthening their ability to design and make with empathy, creativity,
+and functionality in mind. This constructive approach not only deepens
+their understanding of how design serves communities but also equips them
+with the confidence to tackle open-ended, ill-defined problems.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
