@@ -272,12 +272,21 @@ strengthen teamwork in authentic design contexts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
+<p><strong>Secondary 4/5 – Design Quotient</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
+<p>In their graduating years, students draw on the skills and experiences
+gained across the curriculum to develop their <strong>Design Quotient</strong>—the
+ability to apply creativity, analytical skills, and critical thinking at
+an advanced level.</p>
+<p>They embark on their <strong>final year project</strong>, which challenges
+them to work largely independently while receiving close guidance from
+teachers. This stage sharpens not only their technical skills but also
+their <strong>21CC dispositions</strong>—resilience, problem-solving, and
+innovation—preparing them for future studies and the world beyond school.</p>
 </td>
 </tr>
 <tr>
