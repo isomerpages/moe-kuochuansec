@@ -109,36 +109,8 @@ to challenges set to them in their learning journey.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Learning Journey @ Former Ford Factory Museum</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAjTqJAdG2V4IGQwJHmMyF-Vsob0n8NoZCo7MIX0j4vgS5ZF8kLd4IevQ-u_LrIZ7DDuyL8VXgfbir/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>History came alive for the Secondary Two students when they returned to
-the Japanese Occupation at the Former Ford Factory Museum! A World War
-II historical site, the History and English department leveraged on the
-Secondary Two Learning Journey to walk through the pathway of ‘Syonan’
-and relived the moments of the past. Many of our students walked away with
-a better understanding of the experiences of the locals and survivors of
-the Japanese Occupation, helping our young to appreciate that Singapore’s
-sovereignty came with a price.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Historical Investigation: Merger &amp; Separation</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -146,12 +118,14 @@ sovereignty came with a price.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/x0NEB9L6-bs?si=HzJq-bPtVe0x78KH"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Our Secondary Two students were tasked with conducting a Historical Investigation
 into the topic of Merger and Separation. Students analysed historical sources,
 then created an end product based on their understanding of the reasons
@@ -159,6 +133,11 @@ why Singapore merged with or separated from Malaya. Through this experience,
 our students saw how history can come alive as they are able to evaluate
 the significance of the past and its impact on the present and even the
 future.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 </tbody>
