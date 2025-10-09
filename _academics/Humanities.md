@@ -143,7 +143,7 @@ future.</p>
 </tbody>
 </table>
 <h4><strong>Geography</strong></h4>
-<p><strong>Geographical Investigations </strong>
+<p><strong>Geographical Investigations</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
