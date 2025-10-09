@@ -143,7 +143,7 @@ future.</p>
 </tbody>
 </table>
 <h4><strong>Geography</strong></h4>
-<p><strong>Geographical Investigations @ Labrador Park/Singapore Botanic Gardens</strong>
+<p><strong>Geographical Investigations </strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -152,17 +152,18 @@ future.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwAIs-6cFZKfJgwGEMo-qASIlrcTflKEeYlxT8WneMNhVarmN_N4Vf_ziRW8SNiGky6iVX2eoG8RYk/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9EUF67FI1qoUslpUjzNZcV4FH-WbmMhaJoId8ajRq2YHFeH-G3N6evuyNdf_eyek_UaruTzuHNf1U/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p>The Secondary One students embarked on learning journeys to either Labrador
-Park or Singapore Botanic Gardens to investigate the characteristics of
-the tropical forest. Students will also observe the human activities that
-take place in our tropical forests. This is part of their primary data
-collection for the Geographical Investigation.</p>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Our Secondary 1 students embarked on a virtual learning journey through
+Bukit Timah Nature Reserve.&nbsp;Students examined the human impacts on
+this precious habitat, and channeled their learning creatively, and proposed
+practical solutions to support conservation efforts.&nbsp;</p>
 </td>
 </tr>
 </tbody>
