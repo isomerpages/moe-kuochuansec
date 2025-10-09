@@ -249,6 +249,38 @@ with the confidence to tackle open-ended, ill-defined problems.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="3">
+<p><strong>Secondary 3 – Design Immersion</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>At this stage, students deepen their expertise through immersion in rigorous
+design practices. Building on the foundations from Sec 1 and 2, they acquire
+advanced skills such as lathe and complex drilling, while honing independence
+in preparation for their N &amp; O-Level coursework.</p>
+<p>Students are equipped with greater content knowledge and experience the
+demands of structured journal work, enabling them to think critically and
+document their design processes.</p>
+<p>Through the school’s partnership with Singapore Polytechnic (School of
+Electrical &amp; Electronic Engineering), students may also explore an
+Advanced Elective Module (Electronic Design &amp; Development). Here, they
+collaborate on mini-projects to reinforce their grasp of electronics and
+strengthen teamwork in authentic design contexts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
