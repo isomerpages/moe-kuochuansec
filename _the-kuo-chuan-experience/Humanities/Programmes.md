@@ -14,8 +14,9 @@ variant: tiptap
 </p>
 <p><strong>Amazing Race@Singapore River</strong>
 </p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -25,9 +26,17 @@ variant: tiptap
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqRqv7kljUdkuEB3FMmUBUpKQApsB8oOL02wzmez0wxWelylLjrqE0SuQ_fRLZByBRtvEd_rtArebT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p>Our Secondary One students embarked on a learning journey to the Singapore
+River with the theme, “From a sleepy fishing village into a modern metropolis”.
+Through this they were able to gather information and data for their ‘Historical
+Investigation’ in a fun and engaging way based on an amazing race format.
+In addition, they were also able to apply Maths concepts and EL elements
+to challenges set to them in their learning journey.</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>History came alive for the Secondary Two students when they returned to
 the Japanese Occupation at the Memories at Old Ford Factory! A World War
 II historical site, the History and English department leveraged on the
@@ -109,7 +118,28 @@ collection for the Geographical Investigation.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Geographical Investigations @ Toa Payoh &amp; Bishan Neighborhood</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRL2TYIzCvz0RHbW0rjuRKs6oOFQuLPX6i4rzUwE_45GKJhiaHGQgqJdtfQ8RWFhcixXMsIBBhphFHh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Secondary Two students embarked on a field study trip to explore the
+neighborhood at Ang Mo Kio and Bishan. They discovered elements of inclusive
+housing on their journey and a sense of place and space.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Self-directed Field Studies for the Secondary Four/Five students (Geography)</strong>
 </p>
 <table style="minWidth: 50px">
