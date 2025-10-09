@@ -86,18 +86,25 @@ learners</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKMlNW5Xt1ASP0TDDliG-IhGtbadQ64r3SUQ1sA5NsHriN4weGAAGAt5vC88ot2Nh3p1n3aPvw4h38/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Our Secondary One students embarked on a learning journey to the Singapore
 River with the theme, “From a sleepy fishing village into a modern metropolis”.
 Through this they were able to gather information and data for their ‘Historical
 Investigation’ in a fun and engaging way based on an amazing race format.
 In addition, they were also able to apply Maths concepts and EL elements
 to challenges set to them in their learning journey.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 </tbody>
