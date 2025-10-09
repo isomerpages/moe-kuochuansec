@@ -37,14 +37,13 @@ school events.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="288" width="119" src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/spindoc3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/ALP In Media Literacy/spindoctor2.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="288" width="119" src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/spindoc4.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
