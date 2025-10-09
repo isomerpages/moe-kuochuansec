@@ -202,12 +202,14 @@ see the relevance of the concepts, highlighting Geography in Everyday life.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTO79ygVc6DP6tnr2-SX8m0xBzBbN-hJHqIA_2ovdcc1IKVjjLYsFBvb_o3PzpFnaUNluxtQWvQDV_g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>The Social Studies Issues Investigation offers an exciting opportunity
 for students to dive deep into real-world issues. Students become researchers,
 exploring multiple perspectives from various stakeholders, sharpening their
