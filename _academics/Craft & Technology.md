@@ -128,52 +128,6 @@ involvement in music</p>
 </tbody>
 </table>
 <h2>Programme</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%201.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%202.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%203.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%204.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%206.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%207.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%208.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%209.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%2010.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%2011.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%2012.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%2013.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%2014.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%2015.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/C&amp;T%2016.png">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
