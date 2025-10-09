@@ -183,12 +183,41 @@ involvement in music</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p></p>
+<p><strong>Overview of the Art Curriculum</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
+<p>The Art Curriculum aims to enable students to enjoy art, communicate visually
+and make meaning through connecting with society and culture.</p>
+<p>The Lower Secondary Art programme aims to develop students as active artists
+and informed audience with:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Curious minds that are open to exploring and experimenting in art.</p>
+</li>
+<li>
+<p>Critical and inventive thinking in creative expression.</p>
+</li>
+<li>
+<p>Personal voice and capacity to collaborate with others in art.</p>
+</li>
+<li>
+<p>An awareness, interest, and respect for art from diverse social and cultural
+perspectives.</p>
+</li>
+</ul>
+<p>The Upper Secondary Art programme aims to develop students as active artists
+and informed audience with:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confidence to express artistic intent
+through visual language.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Critical, adaptive and inventive
+thinking to produce and evaluate creative resolutions.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal voice and capacity to reflect
+on self in relation to others in art.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An understanding of, and respect
+for diverse social and cultural perspectives.</p>
 </td>
 </tr>
 <tr>
@@ -323,7 +352,7 @@ opportunity to apply the food management, culinary and consumer skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Sec 3 (Nutrition &amp; Food Science)</strong>
+<p><strong>Secondary 3 (Nutrition &amp; Food Science)</strong>
 </p>
 </td>
 </tr>
