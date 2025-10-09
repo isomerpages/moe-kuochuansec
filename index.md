@@ -29,4 +29,5 @@ sections:
       image: /images/MOTD_KCPSS_Open_House_2025.jpg
       button: Webinar Registration
       url: https://www.kuochuanpresbyteriansec.moe.edu.sg/webinar-registration/
+      alt: Open House 2025
 ---
