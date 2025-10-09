@@ -227,12 +227,14 @@ they’ll create a meaningful solution to the issue—becoming agents of change.
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRxXBYSZ472D7SmJBg7fPKMOi8OQ3y2vrA7papQhaPa26AY5VhRp7I0E2ZkpV9nmjs9an4H3qFJYOAY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Students can look forward to exciting opportunities to extend their learning
 beyond the classroom by taking part in external Humanities competitions
 and programmes, such as:</p>
@@ -259,7 +261,6 @@ and programmes, such as:</p>
 <p>NLB Prove It! Challenge</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
