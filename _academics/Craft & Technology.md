@@ -322,14 +322,23 @@ opportunity to apply the food management, culinary and consumer skills.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p><strong>Sec 3 (Nutrition &amp; Food Science)</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>The study of NFS builds on the knowledge and skills learnt in FCE and
+develops a strong foundation in the areas of nutrition and health, food
+literacy and food science.&nbsp;</p>
+<p>Students will also be able to apply food science principles during food
+preparation and cooking. They also learn to appreciate the importance of
+using a variety of food commodities in food management and the issues of
+food security, including food safety and sustainable food consumption.
+Hence, they will also be able to advocate nutrition and health for self,
+family and the community, as a health ambassador, a discerning consumer
+and a food innovator.</p>
 </td>
 </tr>
 </tbody>
