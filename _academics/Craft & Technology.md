@@ -297,29 +297,28 @@ innovation—preparing them for future studies and the world beyond school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
+<p>The FCE CC is designed to empower students to be health-conscious and
+discerning consumers, enabling them to better manage their lives for the
+present and the future.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p><strong>Secondary 1 and Secondary 2</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p>Students will learn about the importance of having a balanced diet and
+how to plan healthier meals or modify meals using <em>My Healthy Plate </em>to
+meet their individual and family’s&nbsp; dietary needs and reduce diet-related
+health problems.&nbsp;</p>
+<p>Students will also learn how to manage their money and resources as part
+of consumer education.&nbsp; They will also practice sustainable consumption
+in line with the increased global drive towards sustainable living</p>
+<p>Hence, through their applied module project, students will also have an
+opportunity to apply the food management, culinary and consumer skills.</p>
 </td>
 </tr>
 <tr>
