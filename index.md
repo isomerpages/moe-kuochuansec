@@ -23,9 +23,10 @@ sections:
       title: Announcements
       button: Click Here
   - infopic:
-      title: Thanksgiving Ceremony
+      title: KCPulse
       id: infopic
-      description: Friday 26 September 2025
-      image: /images/information_for_school_website_2025.jpg
-      alt: Thanksgiving Ceremony 2025
+      description: Open House 2025
+      image: /images/MOTD_KCPSS_Open_House_2025.jpg
+      button: Webinar Registration
+      url: https://www.kuochuanpresbyteriansec.moe.edu.sg/webinar-registration/
 ---
