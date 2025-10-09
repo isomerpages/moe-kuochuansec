@@ -36,14 +36,11 @@ school events.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/ALP In Media Literacy/spindoctor2.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -65,17 +62,13 @@ skills in the media room.</p>
 <p>Creative Arts Programme:
 <br>Read our talented writers' creative tales!
 <br>
-<br>
 </p>
 <div class="iframe-wrapper">
 <iframe height="240" width="352" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WCcREylS7-A"></iframe>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br><a href="https://go.gov.sg/johnpaulpaje" rel="noopener noreferrer nofollow" target="_blank">JOHN PAUL PAJE</a>
+<p><a href="https://go.gov.sg/johnpaulpaje" rel="noopener noreferrer nofollow" target="_blank">JOHN PAUL PAJE</a>
 <br>
 <br><a href="https://go.gov.sg/karynleepeien" rel="noopener noreferrer nofollow" target="_blank">KARYN LEE</a>
 <br>
