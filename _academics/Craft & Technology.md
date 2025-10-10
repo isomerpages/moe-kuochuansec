@@ -164,14 +164,90 @@ perspectives.</p>
 </ul>
 <p>The Upper Secondary Art programme aims to develop students as active artists
 and informed audience with:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confidence to express artistic intent
-through visual language.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Critical, adaptive and inventive
-thinking to produce and evaluate creative resolutions.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal voice and capacity to reflect
-on self in relation to others in art.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An understanding of, and respect
-for diverse social and cultural perspectives.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Confidence to express artistic intent through visual language.</p>
+</li>
+<li>
+<p>Critical, adaptive and inventive thinking to produce and evaluate creative
+resolutions.</p>
+</li>
+<li>
+<p>Personal voice and capacity to reflect on self in relation to others in
+art.</p>
+</li>
+<li>
+<p>An understanding of, and respect for diverse social and cultural perspectives.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 1 (Art-effect)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Secondary 1 students will engage in the School Curriculum Innovation (SCI)
+theme of “Art-effect” where Art is introduced to create an effect in their
+lives. Students will be involved in interesting and engaging thematic projects
+such as Card design, Pottery making, Values-driven, Innovation and Enterprise
+(I&amp;E) and Socially impactful work.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 2 (Art-Marketplace)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Secondary 2 students will create a buzz in Art, working in greater depth
+and breadth of Art Essentials through the various Art forms and materials
+(in 2D and 3D). Projects like Character design using ICT, Design communication
+and Packaging with Innovation and Enterprise and National Education coupled
+with 21<sup>st</sup> Century Competencies contextual work.</p>
+<p>Lower Secondary students will embark on Learning Journeys to Museum visits
+for exposure of Artwork of Artists as well as understanding and appreciating
+the social and cultural history of Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 3 (Articulate)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Sec 3 students will be able to express and communicate their learning
+of Art clearly after a series of rigorous studio practice, mastering Art
+Essentials consolidating, refining their knowledge and processes, skills
+and techniques required.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 4 (Arteria)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Secondary 4 students will be well-equipped and better prepared for their
+GCE ‘N’ and ‘O’ Level Paper 1 Visual Response and Paper 2 Portfolio for
+their national examinations.</p>
+<p>Art learning Journeys and Art related Polytechnic and Art schools Open
+House will be organized for Upper Secondary Art students for better exposure
+and to make informed choices of the post-secondary Art and Design education
+available to them. Besides, the school is in partnership with Nanyang Polytechnic
+to offer Advanced Elective Module to the students.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -199,6 +275,19 @@ essential for their projects and assessments.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTKhmNnYSQAYdQmLCbu4pnJX04XBd33ZKFz5S8rjjLL4Nu46dqXbH3NbLExLbgWIlbztgkDu5ge5kfD/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p>At Secondary 1, students embark on their <strong>first encounter with D&amp;T</strong>,
 a subject unlike any they have taken before. The focus is on sparking curiosity
@@ -214,6 +303,19 @@ handling tools and materials.</p>
 <td rowspan="1" colspan="3">
 <p><strong>Secondary 2 – Design Community</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vToDBI3PkBSFu3C3dx4OhUyeS4ZU_c0KRXqrpndFvBubCX_f2zxoAvS5u-Emp_k_48xS7odnfEjm4Rl/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -235,6 +337,19 @@ with the confidence to tackle open-ended, ill-defined problems.</p>
 <td rowspan="1" colspan="3">
 <p><strong>Secondary 3 – Design Immersion</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSkYeMwrSIzLFUVAYjLf9BCpHERJeVSTMZjYcaF7q9J-1ysKWaBsOKZNQpafgGCr8nitYrIrCNPqjIH/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -286,13 +401,11 @@ present and the future.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p><strong>Secondary 1 and Secondary 2</strong>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p>Students will learn about the importance of having a balanced diet and
 how to plan healthier meals or modify meals using <em>My Healthy Plate </em>to
 meet their individual and family’s&nbsp; dietary needs and reduce diet-related
@@ -305,13 +418,11 @@ opportunity to apply the food management, culinary and consumer skills.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p><strong>Secondary 3 (Nutrition &amp; Food Science)</strong>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p>The study of NFS builds on the knowledge and skills learnt in FCE and
 develops a strong foundation in the areas of nutrition and health, food
 literacy and food science.&nbsp;</p>
