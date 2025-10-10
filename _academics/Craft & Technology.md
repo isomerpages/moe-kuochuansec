@@ -401,13 +401,11 @@ present and the future.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p><strong>Secondary 1 and Secondary 2</strong>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p>Students will learn about the importance of having a balanced diet and
 how to plan healthier meals or modify meals using <em>My Healthy Plate </em>to
 meet their individual and family’s&nbsp; dietary needs and reduce diet-related
@@ -420,13 +418,11 @@ opportunity to apply the food management, culinary and consumer skills.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p><strong>Secondary 3 (Nutrition &amp; Food Science)</strong>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p>The study of NFS builds on the knowledge and skills learnt in FCE and
 develops a strong foundation in the areas of nutrition and health, food
 literacy and food science.&nbsp;</p>
