@@ -183,6 +183,74 @@ art.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 1 (Art-effect)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Secondary 1 students will engage in the School Curriculum Innovation (SCI)
+theme of “Art-effect” where Art is introduced to create an effect in their
+lives. Students will be involved in interesting and engaging thematic projects
+such as Card design, Pottery making, Values-driven, Innovation and Enterprise
+(I&amp;E) and Socially impactful work.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 2 (Art-Marketplace)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Secondary 2 students will create a buzz in Art, working in greater depth
+and breadth of Art Essentials through the various Art forms and materials
+(in 2D and 3D). Projects like Character design using ICT, Design communication
+and Packaging with Innovation and Enterprise and National Education coupled
+with 21<sup>st</sup> Century Competencies contextual work.</p>
+<p>Lower Secondary students will embark on Learning Journeys to Museum visits
+for exposure of Artwork of Artists as well as understanding and appreciating
+the social and cultural history of Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 3 (Articulate)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Sec 3 students will be able to express and communicate their learning
+of Art clearly after a series of rigorous studio practice, mastering Art
+Essentials consolidating, refining their knowledge and processes, skills
+and techniques required.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 4 (Arteria)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Secondary 4 students will be well-equipped and better prepared for their
+GCE ‘N’ and ‘O’ Level Paper 1 Visual Response and Paper 2 Portfolio for
+their national examinations.</p>
+<p>Art learning Journeys and Art related Polytechnic and Art schools Open
+House will be organized for Upper Secondary Art students for better exposure
+and to make informed choices of the post-secondary Art and Design education
+available to them. Besides, the school is in partnership with Nanyang Polytechnic
+to offer Advanced Elective Module to the students.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Overview of the Design &amp; Technology Curriculum</strong>
 </p>
