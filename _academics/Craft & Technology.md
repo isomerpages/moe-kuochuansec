@@ -164,14 +164,22 @@ perspectives.</p>
 </ul>
 <p>The Upper Secondary Art programme aims to develop students as active artists
 and informed audience with:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confidence to express artistic intent
-through visual language.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Critical, adaptive and inventive
-thinking to produce and evaluate creative resolutions.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal voice and capacity to reflect
-on self in relation to others in art.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An understanding of, and respect
-for diverse social and cultural perspectives.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Confidence to express artistic intent through visual language.</p>
+</li>
+<li>
+<p>Critical, adaptive and inventive thinking to produce and evaluate creative
+resolutions.</p>
+</li>
+<li>
+<p>Personal voice and capacity to reflect on self in relation to others in
+art.</p>
+</li>
+<li>
+<p>An understanding of, and respect for diverse social and cultural perspectives.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
