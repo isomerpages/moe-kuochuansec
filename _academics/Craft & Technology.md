@@ -275,6 +275,17 @@ essential for their projects and assessments.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p>At Secondary 1, students embark on their <strong>first encounter with D&amp;T</strong>,
 a subject unlike any they have taken before. The focus is on sparking curiosity
@@ -290,6 +301,17 @@ handling tools and materials.</p>
 <td rowspan="1" colspan="3">
 <p><strong>Secondary 2 – Design Community</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -311,6 +333,17 @@ with the confidence to tackle open-ended, ill-defined problems.</p>
 <td rowspan="1" colspan="3">
 <p><strong>Secondary 3 – Design Immersion</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
