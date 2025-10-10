@@ -310,7 +310,9 @@ handling tools and materials.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vToDBI3PkBSFu3C3dx4OhUyeS4ZU_c0KRXqrpndFvBubCX_f2zxoAvS5u-Emp_k_48xS7odnfEjm4Rl/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
