@@ -34,7 +34,7 @@ music in its members. It is heartening to see the band recruits transform
 from novices with little or even no background in music, to skilled musicians
 who take pride in their performances.</p>
 <h3>Programmes</h3>
-<p><strong><u>Training</u></strong>
+<p><strong>Training</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -88,7 +88,7 @@ who take pride in their performances.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Special Programmes</u></strong>
+<p><strong>Special Programmes</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -156,34 +156,111 @@ Day)
 <br>- Showcase! Performing Arts Festival at Ngee Ann City 2010 &amp; 2012</p>
 </li>
 </ul>
-<p></p>
-<p><strong>Singapore Youth Festival Arts Presentation - Concert Band</strong>
+<p><strong>Achievements</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Singapore Youth Festival Arts Presentation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awards</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2011</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2009</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2021 SYF Arts Presentation (Accomplishment)</p>
-</li>
-<li>
-<p>2019 SYF Arts Presentation (Accomplishment)</p>
-</li>
-<li>
-<p>2017 SYF Arts Presentation (Accomplishment)</p>
-</li>
-<li>
-<p>2015 SYF Arts Presentation (Accomplishment)</p>
-</li>
-<li>
-<p>2013 SYF Arts Presentation (Accomplishment)</p>
-</li>
-<li>
-<p>2011 SYF Arts Presentation (Silver)</p>
-</li>
-<li>
-<p>2009 SYF Arts Presentation (Silver)</p>
-</li>
-</ul>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5nfiIl710l4?si=F4vgd39BPUPTTCZ5&amp;start=10"></iframe>
 </div>
