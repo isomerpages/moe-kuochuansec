@@ -54,8 +54,9 @@ the skills needed to balance their academic responsibilities.</p>
 </div>
 <h3>Programmes</h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Guzheng/Programmes Pic 1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Guzheng/guzheng2025.png">
 </div>
 <p><strong><u>Training</u></strong>
 </p>
@@ -225,9 +226,6 @@ the skills needed to balance their academic responsibilities.</p>
 </table>
 <h3>Teachers-in-Charge</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Guzheng/guzheng_ensemble_i1.jpg">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
