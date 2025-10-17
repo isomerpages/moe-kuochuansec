@@ -56,9 +56,51 @@ who take pride in their performances.</p>
 </table>
 <p><strong><u>Special Programmes</u></strong>
 </p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTEGLFl06oZ7ritiu9MXfsIEY9Op-nzrkVjDonBA_ETP4Ar7a93X08x4IP-9Lz-NUOXYCGq7c76s3Bl/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <ul>
 <li>
 <p>Enrichment training camp during June/Dec holidays to hone musical skills
