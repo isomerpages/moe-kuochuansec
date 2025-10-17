@@ -160,4 +160,11 @@ It aims to stretch our students by taking them out of their comfort zone.
 This helps them internalise the principles of Self and Group Leadership,
 as well as an appreciation of nature through outdoor experiential learning.</p>
 <p></p>
+<p><strong>Other Events</strong>
+</p>
+<p>KCPians can also look forward to a whole slew of exciting PE events like
+our Inter-class Games, and Annual Cross Country Championships. All designed
+to help KCPians stay active and healthy through their time with the school,
+and to learn valuable lessons to help them continue to stay active beyond
+school.</p>
 <p></p>
