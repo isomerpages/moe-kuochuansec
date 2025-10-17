@@ -141,4 +141,23 @@ education here in KCPSS</p>
 </tr>
 </tbody>
 </table>
+<p>Assessment of the sports modules serve both as a feedback and summative
+tool to help students improve on their sport.</p>
+<p>Learning is further reinforced by the Inter-Class Games which acts as
+a culmination of the learning gained from the various sports modules. Often,
+these competitions become the highlight of many students' school life as
+they always evoke enduring memories of friendship and class spirit.</p>
+<p></p>
+<p><strong>Secondary 1 &amp; Secondary 3 Level Camps</strong>
+</p>
+<p>All <strong>KCPians</strong> will also have the opportunity to participate
+in two Outdoor Adventure Camps in Sec 1 and 3. The Sec 1 Camp is held locally
+with the objective of helping <strong>KCPians</strong> inculcate a sense
+of Self Leadership and Awareness, as well as helping them bond with their
+new classmates.</p>
+<p>The Secondary 3 Camp is held as part of the Outward Bound School Programme.
+It aims to stretch our students by taking them out of their comfort zone.
+This helps them internalise the principles of Self and Group Leadership,
+as well as an appreciation of nature through outdoor experiential learning.</p>
+<p></p>
 <p></p>
