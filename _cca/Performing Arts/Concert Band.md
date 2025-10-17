@@ -36,8 +36,9 @@ who take pride in their performances.</p>
 <h3>Programmes</h3>
 <p><strong><u>Training</u></strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -53,6 +54,12 @@ who take pride in their performances.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Every Friday</p>
+</td>
+<td rowspan="3" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Symphonic Band/training.png">
+</div>
 </td>
 </tr>
 <tr>
