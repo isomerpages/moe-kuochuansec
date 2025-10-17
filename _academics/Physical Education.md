@@ -153,4 +153,20 @@ our Inter-class Games, and Annual Cross Country Championships. All designed
 to help KCPians stay active and healthy through their time with the school,
 and to learn valuable lessons to help them continue to stay active beyond
 school.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRiqtBJH9-M2OdnR-0jjkhvqh8X6yW_AUqU4XJDv83I2djXWYcIMGzF5B876_QkU6vLPgWYb1idcqFp/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
