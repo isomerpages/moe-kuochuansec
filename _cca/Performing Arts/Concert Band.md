@@ -36,27 +36,53 @@ who take pride in their performances.</p>
 <h3>Programmes</h3>
 <p><strong><u>Training</u></strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days : Every Tuesday (3.30pm-6.00pm)
-<br>Training Days : Every Friday (2.30pm-5.00pm)
-<br>Venue : Auditorium</p>
+<p><strong>Training Days</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Every Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Every Friday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Timing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30PM to 6.00PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30PM to 5.00PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Auditorium</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Auditorium</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong><u>Special Programmes</u></strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
