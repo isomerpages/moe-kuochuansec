@@ -92,7 +92,7 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 <p>3.00PM - 6.00PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00PM - 6.00PM</p>
+<p>2.00PM - 5.00PM</p>
 </td>
 </tr>
 <tr>
