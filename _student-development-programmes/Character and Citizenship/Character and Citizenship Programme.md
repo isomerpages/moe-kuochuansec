@@ -59,6 +59,13 @@ The CCE 2021 curriculum frame is aligned to the Singapore Curriculum Philosophy.
 **4. Education and Career Guidance (ECG)**
 ![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_9.png)
 
+
+| To make an appointment to consult our ECG Counsellor Ms Lisa Lim, please scan the QR code. Parents are welcomed to join their child in attending the session. |   ![](/images/The%20Kuo%20Chuan%20Experience/CCE/scanMEcce.jpg)| 
+| -------- | -------- | 
+|      |    | 
+
+
+
 **5. Food Entrepreneur Programme (FEP)**
 ![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_10.png)
 ![](/images/The%20Kuo%20Chuan%20Experience/CCE/Image_11.png)
