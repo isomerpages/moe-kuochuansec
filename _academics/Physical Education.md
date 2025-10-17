@@ -8,20 +8,6 @@ variant: tiptap
 <p><strong>PE DEPARTMENT</strong>
 </p>
 <h2>Area of Focus</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/PE/PE%20Area%20of%20Focus.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/PE/PE%20Prog%201.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/PE/PE%20Prog%202.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/PE/PE%20Prog%203.png">
-</div>
 <p>It is the department's aim to nurture physically educated students who
 will eventually go on to become life long physically active adults. We
 believe that a healthy body will lead to a healthy mind which in turn will
