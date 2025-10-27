@@ -79,3 +79,5 @@ The programme aims to provide students with:
 *   basic knowledge of green economy in line with the concept of sustainability through urban farming
     
 *   opportunities to serve and contribute to the community
+
+**Formerly known as Food Entrepreneur Programme (FEP), FSP In 2025.**
