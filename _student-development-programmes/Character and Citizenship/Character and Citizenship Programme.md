@@ -65,3 +65,19 @@ The CCE 2021 curriculum frame is aligned to the Singapore Curriculum Philosophy.
 |      |    | 
 
 **Food Sustainability Programme (FSP)**
+
+The Food Sustainability Programme (FSP) is designed to deepen students’ appreciation of sustainable development and exploration of career options in the F&amp;B and urban farming industries.&nbsp;
+
+The programme aims to provide students with:
+
+*   authentic learning experiences related to the F&amp;B industry
+    
+*   opportunities to build leadership and personal qualities of confidence, sound decision making, resilience and conscientiousness
+    
+*   understanding of business principles including finance planning, culinary skills and hygiene regulations.
+    
+*   basic knowledge of green economy in line with the concept of sustainability through urban farming
+    
+*   opportunities to serve and contribute to the community
+    
+
