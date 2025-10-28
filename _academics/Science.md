@@ -22,7 +22,7 @@ variant: tiptap
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPq5Ktlsewr6oHTeTe8SIo3cOdolCijnDke0gLzmbGv10xQreMPX3nxxhNn23jUlIi-NTxepnFYhDi/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="600" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPq5Ktlsewr6oHTeTe8SIo3cOdolCijnDke0gLzmbGv10xQreMPX3nxxhNn23jUlIi-NTxepnFYhDi/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h2>Programmes</h2>
 <p><strong>STAR Programme</strong>
