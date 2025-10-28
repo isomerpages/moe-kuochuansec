@@ -108,8 +108,9 @@ in the learning of Mathematics</p>
 <p>National FinLit Competition</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Math/Math%20Prog%208.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/Math/Match_competition.png">
 </div>
 <p><strong>4. Mathematics Week</strong>
 </p>
