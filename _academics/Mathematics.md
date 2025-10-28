@@ -84,7 +84,7 @@ in Math</p>
 <br>&nbsp; <strong><u>Objectives</u></strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>To excite and interest students in the learning of Mathematics </em>
+<p><em>To excite and interest students in the learning of Mathematics</em>
 </p>
 </li>
 <li>
