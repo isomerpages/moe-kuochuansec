@@ -81,24 +81,33 @@ in Math</p>
 </li>
 </ul>
 <p><strong>3. Mathematics Competitions</strong>&nbsp;&nbsp;
-<br>&nbsp; <strong><u>Objectives</u></strong>:
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To excite and interest
-students in the learning of Mathematics
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To provide opportunities
-for students to gauge themselves against the national/regional level
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To expose our students
-to Mathematics related competitions and gain confidence in the learning
-of Mathematics
-<br><strong><u>Competitions:</u></strong>&nbsp;&nbsp; &nbsp;
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore Cube Competition&nbsp;
-(Rubik’s Cube)
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International Mathematical
-Modelling Challenge (IMMC)
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sudoku Competition
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore and Asian Schools
-Mathematics Olympiad (SASMO)
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Problems in Real World
-Context Mathematics Competition</p>
+<br>&nbsp; <strong><u>Objectives</u></strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>To excite and interest students in the learning of Mathematics </em>
+</p>
+</li>
+<li>
+<p>To provide opportunities for students to gauge themselves against the
+national/regional level</p>
+</li>
+<li>
+<p>To expose our students to Mathematics related competitions and gain confidence
+in the learning of Mathematics</p>
+<p></p>
+<p><strong><u>Competitions:</u></strong>
+</p>
+</li>
+<li>
+<p>Singapore and Asian Schools Mathematics Olympiad (SASMO)&nbsp;&nbsp; &nbsp;</p>
+</li>
+<li>
+<p>Singapore Mathematical Olympiad (SMO)</p>
+</li>
+<li>
+<p>National FinLit Competition</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/Math/Math%20Prog%208.jpg">
 </div>
