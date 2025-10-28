@@ -7,7 +7,19 @@ variant: tiptap
 <p></p>
 <p><strong>SCIENCE DEPARTMENT</strong>
 </p>
-<h2></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/Science/Slide1.jpg">
+</div>
+<h2>Area of Focus</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/Science/Slide2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/Science/Slide3.jpg">
+</div>
 <h2>Programmes</h2>
 <p><strong>STAR Programme</strong>
 </p>
