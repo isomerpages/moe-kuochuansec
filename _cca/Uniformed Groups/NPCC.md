@@ -168,7 +168,7 @@ title - Anti Scam Student Champions (ASSC) 2024</p>
 <p>Chua Yi Jun</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Teo Will Ping</p>
+<p>Herman Ng hao Hiang</p>
 </th>
 </tr>
 <tr>
@@ -181,7 +181,7 @@ title - Anti Scam Student Champions (ASSC) 2024</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Teo_Wil_Ping_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Wil_Ping_B@schools.gov.sg</a>
+<p><a href="mailto:ng_hao_hiang_herman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hao_hiang_herman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
