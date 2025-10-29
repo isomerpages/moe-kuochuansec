@@ -77,7 +77,7 @@ shared vision.</p>
 <p>Training Timing</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>3.30 PM - 6.00 PM</p>
+<p>3.00 PM - 6.00 PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00 PM - 5.00 PM</p>
