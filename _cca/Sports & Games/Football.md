@@ -121,6 +121,9 @@ life.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/Football_with_Balestier_Khalsa.png">
 </div>
 <h3>Teachers-in-Charge</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Football/Football_photo_5.jpg">
+</div>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -137,7 +140,7 @@ life.</p>
 <p>Sean Ong Zhi Han</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Quek Suan Shiau</p>
+<p>Jason Untung</p>
 </th>
 </tr>
 <tr>
@@ -150,10 +153,11 @@ life.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Quek_Suan_Shiao_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Quek_Suan_Shiao_A@schools.gov.sg</a>
+<p><a href="mailto:jason_untung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jason_untung@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
