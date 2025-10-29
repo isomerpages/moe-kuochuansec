@@ -12,9 +12,8 @@ variant: tiptap
 </div>
 <h3>Mission, Vision &amp; Values</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/02_Sec_1_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/NPCC_SwearingIn.png">
 </div>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
