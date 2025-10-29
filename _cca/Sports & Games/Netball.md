@@ -138,7 +138,7 @@ inclusive sporting environment.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2<sup>nd </sup> place in Group (NSG C Division League 3)</p>
+<p>2<sup>nd </sup>place in Group (NSG C Division League 3)</p>
 </td>
 </tr>
 <tr>
