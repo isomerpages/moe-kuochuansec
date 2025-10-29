@@ -125,8 +125,9 @@ life.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Football/Football_photo_5.jpg">
 </div>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -142,6 +143,9 @@ life.</p>
 <th rowspan="1" colspan="1">
 <p>Jason Untung</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Yeo Yong Kang</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -154,6 +158,10 @@ life.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jason_untung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jason_untung@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_yong_kang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yong_kang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
