@@ -196,9 +196,8 @@ and be promoted to the next rank</p>
 <p><strong>GB Friendship Day (July)</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Outreach to the Lonely, Elderly, Needy and Special Needs (LENS) through
-a carnival and lunch at Nee Soon Central CC where our girls will perform
-and serve.&nbsp;</p>
+<p>Engaging with beneficiaries through interactions and empowering our Girls
+to learn to put others before themselves</p>
 </li>
 </ul>
 <p><strong>GB Fortnight (July to August)</strong>&nbsp;</p>
