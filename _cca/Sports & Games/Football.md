@@ -37,14 +37,14 @@ knowledge, the fitness and strength of a dedicated athlete, lasting bonds
 with teammates, and the character traits that will serve them throughout
 life.</p>
 <h3>Programmes</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Football/Football_photo_4.jpg">
 </div>
-<p><strong><u>Training</u></strong>
+<p><strong>Training</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -58,6 +58,9 @@ life.</p>
 <p>Every Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Every Wednesday (Seasonal)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Every Friday</p>
 </td>
 </tr>
@@ -65,6 +68,9 @@ life.</p>
 <th rowspan="1" colspan="1">
 <p>Training Timing</p>
 </th>
+<td rowspan="1" colspan="1">
+<p>3.00PM - 6.00PM</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>3.00PM - 6.00PM</p>
 </td>
@@ -82,13 +88,13 @@ life.</p>
 <td rowspan="1" colspan="1">
 <p>School Field</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>School Field</p>
+</td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p><strong><u>Programmes</u></strong>
+<p><strong>Programmes</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
