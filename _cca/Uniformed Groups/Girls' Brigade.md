@@ -132,11 +132,6 @@ and NDP celebrations in KCPSS.</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="7">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>Special Programmes</strong>
