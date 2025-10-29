@@ -29,13 +29,16 @@ to be a leader and every officer to be a servant leader.&nbsp;</p>
 been growing steadily, gaining much recognition within the Girls' Brigade,
 Singapore.</p>
 <p>&nbsp;</p>
-<p><strong><u>Partners</u></strong>
+<p><strong>Partners</strong>
 <br><strong>Girls' Brigade Headquarters</strong>
 <br>We are under the umbrella of The Girls' Brigade Singapore; <a href="https://www.gb.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.gb.org.sg/</a>
 </p>
 <p><strong>Officers, Volunteer Adult Leaders (VALs), Warrant Officers and Junior Officers</strong>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Girls Brigade/GB_with_officers.jpg">
+</div>
 <p>We have a team of dedicated officers, volunteers, WOs and JOs assisting
 the company at each parade. We are very thankful for all of them and our
 28th Company Alumni who played a huge part in guiding and leading the Brigadiers.</p>
@@ -59,7 +62,7 @@ our girls to grow as servant leaders and scholars.</p>
 <div class="isomer-image-wrapper">
 <img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb1.jpg">
 </div>
-<p><strong><u>Training</u></strong>
+<p><strong>Training</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -100,7 +103,7 @@ and NDP celebrations in KCPSS.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Awards</u></strong>
+<p><strong>Awards</strong>
 </p>
 <table style="minWidth: 175px">
 <colgroup>
@@ -125,7 +128,7 @@ and NDP celebrations in KCPSS.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Special Programmes</u></strong>
+<p><strong>Special Programmes</strong>
 </p>
 <p><strong>Nationals Competition (March)</strong>&nbsp;</p>
 <p>We participate actively every year in the different types of competition
