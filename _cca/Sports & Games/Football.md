@@ -122,9 +122,8 @@ life.</p>
 </div>
 <h3>Teachers-in-Charge</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Football/Football_photo_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Football/football_i2.jpg">
 </div>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
