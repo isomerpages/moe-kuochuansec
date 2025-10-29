@@ -98,32 +98,30 @@ life.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>SSSC Football National School Games B &amp; C division Competition.</p>
+<p>SSSC Football National School Games B &amp; C Division Competition</p>
 </li>
 <li>
-<p>3-Way Competition</p>
+<p>Glory and Grit 7s Inter-School Friendly Tournament</p>
 </li>
 <li>
 <p>Friendly Games</p>
 </li>
 </ul>
-<p><strong><u>Achievements</u></strong>
+<p><strong>Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>B Division Team advanced to NSG League 3 Quater-Finals 2024</p>
+<p>B Division Team advanced to NSG League 3 Quarter-Finals 2024</p>
 </li>
 <li>
-<p>C Dicision Team advanced to NSG League 3 Quater-Finals 2023</p>
+<p>C Division Team advanced to NSG League 3 Quarter-Finals 2023</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/Football_with_Balestier_Khalsa.png">
 </div>
 <h3>Teachers-in-Charge</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/football_i1.jpg">
-</div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
