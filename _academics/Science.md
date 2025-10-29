@@ -31,5 +31,4 @@ variant: tiptap
 our students engage in experiential learning activities across all levels.
 We call this our STAR programmes.</p>
 <p></p>
-<p><strong>For more information please click</strong>&nbsp;<a href="https://sites.google.com/moe.edu.sg/kcpss-science-programmes/home" rel="noopener noreferrer nofollow" target="_blank">HERE!</a>
-</p>
+<p></p>
