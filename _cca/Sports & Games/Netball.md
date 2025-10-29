@@ -11,10 +11,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/netball2025.jpg">
 </div>
 <h3>Vision</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/vision2025.jpg">
-</div>
 <p>Co-curricular activities takes on a holistic approach in developing every
 student's character and provide them with the relevant knowledge, skills
 and values that will help them face the challenges of the 21st century.
@@ -163,7 +159,7 @@ inclusive sporting environment.</p>
 <h3>Teachers-in-Charge</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/netball_i1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/vision2025.jpg">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
