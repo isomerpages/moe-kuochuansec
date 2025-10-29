@@ -136,11 +136,11 @@ help cadets to develop leadership skills too.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Unit Overall Profiency Award</strong>
+<p><strong>Unit Overall Proficiency Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2022 - 2023 : Distinction</p>
+<p>2022 - 2024 : Distinction</p>
 </li>
 <li>
 <p>2016-2019, 2021 : Gold</p>
@@ -149,7 +149,7 @@ help cadets to develop leadership skills too.</p>
 </li>
 <li>
 <p><strong>1st Runner UP for 2nd Edition of Community Safety and Security Project (CSSP)</strong>,
-title - Anti Scam Student Champions (ASSC) 2021</p>
+title - Anti Scam Student Champions (ASSC) 2024</p>
 </li>
 </ul>
 <h3>Teachers-in-Charge</h3>
