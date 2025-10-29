@@ -39,23 +39,42 @@ and a marksman with a resolute heart and mind.</p>
 </table>
 <p></p>
 <h3>Area of Focus</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Shooting/area_of_focus.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Shooting/area_of_focus.jpeg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p>The shooting CCA aims to develop our students to be skillful shooters
 of the Air Pistol or Air Rifle. Regardless of experience in the field of
 shooting, we train every member to his or her fullest potential.
 <br>
 <br>Over the 4 to 5 years of CCA trainings, students grow to be confident
 users of the guns, armed with the technical and mental skills to take on
-national competitions.
-<br>
-<br>Emphasis is also placed on their physical training to condition their
+national competitions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Emphasis is also placed on their physical training to condition their
 fitness and health; this ensures our shooters are strengthened from within.
 <br>
 <br>Teachable moments during CCA sessions are tapped on for character building
 and, strong bonds are built between the teachers, students and coaches
 to establish good lines of communication and understanding.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Programmes</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Shooting/Programme.jpeg">
