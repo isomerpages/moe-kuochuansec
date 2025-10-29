@@ -8,12 +8,12 @@ variant: tiptap
 <h2>Netball</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/Main_photo_at_the_top.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/netball2025.jpg">
 </div>
 <h3>Vision</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/WhatsApp_Image_2024_10_17_at_07_41_51.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/vision2025.jpg">
 </div>
 <p>Co-curricular activities takes on a holistic approach in developing every
 student's character and provide them with the relevant knowledge, skills
@@ -25,7 +25,7 @@ to exercise personal leadership in all areas of her life.</p>
 <h3>Area of Focus</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/netball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/areoffocus2025.jpg">
 </div>
 <p>The Netball CCA aims to help aspiring young student athletes, with or
 without prior netball training experience, to learn the rules and strategies
@@ -37,7 +37,7 @@ moral values in our students.</p>
 <h3>Programmes</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/netball_areaoffocus.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/prog2025.jpg">
 </div>
 <p><strong><u>Training</u></strong>
 </p>
