@@ -37,8 +37,9 @@ knowledge, the fitness and strength of a dedicated athlete, lasting bonds
 with teammates, and the character traits that will serve them throughout
 life.</p>
 <h3>Programmes</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/programmes%20photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Football/Football_photo_4.jpg">
 </div>
 <p><strong><u>Training</u></strong>
 </p>
