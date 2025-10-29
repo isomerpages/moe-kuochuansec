@@ -12,9 +12,8 @@ variant: tiptap
 </div>
 <h3>Mission, Vision &amp; Values</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/02_Sec_1_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/NPCC_SwearingIn.png">
 </div>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -70,7 +69,7 @@ and character building.</p>
 <h3>Programmes</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/04_NPCC_Prog.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/NPCC_4PICS.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -137,11 +136,11 @@ help cadets to develop leadership skills too.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Unit Overall Profiency Award</strong>
+<p><strong>Unit Overall Proficiency Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2022 - 2023 : Distinction</p>
+<p>2022 - 2024 : Distinction</p>
 </li>
 <li>
 <p>2016-2019, 2021 : Gold</p>
@@ -150,7 +149,7 @@ help cadets to develop leadership skills too.</p>
 </li>
 <li>
 <p><strong>1st Runner UP for 2nd Edition of Community Safety and Security Project (CSSP)</strong>,
-title - Anti Scam Student Champions (ASSC) 2021</p>
+title - Anti Scam Student Champions (ASSC) 2024</p>
 </li>
 </ul>
 <h3>Teachers-in-Charge</h3>
@@ -169,7 +168,7 @@ title - Anti Scam Student Champions (ASSC) 2021</p>
 <p>Chua Yi Jun</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Teo Will Ping</p>
+<p>Herman Ng hao Hiang</p>
 </th>
 </tr>
 <tr>
@@ -182,7 +181,7 @@ title - Anti Scam Student Champions (ASSC) 2021</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Teo_Wil_Ping_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Wil_Ping_B@schools.gov.sg</a>
+<p><a href="mailto:ng_hao_hiang_herman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hao_hiang_herman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
