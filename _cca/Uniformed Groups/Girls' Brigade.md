@@ -118,23 +118,49 @@ and NDP celebrations in KCPSS.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="7">
-<p>- 20Been awarded Company Gold award since 2004</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Consistently awarded the Company Gold Honour Roll every year since 2004.</p>
+</li>
+<li>
+<p>Gold for Drill Competition in 2020, 2023 and 2025.</p>
+</li>
+<li>
+<p>Top in music drill precision and top in music drill choreography in 2025.</p>
+<p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="7">
-<p>- Company Shield in the 2014 Drill Competition</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Special Programmes</strong>
 </p>
-<p><strong>Nationals Competition (March)</strong>&nbsp;</p>
+<p><strong>National Competition (March)</strong>&nbsp;</p>
 <p>We participate actively every year in the different types of competition
 held by HQ, ranging from outdoor cooking to drill competition to cheer
 leading.&nbsp;</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>2025 top in music drill precision and top in music drill choreography</p>
+</li>
+<li>
+<p>2025 National Drill Competition GOLD Award</p>
+</li>
+<li>
+<p>2023 National Drill Competition GOLD Award</p>
+</li>
+<li>
+<p>2023 Low Guat Tin Challenge (LGT) (SILVER Award)</p>
+</li>
+<li>
+<p>2020 National Drill Competition GOLD Award</p>
+</li>
 <li>
 <p>2019 Low Guat Tin Challenge (LGT) (GOLD award, 2nd place)</p>
 </li>
