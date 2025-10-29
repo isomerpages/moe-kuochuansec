@@ -25,17 +25,17 @@ their understanding and appreciation of team play.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Football/Football_photo_3.jpg">
 </div>
-<p>Every player, coach and teacher in KCPSS knows that Football is a highly
-physical game that requires great mental strength, strong physique and
-clever wits. Not only that, it requires a great amount of team work that
-only through&nbsp;<strong>good relationships with team mates</strong>&nbsp;will
-it be accomplished.&nbsp;</p>
-<p>Last but certainly not the least, Football requires&nbsp;<strong>discipline in character</strong>&nbsp;that
-makes him a Holistic player whom people hold with high regards. It is in
-these principles that the&nbsp;<strong>KCPSS Football Team</strong>&nbsp;is
-built on - every player to graduate from KCPSS with the knowledge of Football,
-the health and physique of a true athlete, relationships with team mates
-that lasts and character that brings every player through life.</p>
+<p>Every player, coach and teacher at KCPSS understands that football demands
+exceptional mental resilience, physical conditioning and tactical intelligence.
+Beyond individual attributes, the sport requires seamless teamwork built
+on trust and strong relationships amongst teammates.</p>
+<p>Most importantly, football cultivates discipline and character development,
+shaping well-rounded individuals who earn respect both on and off the pitch.
+These core principles form the foundation of the KCPSS Football.</p>
+<p>Programme - developing every player to graduate with comprehensive football
+knowledge, the fitness and strength of a dedicated athlete, lasting bonds
+with teammates, and the character traits that will serve them throughout
+life.</p>
 <h3>Programmes</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/programmes%20photo.jpg">
