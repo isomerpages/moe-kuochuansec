@@ -79,7 +79,7 @@ to establish good lines of communication and understanding.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Shooting/Programme.jpeg">
 </div>
-<p><strong><u>Training</u></strong>
+<p><strong>Training</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -123,9 +123,7 @@ to establish good lines of communication and understanding.</p>
 <p>There may be additional training before competitions and students will
 be training in Yishun Safra Shooting Range as a practice in the competition
 venue.</p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Special Programme</strong>
 <br>Bonding sessions among the members of the Shooting Club.</p>
 <p><strong>Zonals/Nationals Competition</strong> 
