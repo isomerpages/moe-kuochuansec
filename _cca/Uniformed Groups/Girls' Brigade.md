@@ -127,7 +127,6 @@ and NDP celebrations in KCPSS.</p>
 </li>
 <li>
 <p>Top in music drill precision and top in music drill choreography in 2025.</p>
-<p></p>
 </li>
 </ul>
 </td>
