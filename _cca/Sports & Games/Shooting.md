@@ -11,9 +11,21 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Shooting/shooting_2.jpg">
 </div>
 <h3>Vision</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Shooting/vision.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Shooting/vision.jpeg">
 </div>
+</td>
+<td rowspan="1" colspan="2">
 <p>Co-curricular activities play an integral role in a student's life, be
 it at the primary, secondary, or tertiary level. They are an essential
 contribution in achieving a student's holistic education in school. A combination
@@ -21,6 +33,11 @@ of skill, attitude, and principles contribute to making a successful Shooter.
 <br>
 <br>The Shooting Club’s vision is for our shooters to be leaders with precision,
 and a marksman with a resolute heart and mind.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Area of Focus</h3>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Shooting/area_of_focus.jpeg">
