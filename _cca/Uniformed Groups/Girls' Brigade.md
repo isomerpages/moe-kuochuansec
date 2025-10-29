@@ -232,6 +232,30 @@ throughout the year.&nbsp;</p>
 Nationals or fun camp for time of bonding and winding down</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/The Kuo Chuan Experience/CCA/Girls Brigade/GB_Accolades.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Girls Brigade Accolades</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="founders day" src="/images/The Kuo Chuan Experience/CCA/Girls Brigade/Founders__Day.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Founders Day</div>
+</div>
+</div>
+</div>
 <h3>Teachers-in-Charge</h3>
 <table style="minWidth: 100px">
 <colgroup>
