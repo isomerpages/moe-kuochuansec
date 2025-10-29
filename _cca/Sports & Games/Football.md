@@ -22,8 +22,9 @@ create a respectful, positive and healthy environment for our students
 to improve their individual technical skills and conditioning as well as
 their understanding and appreciation of team play.</p>
 <h3>Area of Focus</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/area%20of%20focus%20photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Football/Football_photo_3.jpg">
 </div>
 <p>Every player, coach and teacher in KCPSS knows that Football is a highly
 physical game that requires great mental strength, strong physique and
