@@ -69,7 +69,7 @@ and character building.</p>
 <h3>Programmes</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/04_NPCC_Prog.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/NPCC_4PICS.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
