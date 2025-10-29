@@ -238,8 +238,9 @@ Nationals or fun camp for time of bonding and winding down</p>
 </li>
 </ul>
 <h3>Teachers-in-Charge</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -248,6 +249,9 @@ Nationals or fun camp for time of bonding and winding down</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Ang Siok Min Mitchelle</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Wang Ting</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Low Qiao Xuan</p>
@@ -259,6 +263,10 @@ Nationals or fun camp for time of bonding and winding down</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_siok_min_mitchelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_siok_min_mitchelle@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_ting@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
