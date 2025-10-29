@@ -212,6 +212,12 @@ throughout the year.&nbsp;</p>
 <p><strong>Trips for International Experience (TIE) (Oct)</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>2025 to Baan Nam Khem, Thailand</p>
+</li>
+<li>
+<p>2023 to Cambodia</p>
+</li>
+<li>
 <p>Takeo, Phnom Penh, Cambodia (2018)</p>
 </li>
 <li>
