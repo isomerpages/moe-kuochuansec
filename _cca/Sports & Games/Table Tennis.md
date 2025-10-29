@@ -6,9 +6,8 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Table Tennis</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/table_tennis_2__Copy_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/table_tennis_2.jpg">
 </div>
 <h3>Vision</h3>
 <p>The CCA starts with the objective of teaching interested students to understand
@@ -156,7 +155,7 @@ atmosphere will help them immensely.</p>
 <h3><strong>Teachers-in-Charge</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/table_tennis_i1__Copy_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/table_tennis_i2.jpg">
 </div>
 <table style="minWidth: 100px">
 <colgroup>
