@@ -93,7 +93,7 @@ moral values in our students.</p>
 <p>South Zone C Division : June to September</p>
 </li>
 </ul>
-<p><strong>By participating in various full day Netball Carnivals (usually weekends) and friendly games with other schools, KCPSS Netball aims to:</strong> 
+<p><strong>By participating in various full day Netball Carnivals (usually weekends) and friendly games with other schools, KCPSS Netball aims to:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -136,10 +136,18 @@ inclusive sporting environment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> place in Group (NSG C Division League 3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd place (NSG C Division League 5)</p>
+<p>2<sup>nd </sup>place (NSG C Division League 5)</p>
 </td>
 </tr>
 <tr>
