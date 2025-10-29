@@ -8,7 +8,7 @@ variant: tiptap
 <h2>Basketball</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Basketball/basketball_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Basketball/basketball_22025.jpg">
 </div>
 <h3>Vision</h3>
 <div class="isomer-image-wrapper">
@@ -77,7 +77,7 @@ shared vision.</p>
 <p>Training Timing</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>3.30 PM - 6.00 PM</p>
+<p>3.00 PM - 6.00 PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00 PM - 5.00 PM</p>
@@ -115,7 +115,7 @@ shared vision.</p>
 <h3>Teachers-in-Charge</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Basketball/basketball_i1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Basketball/basketball_i2.jpg">
 </div>
 <table style="minWidth: 75px">
 <colgroup>

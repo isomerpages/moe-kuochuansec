@@ -6,9 +6,8 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Table Tennis</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/table_tennis_2__Copy_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/table_tennis_2.jpg">
 </div>
 <h3>Vision</h3>
 <p>The CCA starts with the objective of teaching interested students to understand
@@ -49,7 +48,7 @@ are able to manage their academic commitments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/tttraining.png">
 </div>
-<p><strong><u>Training</u></strong>
+<p><strong>Training</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -103,14 +102,25 @@ are able to manage their academic commitments.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Special Programmes</u></strong>
+<p><strong>Special Programmes</strong>
 </p>
-<p><strong>The CCA will organise a Day Camp in the June holidays. It will involve enrichment programmes which include group games and challenges to enhance students’ confidence and teamwork.<br><br>Friendly games against other school teams will help to gauge the students’ readiness for the Inter Schools Competitions.<br><br>The End of Year intensive training will prepare the students for the Inter Schools Competition in the beginning of the next year. The coaches will assess the basic skills that the students have acquired within the year, and organise an internal competition, and reward the winners with prizes and encourage those who fall behind to close the gap. This competitive atmosphere will help them immensely.</strong>
-</p>
+<p>The CCA will organise a Day Camp in the June holidays. It will involve
+enrichment programmes which include group games and challenges to enhance
+students’ confidence and teamwork.
+<br>
+<br>Friendly games against other school teams will help to gauge the students’
+readiness for the Inter Schools Competitions.
+<br>
+<br>The End of Year intensive training will prepare the students for the Inter
+Schools Competition in the beginning of the next year. The coaches will
+assess the basic skills that the students have acquired within the year,
+and organise an internal competition, and reward the winners with prizes
+and encourage those who fall behind to close the gap. This competitive
+atmosphere will help them immensely.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSD3TWsNALQGHsO045QiyCH482IvAp48Repr3lN-CH0v9G0sYT5c8VkILhmjVGUn_pWizxx6-MoNLSP/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p><strong><u>Achievements</u></strong>
+<p><strong>Achievements</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -130,10 +140,12 @@ are able to manage their academic commitments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>• C Division Boys has been promoted to League 1 in 2025 [Top 16 at the National Level] <br>• Table Tennis Championships - 3rd Team Placing (2025) <br>• B Div – 3rd Team Placing (2024)<br>• C Div – 3rd Team Placing (2022)<br>• B Div – 4th Team Placing (2019)<br>• C Div – 4th Team Placing (2018)</strong>
+<p><strong>• C Division Boys has been promoted to League 1 in 2025 [Top 16 at the National Level] <br>• B Div-3rd Team Placing(2025) <br>• B Div – 3rd Team Placing (2024)<br>• C Div – 3rd Team Placing (2022)<br>• B Div – 4th Team Placing (2019)<br>• C Div – 4th Team Placing (2018)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>• C Division Girls has been promoted to League 1 in 2025 [Top 16 at the National Level]</strong>
+</p>
 <p><strong>• B Div – 2nd Team Placing (2023)<br>• C Division-4th Team Placing (2023)<br>• C Division-4th Team Placing (2019)<br>• B Div – 4th Team Placing (2018)<br>• B Div – 4th Team Placing (2017)</strong>
 </p>
 </td>
@@ -143,7 +155,7 @@ are able to manage their academic commitments.</p>
 <h3><strong>Teachers-in-Charge</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/table_tennis_i1__Copy_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/table_tennis_i2.jpg">
 </div>
 <table style="minWidth: 100px">
 <colgroup>

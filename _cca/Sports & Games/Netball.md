@@ -8,12 +8,12 @@ variant: tiptap
 <h2>Netball</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/Main_photo_at_the_top.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/netball2025.jpg">
 </div>
 <h3>Vision</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/WhatsApp_Image_2024_10_17_at_07_41_51.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/vision2025.jpg">
 </div>
 <p>Co-curricular activities takes on a holistic approach in developing every
 student's character and provide them with the relevant knowledge, skills
@@ -25,7 +25,7 @@ to exercise personal leadership in all areas of her life.</p>
 <h3>Area of Focus</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/netball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/areoffocus2025.jpg">
 </div>
 <p>The Netball CCA aims to help aspiring young student athletes, with or
 without prior netball training experience, to learn the rules and strategies
@@ -37,9 +37,9 @@ moral values in our students.</p>
 <h3>Programmes</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/netball_areaoffocus.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Netball/prog2025.jpg">
 </div>
-<p><strong><u>Training</u></strong>
+<p><strong>Training</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -81,24 +81,8 @@ moral values in our students.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Special Programmes</u></strong>
+<p><strong>Special Programmes</strong>
 </p>
-<p><strong>June Combined Sports Camp</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Enrichment training camp during 1st week of June&nbsp;</p>
-</li>
-<li>
-<p>Stay in camp combined with rest of the Sports CCA</p>
-</li>
-</ul>
-<p><strong>End of year Training Camp</strong>
-<br>Intensive training camp to prepare school team for upcoming Zonals &amp;
-Nationals</p>
-<p><strong>End of year Sports Training Tour</strong>
-<br>Overseas training tour to neighboring countries for higher sporting exposure
-and exchange of sporting cultures.</p>
 <p><strong>Zonals/Nationals Competition</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -111,39 +95,38 @@ and exchange of sporting cultures.</p>
 </ul>
 <p><strong>By participating in various full day Netball Carnivals (usually weekends) and friendly games with other schools, KCPSS Netball aims to:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Enhance Competitive Experience:</strong> To provide players with
+a platform to experience real-game scenarios and pressure in a structured,
+competitive environment.</p>
+</li>
+<li>
+<p><strong>Improve Skill Application:</strong> To offer an opportunity to
+apply training techniques and strategies in actual matches against other
+schools.</p>
+</li>
+<li>
+<p><strong>Encourage Team Spirit:</strong> To foster unity and bonding within
+the team by working together toward common goals.</p>
+</li>
+<li>
+<p><strong>Develop Resilience:</strong> To teach players how to cope with
+challenges, setbacks, and failures during competition.</p>
+</li>
+<li>
+<p><strong>Prepare for Future Competitions</strong>: To prepare players for
+larger-scale competitions by providing valuable match experience.</p>
+</li>
+<li>
+<p><strong>Promote Inclusivity and Participation</strong>: To encourage students
+from various backgrounds and skill levels to get involved, fostering an
+inclusive sporting environment.</p>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Enhance Competitive Experience: To provide players with a platform to
-experience real-game scenarios and pressure in a structured, competitive
-environment.</p>
 </li>
-<li>
-<p>Improve Skill Application: To offer an opportunity to apply training techniques
-and strategies in actual matches against other schools.</p>
-</li>
-<li>
-<p>Encourage Team Spirit: To foster unity and bonding within the team by
-working together toward common goals.</p>
-</li>
-<li>
-<p>Develop Resilience: To teach players how to cope with challenges, setbacks,
-and failures during competition.</p>
-</li>
-<li>
-<p>Prepare for Future Competitions: To prepare players for larger-scale competitions
-by providing valuable match experience.</p>
-</li>
-<li>
-<p>Promote Inclusivity and Participation: To encourage students from various
-backgrounds and skill levels to get involved, fostering an inclusive sporting
-environment.</p>
-</li>
-</ol>
-<p></p>
-<p><strong><u>Acheivements</u></strong>
+</ul>
+<p><strong>Achievements</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -152,10 +135,18 @@ environment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd </sup>place in Group (NSG C Division League 3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd place (NSG C Division League 5)</p>
+<p>2<sup>nd </sup>place (NSG C Division League 5)</p>
 </td>
 </tr>
 <tr>
