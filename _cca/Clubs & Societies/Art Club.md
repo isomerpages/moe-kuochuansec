@@ -71,7 +71,6 @@ to the school and community.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Special Programmes</strong>
 </p>
 <ul data-tight="true" class="tight">
