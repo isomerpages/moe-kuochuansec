@@ -144,44 +144,21 @@ Ann Polytechnic lecturers or current deejays/celebrities.</p>
 part of an authentic learning experience in learning about the role that
 media plays in society. Our students even had a chance to hone their Speaking
 and Representing skills as a result.</p>
-<p><strong>Upper Sec Pure Literature Texts</strong>
+<p><strong>Pure Literature</strong>
 </p>
-<p><strong>All The Light We Cannot See, Anthony Doerr</strong>
-</p>
-<p>(Set Text for Upper Sec, 2024/2025)</p>
+<p>Step into powerful narratives that shape our world:
+<br>All The Light We Cannot See: A tale of hope, resilience, and humanity
+during WWII.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our People/Departments/English/ELLITpic1.jpg">
 </div>
-<p>Set in World War II, this novel takes readers on an extraordinary journey
-through time and space in the minds of our protagonists - Marie-Laure,
-a blind girl with a steely determination to hope, and Werner, an orphan
-with a unique talent that wins him a place at a brutal academy for Hitler
-Youth.</p>
-<p>Doerr interweaves the lives of Marie-Laure and Werner in great intricacy,
-nuance and skill, and illuminates how people try to choose good, in spite
-of darkness.</p>
-<p>Join us to discover our humanity as we explore a world where the brutality
-of war and the power of hope meet.</p>
-<p><strong>Romeo and Juliet, William Shakespeare</strong>
-</p>
-<p>(Set Text Drama for Upper Sec, 2024/2025)</p>
+<p></p>
+<p>Romeo and Juliet: Explore timeless themes of love, fate, and youth in
+Shakespeare’s</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our People/Departments/English/ELLITpic2_jpg.png">
 </div>
-<p>Does Romeo and Juliet need an introduction? With its strong emotional
-impact, the play has remained popular since it was first staged in the
-mid 1590s. What could be more moving than the story of two adolescents
-finding in their sudden love for each other a reason to defy their families’
-mutual hatred by marrying secretly? The tragic outcome of their blameless
-love (their “misadventured piteous overthrows”) seems equally easy to understand:
-it results first from Tybalt’s hotheaded refusal to obey the Prince’s command
-and second from accidents of timing beyond any human ability to foresee
-or control. Simple in its storyline, clear in its affirmation of the power
-of love over hate,<em> Romeo and Juliet </em>seems to provide both a timeless
-theme and universal appeal with its obvious relevance to the emotional
-and social concerns of young people.</p>
-<p>Join us and explore this timeless classic which examines the themes of
-youth, love, and fate.</p>
+<p></p>
 <p><strong>“It’s Lit” Literature Card Game</strong>
 </p>
 <p><strong>Eliciting Literary Discourse and Active Learning Through Game-based Learning</strong>
