@@ -6,8 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h2>Drama</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="mainpic" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/main%20pic.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Drama/Pic_1_Replace_Under_heading__Drama.jpg">
 </div>
 <h3>Vision</h3>
 <table style="minWidth: 50px">
@@ -18,10 +19,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Drama/vision.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Drama/Pic_2___Replace_Under_Vision_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>The KCPSS Drama club is committed to helping our students realise their
@@ -62,9 +63,26 @@ secondary schools.</p>
 </tbody>
 </table>
 <h3>Programmes</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="training" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/training.jpeg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Drama/Pic_3_Replace_under_Programmes_.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Training</strong>
 </p>
 <table style="minWidth: 75px">
@@ -112,8 +130,9 @@ secondary schools.</p>
 <p></p>
 <p><strong>Special Programmes</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="annualprog" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/annual%20programmes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Drama/Pic_4_Replace_under_Special_Programmes_.jpg">
 </div>
 <p><strong>Singapore Youth Festival Arts Presentation</strong>
 </p>
