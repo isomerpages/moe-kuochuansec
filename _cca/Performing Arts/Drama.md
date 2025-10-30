@@ -235,9 +235,6 @@ Arts Conference 2023 by the Singapore Drama Educators Association (SDEA)
 <img style="width: 100%" height="auto" width="100%" alt="adhocprog" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/ad-hoc%20programmes.jpg">
 </div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4ktPQzrzOZ4?si=6i0IOTHzU9t3Mrnv"></iframe>
-</div>
 <h3>Teachers-in-Charge</h3>
 <p></p>
 <div class="isomer-image-wrapper">
