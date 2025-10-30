@@ -52,16 +52,17 @@ while enhancing engagement and ownership of the language learning process.</p>
 <h2>Programme</h2>
 <p><strong>1. Chinese New Year Celebration</strong>
 </p>
-<p><strong><u>Chinese New Year Concert</u></strong>
+<p><strong>Chinese New Year Concert</strong>
 </p>
 <p>We celebrate Chinese New Year together as Kuo Chuan Family.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/MT/2024_CNY.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/MT/hamper.png">
 </div>
-<p><strong><u>Hamper Wrapping</u></strong>
+<p><strong>Hamper Wrapping</strong>
 <br>Our students make Chinese New Year hampers to bless the community</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/MT/Hamper_Wrapping.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/MT/hamperv1__1_.png">
 </div>
 <p><strong>2.&nbsp;Conversational Chinese and Malay Programme (CCM)</strong>
 <br>This 10 weeks programmes carried out in Semester One aims to help Sec
