@@ -6,9 +6,8 @@ variant: tiptap
 ---
 <p></p>
 <p><strong>ENGLISH DEPARTMENT</strong>
-<br><strong>A creative and critical thinker, who is a voice for change</strong>
+<br><strong><em>Where Words Create Waves. </em></strong><em>Find your voice. Shape your story. Make an impact.</em>
 </p>
-<p></p>
 <h3>Area Of Focus</h3>
 <p>KCPSS English Department uses the MOE EL Syllabus 2020 as its main teaching
 and learning instruction. This is to align the teaching and learning of
@@ -20,40 +19,39 @@ from MOE English Syllabus document)</p>
 <img style="width:75%" height="auto" width="100%" src="/images/Our%20People/Departments/English/EL%20syllabus.jpg">
 </div>
 <h3>Programmes</h3>
-<p>The Department of English and Literature offers a variety of language-enriched
-literary programmes to pique students’ passion for English and Literature
-respectively. The Department recognises the diverse learning abilities
-of students, and therefore places strong emphasis in programmes which are&nbsp;**differentiated**&nbsp;to
-the needs of these groups.</p>
-<p><strong>Sec 1 Podcasting</strong>
+<p>At KCPSS, our English Language and Literature programmes pulse with creativity,
+critical thinking, and confident expression—empowering every student to
+make waves in a fast-changing world.
+<br>
+<br>Our P.U.L.S.E in English:
+<br>- Powerful Communication – from podcasting to public speaking
+<br>- Unique Learning Experiences – from film-making to journalism
+<br>- Literary Excellence – where classic texts meet contemporary themes
+<br>- Skillful Expression – through media literacy and digital storytelling
+<br>- Empowered Voices – every student has a story worth telling</p>
+<p></p>
+<p><strong>Lower Secondary Symphony</strong>
+<br>Sec 1: Podcasting Journey <em>(Include the existing Podcasting</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/English/EL%20Prog%201.jpg">
 </div>
-<p>The Secondary One students embark on recording a podcast as an Alternative
-Assessment over a few weeks. Students become confident speakers, taking
-ownership of their learning. Podcasting serves as a platform for each student
-to vocalise their thoughts.</p>
-<p>Before students start recording, scaffolds are usually put in place to
-enable learning and for them to perform to the best of their abilities.
-Students are taught reading aloud oral communication skills. They also
-learn about the structure of writing a speech followed by carrying out
-process writing of the speech. Students will have hands-on experience with
-the recorder application in the iPad to record their podcast. Finally,
-as the finishing touch, students will edit their podcast and add the finishing
-touches i.e. background music to their podcast.</p>
+<p>Transform your thoughts into compelling audio stories!
+<br>Students learn to:
+<br>- Craft speeches and structure oral arguments
+<br>- Record with professional-grade tools
+<br>- Edit audio creatively with music and effects
+<br>- Present confidently to authentic audiences</p>
+<p></p>
 <p><strong>Sec 2 Film &amp; Broadcasting</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPuhELPMmx8YU51Po_EGuPWedHXKrk8OPwFlXFrQUPPdwLWSS1o89Ihzp4wSqUhFqdyYb5gI6vsIbY/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p>The Secondary 2EN cohort put their media literacy skills to the test in
-an innovative interdisciplinary project marrying expository writing for
-English and film literacy for Literature. Students are given the task of
-composing pictures using framing and mise-en-scene techniques learnt in
-their film theory module during their Literature lessons, to complement
-and showcase the argument of their expository paragraphs, in this level-wide
-ALP initiative.</p>
+<p>Where words meet visuals in a dynamic blend of storytelling:
+<br>- Apply expository writing in visual contexts
+<br>- Learn framing, mise-en-scène, and film theory
+<br>- Build media literacy through hands-on projectsv</p>
 <p><strong>Sec 3 Journalistic (Writing Espoir Newsletter)</strong>
 </p>
 <div class="iframe-wrapper">
