@@ -6,8 +6,9 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h2>Boys' Brigade</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/boysbrigade.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Boys Brigade/boys__brigade_2.jpg">
 </div>
 <h3>Vision</h3>
 <div class="isomer-image-wrapper">
@@ -82,6 +83,9 @@ of discipline, citizenship and service to the community.</p>
 </tbody>
 </table>
 <h3>Teachers-in-Charge</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Boys Brigade/basketball_i2.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
