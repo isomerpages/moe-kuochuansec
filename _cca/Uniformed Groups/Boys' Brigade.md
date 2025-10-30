@@ -34,7 +34,12 @@ our myriad of activities and training, we aim to mold our members to become
 useful adult citizens with sound moral character. The added dimension of
 spiritual and moral development has helped to instill in members a sense
 of discipline, citizenship and service to the community.</p>
+<p></p>
 <h3>Programmes</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Boys Brigade/programm.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
