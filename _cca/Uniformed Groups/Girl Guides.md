@@ -43,13 +43,10 @@ initials and is a practical reminder of the educational purposes of Girl
 Guiding. KCP 1st Coy aims to provide girls with the opportunity for self-training
 in character development, responsible citizenship and in service to the
 community. We adhere to our motto:&nbsp;<strong>'Be Prepared' - 'Think it. Say it. Live it'</strong>.</p>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <h3>Programmes</h3>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg3.jpg">
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRqfnrjHUMSC-oHLbZRpQmjH9BV-d0uGFsvHg0YNBNDGZ5rw5k_B5kGO8Cf7z0O4YAJq65qmch47SJD/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>KCP 1st Coy&nbsp;is certainly a CCA like no other. We have a wide range
 of activities, which allows our members to acquire new skills and be exposed
