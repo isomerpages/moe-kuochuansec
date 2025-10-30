@@ -91,7 +91,7 @@ programmes are:</p>
 <p>Reading skills</p>
 </li>
 </ul>
-<p><strong>Applied Elective Module (AEM)</strong>
+<p><strong>Applied Learning Module (ApLM)</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNQt6nNMQ0hVUTkvlquvm8A7ipzpF5yqVzUpXOk0R5uJi7Kj5oBHWy2e2d0VYQxI6Eku7QEeeKeAXs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
@@ -137,8 +137,8 @@ Shakespeare’s</p>
 <br>- Explore advanced creative writing
 <br>- Present on real-world platforms
 <br>
-<br>English Language First (Learning Support Programme) <em><br></em>For students
-who need strong foundations:
+<br><strong>English Language First (Learning Support Programme) </strong><em><br></em>For
+students who need strong foundations:
 <br>- Diagnostic assessments and early intervention
 <br>- Targeted grammar and vocabulary strategies
 <br>- Structured reading and writing practices
@@ -146,19 +146,15 @@ who need strong foundations:
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/English/EL%20Prog%202.png">
 </div>
-<p></p>
 <p>
-<br>Real-World Rhythms (<em>Include existing image of ApLM</em>)
-<br>- ApLM @ Ngee Ann Polytechnic: Media communication immersion
+<br><strong>Real-World Rhythms </strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNQt6nNMQ0hVUTkvlquvm8A7ipzpF5yqVzUpXOk0R5uJi7Kj5oBHWy2e2d0VYQxI6Eku7QEeeKeAXs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p>- ApLM @ Ngee Ann Polytechnic: Media communication immersion
 <br>- The Radio Experience: 4-day training as real DJs
 <br>- Industry mentorship and exposure to broadcasting
-<br>
-<br>At the KCPSS English Department, students Learn with Confidence, Excel
-with Grace, Lead with Passion, and Serve with Purpose—through the power
-of words.
-<br>
-<br>Feel the energy. Find your pulse. Let your voice create waves of change.</p>
-<p>
 <br>
 </p>
 <p><strong>“It’s Lit” Literature Card Game</strong>
@@ -178,12 +174,17 @@ in the Literature classroom.</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rvH5SOl2oHs"></iframe>
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTR4L2Q5UfguNzKqMPvxkqyt9ztw6JXTggrfkwELRMNu3tompkhQqGwNBSB50jpTr0CVhjP4geCcEI9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p></p>
+<p>At the KCPSS English Department, students Learn with Confidence, Excel
+with Grace, Lead with Passion, and Serve with Purpose—through the power
+of words.
+<br>
+<br>Feel the energy. Find your pulse. Let your voice create waves of change.</p>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
