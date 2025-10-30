@@ -6,8 +6,9 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h2>Boys' Brigade</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/boysbrigade.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Boys Brigade/boys__brigade_2.jpg">
 </div>
 <h3>Vision</h3>
 <div class="isomer-image-wrapper">
@@ -21,22 +22,25 @@ sponsored by Katong Presbyterian Church in Joo Chiat.&nbsp;</p>
 <p>In the 1990s when Kuo Chuan Presbyterian Schools were built in Bishan
 St. 13, 5th Company was subsequently relocated to operate in the secondary
 school. The 5th Company is now sponsored by Adam Road Presbyterian Church.</p>
-<p></p>
 <h3>Area of Focus</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/boys_brigrade_area_of_focus.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Boys Brigade/areoffocus.jpg">
 </div>
 <p>The aim of the Boys' Brigade is the holistic development of Boys' covering
 the following aspects: Spiritual, Physical, Enrichment and Social. Over
 the years, there has been strong emphasis on outdoor adventure activities,
 leadership development, team building, and community involvement. Through
-our myriad of activities and training, we aim to mould our members to become
+our myriad of activities and training, we aim to mold our members to become
 useful adult citizens with sound moral character. The added dimension of
 spiritual and moral development has helped to instill in members a sense
 of discipline, citizenship and service to the community.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOd4KG9ITrVSdDOd099Q77MIfEJn8Vn7bCMAQqcB45yVRQ1AY8xTpn7kEPrkEJctjphink3tR0RiVu/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h3>Programmes</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/programmes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Boys Brigade/programm.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -60,11 +64,10 @@ of discipline, citizenship and service to the community.</p>
 <br>
 <br>Bag pipe and Band Training
 <br>Training Days : Every Tuesday (Sec 1 New Members)
-<br>Training Timing : 3 - 6 PM
+<br>Training Timing : 3.00PM - 5.00 PM
 <br>
-<br>Training Days : Every Friday (Sec 2 -3)
-<br>Training Timing : 2.30 - 4.30 PM
-<br>Venue : Various Venue</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March Training Camp
@@ -81,7 +84,12 @@ of discipline, citizenship and service to the community.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h3>Teachers-in-Charge</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Boys Brigade/boys__brigade_i2.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
