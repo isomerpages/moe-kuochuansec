@@ -27,30 +27,42 @@ young civil defence ambassadors can have. NCDCC’s motto of “We Learn, We
 Lead, We Serve”, in alignment to the 3 big ideas in Character and Citizenship
 Education: “Identity, Relationships and Choices”, well encapsulates the
 journey of NCDCC cadets into three phases:</p>
-<p><strong>WE LEARN</strong>
-</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/we_learn.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/The Kuo Chuan Experience/CCA/NCDCC/we_learn.jpg">
 </div>
-<p>
-<br>
-</p>
-<p><strong>WE LEAD</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/we_lead.jpg">
 </div>
-<p>
-<br>
-</p>
-<p><strong>WE SERVE</strong>
-</p>
+<div class="isomer-card-body">
+<div class="isomer-card-title">WE LEARN</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/we_serve.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/The Kuo Chuan Experience/CCA/NCDCC/we_lead.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">WE LEAD</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/The Kuo Chuan Experience/CCA/NCDCC/we_serve.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">WE SERVE</div>
+</div>
+</div>
 </div>
 <h3>Area of Focus</h3>
 <div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc2.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc2.jpg">
 </div>
 <p><strong>NCDCC</strong>&nbsp;focuses on</p>
 <table style="minWidth: 50px">
