@@ -12,7 +12,7 @@ variant: tiptap
 </div>
 <h3>Vision</h3>
 <div class="isomer-image-wrapper">
-<img style="width:25%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc1.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc1.jpg">
 </div>
 <p>National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group
 under the purview of the Ministry of Education and the Ministry of Home
