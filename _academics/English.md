@@ -142,8 +142,4 @@ with Grace, Lead with Passion, and Serve with Purpose—through the power
 of words.
 <br>
 <br>Feel the energy. Find your pulse. Let your voice create waves of change.</p>
-<p>
-<br>
-</p>
-<p></p>
 <p></p>
