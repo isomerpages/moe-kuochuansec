@@ -86,27 +86,16 @@ Workshops as well as Theater Exposure.</p>
 </table>
 <p><strong><u>Special Programmes</u></strong>
 </p>
-<p><strong>Strategic Partnership Co-Curricular Activity (Ethnic Dance</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Organized by MOE Art Education Branch</p>
+<p>School intensive dance camp.</p>
 </li>
 <li>
-<p>Level up dancer's skillsets through workshops, performance opportunities,</p>
+<p>inter-school dance exchange</p>
 </li>
 <li>
-<p>Provided ECG experiences, i.e. learning journey to LASALLE College of
-the Art &amp; camp experiences, students get to interect with dancers from
-other schools and explore to different dance genre.</p>
+<p>workshops, performances by MOE Art Education Branch</p>
 </li>
-</ul>
-<p><strong>School Holiday Intensive Dance Training Camp</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="dance holiday" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance%20holiday%20camp%20photo.jpg">
-</div>
-<ul data-tight="true" class="tight">
 <li>
 <p>Enrichment training camp during march/ June/ End of year Training Camp.</p>
 </li>
@@ -123,79 +112,64 @@ school Aesthetic Concert</p>
 </ul>
 <p><strong>Recent Achievements</strong>
 </p>
-<ul data-tight="true" class="tight">
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation (Chinese Dance)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation (Contemporary Dance)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul>
 <li>
-<p>2023 SYF Contemporary (Accomplishment)</p>
+<p>Achieved a Certificate of Distinction in 2023, 2021, 2017, 2015 &amp;
+2013.</p>
 </li>
 <li>
-<p>2023 SYF Chinese (Distinction)</p>
+<p>Achieved a Certificate of Accomplishment in 2025, &amp; 2019</p>
 </li>
 <li>
-<p>2021 SYF Contemporary (Accomplishment);</p>
-</li>
-<li>
-<p>2021 SYF Chinese (Distinction)</p>
-</li>
-<li>
-<p>2019 SYF Contemporary (Accomplishment)</p>
-</li>
-<li>
-<p>2019 SYF Chinese (Accomplishment)</p>
-</li>
-<li>
-<p>2018 Combined Aesthetic Concert&nbsp;</p>
-</li>
-<li>
-<p>2017 SYF Contemporary (Accomplishment)</p>
-</li>
-<li>
-<p>2017 SYF Chinese (Distinction)</p>
-</li>
-<li>
-<p>2017 Let's Carnival (Performance for her excellency President Mdm Halimah)</p>
-</li>
-<li>
-<p>2016 Bishan-Thomson Mid-Autumn Nights Festival Performance</p>
-</li>
-<li>
-<p>2015 SYF Contemporary (Accomplishment)</p>
-</li>
-<li>
-<p>2015 SYF Chinese (Distinction)</p>
-</li>
-<li>
-<p>2015 SG50 Lets Carnival (Performance for his Excellency President Tony
-Tan)</p>
-</li>
-<li>
-<p>2014- Okto Television Live Performance</p>
-</li>
-<li>
-<p>2013 SYF Contemporary (Accomplishment)</p>
-</li>
-<li>
-<p>2013 SYF Chinese Dance (Distinction)</p>
-</li>
-<li>
-<p>2013 Golf Tournament Fund-Raising (Performance for his Excellency - President
-Tony Tan)</p>
-</li>
-<li>
-<p>2011 SYF Contemporary (Silver)</p>
-</li>
-<li>
-<p>2011 SYF Chinese Dance (Silver)</p>
-</li>
-<li>
-<p>2010 'Te Deum' performance at University Cultural Centre Hall</p>
-</li>
-<li>
-<p>2009 SYF Contemporary (Dance Gold with Honours)</p>
-</li>
-<li>
-<p>2009 SYF Chinese Dance (Silver)</p>
+<p>Achieved Sliver in 2011 &amp; 2019.</p>
 </li>
 </ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Achieved a Certificate of Distinction in 2025.</p>
+</li>
+<li>
+<p>Achieved a Certificate of Accomplishment in 2023, 2021,2019, 2017, 2015
+&amp; 2013.</p>
+</li>
+<li>
+<p>Achieved Sliver in 2011</p>
+</li>
+<li>
+<p>Achieved Gold with Honours in 2009</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Performances</strong>
 </p>
 <table style="minWidth: 50px">
@@ -230,7 +204,7 @@ Tony Tan)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Day</p>
+<p>Teachers' Day Aesthetic Showcase</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023 Dance Performance for Singapore Children's Society &amp; walk for
@@ -239,7 +213,7 @@ Our Children</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers' Day Aesthetic Showcase</p>
+<p>CCA Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022 Bishan-Thomson Racial Harmony Day Performance</p>
@@ -247,7 +221,7 @@ Our Children</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Orientation</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2017 Let's Carnival (Performance for her excellency President Mdm Halimah)</p>
@@ -255,7 +229,7 @@ Our Children</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alumni Dinner</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2016 Bishan-Thomson Mid-Autumn Nights Festival Performance</p>
