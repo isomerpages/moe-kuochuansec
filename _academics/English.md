@@ -147,7 +147,7 @@ students who need strong foundations:
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/English/EL%20Prog%202.png">
 </div>
 <p>
-<br><strong>Real-World Rhythms </strong>
+<br><strong>Real-World Rhythms</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNQt6nNMQ0hVUTkvlquvm8A7ipzpF5yqVzUpXOk0R5uJi7Kj5oBHWy2e2d0VYQxI6Eku7QEeeKeAXs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
