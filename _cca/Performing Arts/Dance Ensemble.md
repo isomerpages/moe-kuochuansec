@@ -24,7 +24,7 @@ maintaining a healthy and rigorous program for them to discover and develop
 the innate talent of all dancers within.</p>
 <h3>Area of Focus</h3>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/area%20of%20focus.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/area%20of%20focus.jpg">
 </div>
 <p>The Dance CCA aims to help aspiring young student dancers, with or without
 prior dance experience. The end result is that all students develop the
