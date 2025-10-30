@@ -110,9 +110,8 @@ school Aesthetic Concert</p>
 <p>Minimum of 1 SYF competition and Presentation.</p>
 </li>
 </ul>
-<p><strong>Recent Achievements</strong>
+<p><strong>Achievements</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
