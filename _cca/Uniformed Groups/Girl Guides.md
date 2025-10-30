@@ -96,6 +96,44 @@ overcome problems as sister guides.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Achievements</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Puan Noor Aishah Award (Gold)</strong> — Our 1st Coy Company has
+been conferred the Gold tier of the Puan Noor Aishah Award.</p>
+<p><strong>The Puan Noor Aishah Award (PNAA)</strong> is an annual assessment
+by Girl Guides Singapore that recognises the performance and excellence
+of Guide units across three tiers: Bronze, Silver, and Gold.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Baden-Powell Award</strong> — Congratulations to Faith Chia, who
+has been awarded the Baden-Powell Award, the second highest individual
+award for Girl Guides in Singapore.</p>
+<p>This award is bestowed by the Chief Commissioner to Guides who have demonstrated
+outstanding leadership, consistency, and fulfilment of programme requirements
+in alignment with the Guide Promise and Law.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Girl Guides/Puan_Noor_Aisha_Award_2025.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Teachers-in-Charge</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Girl Guides/girl_guides_i2.jpg">
