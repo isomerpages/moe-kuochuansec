@@ -83,8 +83,9 @@ of discipline, citizenship and service to the community.</p>
 </tbody>
 </table>
 <h3>Teachers-in-Charge</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Boys Brigade/basketball_i2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Boys Brigade/boys__brigade_i2.jpg">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
