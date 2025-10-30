@@ -34,7 +34,9 @@ our myriad of activities and training, we aim to mold our members to become
 useful adult citizens with sound moral character. The added dimension of
 spiritual and moral development has helped to instill in members a sense
 of discipline, citizenship and service to the community.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOd4KG9ITrVSdDOd099Q77MIfEJn8Vn7bCMAQqcB45yVRQ1AY8xTpn7kEPrkEJctjphink3tR0RiVu/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h3>Programmes</h3>
 <p></p>
 <div class="isomer-image-wrapper">
