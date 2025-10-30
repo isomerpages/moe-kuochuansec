@@ -119,12 +119,15 @@ secondary schools.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Achieved a Certificate of Accomplishment in 2013, 2015,2019 &amp; 2023.</p>
+<p>Achieved a Certificate of Accomplishment in 2013, 2015,2019,2023&amp;2025.</p>
 </li>
 </ul>
 <p><strong>Annual Aesthetics Exposure</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Falling by Pangdemonium 2025</p>
+</li>
 <li>
 <p>A Singaporean in Paris by Sing'Theatre in 2022</p>
 </li>
@@ -148,43 +151,26 @@ Teach’ (2020)</p>
 <p>Model Citizens - A Drama in Education Program - 2012</p>
 </li>
 </ul>
-<p><strong>Community Involvement Program (CIP)</strong>
+<p><strong>Values in Action</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Visit to Bishan Home to interact with and perform for the residents</p>
 </li>
 </ul>
-<p><strong>Annual School Programs</strong>
+<p><strong>Overview of Drama Programme</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Yearly Performances for</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Secondary 1 CCA Orientation (Jan)</p>
-</li>
-<li>
-<p>Performing Arts Aesthetics Presentation (biennial)</p>
-</li>
-<li>
-<p>SYF Arts Presentation (biennial)</p>
-</li>
-<li>
-<p>Sec 4 Farewell (March)</p>
-</li>
-<li>
-<p>Drama Exchange Programme in ACS (Barker)</p>
-</li>
-<li>
+<p>Sec 1 Orientation (January)</p>
+<p>Performing Arts Aesthetics Showcase (before SYF AP)</p>
+<p>SYF AP (biennial)</p>
+<p>S4 Farewell (Term 1)</p>
 <p>National Day Skit (August)</p>
-</li>
-<li>
-<p>Open House Presentation (Nov)</p>
-</li>
-</ul>
-</li>
-</ul>
+<p>Drama Exchange Programme (Term 3)</p>
+<p>Masterclasses on Movement, Set Design (Terms 3, 4)</p>
+<p>PA Parents’ Appreciation Night (end Term 4)</p>
+<p>Open House (Term 4)</p>
+<p>VIA (Term 4)</p>
+<p></p>
 <p><strong>Ad-hoc Performances:</strong>
 </p>
 <ul data-tight="true" class="tight">
