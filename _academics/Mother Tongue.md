@@ -46,6 +46,9 @@ engage in interactive and collaborative activities that extend learning
 beyond the classroom. E-Pedagogy enables flexible, self-directed learning
 while enhancing engagement and ownership of the language learning process.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/MT/e_pedagogy.png">
+</div>
 <h2>Programme</h2>
 <p><strong>1. Chinese New Year Celebration</strong>
 </p>
@@ -93,4 +96,5 @@ while enhancing engagement and ownership of the language learning process.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/MT/National_Competition_2.png">
 </div>
+<p></p>
 <p></p>
