@@ -66,44 +66,8 @@ make waves in a fast-changing world.
 <br>- Hone journalistic writing and interviewing skills
 <br>
 </p>
-<p><strong>Our Stretch Programme; The Spin Doctors</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNHpRz7pl3Yh9CznzaxOenKl-jgPmA7hZjel9FuJGDty_MTZ84hvL8-bb28I4ji2g_hvPILCC5gWcR/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
-<p>The Spin Doctors enrichment programme is part of the school’s distinctive
-Applied Learning Programme which focuses on equipping students to be more
-media literate leveraging on media literacy tools to hone their speaking
-and writing skills, in order to meet the demands of a changing landscape
-where 21st century skills prevail. The students are given platforms to
-hone and showcase their talents through advanced elective modules, enrichment
-workshops, speaking and writing competitions and hosting for school events.
-Some skills that students will develop throughout the programme are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Public speaking</p>
-</li>
-<li>
-<p>Events hosting</p>
-</li>
-<li>
-<p>Basic Videography and Editing</p>
-</li>
-<li>
-<p>Newscasting etiquette</p>
-</li>
-<li>
-<p>Podcasting</p>
-</li>
-<li>
-<p>Poetry writing</p>
-</li>
-</ul>
 <p><strong>Our Support Programme ; English Language First</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/English/EL%20Prog%202.png">
-</div>
 <p>The English Language First is a support programme for selected Lower Secondary
 students to provide the necessary learning support for students to bridge
 their learning gaps in the English Language. To ensure early intervention,
@@ -173,13 +137,17 @@ Shakespeare’s</p>
 <br>- Explore advanced creative writing
 <br>- Present on real-world platforms
 <br>
-<br>English Language First (Learning Support Programme) (<em>Include existing image of English Lang First)<br></em>For
-students who need strong foundations:
+<br>English Language First (Learning Support Programme) <em><br></em>For students
+who need strong foundations:
 <br>- Diagnostic assessments and early intervention
 <br>- Targeted grammar and vocabulary strategies
 <br>- Structured reading and writing practices
-<br>- Step-by-step mastery of key EL skills
-<br>
+<br>- Step-by-step mastery of key EL skills</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/English/EL%20Prog%202.png">
+</div>
+<p></p>
+<p>
 <br>Real-World Rhythms (<em>Include existing image of ApLM</em>)
 <br>- ApLM @ Ngee Ann Polytechnic: Media communication immersion
 <br>- The Radio Experience: 4-day training as real DJs
