@@ -113,7 +113,7 @@ peers.</p>
 </table>
 <h3>Programmes</h3>
 <div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc3.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc3.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -215,7 +215,7 @@ of the unit.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold (2016, 2017, 2018, 2019)
-<br>Dinstinction (2022 - 2024)</p>
+<br>Distinction (2022 - 2024)</p>
 </td>
 </tr>
 <tr>
