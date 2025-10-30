@@ -3,74 +3,173 @@ title: Girl Guides
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
-variant: markdown
+variant: tiptap
 ---
-## Girl Guides
-
-
-![](/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/girl%20guide.jpg)
-
-
-### Vision
-
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg1.jpg" style="width:30%;margin-right:15px;" align="left">
-
-**Mission**:
-<p style="text-align: justify;font-size:16px;">The Girl Guides' mission is to enable girls and young women to develop their fullest potential as responsible citizens of the world. Popularly known as KCP 1st Coy, we work very closely with this mission. We organise many activities to maximise the potential of our girls, explore new possibilities, achieve personal goals while making friends and having fun.</p>  
-  
-<p style="text-align: justify;font-size:16px;">The Guide Promise to us is very crucial and it is the pivot behind Girl Guiding: I promise to do my best, To do my duty to God, To serve my country and help other people, and to keep the Guide Law. </p> 
- 
-We also follow the 10 Guide Laws:&nbsp;  
-A Guide is loyal and can be trusted  
-A Guide is useful and helps others  
-A Guide is polite, considerate and respects her elders  
-A Guide is friendly and a sister to all Guides  
-A Guide is kind to all living things  
-A Guide is obedient  
-A Guide has courage and is cheerful in all difficulties  
-A Guide takes care of her own possessions and those of other people  
-A Guide Is thrifty and diligent  
-A Guide is self-disciplined in what she thinks, says and does 2 Area
-
-
-### Area of Focus
-
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg2.jpg" style="width:30%;margin-right:15px;" align="left">
-
-Our motto,&nbsp;**"Be Prepared"**&nbsp;, shares the Founder's initials and is a practical reminder of the educational purposes of Girl Guiding. KCP 1st Coy aims to provide girls with the opportunity for self-training in character development, responsible citizenship and in service to the community. We adhere to our motto:&nbsp;**'Be Prepared' - 'Think it. Say it. Live it'**. 
-
-<br><br>
-
-### Programmes
-
-
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg3.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<p style="text-align: justify;font-size:16px;">KCP 1st Coy&nbsp;is certainly a CCA like no other. We have a wide range of activities, which allows our members to acquire new skills and be exposed to all kinds of situations. This includes outdoor cooking, foot drills, gadget-making, as well as earning proficiency badges and going for overseas trips and camps. Most of our training is based on the&nbsp;Five-Point programme&nbsp;, which covers personal and social development, housekeeping skills, camping skills, community involvement and knowledge on worldwide issues. One of the highlights is our&nbsp;<u>Annual camp and Sec 1 Orientation Campfire</u>&nbsp;where our guides portray their talents and skills. We also render numerous community services, which include raising funds for Thinking Day Pennies, walkathon, Yeoman Services and selling cookies for Girl Guides Singapore with a serving heart and mind From these activities and competitions, we build strong friendships, share our joy and sorrow, learn the meaning of teamwork and overcome problems as sister guides.</p>
-
-**<u>Training</u>**
-
-<table>
+<h2>Girl Guides</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Girl Guides/girl_guides_2.jpg">
+</div>
+<h3>Vision</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg1.jpg">
+</div>
+<p><strong>Mission</strong>:</p>
+<p>The Girl Guides' mission is to enable girls and young women to develop
+their fullest potential as responsible citizens of the world. Popularly
+known as KCP 1st Coy, we work very closely with this mission. We organise
+many activities to maximise the potential of our girls, explore new possibilities,
+achieve personal goals while making friends and having fun.</p>
+<p>The Guide Promise to us is very crucial and it is the pivot behind Girl
+Guiding: I promise to do my best, To do my duty to God, To serve my country
+and help other people, and to keep the Guide Law.</p>
+<p>We also follow the 10 Guide Laws:&nbsp;
+<br>A Guide is loyal and can be trusted
+<br>A Guide is useful and helps others
+<br>A Guide is polite, considerate and respects her elders
+<br>A Guide is friendly and a sister to all Guides
+<br>A Guide is kind to all living things
+<br>A Guide is obedient
+<br>A Guide has courage and is cheerful in all difficulties
+<br>A Guide takes care of her own possessions and those of other people
+<br>A Guide Is thrifty and diligent
+<br>A Guide is self-disciplined in what she thinks, says and does 2 Area</p>
+<h3>Area of Focus</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg2.jpg">
+</div>
+<p>Our motto,&nbsp;<strong>"Be Prepared"</strong>&nbsp;, shares the Founder's
+initials and is a practical reminder of the educational purposes of Girl
+Guiding. KCP 1st Coy aims to provide girls with the opportunity for self-training
+in character development, responsible citizenship and in service to the
+community. We adhere to our motto:&nbsp;<strong>'Be Prepared' - 'Think it. Say it. Live it'</strong>.</p>
+<p></p>
+<h3>Programmes</h3>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRqfnrjHUMSC-oHLbZRpQmjH9BV-d0uGFsvHg0YNBNDGZ5rw5k_B5kGO8Cf7z0O4YAJq65qmch47SJD/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p>KCP 1st Coy&nbsp;is certainly a CCA like no other. We have a wide range
+of activities, which allows our members to acquire new skills and be exposed
+to all kinds of situations. This includes outdoor cooking, foot drills,
+gadget-making, as well as earning proficiency badges and going for overseas
+trips and camps. Most of our training is based on the&nbsp;Five-Point programme&nbsp;,
+which covers personal and social development, housekeeping skills, camping
+skills, community involvement and knowledge on worldwide issues. One of
+the highlights is our&nbsp;<u>Annual camp and Sec 1 Orientation Campfire</u>&nbsp;where
+our guides portray their talents and skills. We also render numerous community
+services, which include raising funds for Thinking Day Pennies, walkathon,
+Yeoman Services and selling cookies for Girl Guides Singapore with a serving
+heart and mind From these activities and competitions, we build strong
+friendships, share our joy and sorrow, learn the meaning of teamwork and
+overcome problems as sister guides.</p>
+<p><strong>Training</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <th>Training Days</th>
-    <td>Every Friday</td>
-  </tr>
-  <tr>
-    <th>Training Timing</th>
-    <td>2.00 PM - 5.00 PM</td>
-  </tr>
-  <tr>
-    <th>Venue</th>
-    <td>Parade Square / Concourse / Classrooms</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Every Friday</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Timing</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>2.00 PM - 5.00 PM</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Parade Square / Concourse / Classrooms</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Teachers-in-Charge
-
-
-
-| Tang Lai Chan | Chang Meng Hsia    | Maria Immaculate |
-| -------- | -------- |-------- |  
-| <a href="mailto:tham_lai_chan@schools.gov.sg">tham_lai_chan@schools.gov.sg</a>| <a href="mailto:chang_meng_hsia@schools.gov.sg">chang_meng_hsia@schools.gov.sg</a>    |<a href="mailto:Maria_immaculate_A@schools.gov.sg">Maria_immaculate_A@schools.gov.sg</a>|
+<p><strong>Achievements</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Puan Noor Aishah Award (Gold)</strong> — Our 1st Coy Company has
+been conferred the Gold tier of the Puan Noor Aishah Award.</p>
+<p><strong>The Puan Noor Aishah Award (PNAA)</strong> is an annual assessment
+by Girl Guides Singapore that recognises the performance and excellence
+of Guide units across three tiers: Bronze, Silver, and Gold.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Baden-Powell Award</strong> — Congratulations to Faith Chia, who
+has been awarded the Baden-Powell Award, the second highest individual
+award for Girl Guides in Singapore.</p>
+<p>This award is bestowed by the Chief Commissioner to Guides who have demonstrated
+outstanding leadership, consistency, and fulfilment of programme requirements
+in alignment with the Guide Promise and Law.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Girl Guides/Puan_Noor_Aisha_Award_2025.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Teachers-in-Charge</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Girl Guides/girl_guides_i2.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Tang Lai Chan</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Chang Meng Hsia</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Maria Immaculate</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tham_lai_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_lai_chan@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chang_meng_hsia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_meng_hsia@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Maria_immaculate_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Maria_immaculate_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
