@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <h3>Vision</h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSL1tCpSOPN3BXpiDSSNs9lvN_jc_6G3DwGwxAzer0vok81eJNE14CXr8a6fipJqBjY7dZbDuhF_H7E/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkBktXq1D1a_hSg3mx7TeBxakySHDufrLqMQlk5gFBc9ET_ErjhAFNI-9sj71P_plzANSfrQER7iLG/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>A holistic approach is adopted in the inculcation of dance skills and
 the development of every student's character. Such skills of training with
