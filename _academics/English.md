@@ -51,19 +51,21 @@ make waves in a fast-changing world.
 <p>Where words meet visuals in a dynamic blend of storytelling:
 <br>- Apply expository writing in visual contexts
 <br>- Learn framing, mise-en-scène, and film theory
-<br>- Build media literacy through hands-on projectsv</p>
-<p><strong>Sec 3 Journalistic (Writing Espoir Newsletter)</strong>
+<br>- Build media literacy through hands-on projects</p>
+<p><strong>Upper Secondary Crescendo</strong>
+</p>
+<p><strong>Sec 3: Espoir Newsletter</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkzOuKyUBEbEH1CDBKun3abX9r6oKzSjs7w4ZKjlus4es77j-lxRk-dfZ9UzWpTtY0f49yphivlD50/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p>Espoir is a biannual school publication that offers news of school events,
-innovative practices, features personalities that define the Kuo Chuan
-community and student perspectives on issues that have an impact on the
-individual and the larger school community. It is the product of an innovative
-EL curriculum which develops relevant skills to face the global landscape.
-Espoir is a Secondary 3 EL Level project and also serves as a platform
-to hone writing skills of high progress learners.</p>
+<p>Be the voice of KCPSS through our biannual student publication:
+<br>- Report on school and community stories
+<br>- Feature inspiring youth and mentors
+<br>- Discuss current issues that matter
+<br>- Hone journalistic writing and interviewing skills
+<br>
+</p>
 <p><strong>Our Stretch Programme; The Spin Doctors</strong>
 </p>
 <div class="iframe-wrapper">
@@ -203,4 +205,5 @@ in the Literature classroom.</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTR4L2Q5UfguNzKqMPvxkqyt9ztw6JXTggrfkwELRMNu3tompkhQqGwNBSB50jpTr0CVhjP4geCcEI9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
+<p></p>
 <p></p>
