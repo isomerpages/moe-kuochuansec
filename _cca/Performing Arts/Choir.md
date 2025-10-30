@@ -105,7 +105,9 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS01umj5uuEF9Z7wbITuxrFB35E6EMXRqMT4rEJV8vgQoQ24aN8sKVvWWm2XfI2c_-pW3LKeSmAZ2Y0/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p><strong>Special Programmes</strong>
 </p>
 <ul>
