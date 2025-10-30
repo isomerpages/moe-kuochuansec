@@ -160,17 +160,59 @@ Teach’ (2020)</p>
 </ul>
 <p><strong>Overview of Drama Programme</strong>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sec 1 Orientation (January)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Performing Arts Aesthetics Showcase (before SYF AP)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>SYF AP (biennial)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>S4 Farewell (Term 1)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>National Day Skit (August)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Drama Exchange Programme (Term 3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Masterclasses on Movement, Set Design (Terms 3, 4)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>PA Parents’ Appreciation Night (end Term 4)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Open House (Term 4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>VIA (Term 4)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Ad-hoc Performances:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -192,8 +234,9 @@ Arts Conference 2023 by the Singapore Drama Educators Association (SDEA)
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="adhocprog" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/ad-hoc%20programmes.jpg">
 </div>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4ktPQzrzOZ4?si=iOhiG-yvFcPfAc6U"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4ktPQzrzOZ4?si=6i0IOTHzU9t3Mrnv"></iframe>
 </div>
 <h3>Teachers-in-Charge</h3>
 <p></p>
