@@ -159,6 +159,40 @@ Shakespeare’s</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our People/Departments/English/ELLITpic2_jpg.png">
 </div>
 <p></p>
+<p><strong>Signature Programmes That Amplify Potential</strong>
+<br>
+<br><strong>The Spin Doctors (Talent Development Track)</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNHpRz7pl3Yh9CznzaxOenKl-jgPmA7hZjel9FuJGDty_MTZ84hvL8-bb28I4ji2g_hvPILCC5gWcR/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p>As part of our Applied Learning Programme in Media Literacy:
+<br>- Host school and public events with flair
+<br>- Master podcasting and video production
+<br>- Create newscasts and visual features
+<br>- Explore advanced creative writing
+<br>- Present on real-world platforms
+<br>
+<br>English Language First (Learning Support Programme) (<em>Include existing image of English Lang First)<br></em>For
+students who need strong foundations:
+<br>- Diagnostic assessments and early intervention
+<br>- Targeted grammar and vocabulary strategies
+<br>- Structured reading and writing practices
+<br>- Step-by-step mastery of key EL skills
+<br>
+<br>Real-World Rhythms (<em>Include existing image of ApLM</em>)
+<br>- ApLM @ Ngee Ann Polytechnic: Media communication immersion
+<br>- The Radio Experience: 4-day training as real DJs
+<br>- Industry mentorship and exposure to broadcasting
+<br>
+<br>At the KCPSS English Department, students Learn with Confidence, Excel
+with Grace, Lead with Passion, and Serve with Purpose—through the power
+of words.
+<br>
+<br>Feel the energy. Find your pulse. Let your voice create waves of change.</p>
+<p>
+<br>
+</p>
 <p><strong>“It’s Lit” Literature Card Game</strong>
 </p>
 <p><strong>Eliciting Literary Discourse and Active Learning Through Game-based Learning</strong>
@@ -182,5 +216,6 @@ in the Literature classroom.</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTR4L2Q5UfguNzKqMPvxkqyt9ztw6JXTggrfkwELRMNu3tompkhQqGwNBSB50jpTr0CVhjP4geCcEI9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
+<p></p>
 <p></p>
 <p></p>
