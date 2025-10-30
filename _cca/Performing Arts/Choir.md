@@ -144,8 +144,47 @@ aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 </div>
 </li>
 </ul>
-<h3>Teachers-in-Charge</h3>
+<p><strong>Achievements</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>SYF Arts Presentations</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 &nbsp; &nbsp; &nbsp; Certificate of Distinction (Ms. Angela Lee)</p>
+<p>2023 &nbsp; &nbsp; &nbsp; Certificate of Accomplishment (Ms. Angela Lee)</p>
+<p>2021 &nbsp; &nbsp; &nbsp; No Benchmarking (Ms. Angela Lee)</p>
+<p>2019 &nbsp; &nbsp; &nbsp; Certificate of Accomplishment (Ms. Angela Lee)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2017 &nbsp; &nbsp; &nbsp; Certificate of Distinction (Ms. Susanna Pua)</p>
+<p>2015 &nbsp; &nbsp; &nbsp; Certificate of Accomplishment (Ms. Susanna Pua)</p>
+<p>2013 &nbsp; &nbsp; &nbsp; Certificate of Accomplishment (Mr. Ngian Ping)</p>
+<p>2012&nbsp; &nbsp; Silver (Mr. Ngian Ping)</p>
+<p>2011 &nbsp; &nbsp; &nbsp; Certificate of Accomplishment (Mr. Ngian Ping)</p>
+<p>2009&nbsp; &nbsp; &nbsp; Silver (Mr. Ngian Ping) Xinghai Prize International
+Choir Championships (Guangzhou, China)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Teachers-in-Charge</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Choir/choir_i2.jpg">
 </div>
