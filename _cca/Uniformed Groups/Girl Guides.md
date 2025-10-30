@@ -12,7 +12,7 @@ variant: tiptap
 </div>
 <h3>Vision</h3>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg1.jpg">
+<img style="width: 35%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg1.jpg">
 </div>
 <p><strong>Mission</strong>:</p>
 <p>The Girl Guides' mission is to enable girls and young women to develop
@@ -36,7 +36,7 @@ and help other people, and to keep the Guide Law.</p>
 <br>A Guide is self-disciplined in what she thinks, says and does 2 Area</p>
 <h3>Area of Focus</h3>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg2.jpg">
+<img style="width: 35%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg2.jpg">
 </div>
 <p>Our motto,&nbsp;<strong>"Be Prepared"</strong>&nbsp;, shares the Founder's
 initials and is a practical reminder of the educational purposes of Girl
@@ -62,7 +62,7 @@ Yeoman Services and selling cookies for Girl Guides Singapore with a serving
 heart and mind From these activities and competitions, we build strong
 friendships, share our joy and sorrow, learn the meaning of teamwork and
 overcome problems as sister guides.</p>
-<p><strong><u>Training</u></strong>
+<p><strong>Training</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
