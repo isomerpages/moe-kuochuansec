@@ -190,7 +190,8 @@ school Aesthetic Concert</p>
 <p>Chinese New Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023 National Day Parade @ Padang</p>
+<p>2025 Let’s Carnival (Performance for His Excellency, President Tharman
+Shanmugaratnam )</p>
 </td>
 </tr>
 <tr>
@@ -198,12 +199,28 @@ school Aesthetic Concert</p>
 <p>Founder's Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023 Let's Carnival (Performance for her excellency President Mdm Halimah)</p>
+<p>2024 Grace Arise Centennial Musical</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Teachers' Day Aesthetic Showcase</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023 National Day Parade @ Padang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Orientation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023 Let's Carnival (Performance for her excellency President Mdm Halimah)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023 Dance Performance for Singapore Children's Society &amp; walk for
@@ -212,26 +229,10 @@ Our Children</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Orientation</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022 Bishan-Thomson Racial Harmony Day Performance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017 Let's Carnival (Performance for her excellency President Mdm Halimah)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016 Bishan-Thomson Mid-Autumn Nights Festival Performance</p>
 </td>
 </tr>
 </tbody>
