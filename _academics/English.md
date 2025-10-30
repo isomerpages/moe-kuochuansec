@@ -66,48 +66,6 @@ make waves in a fast-changing world.
 <br>- Hone journalistic writing and interviewing skills
 <br>
 </p>
-<p><strong>Our Support Programme ; English Language First</strong>
-</p>
-<p>The English Language First is a support programme for selected Lower Secondary
-students to provide the necessary learning support for students to bridge
-their learning gaps in the English Language. To ensure early intervention,
-diagnostic tests are administered at the start of Secondary One&nbsp; to
-ascertain the language proficiency of every student. Students who require
-more support would then be identified for the English Language First programme,
-to help them establish the fundamental understanding of the language at
-an early stage. Some of the areas of focus of the English Language First
-programmes are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Grammar application</p>
-</li>
-<li>
-<p>Vocabulary acquisition</p>
-</li>
-<li>
-<p>Synthesis and transformation</p>
-</li>
-<li>
-<p>Reading skills</p>
-</li>
-</ul>
-<p><strong>Applied Learning Module (ApLM)</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNQt6nNMQ0hVUTkvlquvm8A7ipzpF5yqVzUpXOk0R5uJi7Kj5oBHWy2e2d0VYQxI6Eku7QEeeKeAXs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
-<p>As part of the school’s ALP in Media Literacy, selected Sec 3 students
-will have the opportunity to participate in the highly-sought after Advanced
-Elective Modules (AEMs) at Ngee Ann Polytechnic as well as visits to radio
-stations for students to have a first-hand experience of understanding
-how information is gathered and presented.&nbsp;Every year since 2015,&nbsp;
-Sec 3 students will have a chance to be radio deejays during a 4 day AEM
-known as The Radio Experience where the module is taught by current Ngee
-Ann Polytechnic lecturers or current deejays/celebrities.</p>
-<p>Since 2015, different groups of students have had the opportunity to be
-part of an authentic learning experience in learning about the role that
-media plays in society. Our students even had a chance to hone their Speaking
-and Representing skills as a result.</p>
 <p><strong>Pure Literature</strong>
 </p>
 <p>Step into powerful narratives that shape our world:
@@ -146,7 +104,8 @@ students who need strong foundations:
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/English/EL%20Prog%202.png">
 </div>
-<p>
+<p></p>
+<p><strong>Applied Learning Module (ApLM)</strong>
 <br><strong>Real-World Rhythms</strong>
 </p>
 <div class="iframe-wrapper">
