@@ -10,19 +10,20 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="mainpic" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/main%20pic.jpeg">
 </div>
 <h3>Vision</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Drama/vision.jpg">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>The KCPSS Drama club is committed to helping our students realise their
 dramatic and/or artistic potential and providing opportunities for our
 members to showcase their talent. In our Drama club, talent is not limited
@@ -35,20 +36,36 @@ trainings and programmes.</p>
 </tbody>
 </table>
 <h3>Area of Focus</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Drama/drama2.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="2">
 <p>Each training session focuses on the fundamentals of drama training, ensemble
 work, characterisation and voice work.</p>
 <p>Drama students are also given opportunities to explore their individual
 interests in script writing, theatre production and management.</p>
 <p>Drama students also participate in a Drama exchange programme with other
 secondary schools.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Programmes</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="training" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/training.jpeg">
 </div>
-<p><strong><u>Training</u></strong>
+<p><strong>Training</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -92,10 +109,8 @@ secondary schools.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p><strong><u>Special Programmes</u></strong>
+<p></p>
+<p><strong>Special Programmes</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="annualprog" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/annual%20programmes.jpg">
@@ -195,6 +210,10 @@ Arts Conference 2023 by the Singapore Drama Educators Association (SDEA)
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4ktPQzrzOZ4?si=iOhiG-yvFcPfAc6U"></iframe>
 </div>
 <h3>Teachers-in-Charge</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Drama/drama_i2.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
