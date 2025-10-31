@@ -4,10 +4,10 @@ title: Kuo Chuan Presbyterian Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Taking Flight: Soaring with Renewed Strength"
+notification: ""
 sections:
   - hero:
-      background: /images/2025_banner.gif
+      background: /images/2025_bannerv1.gif
       key_highlights:
         - title: Happenings
           description: ""
