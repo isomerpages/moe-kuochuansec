@@ -7,7 +7,7 @@ permalink: /
 notification: "Taking Flight: Soaring with Renewed Strength"
 sections:
   - hero:
-      background: /images/ezgif2024.gif
+      background: /images/2025_banner.gif
       key_highlights:
         - title: Happenings
           description: ""
