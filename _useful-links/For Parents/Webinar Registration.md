@@ -1,6 +1,6 @@
 ---
 title: Webinar Registration
-permalink: /parents/webinar-registration/
+permalink: /for-parents/webinar-registration/
 variant: tiptap
 description: ""
 third_nav_title: For Parents

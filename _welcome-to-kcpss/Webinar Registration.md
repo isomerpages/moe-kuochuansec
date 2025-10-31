@@ -1,6 +1,6 @@
 ---
 title: Webinar Registration
-permalink: /parents/webinar-registration/
+permalink: /for-parents/webinar-registration/
 description: ""
 variant: markdown
 ---
