@@ -8,10 +8,10 @@ variant: tiptap
 <p></p>
 <p><strong>MOTHER TONGUE DEPARTMENT</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mother Tongue" src="/images/Our%20People/Departments/MT/mt2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/mother_tongue_language_department_2.jpg">
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -101,4 +101,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
