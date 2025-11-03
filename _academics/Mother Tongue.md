@@ -60,7 +60,6 @@ while enhancing engagement and ownership of the language learning process.</p>
 </div>
 <p><strong>Hamper Wrapping</strong>
 <br>Our students make Chinese New Year hampers to bless the community</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/MT/hamperv1__1_.png">
 </div>
@@ -68,34 +67,41 @@ while enhancing engagement and ownership of the language learning process.</p>
 <br>This 10 weeks programmes carried out in Semester One aims to help Sec
 1 students to master basic conversation of the other Mother Tongue.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/MT/CCM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/MT/ccm2025.png">
 </div>
 <p><strong>3. &nbsp;MTL Fortnight Activities</strong>
 <br>Learning Journeys to Chinatown and Little India</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/MT/Learning_Journey.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/MT/forthnight2025.png">
 </div>
 <p>
 <br>Calligraphy</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/MT/Calligraphy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/MT/calligraphy2025.png">
 </div>
-<p>
-<br><strong>4. &nbsp;Tea Ceremony</strong>
-<br>
+<p><strong>4. &nbsp;Tea Ceremony</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/MT/Tea_Ceremony.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/MT/teaceremony2025.png">
 </div>
 <p><strong>5. &nbsp;Sharing on Media by 8 World Newscaster</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/MT/Sharing_on_Media.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/MT/sharingonmedia2025.png">
 </div>
 <p><strong>6. &nbsp;National Competitions</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/Departments/MT/National_Competition_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/MT/natinalcomp2025.png">
 </div>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p><strong>Cultural Assembly Programme</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/MT/cultural2025.png">
+</div>
+</li>
+</ol>
 <p></p>
