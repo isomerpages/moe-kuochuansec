@@ -9,6 +9,9 @@ variant: tiptap
 <p><strong>CHARACTER &amp; CITIZENSHIP EDUCATION DEPARTMENT</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/CCE/CCE.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -37,25 +40,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chelliah Trevor Devendran (HOD/Humanities)</p>
+<p>Mr Benjamin Huang Bojun (SH CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chelliah_trevor_devendran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chelliah_trevor_devendran@schools.gov.sg</a>
+<p><a href="mailto:huang_bojun_benjamin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>huang_bojun_benjamin@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Education and Career Guidance Coordinator</strong>
+<p><strong>Sustainability</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Noraliah Abdul Samad&nbsp;</p>
+<p>Ms Sek Hwee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noraliah_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noraliah_abdul_samad@schools.gov.sg</a>
+<p><a href="mailto:sek_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sek_hwee_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -76,10 +79,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Hui Si</p>
+<p>Miss Jade Tan Jie Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hui_si@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_si@schools.gov.sg</a>
+<p><a href="mailto:jade_tan_jie_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jade_tan_jie_heng@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -91,61 +94,79 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Yin Yee</p>
+<p>Mr Lee Chong Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yin_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yin_yee@schools.gov.sg</a>
+<p><a href="mailto:ng_yin_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chong_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>CCE - Specialised Teachers</strong>
+<p><strong>Education and Career Guidance Coordinator</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yew Yishen</p>
+<p>Miss Chee Yoon Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yew_yishen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yew_yishen@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>chee_yoon_hui@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Sexuality Education Coordinator</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Jian Liang Joel&nbsp;</p>
+<p>Mr Lee Chong Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jian_liang_joel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jian_liang_joel@schools.gov.sg</a>
+<p><a href="mailto:ng_yin_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chong_min@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Education Career Guidance</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Diyanah Mohammad Suhaini</p>
+<p>Miss Chee Yoon Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_diyanah_mohammad_suhaini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_diyanah_mohammad_suhaini@schools.gov.sg</a>
+<p><a href="mailto:chee_yoon_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chee_yoon_hui@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>National Education</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sek Hwee Leng</p>
+<p>Mr Gillian Lim Xiu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sek_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sek_hwee_leng@schools.gov.sg</a>
+<p><a href="mailto:gillian_lim_xiu_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gillian_lim_xiu_hui@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chee Kian Ng Thomas</p>
+<p>Mrs Tang Lai Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_chee_kian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chee_kian@schools.gov.sg</a>
+<p><a href="mailto:tham_lai_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tham_lai_chan@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -157,34 +178,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Chong Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chong_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chong_min@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Tham Hwee Leng Grace</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_hwee_ling_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_hwee_ling_grace@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong><em>CCE Committee member</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Jade Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
