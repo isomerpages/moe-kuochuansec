@@ -9,9 +9,6 @@ variant: tiptap
 <p><strong>PE DEPARTMENT</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PE2023" src="/images/Our%20People/Departments/PE/pe2023.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -20,6 +17,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/PE/physical_education_department_2.jpg">
+</div>
 <p>Mr Khoo Kian Seong Kenneth (HOD-PE/CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
