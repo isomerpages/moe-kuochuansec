@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Craft Tech 2023" src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/design_t2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/Craft &amp; Technology/craft_and_technology.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>

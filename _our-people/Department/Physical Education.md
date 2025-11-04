@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PE2023" src="/images/Our%20People/Departments/PE/pe2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/PE/physical_education_department_2.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>

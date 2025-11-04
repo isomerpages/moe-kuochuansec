@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="English Language" src="/images/Our%20People/Departments/English/el2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Departments/English/english_language_department_2.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
