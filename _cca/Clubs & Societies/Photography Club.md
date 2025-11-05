@@ -102,7 +102,6 @@ Story' , InstaGeylang and Ibuild SG Club Pinnacle Competition 2022.</p>
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLVhXHmpfRhV4aIUt46_0TfT4UbIab3R9yBrKmcVkfYfdHVRk03eWr2qELI89OwDMnVULmkRAbHGyq/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h3>Teachers-in-Charge</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Photography/photography_club_i2.jpg">
 </div>
