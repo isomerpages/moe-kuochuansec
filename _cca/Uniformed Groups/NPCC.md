@@ -8,7 +8,7 @@ variant: tiptap
 <h2>NPCC</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/01_NPCC_Cover_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/national_police_cadet_corps_2.jpg">
 </div>
 <h3>Mission, Vision &amp; Values</h3>
 <div class="isomer-image-wrapper">
@@ -153,6 +153,9 @@ title - Anti Scam Student Champions (ASSC) 2024</p>
 </li>
 </ul>
 <h3>Teachers-in-Charge</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/national_police_cadet_corps_i2.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
