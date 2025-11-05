@@ -267,6 +267,9 @@ Day)
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5nfiIl710l4?si=F4vgd39BPUPTTCZ5&amp;start=10"></iframe>
 </div>
 <h3>Teachers-in-Charge</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Symphonic Band/concert_band_i2.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
