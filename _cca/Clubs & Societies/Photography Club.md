@@ -12,7 +12,7 @@ variant: tiptap
 </div>
 <h3>Vision</h3>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Vision.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Vision.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -42,7 +42,7 @@ variant: tiptap
 </table>
 <h3>Area of Focus</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Area_of_Focus.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Area_of_Focus.jpg">
 </div>
 <p>The club aims to train all its members with basic photography skills which
 will enable them to cover school events and activities and participate
