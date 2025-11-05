@@ -7,10 +7,10 @@ variant: tiptap
 ---
 <h2>Girls' Brigade</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/girls%20brigade.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Girls Brigade/girls__brigade_2.jpg">
 </div>
-<h3>Vision</h3>
 <p></p>
+<h3>Vision</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Girls Brigade/GB_with_teacher.jpg">
 </div>
@@ -256,6 +256,10 @@ Nationals or fun camp for time of bonding and winding down</p>
 </div>
 </div>
 <h3>Teachers-in-Charge</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Girls Brigade/girls__brigade_i2.jpg">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
