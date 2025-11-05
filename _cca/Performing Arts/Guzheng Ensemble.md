@@ -6,10 +6,10 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h2>Guzheng Ensemble</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Guzheng/guzheng_ensemble_i1__Copy_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Guzheng/guzheng_ensemble_2.jpg">
 </div>
+<p></p>
 <h3>Vision</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -226,6 +226,9 @@ the skills needed to balance their academic responsibilities.</p>
 </table>
 <h3>Teachers-in-Charge</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Guzheng/guzheng_ensemble_i2.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -260,4 +263,5 @@ the skills needed to balance their academic responsibilities.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
