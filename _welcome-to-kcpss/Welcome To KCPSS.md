@@ -10,14 +10,8 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual%20Open%20House/5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOTD_KCPSS_Open_House_2025.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual%20Open%20House/open_housev.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual%20Open%20House/7.png">
-</div>
 <p></p>
