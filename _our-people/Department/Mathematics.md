@@ -110,10 +110,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mabel Neo</p>
+<p>Ms Cheong Mun Mun Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mabel_Neo@schools.gov.sg" rel="noopener nofollow" target="_blank">Mabel_Neo@schools.gov.sg</a>
+<p><a href="mailto:cheong_mun_mun_michelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_mun_mun_michelle@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Kang Joo Geok Rebecca</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kang_joo_geok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kang_joo_geok@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chann Ann Gee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_ann_gee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_ann_gee@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
