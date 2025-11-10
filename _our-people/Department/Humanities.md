@@ -47,6 +47,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Wong Yin Mei (Asst YH / Lower Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_yin_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_yin_mei@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Rachel Lee (Social Studies/History)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,6 +69,33 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Amelia_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Amelia_chong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cynthia Tan Jia Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_jia_ning_cynthia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_jia_ning_cynthia@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gillian Lim Xiu Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gillian_lim_xiu_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gillian_lim_xiu_hui@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Jade Tan Jie Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jade_tan_jie_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jade_tan_jie_heng@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

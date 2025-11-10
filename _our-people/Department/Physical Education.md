@@ -29,15 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chung Wei Peng Joseph (SH/CCA (covering))</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chung_wei_peng_joseph@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_wei_peng_joseph@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Eunice Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,11 +47,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mary Ang</p>
+<p>Mr Ong Wei Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ANG_SER_HUI_MARY@schools.gov" rel="noopener noreferrer nofollow" target="_blank">ANG_SER_HUI_MARY@schools.gov</a>
-<a href="ANG_SER_HUI_MARY@schools.gov.s" rel="noopener noreferrer nofollow" target="_blank">.s</a>
+<p><a href="mailto:ong_wei_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_wei_han@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

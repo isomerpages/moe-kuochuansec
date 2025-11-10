@@ -38,15 +38,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Su Weizhi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Su_weizhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Su_weizhi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Foo Ji Ying Eunice</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,37 +56,100 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Wil Ping</p>
+<p>Mr Benjamin Huang Bojun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Teo_Wil_Ping_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Wil_Ping_B@schools.gov.sg</a>
+<p><a href="mailto:huang_bojun_benjamin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>huang_bojun_benjamin@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Nicky Phua</p>
+<p>Mr Jason Untung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nicky_Phua_Cheng_Liang_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nicky_Phua_Cheng_Liang_A@schools.gov.sg</a>
+<p><a href="mailto:jason_untung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jason_untung@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elaine Ho Kim Yan</p>
+<p>Mr Ng Hao Hiang Herman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Ho_Kim_Yan_C@schools.gov.sg" rel="noopener nofollow" target="_blank">Ho_Kim_Yan_C@schools.gov.sg</a>
+<p><a href="mailto:ng_hao_hiang_herman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_hao_hiang_herman@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jocelyn Kong Phui Yan</p>
+<p>Mr Dylan Raj Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Jocelyn_Kong@schools.gov.sg" rel="noopener nofollow" target="_blank">Jocelyn_Kong@schools.gov.sg</a>
+<p><a href="mailto:dylan_raj_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dylan_raj_singh@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ryan Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ryan_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ryan_loh@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yee Chee Wei David</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yee_chee_wei_david@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yee_chee_wei_david@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Foo Ji Ying Eunice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:foo_ji_ying_eunice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>foo_ji_ying_eunice@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Low Qiao Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Low_Qiao_Xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Low_Qiao_Xuan@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Chua Yi Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Chua_Yi_Jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Chua_Yi_Jun@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cheong Mun Mun Michelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_mun_mun_michelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_mun_mun_michelle@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Suan Neo Doreen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_suan_neo_doreen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_suan_neo_doreen@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
