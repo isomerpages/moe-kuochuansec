@@ -4,7 +4,7 @@ permalink: /virtual-open-house/
 description: ""
 variant: tiptap
 ---
-<h2>Open House</h2><a class="isomer-image-wrapper" href="https://www.kuochuanpresby/virtual-open-house/welcome-to-kcpss/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual Open House/open_house2025.jpg"></a>
+<h2>Open House</h2><a class="isomer-image-wrapper" href="/virtual-open-house/welcome-to-kcpss/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual Open House/open_house2025.jpg"></a>
 <p><strong>KCPSS OPEN HOUSE 2025: PULSE</strong>&nbsp;</p>
 <p><em>Feel the Energy. Find Your Beat.</em>
 </p>
