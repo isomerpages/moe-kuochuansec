@@ -11,22 +11,19 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual Open House/Slide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual Open House/6.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual Open House/Slide3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual Open House/7.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual Open House/Slide4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual Open House/8.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual Open House/Slide5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual Open House/9.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Virtual Open House/Slide6.jpg">
-</div>
 <p></p>
