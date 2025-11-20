@@ -39,7 +39,7 @@ or its predecessor, you are most welcome to join the Kuo Chuan Presbyterian
 Schools Alumni.</p>
 <p>Kindly&nbsp;<strong><a href="https://forms.cloud.microsoft/r/HZAR20Hgwq" rel="noopener noreferrer nofollow" target="_blank">click here</a></strong>&nbsp;for
 the membership application form. Close the window after submit the form
-to return to this page.Any enquiry please email to <a href="mailto:kcpsalumni@gmail.com" rel="noopener noreferrer nofollow" target="_blank">kcpsalumni@gmail.com .</a>
+to return to this page.Any enquiry please email to <a href="mailto:kcpsalumni@outlook.com" rel="noopener noreferrer nofollow" target="_blank">kcpsalumni@outlook.com</a>
 </p>
 <h3>Calendar of Events</h3>
 <p>The KCPS Alumni organised the Alumni dinner after a break of 3 years.&nbsp;
