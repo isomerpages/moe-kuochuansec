@@ -143,7 +143,6 @@ that in a festive season, that they are not forgotten.
 </div>
 <p>Both our teaching and non-teaching staff actively participate in VIA organised
 for staff.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCE/photo5_6_7.jpg">
 </div>
