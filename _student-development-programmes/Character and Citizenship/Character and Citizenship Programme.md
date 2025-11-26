@@ -114,56 +114,21 @@ Singapore and beyond.</p>
 </table>
 <p><strong>2. Value-in-Action</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCE/Image_5.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Kuo%20Chuan%20Experience/CCE/Image_6.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>“Let your light shine”</strong> is aligned to our school’s vision
-“We are to be a School on a Hill, shining a light for all”. Aside from
-benefitting recipients of the VIA activities, student volunteers who let
-their light shine through such activities, can also inspire the rest to
-serve and do good for the community.
-<br>
-<br>The switch located within the phrase <strong>“Let your light shine”</strong> symbolically
-represents the students’ choice to make a difference to other peoples’
-lives. The spotlight in the background represents the collective light
-from the students’ effort in shining their light and brightening up the
-lives of the beneficiaries, one community at a time.The types of effort
-include playing games with the beneficiaries and creating awareness posters
-advocating the improvement of the quality of living of the beneficiaries.
-This is highlighted through photos taken with the beneficiaries below.
+<p>In KCPSS, the VIA curriculum and approach is centred on the theme “Let
+your light shine! Developing a Service Heart IN Everyone!”. In aligning
+to our school’s vision “We are to be a School on a Hill, shining a light
+for all”, VIA is a key CCE student development experience that builds e21CC
+in particular, civic literacy and, hones collaborative and communicative
+skills. The imagery of a shining light powerfully captures the goal of
+enriching the lives of the beneficiaries and empowering VIA representatives
+and student leaders to inspire fellow KCPians to serve and do good for
+the community.</p>
+<p>All cohort VIA projects follow the AAA Model of Action, Awareness and
+Advocacy. Our KCPians will take Action to improve a situation they care
+about, promote Awareness so that others may learn about an important concern
+in the community, and be an Advocate by inspiring and influencing others
+to make a difference to something they care about.</p>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
