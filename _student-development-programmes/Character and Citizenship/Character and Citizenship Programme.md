@@ -128,15 +128,20 @@ Advocacy. Our KCPians will take Action to improve a situation they care
 about, promote Awareness so that others may learn about an important concern
 in the community, and be an Advocate by inspiring and influencing others
 to make a difference to something they care about.</p>
-<p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCE/photo1_2.jpg">
+</div>
+<p>Gifts from the Heart (GFTH) is a signature VIA programme. It provides
+an opportunity for KCPians to develop a heart of empathy and demonstrate
+agape love to the less privileged in the community. Held over the Lunar
+New Year period, GFTH sends a heartwarming message to the beneficiaries
+that in a festive season, that they are not forgotten.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/The%20Kuo%20Chuan%20Experience/CCE/Image_7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCE/photo3_4.jpg">
 </div>
-<p>Lastly, the sunny smiley faces represent the extent to which the impact
-we hope to make on the beneficiaries each time they recall their experience
-with KCPians.</p>
+<p></p>
 <p><strong>3. Sexuality Education (SEd)</strong>
 </p>
 <div class="isomer-image-wrapper">
