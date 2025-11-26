@@ -6,26 +6,46 @@ variant: tiptap
 ---
 <h2>ALUMNI</h2>
 <h3>President's Message</h3>
-<p>Kuo Chuan Presbyterian Schools Alumni founded in 1992, after the Kuo Chuan
-Presbyterian Primary School and Kuo Chuan Presbyterian Secondary School
-were formed with a&nbsp;<strong>Mission</strong>&nbsp;to provide former
-students with opportunities to interact and network, and the schools with
-support to be&nbsp;<strong>Aflame For Truth</strong>&nbsp;in the education
-of their students.</p>
-<p>Although newly organised as a primary and a secondary school, they were
-the successors to two much older schools - the Presbyterian Boys' School
-and the Kuo Chuan Girls's School. The Presbyterian Boys's School was in
-turn the successor to Dryburgh English School and Choon Guan English School.</p>
-<p>Whereas the two sister schools founded by the Presbyterian mission were
-separated by sex, now they are separated according to the level - primary
-or secondary.</p>
-<p>In the past there were the Presbyterian Old Boys' Association and the
-Kuo Chuan Old Girls' Association; the logical conclusion now was to have
-one Association catering to the old students of both schools.</p>
+<p><strong>Kuo Chuan Presbyterian Schools Alumni Association</strong>
+</p>
+<p>Dear Fellow Alumni,</p>
+<p>It is with deep gratitude and great anticipation that I step into the
+role of President of the Kuo Chuan Presbyterian Schools Alumni Association
+— a community that spans generations of Presbyterian Boys, Kuo Chuan Girls,
+Kuo Chuan Presbyterian Schools united by shared memories, values, and a
+school that shaped us profoundly.</p>
+<p>For me, KCPS is more than a school. It is where I shaped my formative
+years, forged lifelong friendships, and met my wife — a fellow alumnus
+— whose journey also began in these very compound. The lessons I learnt
+here, both in and beyond the classroom, continue to guide me today.</p>
+<p>Now, it is time for us — the alumni — to write a new chapter.</p>
+<p>We stand at a pivotal moment. The world is changing rapidly, and so must
+we. I envision a bold transformation of our alumni community: one that
+is vibrant, inclusive, and deeply connected to the heartbeat of the school.
+A community that doesn’t just look back with nostalgia, but steps forward
+with purpose.</p>
+<p>Let us rekindle our ties not just with each other, but with the schools
+and its students walking the same corridors we once did. Let us be mentors,
+supporters, and champions for the next generation. Whether through time,
+talent, or resources, every contribution matters. When we give back, we
+don’t just honour our past — we invest in the future.</p>
+<p>I humbly call on each of you to support my team to make a difference to
+the schools and to our future generations that the schools touches. <strong>Support the schools. Support the students. Pay it forward.</strong>
+</p>
+<p>Together, we can build a legacy of service, generosity, and pride. I invite
+you to join me in this renewed mission — to serve, to uplift, and to inspire.
+As I build my management committee, I like to hear from you, on your ideas
+or if you like to volunteer and join me.</p>
+<p>With faith and fellowship,</p>
+<p><strong>Dennis Chung</strong>
+</p>
+<p>President Kuo Chuan Presbyterian Schools Alumni Association</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">kcpsalumni@outlook.com</a>
+</p>
 <h3>About Us</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Commuity/KCPSA_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Commuity/alumni2025.jpg">
 </div>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
