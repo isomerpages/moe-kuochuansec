@@ -57,6 +57,7 @@ Schools Alumni.</p>
 the membership application form. Close the window after submit the form
 to return to this page.Any enquiry please email to <a href="mailto:kcpsalumni@outlook.com" rel="noopener noreferrer nofollow" target="_blank">kcpsalumni@outlook.com</a>
 </p>
-<p></p>
-<h3></h3>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6JgVltpmRxccbKQeZbx6-TnpCqpIkifCob4UiNgj3pFGk-vdcV8aS4ExTHzM4zVjS_IhvQ2er95bw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
