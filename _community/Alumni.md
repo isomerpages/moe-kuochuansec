@@ -47,10 +47,6 @@ or if you like to volunteer and join me.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Commuity/alumni2025.jpg">
 </div>
-<h3>Gallery</h3>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRP9bXgOx9hpe7y6wnwECvhQ-2a0rxnsPbdXQ1ileu6t-8hevUhjkgLSednj5TjyW8IqcyEv3XnED9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <h3>Join Us</h3>
 <p><strong>How to Join the KCPSA</strong>
 </p>
@@ -61,13 +57,7 @@ Schools Alumni.</p>
 the membership application form. Close the window after submit the form
 to return to this page.Any enquiry please email to <a href="mailto:kcpsalumni@outlook.com" rel="noopener noreferrer nofollow" target="_blank">kcpsalumni@outlook.com</a>
 </p>
-<h3>Calendar of Events</h3>
-<p>The KCPS Alumni organised the Alumni dinner after a break of 3 years.&nbsp;
-From the strong presence and support from the various cohorts, it is evident
-that everyone had a blast of a time!&nbsp; The dinner was held at the Rolands
-Restaurant on Friday, 18 November 2022. Here are some of the snippets of
-the event.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTejTVf97BKSA4hkBmxD2DOBuHuokOvVHWawjaLXmg5g9ZLyhB3IfUjgRCUfLuveKnXNdbAApVKd2KP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6JgVltpmRxccbKQeZbx6-TnpCqpIkifCob4UiNgj3pFGk-vdcV8aS4ExTHzM4zVjS_IhvQ2er95bw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
