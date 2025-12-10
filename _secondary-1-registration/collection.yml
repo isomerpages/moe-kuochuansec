@@ -2,8 +2,8 @@ collections:
   secondary-1-registration:
     output: true
     order:
-      - Sec One Registration (2025)/.keep
-      - Sec One Registration (2025)/Secondary One Registration (2026).md
-      - Sec One Registration (2025)/Essential Information.md
+      - Sec One Registration (2026)/.keep
+      - Sec One Registration (2026)/Secondary One Registration (2026).md
+      - Sec One Registration (2026)/Essential Information.md
       - Appeals for transfer into KCPSS.md
       - FAQS.md
