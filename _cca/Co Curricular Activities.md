@@ -40,8 +40,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/CCA_Deployment_2025_23June25.pdf" rel="noopener nofollow" target="_blank">CCA Deployment Schedule</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/LEAPS2%20Grading%20System.pdf" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0</a>
