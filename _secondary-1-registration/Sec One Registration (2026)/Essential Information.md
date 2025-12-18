@@ -165,9 +165,169 @@ schools’ websites for the instructions on registration.</p>
 </table>
 <p></p>
 <blockquote>
-<p><strong>C. Admin Matters </strong>
+<p><strong>C. Admin Matters</strong>
 </p>
 </blockquote>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Item</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Details</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Purchase of books and uniform</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Vendor: Pacific Bookstores Pte Ltd
+<br>(Tel: 69298012)</p>
+<p></p>
+</li>
+<li>
+<p>Website for online purchase: <a rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+</p>
+</li>
+<li>
+<p>For enquiries on online purchase, email <a rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+</p>
+</li>
+<li>
+<p>The Collection Schedule will be available for online booking upon purchase.
+For walk-in purchase, note that there may be a long queue with a longer
+waiting time to be expected.</p>
+</li>
+<li>
+<p>Operating Hours: 9.00am to 3.00pm (Monday - Friday)</p>
+</li>
+<li>
+<p>Online payment mode: PayNow, Debit Card and VISA/ Mastercard</p>
+</li>
+<li>
+<p>Choose between ‘Home Delivery’ (recommended) or ‘Self-Collection’&nbsp;</p>
+</li>
+<li>
+<p>Delivery fee: $14.90 per location  </p>
+</li>
+</ul>
+<p><strong>Recommended set of school uniform</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School white shirt – 1 piece</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blue Polo T-shirt – 2 to 3 pieces</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School shorts / skirts – 2 to 3
+pieces</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE shorts – 1 to 2 pieces</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; House T-shirt – 1 piece (to purchase
+after the release of your child’s allocated House.&nbsp; Details will be
+made known via a separate PG letter in late-December 2025.)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Health and Dental Services </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Health Promotion Board (HPB) will conduct health screenings, immunisations
+and dental checks for your child/ ward.&nbsp; Your consent is needed for
+your child/ward to receive these important vaccination and dental services.&nbsp;
+Please go to this <a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">link</a><a href="#_msocom_3" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[3]</a>&nbsp; to complete the process.
+<br>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Personal Learning Device (PLD) Initiative</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The National Digital Literacy Programme (NDLP) was launched in March 2020
+to help students strengthen their digital literacy and acquire digital
+skills needed to navigate an increasingly digitalised world.</p>
+<p>Under the NDLP, every secondary school student will own a school-prescribed
+Personal Learning Device (PLD). Students may use funds from their Edusave
+Account to pay for the PLD.</p>
+<p>A separate PG will be sent to seek parental consent for the purchase of
+the Personal Learning Device (“PLD”), the installation of Device Management
+Application (“DMA”) and the accompanying applications that the school may
+be rolling out as part of the National Digital Literacy Programme (“NDLP”).</p>
+<p>Parents who wish to use Edusave funds for the PLD (for Singapore citizens
+only), please submit the online Standing Order (SO) form via <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a> by
+31 Dec 2025.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Locker Service</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click on the <a href="https://docs.google.com/forms/d/e/1FAIpQLSe25tpacRJVD_ELuY9k6p_nkC85lwdoQ3Tne2r224cIPi7Mcw/viewform" rel="noopener noreferrer nofollow" target="_blank">link</a> to
+apply for a locker. Lockers are assigned on a first-come, first-served
+basis.&nbsp; The online application will be closed once all lockers are
+fully occupied.</p>
+<p>Please read the terms and conditions before applying.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE Financial Assistance Scheme (FAS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Submit an online application via Parents Gateway (Services &gt; Financial
+Assistance).&nbsp; Submission of hardcopy and supporting documents are
+no longer required.</p>
+<p>Parents may contact school’s general office or email school at <a rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a>,
+if assistance is required with the online application.</p>
+<p>School office hours are Monday to Friday, between 8am and 5pm.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents Support Group (PSG)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You are welcomed to find out more or sign up for PSG via this <a href="https://forms.moe.edu.sg/forms/vWbpk7" rel="noopener noreferrer nofollow" target="_blank">link</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
