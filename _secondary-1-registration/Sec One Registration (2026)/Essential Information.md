@@ -231,14 +231,25 @@ waiting time to be expected.</p>
 </ul>
 <p><strong>Recommended set of school uniform</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School white shirt – 1 piece</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blue Polo T-shirt – 2 to 3 pieces</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School shorts / skirts – 2 to 3
-pieces</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE shorts – 1 to 2 pieces</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; House T-shirt – 1 piece (to purchase
-after the release of your child’s allocated House.&nbsp; Details will be
-made known via a separate PG letter in late-December 2025.)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School white shirt – 1 piece</p>
+</li>
+<li>
+<p>Blue Polo T-shirt – 2 to 3 pieces</p>
+</li>
+<li>
+<p>School shorts / skirts – 2 to 3 pieces</p>
+</li>
+<li>
+<p>PE shorts – 1 to 2 pieces</p>
+</li>
+<li>
+<p>House T-shirt – 1 piece (to purchase after the release of your child’s
+allocated House.&nbsp; Details will be made known via a separate PG letter
+in late-December 2025.)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -252,7 +263,7 @@ made known via a separate PG letter in late-December 2025.)</p>
 <p>The Health Promotion Board (HPB) will conduct health screenings, immunisations
 and dental checks for your child/ ward.&nbsp; Your consent is needed for
 your child/ward to receive these important vaccination and dental services.&nbsp;
-Please go to this <a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">link</a><a href="#_msocom_3" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[3]</a>&nbsp; to complete the process.
+Please go to this <a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">link</a><a href="#_msocom_3" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank"> </a>to complete the process.
 <br>&nbsp;&nbsp;</p>
 </td>
 </tr>
@@ -307,8 +318,8 @@ fully occupied.</p>
 <p>Submit an online application via Parents Gateway (Services &gt; Financial
 Assistance).&nbsp; Submission of hardcopy and supporting documents are
 no longer required.</p>
-<p>Parents may contact school’s general office or email school at <a rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a>,
-if assistance is required with the online application.</p>
+<p>Parents may contact school’s general office or email school at <a rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a>, if assistance
+is required with the online application.</p>
 <p>School office hours are Monday to Friday, between 8am and 5pm.</p>
 </td>
 </tr>
