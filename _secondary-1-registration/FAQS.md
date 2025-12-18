@@ -118,8 +118,10 @@ at a MDL at the end of 4-5 years, the grades can be used (where relevant)
 in the computation of the aggregate for their courses, e.g. Polytechnic
 Foundation Programme (PFP).</p>
 <p></p>
-<p><strong><u>School Support</u></strong>
+<blockquote>
+<p><strong>School Support</strong>
 </p>
+</blockquote>
 <p><strong>14. Who can I contact regarding support for students with Special Educational Needs (SEN) or counselling?</strong>
 </p>
 <p>For SEN support, contact our Special Education Need Officer, Ms Angelia
