@@ -24,7 +24,9 @@ forth, they will make an impact on others as they serve and glorify our
 Father in heaven.</p>
 <p>Wishing you a blessed Christmas and a season filled with peace, joy and
 hope. See you in the new year!</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZRSv3lE0zbM?si=Ea3YvpEI09EO_G9w"></iframe>
+</div>
 <p></p>
 <p>Mr Justin Tan</p>
 <p>Principal, Kuo Chuan Presbyterian Secondary School</p>
