@@ -38,7 +38,7 @@ hope. See you in the new year!</p>
 Parents Gateway (PG) by Monday, 22 December 2025.</p>
 <p>In the meantime, feel free to visit our school’s social media platforms
 (<a href="https://www.instagram.com/kuo_chuan_presbyterian_sec/" rel="noopener nofollow" target="_blank">Instagram</a>,
-<a href="https://www.facebook.com/KCPSShomepage/" rel="noopener nofollow" target="_blank">Facebook</a>or “<a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/" rel="noopener nofollow" target="_blank">The Kuo Chuan Experience</a>”)
+<a href="https://www.facebook.com/KCPSShomepage/" rel="noopener nofollow" target="_blank">Facebook</a>or “<a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/academics/English/" rel="noopener nofollow" target="_blank">The Kuo Chuan Experience</a>”)
 for information about our school programmes.</p>
 <p>If your child/ ward has not been posted to KCPSS and would like to appeal
 for a school transfer, please complete the online FormSG. You should also
