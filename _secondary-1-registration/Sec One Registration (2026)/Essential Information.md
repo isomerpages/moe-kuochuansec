@@ -107,6 +107,11 @@ on their performance at the end of Secondary 1 Semester 1, the end of Secondary
 <p>You may also refer to <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">MOE’s website on FSBB</a>
 <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp; for more information.</p>
 <p></p>
+<blockquote>
+<p><strong>B. Higher Mother Tongue/ 3rd Language/ Subject Based Banding (SBB) subjects at More Demanding Level</strong>
+</p>
+</blockquote>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
