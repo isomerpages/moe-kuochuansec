@@ -41,7 +41,7 @@ Parents Gateway (PG) by Monday, 22 December 2025.</p>
 <a href="https://www.facebook.com/KCPSShomepage/" rel="noopener nofollow" target="_blank">Facebook</a>or “<a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/academics/English/" rel="noopener nofollow" target="_blank">The Kuo Chuan Experience</a>”)
 for information about our school programmes.</p>
 <p>If your child/ ward has not been posted to KCPSS and would like to appeal
-for a school transfer, please complete the online FormSG. You should also
+for a school transfer, please complete the online <a href="https://go.gov.sg/appeal-kcpss-2026" rel="noopener nofollow" target="_blank">FormSG</a>. You should also
 register your child/ ward with the posted school.</p>
 <hr>
 <p><strong>Secondary 1 Orientation Programme (2-6 January and 9 January 2026)</strong>
