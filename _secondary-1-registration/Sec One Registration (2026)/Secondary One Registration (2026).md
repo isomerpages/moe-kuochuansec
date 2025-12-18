@@ -30,4 +30,17 @@ hope. See you in the new year!</p>
 <p></p>
 <p>Mr Justin Tan</p>
 <p>Principal, Kuo Chuan Presbyterian Secondary School</p>
+<hr>
+<p><strong>Administrative Details</strong>
+</p>
+<p>We will be contacting parents/ guardians of students posted to KCPSS via
+Parents Gateway (PG) by Monday, 22 December 2025.</p>
+<p>In the meantime, feel free to visit our school’s social media platforms
+(<a href="https://www.instagram.com/kuo_chuan_presbyterian_sec/" rel="noopener nofollow" target="_blank">Instagram</a>,
+<a href="https://www.facebook.com/KCPSShomepage/" rel="noopener nofollow" target="_blank">Facebook</a>or “<a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/" rel="noopener nofollow" target="_blank">The Kuo Chuan Experience</a>”)
+for information about our school programmes.</p>
+<p>If your child/ ward has not been posted to KCPSS and would like to appeal
+for a school transfer, please complete the online FormSG. You should also
+register your child/ ward with the posted school.</p>
+<p></p>
 <p></p>
