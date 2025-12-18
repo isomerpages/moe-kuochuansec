@@ -5,7 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>FAQS</h2>
-<h4><strong><u>First Week of School</u></strong></h4>
+<blockquote>
+<h4><strong>First Week of School</strong></h4>
+</blockquote>
 <p><strong>1. What is the assembly and dismissal time on the first day of school?</strong>
 </p>
 <ul data-tight="true" class="tight">
