@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2>Appeals for transfer into KCPSS</h2>
-<p></p>
 <p>Students are centrally posted by MOE. If you wish to appeal, you may do
 so via this <a href="https://go.gov.sg/appeal-kcpss-2026" rel="noopener noreferrer nofollow" target="_blank">online form</a>.
 Applications are subject to available vacancies, and must meet the cut-off
