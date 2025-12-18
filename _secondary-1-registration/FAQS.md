@@ -148,8 +148,10 @@ can still purchase the Bus Concession Pass (BCP) using their Primary level
 SSCs, but they will need to purchase the BCP for Secondary School students.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong><u>School Attire</u></strong>
+<blockquote>
+<p><strong>School Attire</strong>
 </p>
+</blockquote>
 <p><strong>17. What kind of school shoes should students wear?</strong>
 </p>
 <p>Students must wear white shoes with white laces. Only simple, dark/white
