@@ -156,8 +156,7 @@ schools’ websites for the instructions on registration.</p>
 <p>Eligibility to take a subject at a more demanding level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School will send the offer letter to parents via PG<a rel="noopener noreferrer nofollow" target="_blank">.</a>
-</p>
+<p>School will send the offer letter to parents via PG.</p>
 <p>Accept the offer by giving consent via PG.</p>
 </td>
 </tr>
@@ -263,7 +262,7 @@ in late-December 2025.)</p>
 <p>The Health Promotion Board (HPB) will conduct health screenings, immunisations
 and dental checks for your child/ ward.&nbsp; Your consent is needed for
 your child/ward to receive these important vaccination and dental services.&nbsp;
-Please go to this <a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">link</a><a href="#_msocom_3" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank"> </a>to complete the process.
+Please go to this <a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">link </a>to complete the process.
 <br>&nbsp;&nbsp;</p>
 </td>
 </tr>
