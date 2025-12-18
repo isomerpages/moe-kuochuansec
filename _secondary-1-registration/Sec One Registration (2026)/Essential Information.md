@@ -145,7 +145,7 @@ more information.</p>
 PG.</p>
 <p>Successful students for MOE Language Centre (Bishan and Newton) will be
 required to confirm the acceptance of the offer on PG <strong>AND</strong> complete
-the online registration at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg</a>.</p>
+the online registration at <a href="https://www.moelc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg</a>.</p>
 <p>Successful students for Malay Special Programme (MSP) and Chinese Special
 Programme (CSP) at Zonal Centres are required to refer to the respective
 schools’ websites for the instructions on registration.</p>
