@@ -317,7 +317,7 @@ fully occupied.</p>
 <p>Submit an online application via Parents Gateway (Services &gt; Financial
 Assistance).&nbsp; Submission of hardcopy and supporting documents are
 no longer required.</p>
-<p>Parents may contact school’s general office or email school at <a href="kcpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a>,
+<p>Parents may contact school’s general office or email school at <a href="mailto:kcpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a>,
 if assistance is required with the online application.</p>
 <p>School office hours are Monday to Friday, between 8am and 5pm.</p>
 </td>
