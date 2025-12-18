@@ -42,5 +42,17 @@ for information about our school programmes.</p>
 <p>If your child/ ward has not been posted to KCPSS and would like to appeal
 for a school transfer, please complete the online FormSG. You should also
 register your child/ ward with the posted school.</p>
+<hr>
+<p><strong>Secondary 1 Orientation Programme (2-6 January and 9 January 2026)</strong>
+</p>
+<p>Your child/ ward will begin his/ her journey as a KCPian in an Orientation
+Programme during the first two weeks of school.</p>
+<p>To journey with parents/ guardians of KCPians, our Principal, Mr Justin
+Tan, warmly invites you to the parents engagement session: Supporting Your
+Child in Secondary School on <strong>Saturday, 17 January 2026, 9am to 11am in the school auditorium (Level 2)</strong>.
+During this session, information relevant for Sec 1s will be shared, including
+transition support and the Sec 1 Camp.</p>
+<p>Please register at <a href="https://go.gov.sg/kcpss-s1engage2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcpss-s1engage2026</a> by
+14 January 2026.</p>
 <p></p>
 <p></p>
