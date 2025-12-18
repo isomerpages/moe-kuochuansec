@@ -27,9 +27,10 @@ hope. See you in the new year!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZRSv3lE0zbM?si=Ea3YvpEI09EO_G9w"></iframe>
 </div>
-<p></p>
 <p>Mr Justin Tan</p>
 <p>Principal, Kuo Chuan Presbyterian Secondary School</p>
+<p></p>
+<p></p>
 <hr>
 <p><strong>Administrative Details</strong>
 </p>
