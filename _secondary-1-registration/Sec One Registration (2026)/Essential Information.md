@@ -41,26 +41,26 @@ Mathematics and Science at a more demanding level from the start of Secondary
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Indicative level of most subjects at start of S1</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>PSLE Standard grade</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>PSLE Foundation grade</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Option to offer subject at</strong>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>G2</strong>
+<p><strong>G1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,7 +75,7 @@ Mathematics and Science at a more demanding level from the start of Secondary
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>G1</strong>
+<p><strong>G2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
