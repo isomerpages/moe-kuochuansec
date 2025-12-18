@@ -163,8 +163,6 @@ schools’ websites for the instructions on registration.</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
