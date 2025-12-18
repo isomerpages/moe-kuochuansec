@@ -203,11 +203,11 @@ schools’ websites for the instructions on registration.</p>
 <p></p>
 </li>
 <li>
-<p>Website for online purchase: <a rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+<p>Website for online purchase: <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
 </p>
 </li>
 <li>
-<p>For enquiries on online purchase, email <a rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+<p>For enquiries on online purchase, email <a href="sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
 </p>
 </li>
 <li>
