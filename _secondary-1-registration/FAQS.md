@@ -65,7 +65,7 @@ choice to request for a transfer.</p>
 please submit your appeal by 12pm on 22 December 2025.&nbsp; All appeals
 must be accompanied by relevant supporting documents, such as medical reports,
 letters from doctors. If you are unable to do so, you can submit your appeal
-and documents via email at <em><a rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a></em>.</p>
+and documents via email at <em><a href="mailto:kcpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a></em>.</p>
 <p></p>
 <blockquote>
 <p><strong>Full Subject-Based Banding</strong>
@@ -125,9 +125,9 @@ Foundation Programme (PFP).</p>
 <p><strong>14. Who can I contact regarding support for students with Special Educational Needs (SEN) or counselling?</strong>
 </p>
 <p>For SEN support, contact our Special Education Need Officer, Ms Angelia
-Ng at <a rel="noopener noreferrer nofollow" target="_blank">ng_sian_erh_angelia@schools.gov.sg</a>.</p>
+Ng at <a href="mailto:ng_sian_erh_angelia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sian_erh_angelia@schools.gov.sg</a>.</p>
 <p>For counselling support, contact our School Counsellor, Mr Joey Hong at
-<a rel="noopener noreferrer nofollow" target="_blank">joey_hong@schools.gov.sg</a>.&nbsp;</p>
+<a href="mailto:joey_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joey_hong@schools.gov.sg</a>.&nbsp;</p>
 <p></p>
 <p><strong>15. How can I apply for MOE Financial Assistance/ School-Based Financial Assistance?</strong>
 </p>
@@ -135,7 +135,7 @@ Ng at <a rel="noopener noreferrer nofollow" target="_blank">ng_sian_erh_angelia@
 Assistance). Submission of hardcopy and supporting documents are no longer
 required.</p>
 <p>Parents may contact the school’s general office or email the school at
-<a rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a>, if you require assistance in the online application.</p>
+<a href="mailto:kcpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a>, if you require assistance in the online application.</p>
 <p>School office hours are Monday to Friday, between 8am and 5pm.</p>
 <p></p>
 <p><strong>16. Will my child/ ward be issued with a new School Smart Card when term starts?</strong>
