@@ -103,8 +103,8 @@ Mathematics and Science at a more demanding level from the start of Secondary
 </table>
 <p>Students may also offer the subjects above at a more demanding level based
 on their performance at the end of Secondary 1 Semester 1, the end of Secondary
-1 Semester 2, at the end of Secondary 2 Semester 2.</p>
-<p>You may also refer to <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">MOE’s website on FSBB</a>for
+1 Semester 2, and at the end of Secondary 2 Semester 2.</p>
+<p>You may also refer to <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">MOE’s website on FSBB </a>for
 more information.</p>
 <p></p>
 <blockquote>
