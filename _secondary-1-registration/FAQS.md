@@ -8,14 +8,21 @@ variant: tiptap
 <h4><strong><u>First Week of School</u></strong></h4>
 <p><strong>1. What is the assembly and dismissal time on the first day of school?</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school term begins on <strong>Friday, 2 Jan 2026 (Week 0)</strong>.&nbsp;
+<ul data-tight="true" class="tight">
+<li>
+<p>The school term begins on <strong>Friday, 2 Jan 2026 (Week 0)</strong>.&nbsp;
 Students are to report at the <strong>school concourse</strong> by <strong>7.30am</strong> and
-will be dismissed at <strong>1.20pm</strong>. </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More details about the Orientation
-Programme (2, 5, 6 and 9 Jan 2026) will be shared via Parents Gateway (PG).</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For regular school days, students
-report at the assembly venue punctually by 7.30am (8.30am on Tuesdays).
-Dismissal timings may differ.</p>
+will be dismissed at <strong>1.20pm</strong>.</p>
+</li>
+<li>
+<p>More details about the Orientation Programme (2, 5, 6 and 9 Jan 2026)
+will be shared via Parents Gateway (PG).</p>
+</li>
+<li>
+<p>For regular school days, students report at the assembly venue punctually
+by 7.30am (8.30am on Tuesdays). Dismissal timings may differ.</p>
+</li>
+</ul>
 <p></p>
 <p><strong>2. What do students need to bring for the Orientation Programme?</strong>
 </p>
@@ -33,8 +40,10 @@ report to school in their Primary School uniform.</p>
 staff.&nbsp; Please park at the nearest HDB carpark opposite the school
 if you are unable to find a parking lot.</p>
 <p></p>
-<p><strong><u>Secondary One Registration</u></strong>
+<blockquote>
+<p><strong>Secondary One Registration</strong>
 </p>
+</blockquote>
 <p><strong>5. How does my child/ ward register for Secondary One registration if I am not onboard Parents Gateway (PG)?</strong>
 </p>
 <p>The school disseminates messages to parents via PG.&nbsp; Parents can
@@ -141,6 +150,4 @@ SSCs, but they will need to purchase the BCP for Secondary School students.</p>
 <p>Students must wear white shoes with white laces. Only simple, dark/white
 coloured (i.e., black, grey, white) patterns or logos are allowed for sport
 shoes.</p>
-<hr>
-<p></p>
 <p></p>
