@@ -111,6 +111,59 @@ on their performance at the end of Secondary 1 Semester 1, the end of Secondary
 <p><strong>B. Higher Mother Tongue/ 3rd Language/ Subject Based Banding (SBB) subjects at More Demanding Level</strong>
 </p>
 </blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Details</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eligibility for Higher Mother Tongue (HMT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School will send relevant form(s) via PG to students <strong>who have been offered</strong>.</p>
+<p>Accept the offer by giving consent via PG.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Application for 3<sup>rd</sup> Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School will send a notification to students <strong>who have been offered</strong> via
+PG.</p>
+<p>Successful students for MOE Language Centre (Bishan and Newton) will be
+required to confirm the acceptance of the offer on PG <strong>AND</strong> complete
+the online registration at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg</a>.</p>
+<p>Successful students for Malay Special Programme (MSP) and Chinese Special
+Programme (CSP) at Zonal Centres are required to refer to the respective
+schools’ websites for the instructions on registration.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eligibility to take a subject at a more demanding level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School will send the offer letter to parents via PG<a rel="noopener noreferrer nofollow" target="_blank">.</a>
+</p>
+<p>Accept the offer by giving consent via PG.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <p></p>
 <p></p>
 <p></p>
