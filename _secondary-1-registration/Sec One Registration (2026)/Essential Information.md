@@ -207,7 +207,7 @@ schools’ websites for the instructions on registration.</p>
 </p>
 </li>
 <li>
-<p>For enquiries on online purchase, email <a href="sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+<p>For enquiries on online purchase, email <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
 </p>
 </li>
 <li>
