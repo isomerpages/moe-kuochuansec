@@ -106,8 +106,6 @@ on their performance at the end of Secondary 1 Semester 1, the end of Secondary
 1 Semester 2, at the end of Secondary 2 Semester 2.</p>
 <p>You may also refer to <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">MOE’s website on FSBB</a>
 <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp; for more information.</p>
-<hr>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
