@@ -67,15 +67,16 @@ must be accompanied by relevant supporting documents, such as medical reports,
 letters from doctors. If you are unable to do so, you can submit your appeal
 and documents via email at <em><a rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a></em>.</p>
 <p></p>
-<p><strong><u>Full Subject-Based Banding</u></strong>
+<blockquote>
+<p><strong>Full Subject-Based Banding</strong>
 </p>
+</blockquote>
 <p><strong>8.</strong>&nbsp; <strong>How will Full SBB affect my child’s post-sec pathways?</strong>
 </p>
 <p>Students will&nbsp; progress over 4/ 5 years of secondary education to
 take the Secondary Education Certificate (SEC) Examination.</p>
 <p>More details on the admissions to various post-secondary pathways can
-be obtained from <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">MOE’s website on FSBB</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp;.</p>
+be obtained from <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">MOE’s website on FSBB</a>.</p>
 <p></p>
 <p><strong>9. Are students allowed to opt out of various aspects of Full SBB (e.g., mixed form classes)?</strong>
 </p>
