@@ -285,7 +285,7 @@ the Personal Learning Device (“PLD”), the installation of Device Management
 Application (“DMA”) and the accompanying applications that the school may
 be rolling out as part of the National Digital Literacy Programme (“NDLP”).</p>
 <p>Parents who wish to use Edusave funds for the PLD (for Singapore citizens
-only), please submit the online Standing Order (SO) form via <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a> by
+only), please submit the online Standing Order (SO) form via <a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a> by
 31 Dec 2025.</p>
 </td>
 </tr>
