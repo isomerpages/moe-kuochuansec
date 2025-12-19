@@ -53,7 +53,7 @@ Tan, warmly invites you to the parents engagement session: Supporting Your
 Child in Secondary School on <strong>Saturday, 17 January 2026, 9am to 11am in the school auditorium (Level 2)</strong>.
 During this session, information relevant for Sec 1s will be shared, including
 transition support and the Sec 1 Camp.</p>
-<p>Please register at <a href="https://go.gov.sg/kcpss-s1engage2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcpss-s1engage2026</a> by
+<p>Please register for the parents engagement session at <a href="https://go.gov.sg/kcpss-s1engage2026" rel="noopener noreferrer nofollow" target="_blank">htps://go.gov.sg/kcpss-s1engage2026</a> by
 14 January 2026.</p>
 <p></p>
 <p></p>
