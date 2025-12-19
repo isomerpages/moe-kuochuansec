@@ -19,6 +19,8 @@ sections:
           description: ""
           url: /espoir-school-publication/
       variant: center
+      button: Secondary 1 Registration
+      url: /secondary-1-registration/secondary-one-registration-2026/
   - resources:
       title: Announcements
       button: Click Here
