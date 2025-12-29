@@ -30,3 +30,7 @@ weighted assessment schedule.</p>
 <h3>Parent Engagement Session</h3>
 <p>Click for <a href="https://go.gov.sg/parent-engagement-resources" rel="noopener nofollow" target="_blank">HERE</a> Parent
 Engagement Recourses.</p>
+<p></p>
+<h3>Group Personal Accident (GPA) Insurance Plan for Students</h3>
+<p></p>
+<p></p>
