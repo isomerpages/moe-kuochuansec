@@ -33,4 +33,7 @@ Engagement Recourses.</p>
 <p></p>
 <h3>Group Personal Accident (GPA) Insurance Plan for Students</h3>
 <p></p>
-<p></p>
+<p><a href="/files/Useful Links/Parents/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (2025)</a>
+</p>
+<p><a href="/files/Useful Links/Parents/GPA_Insurance_for_Students_e_Submission_User_Guide.pdf" rel="noopener nofollow" target="_blank">GPA Insurance for Student (e-Submission Guide)</a>
+</p>
