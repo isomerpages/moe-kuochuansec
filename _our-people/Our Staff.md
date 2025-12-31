@@ -197,6 +197,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zack Sow Chai Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="sow_chai_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">sow_chai_huat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head / Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,14 +233,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zack Sow Chai Huat</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="sow_chai_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">sow_chai_huat@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
