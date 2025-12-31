@@ -161,6 +161,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Mother Tongue (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nam Tin Yuen, Cheri&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD&nbsp; PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,14 +197,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD&nbsp; ICT</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jocelyn Jockhim</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jocelyn_jockhim@schools.gov.sg" rel="noopener nofollow" target="_blank">jocelyn_jockhim@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -277,14 +288,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Aesthetics</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Esther Tay</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yong_yin_yin_esther@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -336,13 +346,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Mother Tongue (Covering)</p>
+<p>SH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nam Tin Yuen, Cheri&nbsp;</p>
+<p>Miss Yong Kian Yi Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a>
+<p><a href="kian_yi_rachel_yong@schools.gov.sg" rel="noopener nofollow" target="_blank">kian_yi_rachel_yong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -360,29 +370,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Esther Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yong_yin_yin_esther@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH CCA (Covering)</p>
+<p>SH&nbsp; ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jocelyn Jockhim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jocelyn_jockhim@schools.gov.sg" rel="noopener nofollow" target="_blank">jocelyn_jockhim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Std Leadership (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chua Suet Ting Joyce&nbsp;</p>
@@ -413,6 +425,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_soon_chye@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH SWB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Moritza Lim Fang Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:moritza_lim_fang_min@schools.gov.sg" rel="noopener nofollow" target="_blank">moritza_lim_fang_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>
