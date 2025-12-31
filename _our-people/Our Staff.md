@@ -514,7 +514,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST PE</p>
+<p>Senior Teacher PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Yeo Xiao Si Eunice</p>
@@ -526,13 +526,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior Teacher MTL (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Norhajjarrillah Bte Abdul Baki</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg" rel="noopener nofollow" target="_blank">norhajjarrillah_abdul_baki@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
