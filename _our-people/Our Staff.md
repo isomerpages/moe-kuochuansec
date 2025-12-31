@@ -454,6 +454,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lead Teacher Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teh Ting Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="teh_ting_ting@schools.gov.sg" rel="noopener nofollow" target="_blank">teh_ting_ting@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher&nbsp; Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
