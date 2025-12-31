@@ -212,21 +212,11 @@ variant: tiptap
 <p>Year Head / Lower Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Cheung Ho Wai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD&nbsp; Student Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">cheung_ho_wai@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -234,10 +224,10 @@ variant: tiptap
 <p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cheung Ho Wai</p>
+<p>Mr Zack Sow Chai Huat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">cheung_ho_wai@schools.gov.sg</a>
+<p><a href="sow_chai_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">sow_chai_huat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
