@@ -233,13 +233,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Asst YH / Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Cheong Peiling Jollyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:jollyn_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jollyn_cheong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst YH / Lower Secondary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Wong Yin Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">wong_yin_mei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -347,26 +360,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst YH / Upper Secondary</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ho Shiao Hwee</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Ho_Shiao_Hwee@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst YH / Lower Secondary</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Wong Yin Mei</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_yin_mei@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
