@@ -101,21 +101,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Kang Jian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kang_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kang_jian@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Fion Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:fion_tan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fion_tan_a@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<p>Mr</p>
