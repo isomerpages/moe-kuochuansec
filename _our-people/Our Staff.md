@@ -794,7 +794,8 @@ variant: tiptap
 <p>Miss Maria Immaculate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:maria_immaculate_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maria_immaculate_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
