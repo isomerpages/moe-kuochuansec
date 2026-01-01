@@ -20,10 +20,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Khoo Kian Seong Kenneth (HOD-PE/CCA)</p>
+<p>Mr Lim Kar Keng Alvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khoo_kian_seong_kenneth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_kian_seong_kenneth@schools.gov.sg</a>
+<p><a href="mailto:lim_kar_keng_alvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_kar_keng_alvin@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
