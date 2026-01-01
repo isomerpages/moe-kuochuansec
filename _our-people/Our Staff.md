@@ -874,7 +874,7 @@ variant: tiptap
 <p>S3 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Kway Yuan Tern Kenneth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -885,7 +885,7 @@ variant: tiptap
 <p>S3 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ravathi d/o Velayuthan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -896,7 +896,7 @@ variant: tiptap
 <p>S3 JOY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Leo Celia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -907,7 +907,7 @@ variant: tiptap
 <p>S3 JOY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Chan Ann Gee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -918,7 +918,7 @@ variant: tiptap
 <p>S3 JOY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Liew Wan Jia (Untrained)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -929,7 +929,18 @@ variant: tiptap
 <p>S3 LOVE</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Teh Ting Ting</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S3 LOVE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ting Shi Yun (T3 onwards)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -940,7 +951,7 @@ variant: tiptap
 <p>S3 PEACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Loo Sze Yen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -951,7 +962,7 @@ variant: tiptap
 <p>S3 PEACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Moritza Lim Fang Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -962,7 +973,7 @@ variant: tiptap
 <p>S3 GRACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Foo Ji Ying Eunice&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -973,7 +984,7 @@ variant: tiptap
 <p>S3 GRACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Yeo Yong Kang (untrained)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -984,7 +995,7 @@ variant: tiptap
 <p>S3 HOPE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lau Chee Keen Paul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -995,7 +1006,7 @@ variant: tiptap
 <p>S3 HOPE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Jocelyn Jockhim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1006,7 +1017,7 @@ variant: tiptap
 <p>S3 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Cheong Hwee Leng nee Sek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1017,7 +1028,7 @@ variant: tiptap
 <p>S3 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chang Meng Hsia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1028,7 +1039,7 @@ variant: tiptap
 <p>S4 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Kang Joo Geok Rebecca</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1039,7 +1050,7 @@ variant: tiptap
 <p>S4 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Koh Li Eng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1050,7 +1061,7 @@ variant: tiptap
 <p>S4 JOY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Sivasankari Pravin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1061,7 +1072,7 @@ variant: tiptap
 <p>S4 JOY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Neo Yining</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1072,7 +1083,18 @@ variant: tiptap
 <p>S4 LOVE</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Fazliana Bte Pairin</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S4 LOVE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Yi Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1083,7 +1105,7 @@ variant: tiptap
 <p>S4 PEACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Teo Shu Yen nee Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1094,7 +1116,7 @@ variant: tiptap
 <p>S4 PEACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Jason Untung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1105,7 +1127,7 @@ variant: tiptap
 <p>S4 GRACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Low Qiao Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1116,7 +1138,7 @@ variant: tiptap
 <p>S4 GRACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Sim Wee Siong Isaac</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1127,7 +1149,18 @@ variant: tiptap
 <p>S4 HOPE</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Ong Wei Han</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S4 HOPE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tang Lai Chan nee Tham</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1138,7 +1171,7 @@ variant: tiptap
 <p>S4 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr See Poo Leng Jeremy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1149,7 +1182,7 @@ variant: tiptap
 <p>S4 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Norhajjarrillah Bte Abdul Baki</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1160,7 +1193,18 @@ variant: tiptap
 <p>S5 RESILIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Chan Yew Fai Samuel</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S5 PERSEVERANCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norhajjarrillah Bte Abdul Baki(Jan 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
