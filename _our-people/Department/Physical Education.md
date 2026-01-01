@@ -20,7 +20,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kar Keng Alvin</p>
+<p>Mr Lim Kar Keng Alvin (HOD-PE/CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_kar_keng_alvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_kar_keng_alvin@schools.gov.sg</u></a>
@@ -42,6 +42,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_suet_ting_joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_suet_ting_joyce@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Zack Sow Chai Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/our-people/our-staff/sow_chai_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sow_chai_huat@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
