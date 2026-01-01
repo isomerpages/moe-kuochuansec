@@ -155,6 +155,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Neo Yining</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:neo_yining@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>neo_yining@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Teo Will Ping</p>
 </td>
 <td rowspan="1" colspan="1">
