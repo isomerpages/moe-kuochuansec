@@ -587,7 +587,7 @@ variant: tiptap
 <p>S1 LOVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lau Pui Lye Kathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -598,7 +598,8 @@ variant: tiptap
 <p>S1 LOVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Foo Hui Cheng, Candee
+<br>(T3 onwards)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -609,7 +610,7 @@ variant: tiptap
 <p>S1 PEACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Lee Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -620,7 +621,7 @@ variant: tiptap
 <p>S1 PEACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Chiz Poh Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -631,7 +632,7 @@ variant: tiptap
 <p>S1 GRACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mathivanan Kadarkarai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -642,7 +643,7 @@ variant: tiptap
 <p>S1 GRACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Chua Suet Ting Joyce</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -653,7 +654,7 @@ variant: tiptap
 <p>S1 HOPE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Quek Imm Ki</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -664,7 +665,7 @@ variant: tiptap
 <p>S1 HOPE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>K Sangavi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -675,7 +676,7 @@ variant: tiptap
 <p>S1 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Liang Ruishan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -686,40 +687,7 @@ variant: tiptap
 <p>S1 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S1 TRUTH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S1 TRUTH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S1 TRUTH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Yu Xiaoqin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -730,7 +698,7 @@ variant: tiptap
 <p>S2 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Jade Tan Jie Heng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -741,7 +709,7 @@ variant: tiptap
 <p>S2 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Benjamin Huang Bojun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -752,7 +720,7 @@ variant: tiptap
 <p>S2 JOY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Cassandra Christopher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -763,7 +731,7 @@ variant: tiptap
 <p>S2 JOY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Tay Yin Yin Esther nee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -774,7 +742,7 @@ variant: tiptap
 <p>S2 LOVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Tham Hwee Ling Grace nee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -785,7 +753,7 @@ variant: tiptap
 <p>S2 LOVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Dylan Raj Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -796,7 +764,7 @@ variant: tiptap
 <p>S2 PEACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Yeo Xiao Si Eunice</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -807,7 +775,7 @@ variant: tiptap
 <p>S2 PEACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Teo Wei Tian Charlene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -818,7 +786,7 @@ variant: tiptap
 <p>S2 GRACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Maria Immaculate</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -829,7 +797,7 @@ variant: tiptap
 <p>S2 GRACE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Herman Ng Hao Hiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -840,7 +808,7 @@ variant: tiptap
 <p>S2 HOPE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Siaw Chong Edwin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -851,7 +819,7 @@ variant: tiptap
 <p>S2 HOPE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ho Chan Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -862,7 +830,7 @@ variant: tiptap
 <p>S2 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Chee Yoong Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -873,18 +841,7 @@ variant: tiptap
 <p>S2 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S2 PRAISE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Chia Cheng Meng Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -895,7 +852,7 @@ variant: tiptap
 <p>S2 TRUTH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ho Yew Kiat Brian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -906,7 +863,7 @@ variant: tiptap
 <p>S2 TRUTH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Yong Kian Yi Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
