@@ -34,6 +34,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Cheong Peiling Jollyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jollyn_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jollyn_cheong@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Siaw Chong Edwin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,6 +84,15 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teh Ting Ting (LT Art)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/our-people/our-staff/teh_ting_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teh_ting_ting@schools.gov.sg</u></a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
