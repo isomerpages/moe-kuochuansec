@@ -29,15 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Patrick Goh (YH Lower Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_boon_loon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_boon_loon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Brian Ho Yew Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,24 +74,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wilson Sitoh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sitoh_wei_sheng_wilson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sitoh_wei_sheng_wilson@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Chong Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chong_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chong_min@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Loo Yen Li</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,6 +114,33 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="ong_yi_pin@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_yi_pin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tong Bee Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tong_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tong_bee_yen@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quek Beng Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:quek_beng_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>quek_beng_hong_a@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Soon Peng Raymond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_soon_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_soon_peng@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

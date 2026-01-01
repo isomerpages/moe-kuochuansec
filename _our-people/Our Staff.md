@@ -1427,7 +1427,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MTL\/CL</p>
+<p>MTL/CL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kang Jian</p>

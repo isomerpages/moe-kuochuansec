@@ -14,9 +14,8 @@ variant: tiptap
 <br>
 </p>
 <h3>Reference</h3>
-<p><a href="https://go.gov.sg/kcpsssdh" rel="noopener nofollow" target="_blank">Student Handbook</a>
+<p><a href="/files/Useful Links/Student/KCPSS_Student_Handbook_2026__vJan__web.pdf" rel="noopener nofollow" target="_blank">Student Handbook</a>
 </p>
-<p></p>
 <h4>Application Forms</h4>
 <p><a href="https://go.gov.sg/kuochuansecloa" rel="noopener noreferrer nofollow" target="_blank">Leave of Absent (LOA)</a>
 </p>
