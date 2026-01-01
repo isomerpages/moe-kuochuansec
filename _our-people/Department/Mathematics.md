@@ -110,6 +110,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Ting Shi Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ting_shi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ting_shi_yun@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Foo Hui Cheng, Candee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Yong Kian Yi Rachel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.kuochuanpresbyteriansec.moe.edu.sg/our-people/our-staff/kian_yi_rachel_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kian_yi_rachel_yong@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ong Yi Pin</p>
 </td>
 <td rowspan="1" colspan="1">
