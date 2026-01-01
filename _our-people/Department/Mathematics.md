@@ -122,7 +122,8 @@ variant: tiptap
 <p>Tong Bee Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tong_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tong_bee_yen@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +131,17 @@ variant: tiptap
 <p>Quek Beng Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:quek_beng_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>quek_beng_hong_a@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Soon Peng Raymond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_soon_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_soon_peng@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
