@@ -20,6 +20,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nam Tin Yuen (HOD-MT (Covering))</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nam_tin_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Yu Xiaoqin (Senior Teacher)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,15 +47,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nam Tin Yuen (SH Mother Tongue (Covering))</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nam_tin_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Chang Meng Hsia (Chinese Lang)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,7 +56,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhajjarillah (Malay Lang)</p>
+<p>Mdm Norhajjarillah (ST MTL Covering))</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhajjarrillah_abdul_baki@schools.gov.sg</a>
@@ -83,10 +83,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nam Tin Yuen (Chinese Lang)</p>
+<p>Mr Ngm Yew Fai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nam_tin_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a>
+<p><a href="mailto:ngm_yew_fai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ngm_yew_fai@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
