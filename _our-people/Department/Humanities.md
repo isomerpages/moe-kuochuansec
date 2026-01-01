@@ -65,24 +65,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Amelia Chong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Amelia_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Amelia_chong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Cynthia Tan Jia Ning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jia_ning_cynthia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_jia_ning_cynthia@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Gillian Lim Xiu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,6 +79,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jade_tan_jie_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jade_tan_jie_heng@schools.gov.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
