@@ -120,10 +120,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Victoria Liying Pathirana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Victoria_Liying_Pathirana_F@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Victoria_Liying_Pathirana_F@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jean-Marie Shanthi d/o Alagu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Jeanmarie_Shanthi_Alagu_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Jeanmarie_Shanthi_Alagu_A@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Soumya Poduval</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIL</p>
 </td>
 </tr>
 </tbody>
