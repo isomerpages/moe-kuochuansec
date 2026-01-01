@@ -146,10 +146,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Suan Neo Doreen</p>
+<p>Ms Teo Will Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_suan_neo_doreen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_suan_neo_doreen@schools.gov.sg</u></a>
+<p><a href="mailto:teo_wil_ping_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_wil_ping_b@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
