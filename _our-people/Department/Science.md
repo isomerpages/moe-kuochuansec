@@ -128,6 +128,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Liang Ruishan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liang_ruishan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>liang_ruishan@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Chua Yi Jun</p>
 </td>
 <td rowspan="1" colspan="1">
