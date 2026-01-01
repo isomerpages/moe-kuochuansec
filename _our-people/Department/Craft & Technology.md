@@ -25,15 +25,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Chee Yong (HOD/ SSD)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_chee_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chee_yong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Kelvin Chia Cheng Meng (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,27 +43,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Png Siew Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:png_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">png_siew_hoon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr James Lau (Workshop Instructor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:james_lau_kam_fatt@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_lau_kam_fatt@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -87,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ciz Poh Seng</p>
+<p>Mr Chiz Poh Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chiz_poh_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chiz_poh_seng@schools.gov.sg</u></a>
