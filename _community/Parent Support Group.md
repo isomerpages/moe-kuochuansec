@@ -12,7 +12,7 @@ variant: tiptap
 <h3>Join Us</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/PSG/psg2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/PSG/psg2026.jpg">
 </div>
 <p>Please register at&nbsp;<strong><a href="https://forms.moe.edu.sg/forms/vWbpk7" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;.</p>
 <h3>Chairperson's message</h3>
