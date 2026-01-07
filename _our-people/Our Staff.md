@@ -937,7 +937,8 @@ variant: tiptap
 <p>Ms Lew Wan Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lew_wan_jia@schools.gov.sg</p>
+<p><a href="mailto:lew_wan_jia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lew_wan_jia@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
