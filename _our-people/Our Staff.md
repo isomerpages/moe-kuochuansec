@@ -1349,7 +1349,7 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Yi Pin</p>
+<p>Ms Ong Yi Pin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_yi_pin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yi_pin@schools.gov.sg</a>
@@ -1361,7 +1361,7 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tong Bee Yen</p>
+<p>Mr Tong Bee Yen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tong_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_bee_yen@schools.gov.sg</a>
