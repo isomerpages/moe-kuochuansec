@@ -31,7 +31,7 @@ variant: tiptap
 <p>Vice Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Pui Wah</p>
+<p>Deacon Loh Pui Wah</p>
 </td>
 </tr>
 <tr>
