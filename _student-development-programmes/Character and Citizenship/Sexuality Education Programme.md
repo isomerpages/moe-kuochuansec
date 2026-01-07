@@ -12,5 +12,5 @@ the Sexuality Education Programme will be taught in 2026:</p>
 file (updated as of 7 JAN 2026).</p>
 <p>Click <a href="/files/Parent_Opt_Out_Form_Hardcopy_2026.pdf" rel="noopener nofollow" target="_blank">HERE</a> for
 Sexuality Education opt-out form.</p>
-<p>Click <a href="/files/eTeens_Parents_Opt_out_Form__Sec__HPB__2025.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="/files/eTeens_Parents_Opt_out_Form__Sec__CDA_for_2026.pdf" rel="noopener nofollow" target="_blank">HERE</a>for eTeens programme opt-out form (<em>applicable for Secondary 3 student only</em>).</p>
+<p>Click <a href="/files/eTeens_Parents_Opt_out_Form__Sec__CDA_for_2026.pdf" rel="noopener nofollow" target="_blank">HERE</a>for
+eTeens programme opt-out form (<em>applicable for Secondary 3 student only</em>).</p>
