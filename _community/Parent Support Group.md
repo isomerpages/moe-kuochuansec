@@ -10,7 +10,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20People/PSG%202.jpg">
 </div>
 <h3>Join Us</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/PSG/psg2026.jpg">
 </div>
