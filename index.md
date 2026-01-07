@@ -19,17 +19,7 @@ sections:
           description: ""
           url: /espoir-school-publication/
       variant: center
-      button: Secondary 1 Registration
-      url: /secondary-1-registration/secondary-one-registration-2026/
   - resources:
       title: Announcements
       button: Click Here
-  - infopic:
-      title: KCPulse
-      id: infopic
-      description: Open House 2025
-      image: /images/MOTD_KCPSS_Open_House_2025.jpg
-      button: Webinar Registration
-      url: https://www.kuochuanpresbyteriansec.moe.edu.sg/webinar-registration/
-      alt: Open House 2025
 ---
