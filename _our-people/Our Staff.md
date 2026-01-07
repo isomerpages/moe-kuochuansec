@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice - Principal</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Chui Eng (Mrs Chee)</p>
@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice - Principal</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eka Tanu</p>
@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice - Principal Admin</p>
+<p>Vice-Principal Admin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Phang Teck King, James</p>
@@ -173,7 +173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD&nbsp; PE &amp; CCA</p>
+<p>HOD&nbsp; PE &amp; CCA (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alvin Lim Kar Keng</p>
@@ -185,7 +185,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD&nbsp; CCE</p>
+<p>HOD&nbsp;CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Say Pin</p>
@@ -193,17 +193,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_say_pin@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -408,7 +397,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH SWB</p>
+<p>SH Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Moritza Lim Fang Min</p>
@@ -818,7 +807,7 @@ variant: tiptap
 <p>Mr Tan Siaw Chong Edwin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hao_hiang_herman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hao_hiang_herman@schools.gov.sg</a>
+<p><a href="mailto:tan_siaw_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siaw_chong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
