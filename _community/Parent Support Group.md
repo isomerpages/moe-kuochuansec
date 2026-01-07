@@ -14,7 +14,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/PSG/psg2025.jpg">
 </div>
-<p>Please register at&nbsp;<strong><a href="https://go.gov.sg/kcpss-psgmember-registration-form" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;.</p>
+<p>Please register at&nbsp;<strong><a href="https://forms.moe.edu.sg/forms/vWbpk7" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;.</p>
 <h3>Chairperson's message</h3>
 <p>Dear Parents of KCPian,</p>
 <p>On behalf of the Parent Support Group (PSG) Committee, I would like to
