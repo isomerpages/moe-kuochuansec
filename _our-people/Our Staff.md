@@ -1557,7 +1557,7 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Wei Kiong, Edwin</p>
+<p>Mr Wong Wei Keong, Edwin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_wei_keong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_keong_a@schools.gov.sg</a>
