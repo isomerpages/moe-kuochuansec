@@ -902,7 +902,7 @@ variant: tiptap
 <p>Mr Kway Yuan Tern Kenneth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -925,7 +925,7 @@ variant: tiptap
 <p>Miss Celia Leo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -945,10 +945,10 @@ variant: tiptap
 <p>S3 LOVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liew Wan Jie</p>
+<p>Ms Lew Wan Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p>lew_wan_jia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1339,7 +1339,7 @@ variant: tiptap
 <p>Ms Soumya Poduval</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p>soumya_poduval@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1350,7 +1350,7 @@ variant: tiptap
 <p>Ms Loo Yen Li Jennifer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Jeanmarie_Shanthi_Alagu_A@schools.gov.sg</a>
+<p><a href="mailto:loo_yen_li_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yen_li_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1679,18 +1679,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Selvi_Ganesan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr James Lau Kam Fatt&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">james_lau_kam_fatt@schools.gov.sg</a>
 </p>
 </td>
 </tr>
