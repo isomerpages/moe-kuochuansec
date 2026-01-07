@@ -828,7 +828,7 @@ variant: tiptap
 <p>S2 PRAISE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chee Yoong Hui</p>
+<p>Mdm Chee Yoon Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chee_yoon_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_yoon_hui@schools.gov.sg</a>
@@ -984,7 +984,7 @@ variant: tiptap
 <p>Mdm Moritza Lim Fang Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loo_sze_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_sze_yen@schools.gov.sg</a>
+<p><a href="mailto:moritza_lim_fang_min@schools.gov.sg" rel="noopener nofollow" target="_blank">moritza_lim_fang_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1328,7 +1328,8 @@ variant: tiptap
 <p>Ms Soumya Poduval</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>soumya_poduval@schools.gov.sg</p>
+<p><a href="mailto:soumya_poduval@schools.gov.sg" rel="noopener nofollow" target="_blank">soumya_poduval@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1384,7 +1385,7 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Soon Peng Raymond</p>
+<p>Mr Ng Soon Peng Raymond</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_soon_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_soon_peng@schools.gov.sg</a>
@@ -1601,7 +1602,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Associates</p>
+<p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Anandhan Yogeswari</p>
@@ -1700,10 +1701,10 @@ variant: tiptap
 <p>TSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Hwee Tin</p>
+<p>Ms Ng Hwee Thin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_hwee_tin@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_hwee_thin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
