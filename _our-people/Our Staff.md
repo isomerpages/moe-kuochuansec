@@ -1039,6 +1039,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>S3 TRUTH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Cheong Hwee Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sek_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sek_hwee_leng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S3 TRUTH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chang Meng Hsia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chang_meng_hsia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_meng_hsia@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>S4 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
