@@ -126,18 +126,18 @@ shared vision.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Sitoh Wei Sheng Wilson</p>
+<p>Yeo Xiao Si Eunice</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Ho Chan Hui</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Hee Pow Soo</p>
+<p>Amos Wu</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sitoh_wei_sheng_wilson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sitoh_wei_sheng_wilson@schools.gov.sg</a>
+<p><a href="mailto:yeo_xiao_si_eunice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_xiao_si_eunice@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,8 +145,7 @@ shared vision.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hee_pow_soo_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hee_pow_soo_a@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
