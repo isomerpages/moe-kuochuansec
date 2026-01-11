@@ -202,10 +202,10 @@ Choir Championships (Guangzhou, China)</p>
 <p>Lee Hwee Ling Grace</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Nam Tin Yuen</p>
+<p>Chan Ann Gee</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Fion Tan</p>
+<p>Loh Shoc Shyun</p>
 </th>
 </tr>
 <tr>
@@ -214,12 +214,11 @@ Choir Championships (Guangzhou, China)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nam_tin_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nam_tin_yuen@schools.gov.sg</a>
+<p><a href="mailto:chan_ann_gee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_ann_gee@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Fion_Tan_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fion_Tan_A@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
