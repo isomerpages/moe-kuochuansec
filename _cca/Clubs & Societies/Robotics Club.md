@@ -111,8 +111,9 @@ IDE Sprint</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Robotics Club/robotics_club_i2.jpg">
 </div>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -122,7 +123,10 @@ IDE Sprint</p>
 <p>Jeremy See Poo Leng</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Jocelyn Kong</p>
+<p>Tai Tze Ghee</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Victoria Liying Pathirana</p>
 </th>
 </tr>
 <tr>
@@ -131,8 +135,10 @@ IDE Sprint</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Jocelyn_Kong@schools.gov.sgg" rel="noopener noreferrer nofollow" target="_blank">Jocelyn_Kong@schools.gov.sg</a>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
