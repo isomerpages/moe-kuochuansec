@@ -105,8 +105,9 @@ Story' , InstaGeylang and Ibuild SG Club Pinnacle Competition 2022.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Photography/photography_club_i2.jpg">
 </div>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -118,6 +119,9 @@ Story' , InstaGeylang and Ibuild SG Club Pinnacle Competition 2022.</p>
 <th rowspan="1" colspan="1">
 <p>Chiz Poh Seng</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Sangavi</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -126,6 +130,10 @@ Story' , InstaGeylang and Ibuild SG Club Pinnacle Competition 2022.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chiz_poh_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chiz_poh_seng@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:K_Sangavi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">K_Sangavi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
