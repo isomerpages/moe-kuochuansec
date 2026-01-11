@@ -117,8 +117,9 @@ shared vision.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Basketball/basketball_i2.jpg">
 </div>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -134,6 +135,9 @@ shared vision.</p>
 <th rowspan="1" colspan="1">
 <p>Amos Wu</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Isaac Lim</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -143,6 +147,9 @@ shared vision.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ho_Chan_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ho_Chan_Hui@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
