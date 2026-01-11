@@ -137,22 +137,18 @@ life.</p>
 <p>Chua Suet Ting Joyce</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sean Ong Zhi Han</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Jason Untung</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Yeo Yong Kang</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Naomi Tan</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_suet_ting_joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_suet_ting_joyce@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sean_ong_zhi_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sean_ong_zhi_han@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,6 +158,9 @@ life.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_yong_kang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yong_kang@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
