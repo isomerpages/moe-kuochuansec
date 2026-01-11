@@ -186,7 +186,7 @@ Day)
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 <tr>
