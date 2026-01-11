@@ -242,8 +242,9 @@ of the unit.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NCDCC/national_civil_defence_cadet_corps_i2.jpg">
 </div>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -257,7 +258,10 @@ of the unit.</p>
 <p>Ryan Loh</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Chan Ann Gee</p>
+<p>Ngm Yew Fai</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teo Wil Ping</p>
 </th>
 </tr>
 <tr>
@@ -270,8 +274,11 @@ of the unit.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_ann_gee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_ann_gee@schools.gov.sg</a>
+<p><a href="mailto:ngm_yew_fai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngm_yew_fai@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
