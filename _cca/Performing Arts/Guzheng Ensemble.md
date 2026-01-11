@@ -241,10 +241,10 @@ the skills needed to balance their academic responsibilities.</p>
 <p>Foo Ji Ying, Eunice</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Lee Chong Min</p>
+<p>Neo Yining</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mabel Neo</p>
+<p>Tong Bee Yen Tracie</p>
 </th>
 </tr>
 <tr>
@@ -253,12 +253,11 @@ the skills needed to balance their academic responsibilities.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chong_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chong_min@schools.gov.sg</a>
+<p><a href="mailto:neo_yining@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_yining@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Mabel_Neo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mabel_Neo@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>

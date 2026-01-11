@@ -156,8 +156,9 @@ title - Anti Scam Student Champions (ASSC) 2024</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/NPCC/national_police_cadet_corps_i2.jpg">
 </div>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -173,6 +174,9 @@ title - Anti Scam Student Champions (ASSC) 2024</p>
 <th rowspan="1" colspan="1">
 <p>Herman Ng hao Hiang</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Liu Yong Feng</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -186,6 +190,9 @@ title - Anti Scam Student Champions (ASSC) 2024</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_hao_hiang_herman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hao_hiang_herman@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

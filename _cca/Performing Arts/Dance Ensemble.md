@@ -257,10 +257,10 @@ Our Children</p>
 <p>Lau Pui Lye Kathy</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Yeo Suan Neo Doreen</p>
+<p>Liang Ruishan</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Loo Yen Li</p>
+<p>Jennifer Loo</p>
 </th>
 </tr>
 <tr>
@@ -269,12 +269,11 @@ Our Children</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_suan_neo_doreen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_suan_neo_doreen@schools.gov.sg</a>
+<p><a href="mailto:liang_ruishan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_ruishan@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Loo_Yen_Li_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loo_Yen_Li_A@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>

@@ -282,10 +282,10 @@ Day)
 <p>Cheong Hwee Leng</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Brian Ho</p>
+<p>Ho Yew Kiat Brian</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Esther Tay</p>
+<p>Lew Wan Jia</p>
 </th>
 </tr>
 <tr>
@@ -298,7 +298,7 @@ Day)
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yong_yin_yin_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_yin_yin_esther@schools.gov.sg</a>
+<p><a href="mailto:lew_wan_jia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lew_wan_jia@schools.gov.sg</a>
 </p>
 </td>
 </tr>

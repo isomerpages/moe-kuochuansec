@@ -99,13 +99,13 @@ of discipline, citizenship and service to the community.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Tan Siaw Chong</p>
+<p>Tan Siaw Chong Edwin</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Dylan Raj Singh</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Jasmin Jiang</p>
+<p>Kway Yuan Tern Kenneth</p>
 </th>
 </tr>
 <tr>
@@ -118,8 +118,7 @@ of discipline, citizenship and service to the community.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jiang_peiyan_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_peiyan_jasmine@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>

@@ -271,10 +271,10 @@ Arts Conference 2023 by the Singapore Drama Educators Association (SDEA)
 <p>Sivasankari Pravin</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Isaac Sim Wee Siong</p>
+<p>Paul Tan</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Tan Sung Paul</p>
+<p>Celia Leo</p>
 </th>
 </tr>
 <tr>
@@ -283,12 +283,10 @@ Arts Conference 2023 by the Singapore Drama Educators Association (SDEA)
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_wee_siong_isaac@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_wee_siong_isaac@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Sung_Paul@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Sung_Paul@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
