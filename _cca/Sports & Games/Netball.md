@@ -176,7 +176,7 @@ inclusive sporting environment.</p>
 <p>Lee Rachel</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Yeo Xiao Si Eunice&nbsp;</p>
+<p>Jean-Marie Shanti</p>
 </th>
 </tr>
 <tr>
@@ -189,8 +189,7 @@ inclusive sporting environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_xiao_si_eunice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_xiao_si_eunice@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
