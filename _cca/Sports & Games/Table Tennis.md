@@ -157,9 +157,8 @@ atmosphere will help them immensely.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Kuo Chuan Experience/CCA/Table Tennis/table_tennis_i2.jpg">
 </div>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -178,10 +177,6 @@ atmosphere will help them immensely.</p>
 <p><strong>Kang Jian</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>Tai Tze Ghee</strong>
-</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -194,10 +189,6 @@ atmosphere will help them immensely.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:Kang_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kang_jian@schools.gov.sg</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Tai_Tze_Ghee_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tai_Tze_Ghee_A@schools.gov.sg</a></strong>
 </p>
 </td>
 </tr>
