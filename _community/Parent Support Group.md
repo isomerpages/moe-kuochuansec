@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <h3>Join Us</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/PSG/psg2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_05_100706.png">
 </div>
 <p>Please register at&nbsp;<strong><a href="https://forms.moe.edu.sg/forms/vWbpk7" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;.</p>
 <h3>Chairperson's message</h3>
@@ -30,6 +30,6 @@ journey in KCPSS.</p>
 <p>Ms Serene Tee</p>
 <p>KCPSS PSG Chairman (2025)</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMLqOsqw2IYIenFgWrrK4Zgi1MYEyVKSXBRRJgMuttlUIfVzNuJu_1bH8eY9lu7KbONnbPkfUiV6ue/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMLqOsqw2IYIenFgWrrK4Zgi1MYEyVKSXBRRJgMuttlUIfVzNuJu_1bH8eY9lu7KbONnbPkfUiV6ue/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
