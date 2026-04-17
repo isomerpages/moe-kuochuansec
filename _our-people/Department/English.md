@@ -102,6 +102,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Zahari Mohktar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Zahari_Mokhtar_C@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zahari_Mokhtar_C@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Sung Paul</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,28 +129,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Victoria Liying Pathirana</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Victoria_Liying_Pathirana_F@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Victoria_Liying_Pathirana_F@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jean-Marie Shanthi d/o Alagu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Jeanmarie_Shanthi_Alagu_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Jeanmarie_Shanthi_Alagu_A@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Soumya Poduval</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p><a href="mailto:Soumya_Poduval@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Soumya_Poduval@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Cheong Lay Siong Isaac</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_lay_siong_issac_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_lay_siong_issac_c@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

@@ -83,10 +83,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Arunajeet Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Arunajeet_Kaur_M_M@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Arunajeet_Kaur_M_M@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
