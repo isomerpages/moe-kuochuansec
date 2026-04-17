@@ -1487,7 +1487,20 @@ variant: tiptap
 <p>Mdm Li Haiyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Li_Haiyu_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Li_Haiyu_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MTL/CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chelliah Peter</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:peter_chelliah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peter_chelliah@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
