@@ -110,14 +110,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fion Tan</p>
+<p>Ms Li Haiyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fion_tan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fion_tan_a@schools.gov.sg</u></a>
+<p><a href="mailto:Li_Haiyu_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Li_Haiyu_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Chelliah Peter</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:peter_chelliah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peter_chelliah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>Mr</p>
+<p></p>
