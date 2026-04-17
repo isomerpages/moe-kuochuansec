@@ -1313,6 +1313,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cheong Lay Siong Isaac</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_lay_siong_issac_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_lay_siong_issac_c@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>EL &amp; Lit</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1332,18 +1344,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:amos_wu_pom_hin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amos_wu_pom_hin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL &amp; Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Victoria Liying Pathirana</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Victoria_Liying_Pathirana_F@schools.gov.sg</a>
 </p>
 </td>
 </tr>
