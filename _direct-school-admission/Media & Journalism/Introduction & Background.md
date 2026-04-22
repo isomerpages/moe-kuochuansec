@@ -67,4 +67,53 @@ experience learning that is relevant, applied, and meaningful.</p>
 </li>
 </ul>
 <h4><strong>Signature Experience: Spin Doctors Programme</strong></h4>
+<p>Students who join the school via DSA (Media Journalism) will join our
+Spin Doctors Programme, where they widen and deepen their skills, and take
+on real-world opportunities.</p>
+<p>They will specialise in areas such as:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>📰 Journalism</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Research, verify, and tell impactful stories with integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>📱 Communications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Craft strategic messages across various media and platforms</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Students will develop their talents and contribute to the school, with
+opportunities such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Emcee school events</p>
+</li>
+<li>
+<p>Participate in competitions</p>
+</li>
+<li>
+<p>Showcase their work on authentic platforms</p>
+</li>
+</ul>
 <p></p>
