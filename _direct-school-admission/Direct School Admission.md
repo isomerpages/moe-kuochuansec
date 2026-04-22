@@ -115,7 +115,7 @@ in 2027.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6th May 2026, 11am to 2nd June 2026 4.30pm</p>
+<p>6<sup>th</sup> May 2026, 11am to 2<sup>nd</sup> June 2026 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for DSA via <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener nofollow" target="_blank">MOE DSA-Sec portal</a>.
@@ -123,6 +123,53 @@ For more information please refer to https://www.moe.gov.sg/secondary/dsa/applic
 Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>By 15<sup>th</sup> July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants will be shortlisted for trials/auditions and interviews based
+on the selection criteria of each talent area</p>
+<p>Do note that meeting all the criteria does not guarantee the applicant
+will be shortlisted.</p>
+<p>Applicants will be informed of the shortlist outcome by 15 July 2026.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20<sup>th</sup> July 2026 to 14<sup>th </sup>August 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted applicants will attend trials/auditions and interviews</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>By 28<sup>th</sup> August 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All applicants will receive their outcomes by 28 August</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For students taking the PSLE, their results will determine their eligible
+Posting Group (i.e., Posting Group 1, 2 or 3).</p>
+</li>
+<li>
+<p>For non-mainstream students (i.e., not studying in MOE mainstream primary
+schools) who are not taking the PSLE, the school will assign a Posting
+Group based on placement tests conducted by the school. The assigned Posting
+Group will not be revealed in the DSA offer letter as the outcome will
+be made known on the PSLE results release day.</p>
+</li>
+<li>
+<p>International Students who are not taking the PSLE are required to take
+and fulfil the requirements of the Admissions Exercise for International
+Students (AEIS) to be successful in DSA. Permanent Residents who are not
+taking the PSLE do not need to take AEIS.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
