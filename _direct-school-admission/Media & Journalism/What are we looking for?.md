@@ -2,7 +2,7 @@
 title: What are we looking for?
 permalink: /admission/direct-school-admission/language-n-humanities/what-are-we-looking-for/
 description: ""
-third_nav_title: Language & Humanities
+third_nav_title: Media & Journalism
 variant: tiptap
 ---
 <h2>What are we looking for?</h2>

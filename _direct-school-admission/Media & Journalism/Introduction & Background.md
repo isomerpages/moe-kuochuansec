@@ -2,7 +2,7 @@
 title: Introduction & Background
 permalink: /admission/direct-school-admission/language-n-humanities/introduction-n-background/
 description: ""
-third_nav_title: Language & Humanities
+third_nav_title: Media & Journalism
 variant: tiptap
 ---
 <h2>Introduction &amp; Background</h2>
