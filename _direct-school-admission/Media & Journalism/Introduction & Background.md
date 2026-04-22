@@ -52,4 +52,18 @@ shapers.</p>
 </li>
 </ul>
 <h4><strong>Authentic &amp; Interdisciplinary Learning</strong></h4>
+<p>Media Literacy at KCPSS is a whole-school approach, helping students to
+experience learning that is relevant, applied, and meaningful.</p>
+<p>Students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Apply skills across disciplines (e.g. English, Humanities, Art)</p>
+</li>
+<li>
+<p>Engage in real-world tasks and problem-solving</p>
+</li>
+<li>
+<p>See how learning is connected and transferable across contexts</p>
+</li>
+</ul>
 <p></p>
