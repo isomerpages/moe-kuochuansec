@@ -174,12 +174,16 @@ taking the PSLE do not need to take AEIS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>19th to 23rd October 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Preference Submission by successful applicants.</p>
+<p>Students who are successfully admitted to the school via DSA are required
+to honour their commitment to the school and participate in the activities
+related to the talent area they are selected for from year 1 - 4.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>If you have any queries, please email <a href="mailto:kcpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a></strong>
+</p>
