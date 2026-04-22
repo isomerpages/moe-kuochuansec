@@ -119,7 +119,7 @@ in 2027.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for DSA via <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener nofollow" target="_blank">MOE DSA-Sec portal</a>.
-For more information please refer to https://www.moe.gov.sg/secondary/dsa/application.
+For more information please refer to <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa/application</a>.
 Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
