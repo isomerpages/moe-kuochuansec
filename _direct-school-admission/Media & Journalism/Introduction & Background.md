@@ -24,4 +24,5 @@ print to digital—through authentic, real-world learning experiences.</p>
 <p>🎯 Creating purposeful content with clear intent and values</p>
 <p>We develop students who are not just media users, but media thinkers and
 shapers.</p>
+<h4><strong>What Students Will Learn</strong></h4>
 <p></p>
