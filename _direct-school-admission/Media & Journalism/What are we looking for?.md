@@ -1,6 +1,6 @@
 ---
 title: What are we looking for?
-permalink: /admission/direct-school-admission/language-n-humanities/what-are-we-looking-for/
+permalink: /admission/direct-school-admission/media-journalism/what-are-we-looking-for/
 description: ""
 third_nav_title: Media & Journalism
 variant: tiptap
@@ -9,13 +9,10 @@ variant: tiptap
 <p>We are looking for applicants with:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Passion for social causes (i.e., environmental, elderly)</p>
+<p>Strong passion for talent area interest (journalism/ media/ content creation)</p>
 </li>
 <li>
-<p>Ability to positively influence others</p>
-</li>
-<li>
-<p>Good role model behavior grounded on sound moral values</p>
+<p>Ability to work well alone or with others as part of a team</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -42,10 +39,13 @@ variant: tiptap
 <p>Aptitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Any records of active contribution in Values-in-Action (VIA) Projects
-<br>
-<br>Evidence of any major contributions to community-based projects beyond
-school</p>
+<p>Any portfolios to highlight aptitude in talent area</p>
+<p>For example:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Articles, podcasts or vlogs about a selected topic or issue</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -53,16 +53,13 @@ school</p>
 <p>Attainment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants should preferably have:
-<br>
-</p>
+<p>Applicants should preferably have one or more of the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Record of school-based leadership appointments (e.g. Prefect, Peer support
-leader, Class Monitor, CCA Leader)</p>
+<p>Language proficiency to communicate with confidence and clarity</p>
 </li>
 <li>
-<p>Other forms of leadership experience beyond school</p>
+<p>Experience in journalism, publications or related communications area</p>
 </li>
 </ul>
 </td>
@@ -72,12 +69,16 @@ leader, Class Monitor, CCA Leader)</p>
 <p>Motivation and Interest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Any evidence of pursuit in talent area interest within or beyond school
-<br>
-</p>
+<p>Any evidence of pursuit of talent area interests within or beyond school</p>
+<p>Any evidence of reflective thinking, engagement in social issues or interest
+in current affairs</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Meeting all the criteria does not guarantee the student will be shortlisted
-or given an offer.</p>
+<p>At KCPSS, we prepare students not just for examinations—but for the real
+world. Through the Media Literacy ALP, students graduate with the ability
+to think critically, communicate effectively, and engage responsibly in
+today’s media landscape.</p>
+<p>👉 Join us through the Direct School Admission (DSA) exercise and discover
+your voice.</p>
