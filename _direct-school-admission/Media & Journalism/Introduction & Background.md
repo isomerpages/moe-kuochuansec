@@ -25,4 +25,31 @@ print to digital—through authentic, real-world learning experiences.</p>
 <p>We develop students who are not just media users, but media thinkers and
 shapers.</p>
 <h4><strong>What Students Will Learn</strong></h4>
+<p><strong>Critical Consumers who:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Evaluate information thoughtfully</p>
+</li>
+<li>
+<p>Question sources, bias, and intent</p>
+</li>
+<li>
+<p>Make informed judgments in a complex media landscape</p>
+</li>
+</ul>
+<p><strong>Purposeful Producers who:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Communicate ideas clearly and confidently</p>
+</li>
+<li>
+<p>Make intentional choices in how messages are crafted</p>
+</li>
+<li>
+<p>Create meaningful content</p>
+</li>
+</ul>
+<h4><strong>Authentic &amp; Interdisciplinary Learning</strong></h4>
 <p></p>
