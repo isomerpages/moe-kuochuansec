@@ -69,16 +69,12 @@ variant: tiptap
 <p>Motivation and Interest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brief personal statement (not exceeding 100 words) addressing the following
-areas:
-<br>● What are some personal qualities you have that will make you suitable
-for this talent area?
-<br>● What do you hope to gain from coming to KCPSS?</p>
+<p>Any evidence of pursuit of talent area interests within or beyond school</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Media Art and Film</strong>
+<p><strong>Media Arts / Film</strong>
 </p>
 </td>
 </tr>
@@ -119,10 +115,10 @@ or dubbing)</p>
 <p>Motivation and Interest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Any evidence of pursuit in talent area interest within or beyond school</p>
+<p>Any evidence of pursuit of talent area interests within or beyond school</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Meeting all the criteria does not guarantee the student will be shortlisted
-or given an offer.</p>
+<p><strong>Meeting all the criteria does not guarantee the student will be shortlisted for trial/interview or given an offer.</strong>
+</p>
