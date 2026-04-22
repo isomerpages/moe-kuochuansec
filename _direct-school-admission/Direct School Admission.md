@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h2>Direct School Admission</h2>
-<p>These are the DSA talent areas that the school is offering for 2025 admissions.
-All talent areas are open to both male and female applicants.</p>
+<p>These are the DSA talent areas that the school is offering for admission
+in 2027.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -23,21 +23,11 @@ All talent areas are open to both male and female applicants.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Language and Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Media/Journalism</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Communication</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Public Speaking</p>
+<p>Media/Journalism (Boys/Girls)</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +35,7 @@ All talent areas are open to both male and female applicants.</p>
 <p>Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Community Youth Leadership</p>
+<p>Community Youth Leadership (Boys/Girls)</p>
 </td>
 </tr>
 <tr>
@@ -53,27 +43,27 @@ All talent areas are open to both male and female applicants.</p>
 <p>Performing Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Concert Band</p>
+<p>Concert Band (Boys/Girls)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Choir</p>
+<p>Choir (Boys/Girls)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese and Contemporary Dance</p>
+<p>Chinese and Modern Dance (Girls)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Drama</p>
+<p>English Drama (Boys/Girls)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Guzheng Ensemble</p>
+<p>Guzheng Ensemble (Boys/Girls)</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +71,7 @@ All talent areas are open to both male and female applicants.</p>
 <p>Visual Arts, Design and Media</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Visual Art - Media Arts / Film / Photography</p>
+<p>Media Arts / Film / Photography (Boys/Girls)</p>
 </td>
 </tr>
 <tr>
@@ -89,12 +79,12 @@ All talent areas are open to both male and female applicants.</p>
 <p>Sports</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shooting</p>
+<p>Shooting (Boys/Girls)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Table Tennis</p>
+<p>Table Tennis (Boys/Girls)</p>
 </td>
 </tr>
 <tr>
@@ -107,23 +97,42 @@ All talent areas are open to both male and female applicants.</p>
 </tr>
 </tbody>
 </table>
-<p>Shortlisted applicants may be asked to attend in-person auditions and
-interviews on the various talent areas to help us get to know you better.</p>
-<p>You will receive notification from the school by <strong>11 July (Fri)</strong>,
-if your child has been shortlisted to undergo Direct School Admission (DSA)
-selection. All applicants will receive their application outcomes between <strong>25 Aug and 4 Sep 2025.</strong>
+<p><strong>Shortlisted applicants will be asked to attend in-person trials/auditions and interviews by the various talent areas.</strong>
 </p>
-<p>Kindly send any inquiries concerning DSA to &nbsp;<a href="mailto:kcpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kcpss@moe.edu.sg</a>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Key Dates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Details</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6th May 2026, 11am to 2nd June 2026 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Application for DSA via <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener nofollow" target="_blank">MOE DSA-Sec portal</a>.
+For more information please refer to https://www.moe.gov.sg/secondary/dsa/application.
+Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from <strong>7 May 2025, 11am to 3 Jun 2025, 3pm</strong>.
-For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
-</p>
-<p>Parents and students are encouraged to choose schools wisely based on
-the student’s aptitudes and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
-<p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school, and participate in the activities
-related to the talent they are selected for from year 1-4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
