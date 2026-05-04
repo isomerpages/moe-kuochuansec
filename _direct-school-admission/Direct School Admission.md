@@ -99,6 +99,14 @@ in 2027.</p>
 </table>
 <p><strong>Shortlisted applicants will be asked to attend in-person trials/auditions and interviews by the various talent areas.</strong>
 </p>
+<p>Dear Parent &amp; Prospective Students,</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_posterv1.png">
+</div>
+<p>If you have any questions prior to the webinar session, you may submit
+them via this form: <a href="https://form.gov.sg/69f74e7ab20af1f189ac5f37" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/69f74e7ab20af1f189ac5f37</a>
+</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
