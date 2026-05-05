@@ -22,4 +22,11 @@ sections:
   - resources:
       title: Announcements
       button: Click Here
+  - infopic:
+      title: Join Our DSA Webinar 2026
+      id: infopic
+      button: Webinar Registration
+      url: https://go.gov.sg/dsa-webinar-registration
+      image: /images/DSA_posterv1.png
+      alt: Image alt text
 ---
