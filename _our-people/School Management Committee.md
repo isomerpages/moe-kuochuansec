@@ -103,6 +103,14 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Elder Joseph Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Zhuang Li Hao</p>
 </td>
 </tr>
