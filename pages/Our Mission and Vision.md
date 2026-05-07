@@ -25,7 +25,7 @@ communities.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gLeZWJ9y9Rs"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/huccPaYKpIU?si=8cTR8nNLYkuG9eAI"></iframe>
 </div>
 <p></p>
 </th>
