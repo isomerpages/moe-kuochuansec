@@ -17,7 +17,7 @@ variant: tiptap
 <p><a href="/files/Useful Links/Student/KCPSS_Student_Handbook_2026__vJan__web.pdf" rel="noopener nofollow" target="_blank">Student Handbook</a>
 </p>
 <h4>Application Forms</h4>
-<p><a href="https://go.gov.sg/kuochuansecloa" rel="noopener noreferrer nofollow" target="_blank">Leave of Absent (LOA)</a>
+<p><a href="https://go.gov.sg/kcpss-form-absence-privatereasons" rel="noopener nofollow" target="_blank">Request for student to be excused from school for private matters</a>
 </p>
 <h3>Weighted Assessment Schedules</h3>
 <p>Click <a href="https://go.gov.sg/weighted-assessment" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
