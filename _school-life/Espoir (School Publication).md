@@ -16,6 +16,9 @@ into the EL curriculum with the aim of equipping learners with higher-order
 skills such as critical thinking, communication and collaboration skills
 through the processes of journalistic writing.</p>
 <p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/espoir-2026-issue1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/The Kuo Chuan Experience/Espoir/2026EspoitIssue1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026 Espoir Issue 1</div><div class="isomer-card-link">Explore more about...</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/espoir-2025-issue1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Espoir Issue 1" src="/images/The Kuo Chuan Experience/Espoir/espoir_2025_issue1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025 Espoir Issue 1</div><div class="isomer-card-link">Explore more about...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/espoir-2025-issue2" class="isomer-card">
 <div class="isomer-card-image">
