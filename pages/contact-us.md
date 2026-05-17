@@ -6,7 +6,7 @@ agency_name: KCPSS
 locations:
   - address:
       - 10 Bishan St.13
-      - Singpore 579795
+      - Singapore 579795
       - ""
     operating_hours:
       - days: Mon - Fri
@@ -23,4 +23,5 @@ contacts:
       - email: kcpss@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
