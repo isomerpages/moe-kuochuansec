@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Alumni/2026 Alumni Dinner.md
       - Alumni/Alumni.md
       - Alumni/.keep
       - Parent Support Group.md
