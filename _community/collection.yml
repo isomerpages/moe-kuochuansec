@@ -2,6 +2,8 @@ collections:
   community:
     output: true
     order:
+      - Alumni/.keep
+      - Alumni/Alumni.md
+      - Alumni/2026 Alumni Dinner.md
       - Parent Support Group.md
-      - Alumni.md
       - Adam Road Presbyterian Church.md

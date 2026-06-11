@@ -3,6 +3,7 @@ title: Alumni
 permalink: /community/alumni/
 description: ""
 variant: tiptap
+third_nav_title: Alumni
 ---
 <h2>ALUMNI</h2>
 <h3>President's Message</h3>
