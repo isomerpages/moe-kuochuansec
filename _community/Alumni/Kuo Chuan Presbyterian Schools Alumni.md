@@ -1,5 +1,5 @@
 ---
-title: 2026 Alumni Dinner
+title: Kuo Chuan Presbyterian Schools Alumni
 permalink: /2026-alumni-dinner/
 variant: tiptap
 description: ""
