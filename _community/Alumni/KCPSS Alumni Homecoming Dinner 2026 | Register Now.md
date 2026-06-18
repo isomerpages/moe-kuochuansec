@@ -58,8 +58,8 @@ celebrates that century, together, on home ground.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6:00 Heritage tours</strong>
-<br><em>Student-led walks through the school's history</em>
+<p><strong>6:00 PM Heritage tours</strong>
+<br><em>Student-led walks through the school's history.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,34 +70,42 @@ celebrates that century, together, on home ground.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6:30 Reception</strong>
-<br><em>Gather, reconnect, find your table</em>
+<p><strong>6:30 PM Reception</strong>
+<br><em>Gather, reconnect, find your table.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Standard</strong>
-<br>The main ticket. Full dinner &amp; full programme</p>
+<p><strong>Standard ($80)</strong>
+<br>The main ticket. Full dinner &amp; full programme.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>7:00 PM Dinner &amp; performances</strong>
+<br><em>A full dinner, with current students performing.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Young Alumni ($60)</strong>
+<br><em>Left in 2018 or later, or anyone for whom cost is a barrier</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>8:30 PM Where are they now</strong>
+<br><em>Alumni Take the stage.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Most seats kept at $80 or below</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>9:30 PM Close</strong>
+<br><em>Photographs &amp; farewells.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
