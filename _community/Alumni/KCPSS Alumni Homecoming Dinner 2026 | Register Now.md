@@ -122,3 +122,7 @@ celebrates that century, together, on home ground.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="venue" src="/images/Our People/Commuity/venue.jpg">
+</div>
+<p></p>
