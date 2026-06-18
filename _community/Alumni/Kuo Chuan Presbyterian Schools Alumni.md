@@ -12,7 +12,6 @@ hall. Join us on</p>
 return to where it</p>
 <p>all began. Most seats are kept at 80 dollars or below, so everyone can
 come home.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="KCPSS Alumni Homecoming Anniversary Dinner, Friday 13 November 2026, at the KCPSS School Hall." src="/images/Our People/Commuity/KCPSS_full_frame.png">
 </div>
