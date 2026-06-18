@@ -58,8 +58,8 @@ celebrates that century, together, on home ground.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6:00 PM Heritage tours</strong>
-<br><em>Student-led walks through the school's history.</em>
+<p><strong><em>6:00 PM</em> Heritage tours</strong>
+<br><em>Heritage tours. Student-led walks through the school's history for early arrivals.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,8 +70,8 @@ celebrates that century, together, on home ground.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6:30 PM Reception</strong>
-<br><em>Gather, reconnect, find your table.</em>
+<p><strong><em>6:30 PM</em> Reception</strong>
+<br><em>Reception and seating. Gather, reconnect, and find your table in the hall.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,8 +81,8 @@ celebrates that century, together, on home ground.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7:00 PM Dinner &amp; performances</strong>
-<br><em>A full dinner, with current students performing.</em>
+<p><strong><em>7:00</em> PM Dinner &amp; performances</strong>
+<br><em>Dinner and performances. A full dinner, with performances by current students.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,8 +93,8 @@ celebrates that century, together, on home ground.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>8:30 PM Where are they now</strong>
-<br><em>Alumni Take the stage.</em>
+<p><strong><em>8:30</em> PM Where are they now</strong>
+<br><em>Where Are They Now. Alumni share their journeys from KCPSS to today.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,8 +103,8 @@ celebrates that century, together, on home ground.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>9:30 PM Close</strong>
-<br><em>Photographs &amp; farewells.</em>
+<p><strong><em>9:30</em> PM Close</strong>
+<br><em>Close. Group photographs and farewells.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
