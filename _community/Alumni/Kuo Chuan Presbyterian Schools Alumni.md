@@ -13,4 +13,14 @@ return to where it</p>
 <p>all began. Most seats are kept at 80 dollars or below, so everyone can
 come home.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/6a2423072758e1c03769454d"><img style="width: 100%" height="auto" width="100%" alt="Reserve your seat Now!" src="/images/Our People/Commuity/final_flush_right.png"></a>
 <h3>A homecoming, in the truest sense</h3>
+<p>For years the alumni dinner was held in a hotel ballroom. This year we
+are bringing it back to</p>
+<p>where it started, the KCPSS school hall. The same hall many of us sat
+in for assembly, for</p>
+<p>prize-giving, for the moments that shaped us.</p>
+<p>The move home is deliberate. A hotel seat priced many alumni out. By returning
+to the school, we</p>
+<p>keep most seats at 80 dollars or below, so coming home is open to every
+generation, not only those</p>
+<p></p>
 <p></p>
