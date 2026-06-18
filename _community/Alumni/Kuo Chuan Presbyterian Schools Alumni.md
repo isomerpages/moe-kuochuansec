@@ -11,6 +11,5 @@ hall. Join us on</p>
 <p>Friday 13 November 2026, from 6.00pm, as alumni from every generation
 return to where it</p>
 <p>all began. Most seats are kept at 80 dollars or below, so everyone can
-come home.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/6a2423072758e1c03769454d"><img style="width: 100%" height="auto" width="100%" alt="Reserve your seat Now!" src="/images/Our People/Commuity/final_flush_right.png"></a>
+come home.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/6a2423072758e1c03769454d"><img style="width: 100%" height="auto" width="100%" alt="Reserve your seat Now!" src="/images/Our People/Commuity/final_flush_right.png"></a>
 <p></p>
