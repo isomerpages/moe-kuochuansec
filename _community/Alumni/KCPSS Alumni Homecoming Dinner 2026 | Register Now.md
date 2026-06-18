@@ -31,4 +31,86 @@ celebrates that century, together, on home ground.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="One Evening, every generation" src="/images/Our People/Commuity/Copilot_20260618_141201.jpg">
 </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><em>THE EVENING</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>TICKETS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>How the night unfolds</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Priced so everyone can come</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>6:00 Heritage tours</strong>
+<br><em>Student-led walks through the school's history</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Patron ($180)</strong>
+<br><em>For alumni who wish to give more. Premium seating and recognition.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>6:30 Reception</strong>
+<br><em>Gather, reconnect, find your table</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Standard</strong>
+<br>The main ticket. Full dinner &amp; full programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
