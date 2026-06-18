@@ -12,4 +12,5 @@ hall. Join us on</p>
 return to where it</p>
 <p>all began. Most seats are kept at 80 dollars or below, so everyone can
 come home.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/6a2423072758e1c03769454d"><img style="width: 100%" height="auto" width="100%" alt="Reserve your seat Now!" src="/images/Our People/Commuity/final_flush_right.png"></a>
+<h3>A homecoming, in the truest sense</h3>
 <p></p>
