@@ -12,10 +12,11 @@ image: /images/Our People/Commuity/final_flush_right.png
 <p>After years away, the alumni dinner is coming home to the KCPSS school
 hall. Join us on Friday 13 November 2026, from 6.00pm, as alumni from every
 generation return to where it all began. Most seats are kept at 80 dollars
-or below, so everyone can come home.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/6a2423072758e1c03769454d"><img style="width: 100%" height="auto" width="100%" alt="Reserve your seat Now!" src="/images/Our People/Commuity/final_flush_right.png"></a>
-<a class="isomer-image-wrapper" href="https://form.gov.sg/6a2423072758e1c03769454d">
-<img style="width: 50%;" height="auto" width="100%" alt="Reserve a seat Now!" src="/images/Our People/Commuity/buttonv1.png">
-</a>
+or below, so everyone can come home.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Reserve your seat Now!" src="/images/Our People/Commuity/final_flush_right.png">
+</div>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/6a2423072758e1c03769454d"><img style="width: 50%;" height="auto" width="100%" alt="Reserve a seat Now!" src="/images/Our People/Commuity/buttonv1.png"></a>
 <h3>A homecoming, in the truest sense</h3>
 <p>For years the alumni dinner was held in a hotel ballroom. This year we
 are bringing it back to where it started, the KCPSS school hall. The same
@@ -33,7 +34,7 @@ celebrates that century, together, on home ground.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Walk the same corridors. Sit in the same hall. Find the people you grew up with." src="/images/Our People/Commuity/Copilot_20260618_141201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Walk the same corridors. Sit in the same hall. Find the people you grew up with." src="/images/Our People/Commuity/one_evening.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -92,7 +93,7 @@ up with.</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>7:00</em> PM Dinner &amp; performances</strong>
+<p><strong><em>7:00</em> <em>PM</em> Dinner &amp; performances</strong>
 <br><em>Dinner and performances. A full dinner, with performances by current students.</em>
 </p>
 </td>
@@ -104,7 +105,7 @@ up with.</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>8:30</em> PM Where are they now</strong>
+<p><strong><em>8:30</em> <em>PM</em> Where are they now</strong>
 <br><em>Where Are They Now. Alumni share their journeys from KCPSS to today.</em>
 </p>
 </td>
