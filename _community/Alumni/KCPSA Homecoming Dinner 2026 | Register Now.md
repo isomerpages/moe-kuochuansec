@@ -1,19 +1,20 @@
 ---
-title: KCPSS Alumni Homecoming Dinner 2026 | Register Now
+title: KCPSA Homecoming Dinner 2026 | Register Now
 permalink: /2026-alumni-dinner/
 variant: tiptap
-description: Join the KCPSS Alumni Homecoming Anniversary Dinner on Friday 13
-  November 2026 at the school hall. Tickets from 60 dollars. Register now to
-  reserve your seat.
+description: Join the KCPSA Homecoming Anniversary Dinner on Friday 13 November
+  2026 at the school hall. Tickets from 60 dollars. Register now to reserve your
+  seat.
 third_nav_title: Alumni
+image: /images/Our People/Commuity/final_flush_right.png
 ---
-<h2>KCPSS Alumni Homecoming Anniversary Dinner 2026</h2>
+<h2>KCPSA Homecoming Dinner 2026 | Register Now</h2>
 <p>After years away, the alumni dinner is coming home to the KCPSS school
 hall. Join us on Friday 13 November 2026, from 6.00pm, as alumni from every
 generation return to where it all began. Most seats are kept at 80 dollars
 or below, so everyone can come home.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/6a2423072758e1c03769454d"><img style="width: 100%" height="auto" width="100%" alt="Reserve your seat Now!" src="/images/Our People/Commuity/final_flush_right.png"></a>
 <a class="isomer-image-wrapper" href="https://form.gov.sg/6a2423072758e1c03769454d">
-<img style="width: 30%;" height="auto" width="100%" alt="Reserve your seat Now!" src="/images/Our People/Commuity/button.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Reserve a seat Now!" src="/images/Our People/Commuity/buttonv1.png">
 </a>
 <h3>A homecoming, in the truest sense</h3>
 <p>For years the alumni dinner was held in a hotel ballroom. This year we
@@ -28,8 +29,18 @@ is open to every generation, not only those who can pay a premium.</p>
 has shaped generations of Singaporeans. This dinner is how the alumni community
 celebrates that century, together, on home ground.</p>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="One Evening, every generation" src="/images/Our People/Commuity/Copilot_20260618_141201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Walk the same corridors. Sit in the same hall. Find the people you grew up with." src="/images/Our People/Commuity/Copilot_20260618_141201.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Walk the same corridors. Sit in the same hall. Find the people you grew
+up with.</div>
+</div>
+</div>
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -111,18 +122,65 @@ celebrates that century, together, on home ground.</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="venue" src="/images/Our People/Commuity/venue.jpg">
+<blockquote>
+<p>FAQ</p>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>When is the KCPSS alumni dinner 2026? The dinner is on Friday 13</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The dinner is on Friday 13 November 2026, from 6.00pm, at the KCPSS School
+Hall.</p>
 </div>
+</details>
+<details class="isomer-details">
+<summary>Where is the KCPSS alumni homecoming dinner held?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>At the KCPSS School Hall, 10 Bishan Street 13, Singapore 579795. The nearest
+MRT is Bishan.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>How much are tickets for the alumni dinner?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Patron seats are 180 dollars, Standard seats are 80 dollars, and Young
+Alumni or Concession seats are 60 dollars. Most seats are kept at 80 dollars
+or below.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Who can attend the KCPSS alumni dinner?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>All alumni of Kuo Chuan Presbyterian schools are welcome, across every
+graduating year, along with former staff.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>How do I register for the dinner?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Register through the official form linked on this page. Payment is by
+PayNow after you register, and your seat is confirmed once payment is received.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Can I bring guests or book a full table?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes. You can book up to ten seats in one registration. A table seats ten.</p>
+</div>
+</details>
+</div>
+<p></p>
+<blockquote>
+<p>Venue</p>
+</blockquote>
+<h3>KCPSS School Hall</h3>
+<p>10 Bishan Street 13, Singapore 579795
+<br>Nearest MRT Bishan . Limited on-site parking, details on registration</p>
+<p><em>Note : As the event is on school grounds, no alcohol and no smoking are permitted.</em>
+</p>
+<p></p>
+<p></p>
 <p></p>
