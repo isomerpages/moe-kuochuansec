@@ -39,6 +39,9 @@ celebrates that century, together, on home ground.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Walk the same corridors. Sit in the same hall. Find the people you grew
 up with.</div>
+<div class="isomer-card-description">Venue KCPSS School Hall 10 Bishan Street 13, Singapore 579795 Nearest
+MRT Bishan . Limited on-site parking, details on registration As the event
+is on school grounds, no alcohol and no smoking are permitted.</div>
 </div>
 </div>
 </div>
