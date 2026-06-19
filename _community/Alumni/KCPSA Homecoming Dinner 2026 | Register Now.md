@@ -133,22 +133,17 @@ is on school grounds, no alcohol and no smoking are permitted.</div>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>When is the KCPSS alumni dinner 2026? The dinner is on Friday 13 November
-2026, from 6.00pm, at the KCPSS School Hall.</summary>
+<summary>When is the KCPSS alumni dinner 2026? The dinner is on Friday 13</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>The dinner is on Friday 13 November 2026, from 6.00pm, at the KCPSS School
+Hall.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Where is the KCPSS alumni homecoming dinner held?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<details class="isomer-details">
-<summary>At the KCPSS School Hall, 10 Bishan Street 13, Singapore 579795. The nearest
-MRT is Bishan</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
+<p>At the KCPSS School Hall, 10 Bishan Street 13, Singapore 579795. The nearest
+MRT is Bishan.</p>
 </div>
 </details>
 <details class="isomer-details">
