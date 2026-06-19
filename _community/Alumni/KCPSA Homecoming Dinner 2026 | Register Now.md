@@ -28,7 +28,6 @@ is open to every generation, not only those who can pay a premium.</p>
 <p>Founded in 1924 and marking its centennial in 2024, Kuo Chuan Presbyterian
 has shaped generations of Singaporeans. This dinner is how the alumni community
 celebrates that century, together, on home ground.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="One Evening, every generation" src="/images/Our People/Commuity/Copilot_20260618_141201.jpg">
 </div>
@@ -122,8 +121,4 @@ celebrates that century, together, on home ground.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="venue" src="/images/Our People/Commuity/venue.jpg">
-</div>
 <p></p>
