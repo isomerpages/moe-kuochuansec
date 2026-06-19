@@ -15,7 +15,8 @@ generation return to where it all began. Most seats are kept at 80 dollars
 or below, so everyone can come home.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Reserve your seat Now!" src="/images/Our People/Commuity/final_flush_right.png">
-</div><a class="isomer-image-wrapper" href="https://form.gov.sg/6a2423072758e1c03769454d"><img style="width: 50%;" height="auto" width="100%" alt="Reserve a seat Now!" src="/images/Our People/Commuity/buttonv1.png"></a>
+</div>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/6a2423072758e1c03769454d"><img style="width: 50%;" height="auto" width="100%" alt="Reserve a seat Now!" src="/images/Our People/Commuity/buttonv1.png"></a>
 <h3>A homecoming, in the truest sense</h3>
 <p>For years the alumni dinner was held in a hotel ballroom. This year we
 are bringing it back to where it started, the KCPSS school hall. The same
