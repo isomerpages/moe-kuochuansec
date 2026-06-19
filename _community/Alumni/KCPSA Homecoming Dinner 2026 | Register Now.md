@@ -31,14 +31,8 @@ celebrates that century, together, on home ground.</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="One Evening, Every Generation" src="/images/Our People/Commuity/Copilot_20260618_141201.jpg">
-</div>
-</div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Walk the same corridors. Sit in the same hall. Find the people you grew
-up with.</div>
+<div class="isomer-card-link"></div>
 </div>
 </div>
 </div>
@@ -122,23 +116,13 @@ up with.</div>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>FAQ</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
+<blockquote>
+<p>FAQ</p>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>When is the KCPSS alumni dinner 2026?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -154,11 +138,21 @@ up with.</div>
 <details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
