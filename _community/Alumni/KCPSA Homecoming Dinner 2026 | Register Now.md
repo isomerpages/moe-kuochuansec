@@ -132,7 +132,32 @@ up with.</div>
 </tr>
 </tbody>
 </table>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>FAQ</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>When is the KCPSS alumni dinner 2026?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<details class="isomer-details">
+<summary><strong>The dinner is on Friday 13 November 2026, from 6.00pm, at the KCPSS School Hall.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
