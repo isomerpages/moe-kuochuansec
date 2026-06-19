@@ -8,13 +8,13 @@ description: Join the KCPSA Homecoming Anniversary Dinner on Friday 13 November
 third_nav_title: Alumni
 image: /images/Our People/Commuity/final_flush_right.png
 ---
-<h2>KCPSS Alumni Homecoming Anniversary Dinner 2026</h2>
+<h2>KCPSA Homecoming Dinner 2026 | Register Now  </h2>
 <p>After years away, the alumni dinner is coming home to the KCPSS school
 hall. Join us on Friday 13 November 2026, from 6.00pm, as alumni from every
 generation return to where it all began. Most seats are kept at 80 dollars
 or below, so everyone can come home.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/6a2423072758e1c03769454d"><img style="width: 100%" height="auto" width="100%" alt="Reserve your seat Now!" src="/images/Our People/Commuity/final_flush_right.png"></a>
 <a class="isomer-image-wrapper" href="https://form.gov.sg/6a2423072758e1c03769454d">
-<img style="width: 30%;" height="auto" width="100%" alt="Reserve your seat Now!" src="/images/Our People/Commuity/button.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Reserve your seat Now!" src="/images/Our People/Commuity/button.png">
 </a>
 <h3>A homecoming, in the truest sense</h3>
 <p>For years the alumni dinner was held in a hotel ballroom. This year we
