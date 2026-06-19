@@ -31,8 +31,14 @@ celebrates that century, together, on home ground.</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Walk the same corridors. Sit in the same hall. Find the people you grew up with." src="/images/Our People/Commuity/Copilot_20260618_141201.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
-<div class="isomer-card-link"></div>
+<div class="isomer-card-title">Walk the same corridors. Sit in the same hall. Find the people you grew
+up with.</div>
 </div>
 </div>
 </div>
