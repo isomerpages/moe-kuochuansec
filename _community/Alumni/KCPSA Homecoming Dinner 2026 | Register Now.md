@@ -176,6 +176,14 @@ PayNow after you register, and your seat is confirmed once payment is received.<
 </details>
 </div>
 <p></p>
+<blockquote>
+<p>Venue</p>
+</blockquote>
+<h3>KCPSS School Hall</h3>
+<p>10 Bishan Street 13, Singapore 579795
+<br>Nearest MRT Bishan . Limited on-site parking, details on registration</p>
+<p><em>Note : As the event is on school grounds, no alcohol and no smoking are permitted.</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
