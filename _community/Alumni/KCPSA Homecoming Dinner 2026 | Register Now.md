@@ -93,7 +93,7 @@ up with.</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>7:00</em> PM Dinner &amp; performances</strong>
+<p><strong><em>7:00</em> <em>PM</em> Dinner &amp; performances</strong>
 <br><em>Dinner and performances. A full dinner, with performances by current students.</em>
 </p>
 </td>
@@ -105,7 +105,7 @@ up with.</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>8:30</em> PM Where are they now</strong>
+<p><strong><em>8:30</em> <em>PM</em> Where are they now</strong>
 <br><em>Where Are They Now. Alumni share their journeys from KCPSS to today.</em>
 </p>
 </td>
