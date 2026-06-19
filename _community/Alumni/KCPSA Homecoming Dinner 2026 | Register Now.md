@@ -127,8 +127,8 @@ celebrates that century, together, on home ground.</p>
 <summary>When is the KCPSS alumni dinner 2026?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <details class="isomer-details">
-<summary><strong>The dinner is on Friday 13 November 2026, from 6.00pm, at the KCPSS School Hall.</strong>
-</summary>
+<summary>The dinner is on Friday 13 November 2026, from 6.00pm, at the KCPSS School
+Hall.</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -136,10 +136,11 @@ celebrates that century, together, on home ground.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Where is the KCPSS alumni homecoming dinner held?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <details class="isomer-details">
-<summary></summary>
+<summary>At the KCPSS School Hall, 10 Bishan Street 13, Singapore 579795. The nearest
+MRT is Bishan</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -147,9 +148,18 @@ celebrates that century, together, on home ground.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>How much are tickets for the alumni dinner?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Patron seats are 180 dollars, Standard seats are 80 dollars, and Young
+Alumni or Concession seats are 60 dollars. Most seats are kept at 80 dollars
+or below.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Who can attend the KCPSS alumni dinner?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>All alumni of Kuo Chuan Presbyterian schools are welcome, across every
+graduating year, along with former staff.</p>
 </div>
 </details>
 </div>
