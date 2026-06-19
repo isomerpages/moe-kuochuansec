@@ -162,6 +162,19 @@ or below.</p>
 graduating year, along with former staff.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>How do I register for the dinner?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Register through the official form linked on this page. Payment is by
+PayNow after you register, and your seat is confirmed once payment is received.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Can I bring guests or book a full table?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes. You can book up to ten seats in one registration. A table seats ten.</p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
