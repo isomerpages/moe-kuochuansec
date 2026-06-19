@@ -130,7 +130,7 @@ up with.</div>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>When is the KCPSS alumni dinner 2026? The dinner is on Friday 13</summary>
+<summary>When is the KCPSS alumni dinner 2026?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The dinner is on Friday 13 November 2026, from 6.00pm, at the KCPSS School
 Hall.</p>
