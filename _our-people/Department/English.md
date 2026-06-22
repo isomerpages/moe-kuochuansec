@@ -102,15 +102,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Zahari Mohktar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Zahari_Mokhtar_C@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zahari_Mokhtar_C@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Sung Paul</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,24 +115,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="amos_wu_pom_hin@schools.gov.sg" rel="noopener nofollow" target="_blank">amos_wu_pom_hin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Soumya Poduval</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Soumya_Poduval@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Soumya_Poduval@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Cheong Lay Siong Isaac</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_lay_siong_issac_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_lay_siong_issac_c@schools.gov.sg</a>
 </p>
 </td>
 </tr>
