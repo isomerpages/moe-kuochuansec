@@ -122,7 +122,8 @@ variant: tiptap
 <p>Mdm Foo Hui Cheng, Candee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p><a href="mailto:candee_foo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">candee_foo@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
