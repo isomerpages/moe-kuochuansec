@@ -1313,6 +1313,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Nguk Seck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Chih Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_chih_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chih_qing@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>EL &amp; Lit</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1400,22 +1423,22 @@ variant: tiptap
 <p>MTL/CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kang Jian</p>
+<p>Mdm Li Haiyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kang_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kang_jian@schools.gov.sg</a>
+<p><a href="mailto:Li_Haiyu_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Li_Haiyu_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MTL/CL</p>
+<p>ART</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Haiyu</p>
+<p>Miss Ang Tze Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Li_Haiyu_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Li_Haiyu_A@schools.gov.sg</a>
+<p><a href="mailto:Ang_Tze_Qi_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ang_Tze_Qi_B@schools.gov.sg</a>
 </p>
 </td>
 </tr>
