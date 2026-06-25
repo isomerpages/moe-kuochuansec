@@ -1408,6 +1408,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Prema Narayanasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Heng Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_heng_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_heng_yee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Thong Bai Wen, Gwendolyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thong_bai_wen_gwendolyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thong_bai_wen_gwendolyn@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MTL/CL</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1432,7 +1467,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ART</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Ang Tze Qi</p>
@@ -1462,6 +1497,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_pei_yin_elaine_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_pei_yin_elaine_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ruveezarena Abdul Talib</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ruveezarena_Abdul_Talib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ruveezarena_Abdul_Talib@schools.gov.sg</a>
 </p>
 </td>
 </tr>
