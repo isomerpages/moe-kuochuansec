@@ -35,4 +35,6 @@ sections:
       description: Kuo Chuan Presbyterian Secondary School's Aesthetics Showcase 2026
       image: /images/Happenings/Kuo_Chuan_Website_size_FA.jpg
       alt: Image alt text
+      url: https://www.sistic.com.sg/events/kuochuan0726
+      button: Reserve your seat now!
 ---
