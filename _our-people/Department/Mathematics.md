@@ -122,7 +122,8 @@ variant: tiptap
 <p>Mdm Foo Hui Cheng, Candee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p><a href="mailto:candee_foo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">candee_foo@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -140,24 +141,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="ong_yi_pin@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_yi_pin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tong Bee Yen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tong_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tong_bee_yen@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Soon Peng Raymond</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_soon_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_soon_peng@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

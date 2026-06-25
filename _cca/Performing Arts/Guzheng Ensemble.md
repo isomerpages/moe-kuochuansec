@@ -50,7 +50,7 @@ Instruments Graded Examination.</p>
 on equipping our student performers with <strong>grace, strong moral values,</strong> and
 the skills needed to balance their academic responsibilities.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFl-tfye2ZLdDAMT-CUCPN-sUoafVtCZRKGRUs6LYwAWgqjdl6uQ0Mo0clAcJTIz5TiIVenc9_Ta3c/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFl-tfye2ZLdDAMT-CUCPN-sUoafVtCZRKGRUs6LYwAWgqjdl6uQ0Mo0clAcJTIz5TiIVenc9_Ta3c/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Programmes</h3>
 <p></p>
@@ -241,10 +241,10 @@ the skills needed to balance their academic responsibilities.</p>
 <p>Foo Ji Ying, Eunice</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Neo Yining</p>
+<p>Teo Lip Seng</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Tong Bee Yen Tracie</p>
+<p>Li Haiyu</p>
 </th>
 </tr>
 <tr>
@@ -253,11 +253,12 @@ the skills needed to balance their academic responsibilities.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_yining@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_yining@schools.gov.sg</a>
+<p><a href="mailto:teo_lip_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lip_seng@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:li_haiyu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_haiyu_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
