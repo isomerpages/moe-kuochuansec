@@ -1319,7 +1319,8 @@ variant: tiptap
 <p>Mdm Wong Nguk Seck</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wong_nguk_seck_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_nguk_seck_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1355,6 +1356,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:amos_wu_pom_hin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amos_wu_pom_hin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics / Chem</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Wei En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Loh_Wei_En_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Wei_En_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1414,7 +1427,7 @@ variant: tiptap
 <p>Mdm Prema Narayanasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NIL</p>
 </td>
 </tr>
 <tr>
