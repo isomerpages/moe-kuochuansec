@@ -90,6 +90,24 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Heng Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_heng_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_heng_yee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Thong Bai Wen, Gwendolyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thong_bai_wen_gwendolyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thong_bai_wen_gwendolyn@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
