@@ -113,6 +113,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Miss Ang Tze Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ang_Tze_Qi_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ang_Tze_Qi_B@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="2">
 <p>Food and Consumer Education (FCE)</p>
 </th>
