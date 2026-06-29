@@ -19,16 +19,11 @@ sections:
           description: ""
           url: /espoir-school-publication/
       variant: center
+      url: https://www.kuochuanpresbyteriansec.moe.edu.sg/admission/direct-school-admission/
+      button: Direct School Admission
   - resources:
       title: Announcements
       button: Click Here
-  - infopic:
-      title: Join Our DSA Webinar 2026
-      id: infopic
-      button: Webinar Registration
-      url: https://go.gov.sg/dsa-webinar-registration
-      image: /images/DSA_posterv1.png
-      alt: Image alt text
   - infopic:
       title: From Light to Life!
       id: infopic

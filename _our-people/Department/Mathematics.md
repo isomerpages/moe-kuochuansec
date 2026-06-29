@@ -65,6 +65,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Loh Wei En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Loh_Wei_En_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Wei_En_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Loo Sze Yen</p>
 </td>
 <td rowspan="1" colspan="1">
