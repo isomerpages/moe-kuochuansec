@@ -108,6 +108,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Prema Narayanasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Prema_Narayanasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Prema_Narayanasamy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
