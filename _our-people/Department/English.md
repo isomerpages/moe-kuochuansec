@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Wee Siong Isaac (SH EL)</p>
+<p>Mr Sim Wee Siong Isaac</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_wee_siong_isaac@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sim_wee_siong_isaac@schools.gov.sg</u></a>
@@ -120,10 +120,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Wong Nguk Seck</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wong_nguk_seck_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_nguk_seck_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Chih Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_chih_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chih_qing@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
