@@ -1415,7 +1415,8 @@ variant: tiptap
 <p>Mdm Prema Narayanasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p><a href="mailto:Prema_Narayanasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Prema_Narayanasamy@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
