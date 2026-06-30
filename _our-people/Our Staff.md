@@ -777,6 +777,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>S2 PEACE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Wei En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Loh_Wei_En_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Wei_En_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>S2 GRACE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1344,18 +1356,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:amos_wu_pom_hin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amos_wu_pom_hin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics / Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Loh Wei En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Loh_Wei_En_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Wei_En_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
