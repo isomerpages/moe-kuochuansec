@@ -1487,7 +1487,8 @@ variant: tiptap
 <p>Mr Derek Wong Jyunwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p><a href="mailto:Derek_Wong_Jyunwei_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Derek_Wong_Jyunwei_A@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

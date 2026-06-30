@@ -63,6 +63,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Derek Wong Jyunwei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Derek_Wong_Jyunwei_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Derek_Wong_Jyunwei_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
