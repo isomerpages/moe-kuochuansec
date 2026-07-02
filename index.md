@@ -19,8 +19,8 @@ sections:
           description: ""
           url: /espoir-school-publication/
       variant: center
-      url: https://www.kuochuanpresbyteriansec.moe.edu.sg/admission/direct-school-admission/
-      button: Direct School Admission
+      url: https://go.gov.sg/from-light-to-life-programme-booklet
+      button: Light for Life - Programme booklet
   - resources:
       title: Announcements
       button: Click Here
