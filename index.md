@@ -19,25 +19,9 @@ sections:
           description: ""
           url: /espoir-school-publication/
       variant: center
-      url: https://go.gov.sg/from-light-to-life-programme-booklet
-      button: Light for Life - Programme booklet
+      url: https://www.kuochuanpresbyteriansec.moe.edu.sg/admission/direct-school-admission/
+      button: Direct School Admission
   - resources:
       title: Announcements
       button: Click Here
-  - infopic:
-      title: From Light to Life!
-      id: infopic
-      description: Kuo Chuan Presbyterian Secondary School's Aesthetics Showcase 2026
-      image: /images/Happenings/Kuo_Chuan_Website_size_FA.jpg
-      alt: From Light to Life!
-      url: https://www.sistic.com.sg/events/kuochuan0726
-      button: Reserve your seat now!
-  - textcards:
-      title: How to get to MediaCorp Theatre
-      id: textcards
-      cards:
-        - title: From Light to Life!
-          description: ""
-          linktext: Click HERE
-          url: https://www.youtube.com/watch?v=_QpVoz5lOS0
 ---
