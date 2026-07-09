@@ -87,14 +87,6 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Elder Wang Kim Meng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Elder Lee Shee Koeng</p>
 </td>
 </tr>
